@@ -1,11 +1,19 @@
 'use strict';
 
 // ── State ────────────────────────────────────────────────────
+const VOL_FIELD_MAP = {
+  '当日': 'intraday_vol',
+  '3日平均': 'vol_3d',
+  '5日平均': 'vol_5d',
+  '20日平均': 'vol_20d',
+};
+
 const state = {
   allStocks: [],
   filtered: [],
   updatedAt: '',
   sortKey: 'intraday_vol',
+  volPeriod: '当日',
   filters: {
     pages: ['売買代金','出来高','値上がり率','値下がり率','ストップ高','ストップ安'],
     market: '全市場',
@@ -50,8 +58,13 @@ async function loadData(showSpinner = true) {
 }
 
 // ── Filter logic ─────────────────────────────────────────────
+function getVolField() {
+  return VOL_FIELD_MAP[state.volPeriod] || 'intraday_vol';
+}
+
 function applyFilters() {
   const f = state.filters;
+  const volField = getVolField();
   state.filtered = state.allStocks.filter(s => {
     if (f.market !== '全市場') {
       const mkt = (s.market || '').toUpperCase();
@@ -59,7 +72,7 @@ function applyFilters() {
       if (!mkt.includes(map[f.market] || f.market)) return false;
     }
     if (f.pages.length && !f.pages.includes(s.source)) return false;
-    if (f.minVol > 0 && (s.intraday_vol == null || s.intraday_vol < f.minVol)) return false;
+    if (f.minVol > 0 && (s[volField] == null || s[volField] < f.minVol)) return false;
     if (f.minTv > 0  && (s.trading_value == null || s.trading_value < f.minTv)) return false;
     if (f.minChange > 0 && (s.change_pct == null || Math.abs(s.change_pct) < f.minChange)) return false;
     return true;
@@ -68,7 +81,7 @@ function applyFilters() {
 }
 
 function sortStocks() {
-  const key = state.sortKey;
+  const key = state.sortKey === 'intraday_vol' ? getVolField() : state.sortKey;
   state.filtered.sort((a, b) => {
     const av = a[key] ?? -Infinity;
     const bv = b[key] ?? -Infinity;
@@ -121,7 +134,10 @@ function cardHTML(s) {
   const up = (s.change_pct ?? 0) >= 0;
   const chgClass = up ? 'up' : 'down';
   const chgStr = s.change_pct != null ? `${s.change_pct >= 0 ? '+' : ''}${s.change_pct.toFixed(2)}%` : '-';
-  const volStr  = s.intraday_vol  != null ? `${s.intraday_vol.toFixed(1)}%` : '-';
+  const volField = getVolField();
+  const volVal  = s[volField];
+  const volStr  = volVal != null ? `${volVal.toFixed(1)}%` : '-';
+  const volLabel = state.volPeriod === '当日' ? 'ボラ' : `ボラ(${state.volPeriod})`;
   const tvStr   = s.trading_value != null ? `${s.trading_value.toFixed(1)}億` : '-';
   const closeStr = s.close != null ? s.close.toLocaleString() : '-';
 
@@ -169,7 +185,7 @@ function cardHTML(s) {
           <div class="metric-value ${chgClass}">${chgStr}</div>
         </div>
         <div class="metric">
-          <div class="metric-label">日中ボラ</div>
+          <div class="metric-label">${volLabel}</div>
           <div class="metric-value accent">${volStr}</div>
         </div>
         <div class="metric">
@@ -225,6 +241,22 @@ function buildFilterUI() {
         b.classList.toggle('active', b.textContent === m));
     };
     mktContainer.appendChild(btn);
+  });
+
+  // ボラ期間ボタン
+  const vpContainer = $('vol-period-btns');
+  Object.keys(VOL_FIELD_MAP).forEach(p => {
+    const btn = document.createElement('button');
+    btn.className = 'tog-btn' + (state.volPeriod === p ? ' active' : '');
+    btn.textContent = p;
+    btn.onclick = () => {
+      state.volPeriod = p;
+      vpContainer.querySelectorAll('.tog-btn').forEach(b =>
+        b.classList.toggle('active', b.textContent === p));
+      // ソートキーがボラ系なら再ソート
+      applyFilters();
+    };
+    vpContainer.appendChild(btn);
   });
 
   // ソートチップ

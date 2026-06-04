@@ -82,46 +82,64 @@ def fetch_all_rankings():
 
 # ── yfinance補完 ──────────────────────────────────────────────
 
+def calc_vol_for_days(highs, lows, closes, n):
+    """直近N日の日中ボラ平均を計算"""
+    n = min(n, len(closes) - 1)
+    vals = []
+    for i in range(-n, 0):
+        h, l, prev_c = highs.iloc[i], lows.iloc[i], closes.iloc[i - 1]
+        if prev_c and prev_c > 0:
+            vals.append((h - l) / prev_c * 100)
+    return round(sum(vals) / len(vals), 2) if vals else None
+
+
 def enrich_yfinance(df):
     if df.empty:
         return df
     codes = df["コード"].tolist()
     tickers = [f"{c}.T" for c in codes]
-    print(f"yfinance補完中 ({len(codes)}銘柄)...")
+    print(f"yfinance補完中 ({len(codes)}銘柄, 1ヶ月分取得)...")
     try:
-        data = yf.download(tickers, period="2d", interval="1d",
+        # 1ヶ月分取得して全期間分のボラを計算
+        data = yf.download(tickers, period="1mo", interval="1d",
                            auto_adjust=True, progress=False, threads=True)
         if data.empty:
             return df
-        vol_map, tv_map = {}, {}
+
+        vol1_map, vol3_map, vol5_map, vol20_map, tv_map = {}, {}, {}, {}, {}
+
         for ticker in tickers:
             code = ticker.replace(".T", "")
             try:
                 if len(tickers) == 1:
-                    high = data["High"].iloc[-1]
-                    low  = data["Low"].iloc[-1]
-                    prev = data["Close"].iloc[-2] if len(data) >= 2 else data["Close"].iloc[-1]
-                    vol  = data["Volume"].iloc[-1]
-                    cls  = data["Close"].iloc[-1]
+                    highs = data["High"].dropna()
+                    lows  = data["Low"].dropna()
+                    closes = data["Close"].dropna()
+                    vols  = data["Volume"].dropna()
                 else:
-                    high = data["High"][ticker].iloc[-1]
-                    low  = data["Low"][ticker].iloc[-1]
-                    prev = data["Close"][ticker].iloc[-2] if len(data) >= 2 else data["Close"][ticker].iloc[-1]
-                    vol  = data["Volume"][ticker].iloc[-1]
-                    cls  = data["Close"][ticker].iloc[-1]
-                if pd.isna(cls) or cls == 0:
+                    highs  = data["High"][ticker].dropna()
+                    lows   = data["Low"][ticker].dropna()
+                    closes = data["Close"][ticker].dropna()
+                    vols   = data["Volume"][ticker].dropna()
+
+                if len(closes) < 2:
                     continue
-                vol_map[code] = round((high - low) / prev * 100, 2) if prev else 0
-                tv_map[code]  = round(cls * vol / 1e8, 1)
+
+                vol1_map[code]  = calc_vol_for_days(highs, lows, closes, 1)
+                vol3_map[code]  = calc_vol_for_days(highs, lows, closes, 3)
+                vol5_map[code]  = calc_vol_for_days(highs, lows, closes, 5)
+                vol20_map[code] = calc_vol_for_days(highs, lows, closes, 20)
+                tv_map[code]    = round(closes.iloc[-1] * vols.iloc[-1] / 1e8, 1)
+
             except Exception:
                 pass
-        df["日中ボラ(%)"] = df["コード"].map(vol_map)
-        df["売買代金(億)"] = df["コード"].map(tv_map)
-        df["出来高"] = df["コード"].map(
-            lambda c: int(data["Volume"][f"{c}.T"].iloc[-1])
-            if len(tickers) > 1 and f"{c}.T" in data["Volume"].columns
-               and not pd.isna(data["Volume"][f"{c}.T"].iloc[-1]) else None
-        )
+
+        df["日中ボラ(%)"]    = df["コード"].map(vol1_map)   # デフォルト当日
+        df["ボラ3日"]        = df["コード"].map(vol3_map)
+        df["ボラ5日"]        = df["コード"].map(vol5_map)
+        df["ボラ20日"]       = df["コード"].map(vol20_map)
+        df["売買代金(億)"]   = df["コード"].map(tv_map)
+
     except Exception as e:
         print(f"  yfinanceエラー: {e}")
         df["日中ボラ(%)"] = None
@@ -303,14 +321,20 @@ def main():
     for _, row in df.iterrows():
         code = str(row.get("コード", ""))
         mat = materials.get(code, {})
+        def safe_float(val):
+            return float(val) if pd.notna(val) else None
+
         stocks.append({
             "code":          code,
             "name":          str(row.get("銘柄名", "")),
             "market":        str(row.get("市場区分", "")),
-            "close":         float(row["終値"]) if pd.notna(row.get("終値")) else None,
-            "change_pct":    float(row["前日比(%)"]) if pd.notna(row.get("前日比(%)")) else None,
-            "intraday_vol":  float(row["日中ボラ(%)"]) if pd.notna(row.get("日中ボラ(%)")) else None,
-            "trading_value": float(row["売買代金(億)"]) if pd.notna(row.get("売買代金(億)")) else None,
+            "close":         safe_float(row.get("終値")),
+            "change_pct":    safe_float(row.get("前日比(%)")),
+            "intraday_vol":  safe_float(row.get("日中ボラ(%)")),
+            "vol_3d":        safe_float(row.get("ボラ3日")),
+            "vol_5d":        safe_float(row.get("ボラ5日")),
+            "vol_20d":       safe_float(row.get("ボラ20日")),
+            "trading_value": safe_float(row.get("売買代金(億)")),
             "source":        str(row.get("_source", "")),
             "material_text": mat.get("text", ""),
             "material_url":  mat.get("url", ""),
