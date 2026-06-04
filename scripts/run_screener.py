@@ -15,9 +15,29 @@ import os
 import sys
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-    "Accept-Language": "ja,en;q=0.9",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
 }
+
+# セッション（Kabutan用: トップページでCookieを先取得）
+_kabutan_session = None
+
+def get_kabutan_session():
+    global _kabutan_session
+    if _kabutan_session is None:
+        _kabutan_session = requests.Session()
+        _kabutan_session.headers.update(HEADERS)
+        _kabutan_session.headers["Referer"] = "https://kabutan.jp/"
+        try:
+            _kabutan_session.get("https://kabutan.jp/", timeout=10)
+            print("  Kabutan セッション確立")
+        except Exception as e:
+            print(f"  セッション確立エラー: {e}")
+    return _kabutan_session
 
 RANKING_PAGES = {
     "売買代金":   "https://kabutan.jp/warning/trading_value_ranking",
@@ -32,7 +52,8 @@ RANKING_PAGES = {
 
 def fetch_ranking(name, url):
     try:
-        r = requests.get(url, headers=HEADERS, timeout=15)
+        session = get_kabutan_session()
+        r = session.get(url, timeout=15)
         r.raise_for_status()
         tables = pd.read_html(io.StringIO(r.text))
         candidates = [t for t in tables if len(t) >= 5]
@@ -170,6 +191,13 @@ def _prev_biz(d):
     dt = datetime.strptime(d, "%Y%m%d")
     step = 3 if dt.weekday() == 0 else 1
     return (dt - timedelta(days=step)).strftime("%Y%m%d")
+
+def get_generic_session():
+    """TDnet・みんかぶ用汎用セッション"""
+    s = requests.Session()
+    s.headers.update(HEADERS)
+    return s
+
 
 def fetch_tdnet():
     today = datetime.now().strftime("%Y%m%d")
