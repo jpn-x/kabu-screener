@@ -169,9 +169,14 @@ def fetch_tdnet():
                         title = cells[3].get_text(strip=True)
                         a = cells[3].find("a", href=True)
                         href = a["href"] if a else ""
-                        doc_url = (href if href.startswith("http")
-                                   else f"https://www.release.tdnet.info{href}") if href else \
-                                   f"https://www.release.tdnet.info/inbs/I_list_001_{d}.html"
+                        if not href:
+                            doc_url = f"https://www.release.tdnet.info/inbs/I_list_001_{d}.html"
+                        elif href.startswith("http"):
+                            doc_url = href
+                        elif href.startswith("/"):
+                            doc_url = f"https://www.release.tdnet.info{href}"
+                        else:
+                            doc_url = f"https://www.release.tdnet.info/inbs/{href}"
                         if code and len(title) > 5:
                             result.setdefault(code, []).append(
                                 {"title": title, "date": d, "url": doc_url}
