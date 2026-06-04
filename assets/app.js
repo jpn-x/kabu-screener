@@ -243,6 +243,9 @@ function buildFilterUI() {
     mktContainer.appendChild(btn);
   });
 
+  // 期間ごとの推奨ボラ閾値
+  const VOL_SUGGEST = { '当日': 5.0, '3日平均': 4.0, '5日平均': 3.5, '20日平均': 2.0 };
+
   // ボラ期間ボタン
   const vpContainer = $('vol-period-btns');
   Object.keys(VOL_FIELD_MAP).forEach(p => {
@@ -253,7 +256,15 @@ function buildFilterUI() {
       state.volPeriod = p;
       vpContainer.querySelectorAll('.tog-btn').forEach(b =>
         b.classList.toggle('active', b.textContent === p));
-      // ソートキーがボラ系なら再ソート
+      // 推奨閾値に自動調整
+      const suggested = VOL_SUGGEST[p] ?? 5.0;
+      const slider = $('slider-vol');
+      const label  = $('val-vol');
+      if (slider) {
+        slider.value = suggested;
+        label.textContent = `${suggested.toFixed(1)}%`;
+        state.filters.minVol = suggested;
+      }
       applyFilters();
     };
     vpContainer.appendChild(btn);
