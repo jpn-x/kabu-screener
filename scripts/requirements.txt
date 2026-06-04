@@ -3,3 +3,5 @@ beautifulsoup4
 lxml
 pandas
 yfinance
+xlrd>=2.0.1
+openpyxl
