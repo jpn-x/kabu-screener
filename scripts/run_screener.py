@@ -105,21 +105,27 @@ def fetch_and_screen(codes: list[str], chunk_size=500) -> pd.DataFrame:
                 code = ticker.replace(".T", "")
                 try:
                     if len(tickers) == 1:
-                        closes = data["Close"].dropna()
-                        highs  = data["High"].dropna()
-                        lows   = data["Low"].dropna()
-                        vols   = data["Volume"].dropna()
+                        closes_raw = data["Close"]
+                        highs      = data["High"].dropna()
+                        lows       = data["Low"].dropna()
+                        vols_raw   = data["Volume"]
                     else:
-                        closes = data["Close"][ticker].dropna()
-                        highs  = data["High"][ticker].dropna()
-                        lows   = data["Low"][ticker].dropna()
-                        vols   = data["Volume"][ticker].dropna()
+                        closes_raw = data["Close"][ticker]
+                        highs      = data["High"][ticker].dropna()
+                        lows       = data["Low"][ticker].dropna()
+                        vols_raw   = data["Volume"][ticker]
 
-                    if len(closes) < 2:
+                    # 終値NaN対策: 有効な終値を取得
+                    closes = closes_raw.dropna()
+                    if len(closes) < 1:
                         continue
+                    close = closes.iloc[-1]
+                    prev  = closes.iloc[-2] if len(closes) >= 2 else close
 
-                    close  = closes.iloc[-1]
-                    prev   = closes.iloc[-2]
+                    # 出来高は最新日のものを優先（NaNでも最後の有効値を取る）
+                    vols = vols_raw.dropna()
+                    if len(vols) < 1:
+                        continue
                     volume = vols.iloc[-1]
 
                     if pd.isna(close) or close == 0 or pd.isna(volume):
