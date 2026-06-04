@@ -43,6 +43,21 @@
       <div class="filter-label">データソース（複数選択可）</div>
       <div id="page-btns" class="btn-group cols-2"></div>
 
+      <!-- PTSボタン -->
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px;margin:8px 0 4px;">
+        <button class="pts-btn" id="pts-up-btn"
+          onclick="renderPts('PTS上昇');this.classList.add('pts-active');document.getElementById('pts-dn-btn').classList.remove('pts-active');"
+          style="background:#7a1a1a;border:1px solid #b22;border-radius:8px;color:#fff;padding:9px 4px;font-size:12px;font-weight:700;cursor:pointer;">
+          🔴 PTS上昇
+        </button>
+        <button class="pts-btn" id="pts-dn-btn"
+          onclick="renderPts('PTS下落');this.classList.add('pts-active');document.getElementById('pts-up-btn').classList.remove('pts-active');"
+          style="background:#1a2a5c;border:1px solid #1f6aa5;border-radius:8px;color:#fff;padding:9px 4px;font-size:12px;font-weight:700;cursor:pointer;">
+          🔵 PTS下落
+        </button>
+      </div>
+      <div style="font-size:10px;color:var(--text2);margin-bottom:6px;">※通常スクリーニングに戻すには▶実行ボタンを押す</div>
+
       <div class="filter-label">市場</div>
       <div id="market-btns" class="btn-group cols-4"></div>
 

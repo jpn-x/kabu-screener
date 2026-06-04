@@ -325,6 +325,61 @@ def fetch_materials(codes, progress_callback=None):
     return results
 
 
+
+# ── PTS取得 ───────────────────────────────────────────────────
+
+PTS_URLS_MAP = {
+    "PTS上昇": "https://s.kabutan.jp/warnings/pts_night_price_increase/",
+    "PTS下落": "https://s.kabutan.jp/warnings/pts_night_price_decrease/",
+}
+MOBILE_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 Mobile/15E148 Safari/604.1",
+    "Accept-Language": "ja,en;q=0.9",
+    "Referer": "https://s.kabutan.jp/",
+}
+
+def fetch_pts_data():
+    """PTS上昇・下落ランキングを取得してリストで返す"""
+    results = []
+    for kind, url in PTS_URLS_MAP.items():
+        try:
+            r = requests.get(url, headers=MOBILE_HEADERS, timeout=15)
+            r.encoding = "utf-8"
+            tables = pd.read_html(io.StringIO(r.text))
+            candidates = [t for t in tables if len(t) >= 5]
+            if not candidates:
+                continue
+            df = max(candidates, key=len)
+            for _, row in df.iterrows():
+                raw = str(row.iloc[0])
+                m_code = re.search(r'\b(\d{4}[A-Z]?)\b', raw)
+                m_mkt  = re.search(r'(東[PSGT])', raw)
+                if not m_code:
+                    continue
+                code   = m_code.group(1)[:4]
+                market = m_mkt.group(1) if m_mkt else ""
+                name   = re.sub(r'\d{4}[A-Z]?|東[PSGT]', '', raw).strip()
+                close  = pd.to_numeric(row.iloc[1], errors="coerce")
+                pts_p  = pd.to_numeric(row.iloc[2], errors="coerce")
+                m_chg  = re.search(r'([+-]?\d+\.?\d*)%', str(row.iloc[3]))
+                chg    = float(m_chg.group(1)) if m_chg else None
+                if chg is None:
+                    continue
+                results.append({
+                    "code":          code,
+                    "name":          name,
+                    "market":        market,
+                    "close":         float(close) if pd.notna(close) else None,
+                    "pts_price":     float(pts_p) if pd.notna(pts_p) else None,
+                    "pts_change_pct": chg,
+                    "source":        kind,
+                })
+        except Exception as e:
+            print(f"  PTS取得エラー ({kind}): {e}")
+    print(f"  PTS: {len(results)}銘柄取得")
+    return results
+
+
 # ── メイン ───────────────────────────────────────────────────
 
 def main():
@@ -385,12 +440,24 @@ def main():
     # ボラ降順
     stocks.sort(key=lambda x: x.get("intraday_vol") or 0, reverse=True)
 
+    # 7. PTS取得
+    pts_list = fetch_pts_data()
+    # PTS銘柄の材料も取得
+    pts_codes = list({x["code"] for x in pts_list})
+    pts_materials = fetch_materials(pts_codes) if pts_codes else {}
+    for x in pts_list:
+        mat = pts_materials.get(x["code"], {})
+        x["material_text"] = mat.get("text", "")
+        x["material_url"]  = mat.get("url", "")
+        x["material_all"]  = mat.get("all_ir", "")
+
     now_jst = datetime.utcnow() + timedelta(hours=9)
     output = {
         "updated_at":         now_jst.strftime("%Y-%m-%dT%H:%M:00+09:00"),
         "updated_at_display": now_jst.strftime("%m/%d %H:%M"),
         "count":              len(stocks),
         "stocks":             stocks,
+        "pts":                pts_list,
     }
 
     out_path = os.path.join(os.path.dirname(__file__), "..", "data", "results.json")

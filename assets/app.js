@@ -10,7 +10,9 @@ const VOL_FIELD_MAP = {
 
 const state = {
   allStocks: [],
+  ptsList: [],
   filtered: [],
+  ptsMode: false,
   updatedAt: '',
   sortKey: 'intraday_vol',
   volPeriod: '当日',
@@ -45,8 +47,10 @@ async function loadData(showSpinner = true) {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const json = await res.json();
     state.allStocks = json.stocks || [];
+    state.ptsList   = json.pts    || [];
     state.updatedAt = json.updated_at_display || '';
-    applyFilters();
+    if (state.ptsMode) renderPts(state.ptsMode);
+    else applyFilters();
     $('last-update').textContent = `更新: ${state.updatedAt}`;
   } catch (e) {
     showToast('データ取得失敗: ' + e.message);
@@ -55,6 +59,85 @@ async function loadData(showSpinner = true) {
     showLoading(false);
     setRefreshAnim(false);
   }
+}
+
+// ── PTS mode ─────────────────────────────────────────────────
+function renderPts(kind) {
+  state.ptsMode = kind;
+  const list = $('results');
+  const data = state.ptsList.filter(s => s.source === kind);
+  $('count-badge').textContent = `${data.length}件`;
+  $('last-update').textContent = `更新: ${state.updatedAt}`;
+
+  if (!data.length) {
+    list.innerHTML = '';
+    renderEmpty('PTSデータがありません（市場時間外か未更新）');
+    return;
+  }
+  $('empty-state').style.display = 'none';
+
+  // 前日比絶対値降順
+  data.sort((a,b) => Math.abs(b.pts_change_pct||0) - Math.abs(a.pts_change_pct||0));
+
+  list.innerHTML = data.map(s => {
+    const up = (s.pts_change_pct||0) >= 0;
+    const chgStr = s.pts_change_pct != null ? `${s.pts_change_pct>=0?'+':''}${s.pts_change_pct.toFixed(2)}%` : '-';
+    const closeStr = s.close  != null ? s.close.toLocaleString()     : '-';
+    const ptsStr   = s.pts_price != null ? s.pts_price.toLocaleString() : '-';
+
+    let matHTML = '';
+    if (s.material_text) {
+      const isIR = s.material_text.startsWith('[IR');
+      const cardCls = isIR ? 'card-material ir' : 'card-material';
+      const badge = isIR ? `<span class="material-badge badge-ir">IR</span>`
+                         : `<span class="material-badge badge-minkabu">みんかぶ</span>`;
+      const clean = s.material_text.replace(/^\[.*?\]\s*/,'');
+      const hasAll = s.material_all && s.material_all.length > 0;
+      matHTML = `<div class="${cardCls}" data-code="${s.code}" data-url="${s.material_url||''}" data-all="${encodeURIComponent(s.material_all||'')}">
+        ${badge}<span class="${isIR?'material-text ir-text':'material-text'}">${escHtml(clean)}</span>
+        <span class="material-link-icon">${hasAll?'📋':'↗'}</span></div>`;
+    }
+
+    return `<div class="stock-card ${up?'up':'down'}" data-code="${s.code}">
+      <div class="card-top">
+        <div class="card-left">
+          <div class="card-code">${s.code}</div>
+          <div class="card-name">${escHtml(s.name)}</div>
+        </div>
+        <div class="card-right">
+          <div class="card-market">${escHtml(s.market||'')}</div>
+          <div class="card-source" style="color:${up?'#ff6b6b':'#51cf66'};font-weight:700;">${chgStr}</div>
+        </div>
+      </div>
+      <div class="card-metrics">
+        <div class="metric"><div class="metric-label">通常終値</div><div class="metric-value">¥${closeStr}</div></div>
+        <div class="metric"><div class="metric-label">PTS価格</div><div class="metric-value" style="color:#ffd700;font-weight:700;">¥${ptsStr}</div></div>
+        <div class="metric"><div class="metric-label">PTS変化</div><div class="metric-value ${up?'up':'down'}">${chgStr}</div></div>
+        <div class="metric"><div class="metric-label">種別</div><div class="metric-value" style="font-size:11px;">${escHtml(s.source)}</div></div>
+      </div>
+      ${matHTML}
+    </div>`;
+  }).join('');
+
+  // イベント
+  list.querySelectorAll('.card-material').forEach(el => {
+    el.addEventListener('click', e => {
+      e.stopPropagation();
+      const all = el.dataset.all, url = el.dataset.url, code = el.dataset.code;
+      if (all) openMaterialModal(code, url, all);
+      else if (url) window.open(url, '_blank');
+    });
+  });
+  list.querySelectorAll('.stock-card').forEach(el => {
+    el.addEventListener('click', () => window.open(`https://kabutan.jp/stock/news?code=${el.dataset.code}`, '_blank'));
+  });
+}
+
+function exitPtsMode() {
+  state.ptsMode = false;
+  // PTSボタンの選択状態をリセット
+  document.querySelectorAll('.pts-btn').forEach(b => b.classList.remove('pts-active'));
+  applyFilters();
 }
 
 // ── Filter logic ─────────────────────────────────────────────

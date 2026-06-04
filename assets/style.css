@@ -157,6 +157,8 @@ header {
   font-weight: 600;
 }
 .tog-btn:active { opacity: .7; }
+.pts-btn.pts-active { opacity: 1; box-shadow: 0 0 0 2px #fff3; }
+.pts-btn:active { opacity: .7; }
 
 /* ── Sliders ── */
 .slider-row {
