@@ -23,7 +23,7 @@ const SITES = {
 };
 
 const state = {
-  all: [], filtered: [],
+  all: [], filtered: [], ptsList: [], ptsMode: false,
   sortCol: 'vol', sortAsc: false,
   volPeriod: '当日',
   brokerage: '株探',
@@ -51,9 +51,11 @@ async function loadData(showLoader = true) {
     const r = await fetch(`${DATA_URL}?t=${Date.now()}`);
     if (!r.ok) throw new Error(`HTTP ${r.status}`);
     const json = await r.json();
-    state.all = json.stocks || [];
+    state.all     = json.stocks || [];
+    state.ptsList = json.pts    || [];
     $('time-txt').textContent = `取得: ${json.updated_at_display || '--'}`;
-    applyAndRender();
+    if (state.ptsMode) renderPts(state.ptsMode);
+    else applyAndRender();
   } catch(e) {
     setStatus(`データ取得失敗: ${e.message}`);
   } finally {
@@ -295,6 +297,57 @@ function setRefresh(v)  { $('refresh-btn').classList.toggle('spinning', v); }
 function setStatus(msg) { $('status-txt').textContent = msg; }
 function escHtml(s) {
   return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ── PTS ──────────────────────────────────────────────────────
+function renderPts(kind) {
+  state.ptsMode = kind;
+  const tbody = $('tbody');
+  const data  = (state.ptsList || []).filter(s => s.source === kind);
+  $('count-badge').textContent = `${data.length}件ヒット`;
+
+  if (!data.length) {
+    tbody.innerHTML = `<tr><td colspan="9" style="padding:40px;color:var(--text2);">PTSデータなし（市場時間外か未更新）</td></tr>`;
+    return;
+  }
+  data.sort((a,b) => Math.abs(b.pts_change_pct||0) - Math.abs(a.pts_change_pct||0));
+
+  tbody.innerHTML = data.map((s,i) => {
+    const up  = (s.pts_change_pct||0) >= 0;
+    const chg = s.pts_change_pct != null ? `${s.pts_change_pct>=0?'+':''}${s.pts_change_pct.toFixed(2)}%` : '-';
+    const row = `${up?'row-up':'row-down'}${i%2?' row-alt':''}`;
+    const mt  = s.material_text || '';
+    const isIR = mt.startsWith('[IR');
+    const badge = isIR ? `<span class="badge badge-ir">IR</span>` : `<span class="badge badge-minkabu">株</span>`;
+    const clean = mt.replace(/^\[.*?\]\s*/,'').substring(0,55);
+    return `<tr class="${row}" data-code="${s.code}" data-url="${s.material_url||''}">
+      <td class="col-code c-dim">${s.code}</td>
+      <td class="col-name" style="text-align:left;padding-left:8px;">${escHtml(s.name)}</td>
+      <td class="col-market c-dim">${mktAbbr(s.market||'')}</td>
+      <td class="col-close">¥${s.close?.toLocaleString()||'-'}</td>
+      <td class="col-chg ${up?'c-up':'c-down'}">${chg}</td>
+      <td class="col-vol" style="color:#ffd700;font-weight:700;">¥${s.pts_price?.toLocaleString()||'-'}</td>
+      <td class="col-tv">-</td>
+      <td class="col-mat mat-cell" data-code="${s.code}" data-url="${s.material_url||''}" data-all="${encodeURIComponent(s.material_all||'')}">${mt?badge+escHtml(clean):''}</td>
+      <td class="col-src c-dim">${escHtml(s.source)}</td>
+    </tr>`;
+  }).join('');
+
+  tbody.querySelectorAll('tr[data-code]').forEach(tr => {
+    tr.addEventListener('dblclick', () => window.open(`https://kabutan.jp/stock/news?code=${tr.dataset.code}`,'_blank'));
+  });
+  tbody.querySelectorAll('.mat-cell').forEach(td => {
+    td.addEventListener('click', e => { e.stopPropagation(); const u=td.dataset.url; if(u) window.open(u,'_blank'); });
+    td.addEventListener('mouseenter', e => showTooltip(e, td.dataset.code));
+    td.addEventListener('mouseleave', hideTooltip);
+    td.addEventListener('mousemove', e => moveTooltip(e));
+  });
+}
+
+function exitPtsMode() {
+  state.ptsMode = false;
+  document.querySelectorAll('.pts-btn').forEach(b => b.classList.remove('pts-active'));
+  applyAndRender();
 }
 
 // materials already embedded in JSON
