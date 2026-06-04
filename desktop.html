@@ -14,7 +14,9 @@
   <!-- ── 左パネル ── -->
   <div id="left">
     <div class="header">
-      <span class="header-title">📈 デイトレスクリーナー</span>
+      <button onclick="exitPtsMode()" class="header-title-btn" title="TOPに戻る・リロード">
+        📈 デイトレスクリーナー
+      </button>
       <button class="icon-btn" id="refresh-btn" title="データ更新">🔄</button>
     </div>
 
@@ -36,7 +38,7 @@
           🔵 PTS下落
         </button>
       </div>
-      <button onclick="exitPtsMode()" style="width:100%;margin-bottom:4px;background:#1e1e30;border:1px solid #333;border-radius:6px;color:#888;padding:5px;font-size:10px;cursor:pointer;">⬆ TOPに戻る（通常スクリーニング）</button>
+      <button onclick="exitPtsMode()" style="width:100%;margin-bottom:4px;background:#3d1a6e;border:1px solid #7b3fc4;border-radius:6px;color:#d4aaff;padding:7px;font-size:11px;font-weight:700;cursor:pointer;transition:opacity .15s;" onmouseover="this.style.opacity='.8'" onmouseout="this.style.opacity='1'">⬆ TOPに戻る</button>
 
       <div class="hdiv"></div>
 

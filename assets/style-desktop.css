@@ -67,6 +67,21 @@ html, body {
   font-weight: 700;
   color: var(--accent);
 }
+
+/* タイトルをボタン化 */
+.header-title-btn {
+  flex: 1;
+  background: none;
+  border: none;
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--accent);
+  cursor: pointer;
+  text-align: left;
+  padding: 0;
+  transition: opacity .15s;
+}
+.header-title-btn:hover { opacity: .75; }
 .icon-btn {
   background: var(--surface2);
   border: 1px solid var(--border);
