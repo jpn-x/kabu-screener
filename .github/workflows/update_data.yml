@@ -1,0 +1,38 @@
+name: Update Screening Data
+
+on:
+  schedule:
+    # 平日9:00〜15:40 JST = 0:00〜6:40 UTC、20分ごと
+    - cron: '0,20,40 0-6 * * 1-5'
+    - cron: '0 7 * * 1-5'  # 16:00 JST (引け後)
+  workflow_dispatch:  # 手動実行ボタン
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run screener
+        run: python scripts/run_screener.py
+
+      - name: Commit results
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: 'chore: update screening data'
+          add: 'data/results.json'
+          default_author: github_actions

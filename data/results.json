@@ -1,0 +1,71 @@
+{
+  "updated_at": "2026-06-04T20:00:00+09:00",
+  "updated_at_display": "06/04 20:00",
+  "count": 8,
+  "stocks": [
+    {
+      "code": "3667", "name": "ｅｎｉｓｈ", "market": "東S",
+      "close": 35, "change_pct": 12.90, "intraday_vol": 51.61, "trading_value": 8.2,
+      "source": "値上がり率",
+      "material_text": "[IR/前日] Solanaを活用した「アクティブ・トレジャリー事業」に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/",
+      "material_all": "[前日] Solanaを活用した「アクティブ・トレジャリー事業」に関するお知らせ\n[本日] 第22回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ"
+    },
+    {
+      "code": "2338", "name": "クオンタムＳ", "market": "東S",
+      "close": 133, "change_pct": 14.66, "intraday_vol": 39.66, "trading_value": 8.4,
+      "source": "値上がり率",
+      "material_text": "[IR/本日] 当社グループ保有暗号資産ETHの一部売却方針決定に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/",
+      "material_all": "[本日] 当社グループ保有暗号資産ETHの一部売却方針決定に関するお知らせ"
+    },
+    {
+      "code": "3915", "name": "テラスカイ", "market": "東P",
+      "close": 3485, "change_pct": 15.02, "intraday_vol": 23.66, "trading_value": 242.2,
+      "source": "値上がり率",
+      "material_text": "[みんかぶ] 量子コンピューター関連が軒並み逆行高、米量子コンピューター新興の新規上場に脚光",
+      "material_url": "https://minkabu.jp/stock/3915/news",
+      "material_all": ""
+    },
+    {
+      "code": "9984", "name": "ＳＢＧ", "market": "東P",
+      "close": 7377, "change_pct": -11.28, "intraday_vol": 8.85, "trading_value": 5645.3,
+      "source": "売買代金",
+      "material_text": "[IR/本日] 当社の子会社によるT&Dフィナンシャル生命保険株式会社の株式の取得（子会社化）に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/",
+      "material_all": "[本日] 当社の子会社によるT&Dフィナンシャル生命保険株式会社の株式の取得"
+    },
+    {
+      "code": "4047", "name": "関電化", "market": "東P",
+      "close": 4405, "change_pct": 18.89, "intraday_vol": 18.89, "trading_value": 78.6,
+      "source": "値上がり率",
+      "material_text": "[みんかぶ] 関電化(4047) 第119回定時株主総会招集ご通知",
+      "material_url": "https://minkabu.jp/stock/4047/news",
+      "material_all": ""
+    },
+    {
+      "code": "6597", "name": "ＨＰＣシス", "market": "東G",
+      "close": 6980, "change_pct": 13.87, "intraday_vol": 21.53, "trading_value": 40.2,
+      "source": "値上がり率",
+      "material_text": "[IR/本日] （開示事項の経過）特別当座貸越契約の締結に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/",
+      "material_all": "[本日] （開示事項の経過）特別当座貸越契約の締結に関するお知らせ"
+    },
+    {
+      "code": "8105", "name": "ＢＴＣＪＰＮ", "market": "東S",
+      "close": 276, "change_pct": -22.47, "intraday_vol": 26.12, "trading_value": 154.0,
+      "source": "出来高",
+      "material_text": "[IR/本日] 当社グループ保有暗号資産ETHの一部売却方針決定に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/",
+      "material_all": "[本日] 当社グループ保有暗号資産ETHの一部売却方針決定に関するお知らせ"
+    },
+    {
+      "code": "6327", "name": "北川精機", "market": "東S",
+      "close": 3840, "change_pct": -15.04, "intraday_vol": 8.85, "trading_value": 35.6,
+      "source": "値下がり率",
+      "material_text": "[IR/本日] 固定資産（新工場用地）取得に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/",
+      "material_all": "[本日] 固定資産（新工場用地）取得に関するお知らせ"
+    }
+  ]
+}

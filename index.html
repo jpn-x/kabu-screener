@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#0f0f1a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="デイトレ">
+  <meta name="description" content="日本株デイトレード銘柄スクリーナー">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="apple-touch-icon" href="favicon.svg">
+  <title>デイトレスクリーナー</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<!-- ── Header ── -->
+<header>
+  <div class="header-title">📈 デイトレスクリーナー</div>
+  <div class="header-right">
+    <button class="icon-btn" id="refresh-btn" title="更新">🔄</button>
+  </div>
+</header>
+
+<!-- ── Status Bar ── -->
+<div id="status-bar">
+  <span><span id="count-badge">-</span> ヒット</span>
+  <span id="last-update">--</span>
+</div>
+
+<!-- ── Filter Panel ── -->
+<section id="filter-section">
+  <button id="filter-toggle">
+    <span>⚙️ フィルター条件</span>
+    <span class="arrow">▼</span>
+  </button>
+  <div id="filter-body">
+    <div class="filter-inner">
+
+      <div class="filter-label">データソース（複数選択可）</div>
+      <div id="page-btns" class="btn-group cols-2"></div>
+
+      <div class="filter-label">市場</div>
+      <div id="market-btns" class="btn-group cols-4"></div>
+
+      <div class="filter-label">フィルター条件</div>
+
+      <div class="slider-row">
+        <div class="slider-header">
+          <span class="slider-name">日中ボラ(%) ≥</span>
+          <span class="slider-val" id="val-vol">5.0%</span>
+        </div>
+        <input type="range" id="slider-vol" min="0" max="30" step="0.5" value="5">
+      </div>
+
+      <div class="slider-row">
+        <div class="slider-header">
+          <span class="slider-name">売買代金(億) ≥</span>
+          <span class="slider-val" id="val-tv">2.5億</span>
+        </div>
+        <input type="range" id="slider-tv" min="0" max="100" step="0.5" value="2.5">
+      </div>
+
+      <div class="slider-row">
+        <div class="slider-header">
+          <span class="slider-name">前日比 絶対値(%) ≥</span>
+          <span class="slider-val" id="val-change">5.0%</span>
+        </div>
+        <input type="range" id="slider-change" min="0" max="30" step="0.5" value="5">
+      </div>
+
+      <button id="run-btn" class="run-btn">▶  この条件で絞り込む</button>
+    </div>
+  </div>
+</section>
+
+<!-- ── Sort bar ── -->
+<div id="sort-bar"></div>
+
+<!-- ── Results ── -->
+<main id="results"></main>
+
+<div id="empty-state">
+  <div class="emoji">🔍</div>
+  <p>条件に合う銘柄がありません</p>
+</div>
+
+<!-- ── Loading overlay ── -->
+<div id="loading-overlay">
+  <div class="spinner"></div>
+  <div class="loading-text">データ取得中...</div>
+</div>
+
+<!-- ── Toast ── -->
+<div class="toast"></div>
+
+<!-- ── Material Modal ── -->
+<div id="material-modal">
+  <div class="modal-sheet">
+    <div class="modal-handle"></div>
+    <div class="modal-title"></div>
+    <div id="modal-items"></div>
+    <button id="modal-open-btn" class="modal-open-btn">📄 TDnetで確認する ↗</button>
+    <button id="modal-close-btn" style="width:100%;margin-top:8px;background:none;border:1px solid var(--border);border-radius:8px;padding:12px;color:var(--text2);font-size:14px;cursor:pointer;">閉じる</button>
+  </div>
+</div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

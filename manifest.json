@@ -1,0 +1,16 @@
+{
+  "name": "デイトレスクリーナー",
+  "short_name": "デイトレ",
+  "description": "日本株デイトレード銘柄スクリーナー",
+  "start_url": "/kabu-screener/",
+  "scope": "/kabu-screener/",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#0f0f1a",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
