@@ -83,14 +83,18 @@ def fetch_all_rankings():
 # ── yfinance補完 ──────────────────────────────────────────────
 
 def calc_vol_for_days(highs, lows, closes, n):
-    """直近N日の日中ボラ平均を計算"""
+    """N日間の高値〜安値の総レンジ ÷ 起点終値
+    例: 100→S高130→S高180 → (180-100)/100 = 80%
+    """
     n = min(n, len(closes) - 1)
-    vals = []
-    for i in range(-n, 0):
-        h, l, prev_c = highs.iloc[i], lows.iloc[i], closes.iloc[i - 1]
-        if prev_c and prev_c > 0:
-            vals.append((h - l) / prev_c * 100)
-    return round(sum(vals) / len(vals), 2) if vals else None
+    if n < 1:
+        return None
+    base_close  = closes.iloc[-(n + 1)]   # N日前の終値を起点
+    period_high = highs.iloc[-n:].max()
+    period_low  = lows.iloc[-n:].min()
+    if base_close and base_close > 0:
+        return round((period_high - period_low) / base_close * 100, 2)
+    return None
 
 
 def enrich_yfinance(df):
