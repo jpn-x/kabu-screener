@@ -344,44 +344,48 @@ MOBILE_HEADERS = {
     "Referer": "https://s.kabutan.jp/",
 }
 
-def fetch_pts_data():
-    """PTS上昇・下落ランキングを取得してリストで返す"""
+def fetch_pts_data(pages: int = 5):
+    """PTS上昇・下落ランキングを最大pages×20件取得（デフォルト5ページ=100件）"""
     results = []
-    for kind, url in PTS_URLS_MAP.items():
-        try:
-            r = requests.get(url, headers=MOBILE_HEADERS, timeout=15)
-            r.encoding = "utf-8"
-            tables = pd.read_html(io.StringIO(r.text))
-            candidates = [t for t in tables if len(t) >= 5]
-            if not candidates:
-                continue
-            df = max(candidates, key=len)
-            for _, row in df.iterrows():
-                raw = str(row.iloc[0])
-                m_code = re.search(r'\b(\d{4}[A-Z]?)\b', raw)
-                m_mkt  = re.search(r'(東[PSGT])', raw)
-                if not m_code:
-                    continue
-                code   = m_code.group(1)[:4]
-                market = m_mkt.group(1) if m_mkt else ""
-                name   = re.sub(r'\d{4}[A-Z]?|東[PSGT]', '', raw).strip()
-                close  = pd.to_numeric(row.iloc[1], errors="coerce")
-                pts_p  = pd.to_numeric(row.iloc[2], errors="coerce")
-                m_chg  = re.search(r'([+-]?\d+\.?\d*)%', str(row.iloc[3]))
-                chg    = float(m_chg.group(1)) if m_chg else None
-                if chg is None:
-                    continue
-                results.append({
-                    "code":          code,
-                    "name":          name,
-                    "market":        market,
-                    "close":         float(close) if pd.notna(close) else None,
-                    "pts_price":     float(pts_p) if pd.notna(pts_p) else None,
-                    "pts_change_pct": chg,
-                    "source":        kind,
-                })
-        except Exception as e:
-            print(f"  PTS取得エラー ({kind}): {e}")
+    for kind, base_url in PTS_URLS_MAP.items():
+        print(f"  {kind}: {pages}ページ取得中...")
+        for page in range(1, pages + 1):
+            url = base_url if page == 1 else f"{base_url}?page={page}"
+            try:
+                r = requests.get(url, headers=MOBILE_HEADERS, timeout=15)
+                r.encoding = "utf-8"
+                tables = pd.read_html(io.StringIO(r.text))
+                candidates = [t for t in tables if len(t) >= 3]
+                if not candidates:
+                    break
+                df = max(candidates, key=len)
+                for _, row in df.iterrows():
+                    raw    = str(row.iloc[0])
+                    m_code = re.search(r'\b(\d{4}[A-Z]?)\b', raw)
+                    m_mkt  = re.search(r'(東[PSGT])', raw)
+                    if not m_code:
+                        continue
+                    code  = m_code.group(1)[:4]
+                    market = m_mkt.group(1) if m_mkt else ""
+                    name  = re.sub(r'\d{4}[A-Z]?|東[PSGT]', '', raw).strip()
+                    close = pd.to_numeric(row.iloc[1], errors="coerce")
+                    pts_p = pd.to_numeric(row.iloc[2], errors="coerce")
+                    m_chg = re.search(r'([+-]?\d+\.?\d*)%', str(row.iloc[3]))
+                    chg   = float(m_chg.group(1)) if m_chg else None
+                    if chg is None:
+                        continue
+                    results.append({
+                        "code":           code,
+                        "name":           name,
+                        "market":         market,
+                        "close":          float(close) if pd.notna(close) else None,
+                        "pts_price":      float(pts_p) if pd.notna(pts_p) else None,
+                        "pts_change_pct": chg,
+                        "source":         kind,
+                    })
+            except Exception as e:
+                print(f"  PTS取得エラー ({kind} p{page}): {e}")
+                break
     print(f"  PTS: {len(results)}銘柄取得")
     return results
 
