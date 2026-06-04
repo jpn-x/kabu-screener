@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>デイトレスクリーナー PC版</title>
+  <link rel="icon" href="apple-touch-icon.png">
+  <link rel="stylesheet" href="assets/style-desktop.css">
+</head>
+<body>
+
+<div id="app">
+
+  <!-- ── 左パネル ── -->
+  <div id="left">
+    <div class="header">
+      <span class="header-title">📈 デイトレスクリーナー</span>
+      <button class="icon-btn" id="refresh-btn" title="データ更新">🔄</button>
+    </div>
+
+    <div class="left-inner">
+
+      <div class="sec-label">データソース（複数選択可）</div>
+      <div id="page-btns"></div>
+
+      <div class="hdiv"></div>
+
+      <div class="sec-label">市場</div>
+      <div id="market-btns"></div>
+
+      <div class="hdiv"></div>
+
+      <div class="sec-label">ボラ計算期間</div>
+      <div id="vol-period-btns"></div>
+      <div class="hint-bar">※長い期間ほど平均値。次回更新時に反映</div>
+
+      <div class="hdiv"></div>
+
+      <div class="sec-label">フィルター条件</div>
+
+      <div class="slider-wrap">
+        <div class="slider-header">
+          <span class="slider-name">日中ボラ(%) ≥</span>
+          <span class="slider-val" id="val-vol">5.0%</span>
+        </div>
+        <input type="range" id="slider-vol" min="0" max="30" step="0.5" value="5">
+      </div>
+
+      <div class="slider-wrap">
+        <div class="slider-header">
+          <span class="slider-name">売買代金(億) ≥</span>
+          <span class="slider-val" id="val-tv">2.5億</span>
+        </div>
+        <input type="range" id="slider-tv" min="0" max="100" step="0.5" value="2.5">
+      </div>
+
+      <div class="slider-wrap">
+        <div class="slider-header">
+          <span class="slider-name">前日比 絶対値(%) ≥</span>
+          <span class="slider-val" id="val-change">5.0%</span>
+        </div>
+        <input type="range" id="slider-change" min="0" max="30" step="0.5" value="5">
+      </div>
+
+      <button id="run-btn" class="run-btn">▶ スクリーニング実行</button>
+
+      <div class="hdiv"></div>
+
+      <div class="sec-label">ダブルクリックで開くサイト</div>
+      <div id="brokerage-btns"></div>
+
+      <div class="hdiv"></div>
+
+      <div id="progress"><div id="progress-bar"></div></div>
+      <div class="status-txt" id="status-txt">起動中...</div>
+
+    </div>
+  </div>
+
+  <!-- ── 右パネル ── -->
+  <div id="right">
+
+    <div id="top-bar">
+      <span id="count-badge">-</span>
+      <span id="hint-txt">ダブルクリックで銘柄ページを開く ／ 材料にマウスを乗せると詳細表示</span>
+      <span id="time-txt">--</span>
+    </div>
+
+    <div id="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th class="col-code"  data-col="code">コード</th>
+            <th class="col-name"  data-col="name">銘柄名</th>
+            <th class="col-market">市場</th>
+            <th class="col-close" data-col="close">終値<span class="sort-arrow"></span></th>
+            <th class="col-chg"   data-col="chg">前日比(%)<span class="sort-arrow"></span></th>
+            <th class="col-vol"   data-col="vol">ボラ(当日) <span class="sort-arrow">▼</span></th>
+            <th class="col-tv"    data-col="tv">売買代金(億)<span class="sort-arrow"></span></th>
+            <th class="col-mat">材料</th>
+            <th class="col-src">ランキング元</th>
+          </tr>
+        </thead>
+        <tbody id="tbody">
+          <tr><td colspan="9" style="padding:40px;color:var(--text2);">データ取得中...</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+  </div>
+
+</div>
+
+<!-- Tooltip -->
+<div id="tooltip"></div>
+
+<!-- Loading overlay -->
+<div id="loading-overlay">
+  <div class="spinner"></div>
+  <div class="loading-txt">データ取得中...</div>
+</div>
+
+<script src="assets/app-desktop.js"></script>
+</body>
+</html>
