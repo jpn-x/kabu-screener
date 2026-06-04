@@ -150,9 +150,13 @@ function applyFilters() {
   const volField = getVolField();
   state.filtered = state.allStocks.filter(s => {
     if (f.market !== '全市場') {
-      const mkt = (s.market || '').toUpperCase();
-      const map = { 'プライム': 'P', 'スタンダード': 'S', 'グロース': 'G' };
-      if (!mkt.includes(map[f.market] || f.market)) return false;
+      const mkt = s.market || '';
+      // JPX形式「プライム（内国株式）」と旧形式「東P」両対応
+      const ok = mkt.includes(f.market) ||
+        (f.market === 'プライム'     && (mkt.includes('東P') || mkt.includes('Ｐ'))) ||
+        (f.market === 'スタンダード' && (mkt.includes('東S') || mkt.includes('Ｓ'))) ||
+        (f.market === 'グロース'     && (mkt.includes('東G') || mkt.includes('Ｇ')));
+      if (!ok) return false;
     }
     if (f.pages.length && !f.pages.includes(s.source)) return false;
     if (f.minVol > 0 && (s[volField] == null || s[volField] < f.minVol)) return false;

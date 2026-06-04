@@ -56,13 +56,13 @@
           🔵 PTS下落
         </button>
       </div>
-      <div style="font-size:10px;color:var(--text2);margin-bottom:6px;">※通常スクリーニングに戻すには▶実行ボタンを押す</div>
+      <button onclick="exitPtsMode()" style="width:100%;margin-top:4px;background:#2a2a3a;border:1px solid #444;border-radius:8px;color:#aaa;padding:7px;font-size:11px;cursor:pointer;">⬆ TOPに戻る（通常スクリーニング）</button>
 
       <div class="filter-label">市場</div>
       <div id="market-btns" class="btn-group cols-4"></div>
 
       <div class="filter-label">ボラ計算期間</div>
-      <div id="vol-period-btns" class="btn-group cols-4"></div>
+      <div id="vol-period-btns" class="btn-group cols-2"></div>
       <div style="font-size:11px;color:var(--text2);margin:4px 0 8px;">※N日間の高値〜安値レンジ÷起点終値（S高連続→大きな値）</div>
 
       <div class="filter-label">フィルター条件</div>
