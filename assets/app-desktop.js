@@ -2,6 +2,15 @@
 
 const DATA_URL = 'https://jpn-x.github.io/kabu-screener/data/results.json';
 
+// 市場名を2文字略称に変換
+function mktAbbr(market) {
+  const m = market || '';
+  if (m.includes('プライム') || m.includes('東P') || m.includes('Ｐ')) return 'プラ';
+  if (m.includes('スタンダード') || m.includes('東S') || m.includes('Ｓ')) return 'スタ';
+  if (m.includes('グロース') || m.includes('東G') || m.includes('Ｇ')) return 'グロ';
+  return m.slice(0, 3);
+}
+
 const VOL_PERIODS = { '当日': 'intraday_vol', '3日': 'vol_3d', '5日': 'vol_5d', '20日': 'vol_20d' };
 const PAGES = ['売買代金','出来高','値上がり率','値下がり率','ストップ高','ストップ安'];
 const MARKETS = ['全市場','プライム','スタンダード','グロース'];
@@ -122,7 +131,7 @@ function renderTable() {
     return `<tr class="${rowCls}" data-code="${s.code}">
       <td class="col-code c-dim">${s.code}</td>
       <td class="col-name" style="text-align:left;padding-left:8px;">${escHtml(s.name)}</td>
-      <td class="col-market c-dim">${escHtml(s.market)}</td>
+      <td class="col-market c-dim">${mktAbbr(s.market)}</td>
       <td class="col-close">¥${closeStr}</td>
       <td class="col-chg ${up?'c-up':'c-down'}">${chgStr}</td>
       <td class="col-vol c-acc">${volStr}</td>

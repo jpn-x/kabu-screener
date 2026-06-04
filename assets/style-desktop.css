@@ -383,15 +383,15 @@ tr:hover td { background: #1e1e35 !important; }
 .loading-txt { color: var(--text2); font-size: 13px; }
 
 /* ── Col widths ── */
-.col-code   { width: 56px; }
-.col-name   { width: 140px; text-align: left !important; }
-.col-market { width: 52px; }
-.col-close  { width: 72px; }
-.col-chg    { width: 72px; }
-.col-vol    { width: 78px; }
-.col-tv     { width: 78px; }
+.col-code   { width: 52px; }
+.col-name   { width: 150px; text-align: left !important; }
+.col-market { width: 34px; }   /* プラ/スタ/グロ の2文字 */
+.col-close  { width: 76px; }
+.col-chg    { width: 82px; }   /* +27.59% が収まる幅 */
+.col-vol    { width: 80px; }
+.col-tv     { width: 82px; }
 .col-mat    { min-width: 200px; }
-.col-src    { width: 72px; }
+.col-src    { width: 70px; }
 
 /* ── Hint bar ── */
 .hint-bar {
