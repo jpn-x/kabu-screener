@@ -31,9 +31,11 @@ jobs:
         run: python scripts/run_screener.py
 
       - name: Commit results
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: 'chore: update screening data'
-          add: 'data/results.json'
-          default_author: github_actions
-          pull: '--rebase --autostash'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin master
+          git rebase origin/master
+          git add data/results.json
+          git diff --cached --quiet || git commit -m "chore: update screening data"
+          git push origin master
