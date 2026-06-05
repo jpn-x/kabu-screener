@@ -493,24 +493,30 @@ def main():
     # 4. ランキング元ラベル付与
     merged["_source"] = merged.apply(get_source_label, axis=1)
 
-    # 5. 時価総額取得（売買代金上位300件のみ → レートリミット回避）
-    print("時価総額取得中（上位300件）...")
+    # 5. 時価総額取得（発行済株式数×終値で全銘柄計算）
+    print("発行済株式数取得中（全銘柄）...")
     from concurrent.futures import ThreadPoolExecutor as TPE
-    top_codes = merged.nlargest(300, "売買代金(億)")["コード"].tolist()
-    def _get_mcap(code):
+    all_codes = merged["コード"].tolist()
+    def _get_shares(code):
         try:
-            fi = yf.Ticker(f"{code}.T").fast_info
-            mc = getattr(fi, 'market_cap', None)
-            return code, round(mc / 1e8, 0) if mc else None
+            s = yf.Ticker(f"{code}.T").fast_info.shares
+            return code, int(s) if s else None
         except Exception:
             return code, None
-    mcap_map = {}
-    with TPE(max_workers=10) as ex:
-        for code, mc in ex.map(_get_mcap, top_codes):
-            if mc is not None:
-                mcap_map[code] = mc
-    merged["時価総額(億)"] = merged["コード"].map(mcap_map)
-    print(f"  時価総額: {len(mcap_map)}件")
+    shares_map = {}
+    with TPE(max_workers=20) as ex:
+        for code, s in ex.map(_get_shares, all_codes):
+            if s:
+                shares_map[code] = s
+    # 終値×株式数で時価総額計算
+    def calc_mcap(row):
+        s = shares_map.get(row["コード"])
+        p = row.get("終値")
+        if s and p and p > 0:
+            return round(s * p / 1e8, 0)
+        return None
+    merged["時価総額(億)"] = merged.apply(calc_mcap, axis=1)
+    print(f"  時価総額計算: {merged['時価総額(億)'].notna().sum()}件")
 
     # 6. YTD・年初株価はメインバッチ取得済み（period=ytd から計算済み）
     print(f"  YTD済み: {merged['年パフォ(%)'].notna().sum()}件 / 年初株価: {merged['年初株価'].notna().sum()}件")
