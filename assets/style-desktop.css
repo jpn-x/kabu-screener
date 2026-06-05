@@ -333,7 +333,7 @@ tr:hover td { background: #1e1e35 !important; }
 .c-up   { color: var(--up); font-weight: 600; }
 .c-down { color: var(--down); font-weight: 600; }
 .c-acc  { color: var(--accent); font-weight: 600; }
-.c-dim  { color: var(--text2); }
+.c-dim  { color: var(--text); }   /* 銘柄名と同じ色に統一 */
 
 /* ── Material cell ── */
 .mat-cell {

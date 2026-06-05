@@ -156,10 +156,13 @@ function renderTable() {
 
   tbody.innerHTML = rows;
 
-  // Row click → brokerage
-  tbody.querySelectorAll('tr[data-code]').forEach(tr => {
-    tr.addEventListener('dblclick', () => {
-      const code = tr.dataset.code;
+  // 銘柄名セルをシングルクリックで開く
+  tbody.querySelectorAll('td.col-name').forEach(td => {
+    td.style.cursor = 'pointer';
+    td.addEventListener('click', e => {
+      e.stopPropagation();
+      const code = td.closest('tr')?.dataset.code;
+      if (!code) return;
       const url = (SITES[state.brokerage] || SITES['株探'])(code);
       window.open(url, '_blank');
     });
@@ -344,8 +347,13 @@ function renderPts(kind) {
     </tr>`;
   }).join('');
 
-  tbody.querySelectorAll('tr[data-code]').forEach(tr => {
-    tr.addEventListener('dblclick', () => window.open(`https://kabutan.jp/stock/news?code=${tr.dataset.code}`,'_blank'));
+  tbody.querySelectorAll('td.col-name').forEach(td => {
+    td.style.cursor = 'pointer';
+    td.addEventListener('click', e => {
+      e.stopPropagation();
+      const code = td.closest('tr')?.dataset.code;
+      if (code) window.open(`https://kabutan.jp/stock/news?code=${code}`, '_blank');
+    });
   });
   tbody.querySelectorAll('.mat-cell').forEach(td => {
     td.addEventListener('click', e => { e.stopPropagation(); const u=td.dataset.url; if(u) window.open(u,'_blank'); });
