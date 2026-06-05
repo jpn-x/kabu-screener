@@ -220,13 +220,22 @@ function render() {
 function cardHTML(s) {
   const up = (s.change_pct ?? 0) >= 0;
   const chgClass = up ? 'up' : 'down';
-  const chgStr = s.change_pct != null ? `${s.change_pct >= 0 ? '+' : ''}${s.change_pct.toFixed(2)}%` : '-';
+  const chgStr   = s.change_pct != null ? `${s.change_pct >= 0 ? '+' : ''}${s.change_pct.toFixed(2)}%` : '-';
   const volField = getVolField();
-  const volVal  = s[volField];
-  const volStr  = volVal != null ? `${volVal.toFixed(1)}%` : '-';
+  const volVal   = s[volField];
+  const volStr   = volVal != null ? `${volVal.toFixed(1)}%` : '-';
   const volLabel = state.volPeriod === '当日' ? 'ボラ' : `ボラ(${state.volPeriod})`;
-  const tvStr   = s.trading_value != null ? `${s.trading_value.toFixed(1)}億` : '-';
-  const closeStr = s.close != null ? s.close.toLocaleString() : '-';
+  const tvStr    = s.trading_value   != null ? `${s.trading_value.toFixed(1)}億`      : '-';
+  const closeStr = s.close           != null ? s.close.toLocaleString()                : '-';
+  const mcapStr  = s.market_cap      != null ? `${s.market_cap.toLocaleString()}億`   : '-';
+  const ytd      = s.ytd_perf;
+  const ytdStr   = ytd != null ? `${ytd >= 0 ? '+' : ''}${ytd.toFixed(1)}%`           : '-';
+  const ytdClass = ytd != null ? (ytd >= 0 ? 'up' : 'down') : '';
+  const yspStr   = s.year_start_price != null ? `¥${s.year_start_price.toLocaleString()}` : '-';
+  const mktAbbr  = (s.market||'').includes('プライム') ? 'プラ'
+                 : (s.market||'').includes('スタンダード') ? 'スタ'
+                 : (s.market||'').includes('グロース') ? 'グロ'
+                 : (s.market||'').slice(0,3);
 
   let matHTML = '';
   if (s.material_text) {
@@ -258,7 +267,7 @@ function cardHTML(s) {
           <div class="card-name">${escHtml(s.name)}</div>
         </div>
         <div class="card-right">
-          <div class="card-market">${escHtml(s.market)}</div>
+          <div class="card-market">${mktAbbr}</div>
           <div class="card-source">${escHtml(s.source)}</div>
         </div>
       </div>
@@ -278,6 +287,22 @@ function cardHTML(s) {
         <div class="metric">
           <div class="metric-label">売買代金</div>
           <div class="metric-value">${tvStr}</div>
+        </div>
+        <div class="metric">
+          <div class="metric-label">時価総額</div>
+          <div class="metric-value">${mcapStr}</div>
+        </div>
+        <div class="metric">
+          <div class="metric-label">年パフォ</div>
+          <div class="metric-value ${ytdClass}">${ytdStr}</div>
+        </div>
+        <div class="metric">
+          <div class="metric-label">年初株価</div>
+          <div class="metric-value">${yspStr}</div>
+        </div>
+        <div class="metric">
+          <div class="metric-label">ランキング元</div>
+          <div class="metric-value" style="font-size:10px;">${escHtml(s.source)}</div>
         </div>
       </div>
       ${matHTML}
