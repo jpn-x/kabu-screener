@@ -400,8 +400,9 @@ tr:hover td { background: #1e1e35 !important; }
 /* ── Col widths ── */
 .col-code   { width: 52px; }
 .col-name   { width: 150px; text-align: left !important; }
-.col-market { width: 34px; }   /* プラ/スタ/グロ の2文字 */
-.col-ytd    { width: 76px; }
+.col-market { width: 34px; }
+.col-mcap   { width: 88px; }
+.col-ytd    { width: 74px; }
 .col-ysp    { width: 76px; }
 .col-close  { width: 76px; }
 .col-chg    { width: 82px; }   /* +27.59% が収まる幅 */

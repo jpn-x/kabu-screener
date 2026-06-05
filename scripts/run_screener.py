@@ -486,7 +486,25 @@ def main():
     # 4. ランキング元ラベル付与
     merged["_source"] = merged.apply(get_source_label, axis=1)
 
-    # 5. YTD（年初来パフォーマンス）取得
+    # 5. 時価総額取得
+    print("時価総額取得中...")
+    from concurrent.futures import ThreadPoolExecutor as TPE
+    def _get_mcap(code):
+        try:
+            fi = yf.Ticker(f"{code}.T").fast_info
+            mc = getattr(fi, 'market_cap', None)
+            return code, round(mc / 1e8, 0) if mc else None
+        except Exception:
+            return code, None
+    mcap_map = {}
+    with TPE(max_workers=10) as ex:
+        for code, mc in ex.map(_get_mcap, merged["コード"].tolist()):
+            if mc is not None:
+                mcap_map[code] = mc
+    merged["時価総額(億)"] = merged["コード"].map(mcap_map)
+    print(f"  時価総額: {len(mcap_map)}件")
+
+    # 6. YTD（年初来パフォーマンス）取得
     print("年初来パフォーマンス取得中...")
     active_codes = merged["コード"].tolist()
     ytd_map = fetch_ytd_perf(active_codes)
@@ -517,6 +535,7 @@ def main():
             "market":        str(row.get("市場区分", "")),
             "close":         sf(row.get("終値")),
             "change_pct":    sf(row.get("前日比(%)")),
+            "market_cap":       sf(row.get("時価総額(億)")),
             "ytd_perf":         sf(row.get("年パフォ(%)")),
             "year_start_price": sf(row.get("年初株価")),
             "intraday_vol":  sf(row.get("日中ボラ(%)")),
