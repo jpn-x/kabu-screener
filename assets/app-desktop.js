@@ -466,16 +466,21 @@ function renderPts(kind) {
     const row = `${up?'row-up':'row-down'}${i%2?' row-alt':''}`;
     const mt  = s.material_text || '';
     const isIR = mt.startsWith('[IR');
-    const badge = isIR ? `<span class="badge badge-ir">IR</span>` : `<span class="badge badge-minkabu">株</span>`;
-    const clean = mt.replace(/^\[.*?\]\s*/,'').substring(0,55);
-    return `<tr class="${row}" data-code="${s.code}" data-url="${s.material_url||''}">
+    const badge    = isIR ? `<span class="badge badge-ir">IR</span>` : `<span class="badge badge-minkabu">株</span>`;
+    const clean    = mt.replace(/^\[.*?\]\s*/,'').substring(0, 55);
+    const ptsStr   = s.pts_price != null ? `¥${s.pts_price.toLocaleString()}` : '-';
+    const closeStr = s.close     != null ? `¥${s.close.toLocaleString()}`     : '-';
+    return `<tr class="${row}" data-code="${s.code}">
       <td class="col-code c-dim">${s.code}</td>
       <td class="col-name" style="text-align:left;padding-left:8px;">${escHtml(s.name)}</td>
       <td class="col-market c-dim">${mktAbbr(s.market||'')}</td>
-      <td class="col-close">¥${s.close?.toLocaleString()||'-'}</td>
+      <td class="col-mcap c-dim">-</td>
+      <td class="col-ytd ${up?'c-up':'c-down'}">${chg}</td>
+      <td class="col-ysp" style="color:#ffd700;font-weight:700;">${ptsStr}</td>
+      <td class="col-close c-dim">${closeStr}</td>
       <td class="col-chg ${up?'c-up':'c-down'}">${chg}</td>
-      <td class="col-vol" style="color:#ffd700;font-weight:700;">¥${s.pts_price?.toLocaleString()||'-'}</td>
-      <td class="col-tv">-</td>
+      <td class="col-vol c-dim">-</td>
+      <td class="col-tv c-dim">-</td>
       <td class="col-mat mat-cell" data-code="${s.code}" data-url="${s.material_url||''}" data-all="${encodeURIComponent(s.material_all||'')}">${mt?badge+escHtml(clean):''}</td>
       <td class="col-src c-dim">${escHtml(s.source)}</td>
     </tr>`;
