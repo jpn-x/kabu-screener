@@ -34,8 +34,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin master
-          git rebase origin/master
           git add data/results.json
-          git diff --cached --quiet || git commit -m "chore: update screening data"
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "chore: update screening data"
+          git pull origin master --no-rebase -X ours --no-edit
           git push origin master
