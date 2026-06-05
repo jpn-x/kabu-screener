@@ -186,6 +186,9 @@ function renderTable() {
     td.addEventListener('mouseleave', hideTooltip);
     td.addEventListener('mousemove', e => moveTooltip(e));
   });
+
+  // PiPが開いていれば自動更新
+  updatePip();
 }
 
 // ── Column sort ───────────────────────────────────────────────
@@ -315,6 +318,131 @@ function setupSlider(sliderId, valId, initial, unit, onChange) {
 function showLoading(v) { $('loading-overlay').style.display = v ? 'flex' : 'none'; }
 function setRefresh(v)  { $('refresh-btn').classList.toggle('spinning', v); }
 function setStatus(msg) { $('status-txt').textContent = msg; }
+// ── Picture-in-Picture（常に最前面）────────────────────────────
+let pipWindow = null;
+
+async function togglePip() {
+  const btn = $('pip-btn');
+
+  // 既に開いていれば閉じる
+  if (pipWindow && !pipWindow.closed) {
+    pipWindow.close();
+    pipWindow = null;
+    btn.style.color = '';
+    btn.title = '最前面表示（浮かびウィンドウ）';
+    return;
+  }
+
+  if (!('documentPictureInPicture' in window)) {
+    alert('このブラウザはPicture-in-Picture未対応です（Chrome 116+ が必要）');
+    return;
+  }
+
+  try {
+    pipWindow = await window.documentPictureInPicture.requestWindow({
+      width: 900, height: 560,
+    });
+
+    // スタイルをコピー
+    [...document.styleSheets].forEach(ss => {
+      try {
+        const link = pipWindow.document.createElement('link');
+        link.rel = 'stylesheet';
+        link.href = ss.href || '';
+        if (ss.href) pipWindow.document.head.appendChild(link);
+      } catch(e) {}
+    });
+
+    // インラインスタイルを追加
+    const style = pipWindow.document.createElement('style');
+    style.textContent = `
+      :root { --bg:#0f0f1a; --surface:#1a1a2e; --surface2:#222238; --border:#2a2a45;
+              --accent:#4fc3f7; --accent2:#1f6aa5; --up:#ff6b6b; --down:#51cf66;
+              --text:#e0e0e0; --text2:#888; }
+      body  { margin:0; background:var(--bg); color:var(--text);
+              font-family:-apple-system,"Meiryo UI",sans-serif; overflow:auto; }
+      #pip-wrap { padding:6px; }
+      #pip-topbar { display:flex; align-items:center; gap:8px; padding:4px 8px;
+                    background:var(--surface); border-bottom:1px solid var(--border);
+                    font-size:12px; color:var(--text2); }
+      #pip-count  { font-size:14px; font-weight:700; color:var(--accent); }
+      table { width:100%; border-collapse:collapse; table-layout:fixed; font-size:11px; }
+      thead { position:sticky; top:0; z-index:10; }
+      th { background:#1a3a5c; color:#fff; padding:5px 4px; text-align:center;
+           font-size:10px; font-weight:700; border-right:1px solid var(--border); cursor:pointer; }
+      td { padding:4px 4px; text-align:center; border-bottom:1px solid #1e1e30;
+           white-space:nowrap; overflow:hidden; text-overflow:ellipsis; font-size:11px; }
+      tr.row-up   td:first-child { border-left:3px solid var(--up); }
+      tr.row-down td:first-child { border-left:3px solid var(--down); }
+      tr.row-alt  td { background:#141424; }
+      .c-up  { color:var(--up); font-weight:600; }
+      .c-down{ color:var(--down); font-weight:600; }
+      .c-acc { color:var(--accent); font-weight:600; }
+      .badge { display:inline-block; font-size:9px; font-weight:700;
+               padding:1px 4px; border-radius:3px; margin-right:3px; }
+      .badge-ir      { background:#1f3a5a; color:var(--accent); }
+      .badge-minkabu { background:#1a3a1a; color:var(--down); }
+      .badge-kabutan { background:#2a1a1a; color:#ff9999; }
+    `;
+    pipWindow.document.head.appendChild(style);
+
+    // コンテンツを構築
+    const wrap = pipWindow.document.createElement('div');
+    wrap.id = 'pip-wrap';
+
+    const topbar = pipWindow.document.createElement('div');
+    topbar.id = 'pip-topbar';
+    topbar.innerHTML = `<span id="pip-count">${$('count-badge').textContent}</span>
+      <span>📌 最前面表示中</span>
+      <span style="margin-left:auto;font-size:10px;">${$('time-txt').textContent}</span>`;
+    wrap.appendChild(topbar);
+
+    // テーブルをクローン
+    const tbl = document.querySelector('#table-wrap table');
+    if (tbl) {
+      const clone = tbl.cloneNode(true);
+      // 銘柄名クリックでオリジナルウィンドウを開く
+      clone.querySelectorAll('td.col-name').forEach(td => {
+        td.style.cursor = 'pointer';
+        const code = td.closest('tr')?.dataset.code;
+        if (code) td.addEventListener('click', () => window.open(`https://kabutan.jp/stock/news?code=${code}`, '_blank'));
+      });
+      const tableWrap = pipWindow.document.createElement('div');
+      tableWrap.style.cssText = 'overflow:auto; height:calc(100vh - 38px);';
+      tableWrap.appendChild(clone);
+      wrap.appendChild(tableWrap);
+    }
+
+    pipWindow.document.body.appendChild(wrap);
+
+    // PiPが閉じられたときの処理
+    pipWindow.addEventListener('pagehide', () => {
+      pipWindow = null;
+      btn.style.color = '';
+      btn.title = '最前面表示（浮かびウィンドウ）';
+    });
+
+    btn.style.color = '#4fc3f7';
+    btn.title = '最前面解除';
+
+  } catch(e) {
+    console.error('PiP error:', e);
+    alert('最前面表示に失敗しました: ' + e.message);
+  }
+}
+
+// テーブル更新時にPiPも更新
+function updatePip() {
+  if (!pipWindow || pipWindow.closed) return;
+  const tbl = pipWindow.document.querySelector('table');
+  const newTbl = document.querySelector('#table-wrap table');
+  if (tbl && newTbl) {
+    tbl.replaceWith(newTbl.cloneNode(true));
+  }
+  const cnt = pipWindow.document.getElementById('pip-count');
+  if (cnt) cnt.textContent = $('count-badge').textContent;
+}
+
 function escHtml(s) {
   return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
