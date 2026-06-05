@@ -254,6 +254,40 @@ def all_ir_text(items):
         for x in items[:5]
     )
 
+def fetch_google_news(code):
+    """Google News RSSで銘柄ニュースを取得（GitHub ActionsのIPでも動作）"""
+    try:
+        import warnings
+        from bs4 import XMLParsedAsHTMLWarning
+        warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+        url = f"https://news.google.com/rss/search?q={code}+株&hl=ja&gl=JP&ceid=JP:ja"
+        r = requests.get(url, headers=HEADERS, timeout=8)
+        r.encoding = "utf-8"
+        soup = BeautifulSoup(r.text, "lxml")
+        for item in soup.find_all("item")[:5]:
+            title_tag = item.find("title")
+            link_tag  = item.find("link")
+            if not title_tag:
+                continue
+            t   = title_tag.get_text(strip=True)
+            lnk = link_tag.get_text(strip=True) if link_tag else ""
+            # 銘柄コードが含まれる記事を優先
+            if len(t) > 10 and not _skip(t) and code in t:
+                return f"[ニュース] {t[:60]}", lnk
+        # なければ最初の有効記事
+        for item in soup.find_all("item")[:3]:
+            title_tag = item.find("title")
+            link_tag  = item.find("link")
+            if title_tag:
+                t   = title_tag.get_text(strip=True)
+                lnk = link_tag.get_text(strip=True) if link_tag else ""
+                if len(t) > 10 and not _skip(t):
+                    return f"[ニュース] {t[:60]}", lnk
+    except Exception:
+        pass
+    return None
+
+
 def fetch_minkabu(code):
     try:
         s = requests.Session()
@@ -316,10 +350,15 @@ def fetch_materials(codes, progress_callback=None):
 
     remaining = [c for c in codes if c not in results]
     def fetch_one(code):
+        # みんかぶ（GH Actionsでブロックされる場合あり）
         m = fetch_minkabu(code)
         if m: return code, {"text": m[0], "url": m[1], "all_ir": ""}
+        # 株探（同様にブロックされる場合あり）
         k = fetch_kabutan_news(code)
         if k: return code, {"text": k[0], "url": k[1], "all_ir": ""}
+        # Google News RSS（GH ActionsのIPでも動作）
+        g = fetch_google_news(code)
+        if g: return code, {"text": g[0], "url": g[1], "all_ir": ""}
         return code, None
 
     with ThreadPoolExecutor(max_workers=6) as ex:
