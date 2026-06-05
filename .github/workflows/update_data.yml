@@ -36,3 +36,4 @@ jobs:
           message: 'chore: update screening data'
           add: 'data/results.json'
           default_author: github_actions
+          pull: '--rebase --autostash'
