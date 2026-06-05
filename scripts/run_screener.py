@@ -82,6 +82,35 @@ def calc_vol_range(highs, lows, closes, n):
     return round((ph - pl) / base * 100, 2) if base and base > 0 else None
 
 
+def fetch_ytd_perf(codes: list[str]) -> dict[str, float]:
+    """年初来パフォーマンスを取得 (1/1 → 直近終値)"""
+    result = {}
+    tickers = [f"{c}.T" for c in codes]
+    try:
+        data = yf.download(tickers, period="ytd", interval="1d",
+                           auto_adjust=True, progress=False, threads=True)
+        if data.empty:
+            return result
+        for ticker in tickers:
+            code = ticker.replace(".T", "")
+            try:
+                if len(tickers) == 1:
+                    closes = data["Close"].dropna()
+                else:
+                    closes = data["Close"][ticker].dropna()
+                if len(closes) < 2:
+                    continue
+                year_start = closes.iloc[0]
+                latest     = closes.iloc[-1]
+                if year_start and year_start > 0:
+                    result[code] = round((latest - year_start) / year_start * 100, 2)
+            except Exception:
+                pass
+    except Exception as e:
+        print(f"  YTD取得エラー: {e}")
+    return result
+
+
 def fetch_and_screen(codes: list[str], chunk_size=500) -> pd.DataFrame:
     """
     yfinanceで全銘柄を chunk_size ずつ分割取得し、
@@ -452,7 +481,14 @@ def main():
     # 4. ランキング元ラベル付与
     merged["_source"] = merged.apply(get_source_label, axis=1)
 
-    # 5. 活発な銘柄上位150件を素材として材料取得
+    # 5. YTD（年初来パフォーマンス）取得
+    print("年初来パフォーマンス取得中...")
+    active_codes = merged["コード"].tolist()
+    ytd_map = fetch_ytd_perf(active_codes)
+    merged["年パフォ(%)"] = merged["コード"].map(ytd_map)
+    print(f"  YTD取得: {len(ytd_map)}件")
+
+    # 6. 活発な銘柄上位150件を素材として材料取得
     # 売買代金上位50 + |前日比|上位50 + ボラ上位50 を合算してユニーク化
     top_tv   = merged.nlargest(50, "売買代金(億)")["コード"].tolist()
     top_chg  = merged.reindex(merged["前日比(%)"].abs().nlargest(50).index)["コード"].tolist()
@@ -475,6 +511,7 @@ def main():
             "market":        str(row.get("市場区分", "")),
             "close":         sf(row.get("終値")),
             "change_pct":    sf(row.get("前日比(%)")),
+            "ytd_perf":      sf(row.get("年パフォ(%)")),
             "intraday_vol":  sf(row.get("日中ボラ(%)")),
             "vol_3d":        sf(row.get("ボラ3日")),
             "vol_5d":        sf(row.get("ボラ5日")),
