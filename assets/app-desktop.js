@@ -54,6 +54,7 @@ async function loadData(showLoader = true) {
     state.all     = json.stocks || [];
     state.ptsList = json.pts    || [];
     $('time-txt').textContent = `取得: ${json.updated_at_display || '--'}`;
+    applyMaterials();   // URLマップ・IRマップをデータ読み込み後に構築
     if (state.ptsMode) renderPts(state.ptsMode);
     else applyAndRender();
   } catch(e) {
@@ -71,8 +72,13 @@ function applyAndRender() {
 
   state.filtered = state.all.filter(s => {
     if (f.market !== '全市場') {
-      const mktMap = { 'プライム':'P', 'スタンダード':'S', 'グロース':'G' };
-      if (!(s.market||'').toUpperCase().includes(mktMap[f.market]||f.market)) return false;
+      const mkt = s.market || '';
+      // JPX形式「プライム（内国株式）」と旧形式「東P」両対応
+      const ok = mkt.includes(f.market) ||
+        (f.market === 'プライム'     && (mkt.includes('東P') || mkt.includes('Ｐ'))) ||
+        (f.market === 'スタンダード' && (mkt.includes('東S') || mkt.includes('Ｓ'))) ||
+        (f.market === 'グロース'     && (mkt.includes('東G') || mkt.includes('Ｇ')));
+      if (!ok) return false;
     }
     if (f.pages.length && !f.pages.includes(s.source)) return false;
     if (f.minVol > 0 && (s[vf] == null || s[vf] < f.minVol)) return false;
