@@ -118,8 +118,8 @@ def fetch_ytd_perf(codes: list[str]) -> dict[str, dict]:
 
 def fetch_and_screen(codes: list[str], chunk_size=500) -> pd.DataFrame:
     """
-    yfinanceで全銘柄を chunk_size ずつ分割取得し、
-    アクティブな銘柄（売買代金・変動率上位）を返す
+    yfinanceで全銘柄を chunk_size ずつ分割取得。
+    period="ytd" で年初来データも一括取得してYTD計算も同時に行う。
     """
     all_rows = []
     chunks = [codes[i:i+chunk_size] for i in range(0, len(codes), chunk_size)]
@@ -129,7 +129,7 @@ def fetch_and_screen(codes: list[str], chunk_size=500) -> pd.DataFrame:
         print(f"  yfinance取得中... chunk {i+1}/{len(chunks)} ({len(chunk)}銘柄)")
         try:
             data = yf.download(
-                tickers, period="1mo", interval="1d",
+                tickers, period="ytd", interval="1d",   # ytdに変更: YTDも同時取得
                 auto_adjust=True, progress=False, threads=True
             )
             if data.empty:
@@ -172,16 +172,23 @@ def fetch_and_screen(codes: list[str], chunk_size=500) -> pd.DataFrame:
                     if tv < 0.3:
                         continue
 
+                    # YTD（年初来）をメインデータから計算（追加リクエスト不要）
+                    year_start_price = round(float(closes.iloc[0]), 1) if len(closes) >= 1 else None
+                    ytd_perf = round((close - closes.iloc[0]) / closes.iloc[0] * 100, 2) \
+                               if year_start_price and closes.iloc[0] > 0 else None
+
                     all_rows.append({
-                        "コード":       code,
-                        "終値":         float(close),
-                        "前日比(%)":    change_pct,
-                        "日中ボラ(%)":  calc_vol_range(highs, lows, closes, 1),
-                        "ボラ3日":      calc_vol_range(highs, lows, closes, 3),
-                        "ボラ5日":      calc_vol_range(highs, lows, closes, 5),
-                        "ボラ20日":     calc_vol_range(highs, lows, closes, 20),
-                        "売買代金(億)": tv,
-                        "出来高":       int(volume),
+                        "コード":           code,
+                        "終値":             float(close),
+                        "前日比(%)":        change_pct,
+                        "日中ボラ(%)":      calc_vol_range(highs, lows, closes, 1),
+                        "ボラ3日":          calc_vol_range(highs, lows, closes, 3),
+                        "ボラ5日":          calc_vol_range(highs, lows, closes, 5),
+                        "ボラ20日":         calc_vol_range(highs, lows, closes, 20),
+                        "売買代金(億)":     tv,
+                        "出来高":           int(volume),
+                        "年パフォ(%)":      ytd_perf,
+                        "年初株価":         year_start_price,
                     })
                 except Exception:
                     pass
@@ -486,9 +493,10 @@ def main():
     # 4. ランキング元ラベル付与
     merged["_source"] = merged.apply(get_source_label, axis=1)
 
-    # 5. 時価総額取得
-    print("時価総額取得中...")
+    # 5. 時価総額取得（売買代金上位300件のみ → レートリミット回避）
+    print("時価総額取得中（上位300件）...")
     from concurrent.futures import ThreadPoolExecutor as TPE
+    top_codes = merged.nlargest(300, "売買代金(億)")["コード"].tolist()
     def _get_mcap(code):
         try:
             fi = yf.Ticker(f"{code}.T").fast_info
@@ -498,19 +506,14 @@ def main():
             return code, None
     mcap_map = {}
     with TPE(max_workers=10) as ex:
-        for code, mc in ex.map(_get_mcap, merged["コード"].tolist()):
+        for code, mc in ex.map(_get_mcap, top_codes):
             if mc is not None:
                 mcap_map[code] = mc
     merged["時価総額(億)"] = merged["コード"].map(mcap_map)
     print(f"  時価総額: {len(mcap_map)}件")
 
-    # 6. YTD（年初来パフォーマンス）取得
-    print("年初来パフォーマンス取得中...")
-    active_codes = merged["コード"].tolist()
-    ytd_map = fetch_ytd_perf(active_codes)
-    merged["年パフォ(%)"]  = merged["コード"].map(lambda c: ytd_map.get(c, {}).get("ytd_perf"))
-    merged["年初株価"]     = merged["コード"].map(lambda c: ytd_map.get(c, {}).get("year_start_price"))
-    print(f"  YTD取得: {len(ytd_map)}件")
+    # 6. YTD・年初株価はメインバッチ取得済み（period=ytd から計算済み）
+    print(f"  YTD済み: {merged['年パフォ(%)'].notna().sum()}件 / 年初株価: {merged['年初株価'].notna().sum()}件")
 
     # 6. 活発な銘柄上位150件を素材として材料取得
     # 売買代金上位50 + |前日比|上位50 + ボラ上位50 を合算してユニーク化
@@ -535,9 +538,9 @@ def main():
             "market":        str(row.get("市場区分", "")),
             "close":         sf(row.get("終値")),
             "change_pct":    sf(row.get("前日比(%)")),
-            "market_cap":       sf(row.get("時価総額(億)")),
-            "ytd_perf":         sf(row.get("年パフォ(%)")),
-            "year_start_price": sf(row.get("年初株価")),
+            "market_cap":       sf(row.get("時価総額(億)")),    # 上位300件のみ
+            "ytd_perf":         sf(row.get("年パフォ(%)")),    # 全銘柄（バッチから計算）
+            "year_start_price": sf(row.get("年初株価")),       # 全銘柄（バッチから計算）
             "intraday_vol":  sf(row.get("日中ボラ(%)")),
             "vol_3d":        sf(row.get("ボラ3日")),
             "vol_5d":        sf(row.get("ボラ5日")),
