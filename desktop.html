@@ -151,82 +151,89 @@
     </div>
     <div class="help-d-body">
 
+      <!-- アクセス方法 -->
       <div class="help-d-section">
         <div class="help-d-section-title">🔗 アクセス方法</div>
         <table class="help-d-table">
-          <tr><th>バージョン</th><th>URL / 方法</th></tr>
-          <tr><td>📱 スマホ版</td><td><a href="https://jpn-x.github.io/kabu-screener/" target="_blank" style="color:var(--accent)">kabu-screener/</a></td></tr>
-          <tr><td>🖥️ WebPC版</td><td><a href="https://jpn-x.github.io/kabu-screener/desktop.html" target="_blank" style="color:var(--accent)">desktop.html</a></td></tr>
-          <tr><td>💻 PCソフト</td><td>デスクトップ「デイトレスクリーナー.exe」</td></tr>
+          <tr><th style="width:120px">バージョン</th><th>URL</th></tr>
+          <tr><td>📱 スマホ版</td><td><a href="https://jpn-x.github.io/kabu-screener/" target="_blank" style="color:var(--accent)">https://jpn-x.github.io/kabu-screener/</a></td></tr>
+          <tr><td>🖥️ WebPC版</td><td><a href="https://jpn-x.github.io/kabu-screener/desktop.html" target="_blank" style="color:var(--accent)">https://jpn-x.github.io/kabu-screener/desktop.html</a></td></tr>
         </table>
       </div>
 
+      <!-- スクリーニング -->
       <div class="help-d-section">
-        <div class="help-d-section-title">🔍 スクリーニング</div>
+        <div class="help-d-section-title">🔍 スクリーニング設定</div>
         <table class="help-d-table">
-          <tr><th>項目</th><th>内容</th></tr>
-          <tr><td>データソース</td><td>複数選択可。売買代金・出来高・値上がり率・値下がり率・ストップ高安</td></tr>
+          <tr><th style="width:160px">項目</th><th>内容</th></tr>
+          <tr><td>データソース</td><td>複数選択可。売買代金・出来高・値上がり率・値下がり率・ストップ高・ストップ安</td></tr>
           <tr><td>市場フィルター</td><td>全市場 / プライム / スタンダード / グロース</td></tr>
-          <tr><td>日中ボラ(%)≥</td><td>選択期間の高値〜安値のレンジ幅</td></tr>
-          <tr><td>売買代金(億)≥</td><td>当日の売買代金フィルター</td></tr>
-          <tr><td>前日比 絶対値≥</td><td>上昇・下落どちらも対象</td></tr>
+          <tr><td>日中ボラ(%) ≥</td><td>選択期間の高値〜安値のレンジ幅（S高連続銘柄は大きな値）</td></tr>
+          <tr><td>売買代金(億) ≥</td><td>当日の売買代金フィルター</td></tr>
+          <tr><td>前日比 絶対値 ≥</td><td>上昇・下落どちらも対象</td></tr>
         </table>
-        <div class="help-d-tip"><strong>基本設定例</strong>: 売買代金+値上がり率+値下がり率 / ボラ5%・売買代金2.5億・前日比5%</div>
+        <div class="help-d-tip">💡 <strong>基本設定例：</strong> データソース「売買代金＋値上がり率＋値下がり率」/ ボラ5%・売買代金2.5億・前日比5%</div>
       </div>
 
+      <!-- ボラ期間 -->
       <div class="help-d-section">
-        <div class="help-d-section-title">📐 ボラ計算期間</div>
+        <div class="help-d-section-title">📐 ボラ計算期間（高値〜安値レンジ ÷ 起点終値）</div>
         <table class="help-d-table">
-          <tr><th>期間</th><th>意味</th></tr>
+          <tr><th style="width:120px">期間</th><th>意味</th></tr>
           <tr><td>当日</td><td>今日1日の高安レンジ ÷ 前日終値</td></tr>
-          <tr><td>3日 / 5日</td><td>直近N日の最高〜最安 ÷ N日前終値</td></tr>
-          <tr><td>20日（1ヶ月）</td><td>1ヶ月の総レンジ（S高連続は大きな値）</td></tr>
+          <tr><td>3日 / 5日</td><td>直近N日間の最高値〜最安値 ÷ N日前終値</td></tr>
+          <tr><td>20日（1ヶ月）</td><td>1ヶ月の総レンジ（S高連続なら80%超も）</td></tr>
         </table>
       </div>
 
+      <!-- 表示列 -->
       <div class="help-d-section">
-        <div class="help-d-section-title">📊 表示列</div>
+        <div class="help-d-section-title">📊 表示列の説明</div>
         <table class="help-d-table">
-          <tr><th>列</th><th>内容</th></tr>
-          <tr><td>時価総額(億)</td><td>最新の時価総額</td></tr>
-          <tr><td>年パフォ</td><td>年初来パフォーマンス（1月第1営業日〜直近）</td></tr>
+          <tr><th style="width:130px">列名</th><th>内容</th></tr>
+          <tr><td>時価総額(億)</td><td>最新の時価総額（億円）</td></tr>
+          <tr><td>年パフォ</td><td>年初来パフォーマンス（1月第1営業日〜直近終値）</td></tr>
           <tr><td>年初株価</td><td>大発会（1月第1営業日）の終値</td></tr>
-          <tr><td>ボラ(当日)</td><td>選択期間のボラティリティ</td></tr>
-          <tr><td>材料</td><td><span class="help-tag-d ir">IR</span>TDnet /<span class="help-tag-d dn">みんかぶ</span> / Google News</td></tr>
+          <tr><td>ボラ(当日)</td><td>選択期間のボラティリティ（赤=大きい）</td></tr>
+          <tr><td>売買代金(億)</td><td>当日の売買代金</td></tr>
+          <tr><td>材料</td><td><span class="help-tag-d ir">IR/本日</span><span class="help-tag-d ir">IR/前日</span> TDnet適時開示 ／ <span class="help-tag-d dn">みんかぶ</span> ／ Google News</td></tr>
         </table>
-        <div class="help-d-tip">💡 <strong>銘柄名クリック</strong>→株探ニュース / <strong>材料クリック</strong>→ソースページ / <strong>材料ホバー</strong>→全IR一覧</div>
+        <div class="help-d-tip">💡 <strong>銘柄名をクリック</strong>→株探ニュースページ ／ <strong>材料をクリック</strong>→ソースページを開く ／ <strong>材料にマウスを乗せる</strong>→全IR一覧をツールチップ表示</div>
       </div>
 
+      <!-- PTS -->
       <div class="help-d-section">
-        <div class="help-d-section-title">🔴🔵 PTSランキング</div>
+        <div class="help-d-section-title">🔴🔵 PTSランキング（夜間取引）</div>
         <div class="help-d-tip">
-          <strong>🔴 PTS上昇 / 🔵 PTS下落</strong> ボタンで夜間取引ランキング（各最大100件）を表示。<br>
-          「⬆ TOPに戻る」で通常モードへ。<br>
-          翌朝ギャップアップの先行指標として活用できます。
+          <strong>🔴 PTS上昇 / 🔵 PTS下落</strong> ボタンで夜間PTSランキング（各最大100件）を表示します。<br>
+          「⬆ TOPに戻る」または「📈 デイトレスクリーナー」をクリックで通常スクリーニングに戻ります。<br>
+          💡 引け後にPTS上昇している銘柄は翌朝ギャップアップしやすい傾向があります。
         </div>
       </div>
 
+      <!-- 最前面 -->
       <div class="help-d-section">
         <div class="help-d-section-title">📌 最前面表示</div>
         <table class="help-d-table">
-          <tr><th>方法</th><th>説明</th></tr>
-          <tr><td>📌 ボタン（Web）</td><td>Chrome PiPで浮かびウィンドウを表示（Chrome 116+）</td></tr>
-          <tr><td>最前面表示ボタン（PCソフト）</td><td>アプリウィンドウをOS最前面に固定</td></tr>
-          <tr><td>PowerToys (Win+Ctrl+T)</td><td>任意のウィンドウを最前面固定（無料）</td></tr>
+          <tr><th style="width:200px">方法</th><th>説明</th></tr>
+          <tr><td>📌 ボタン（このページ）</td><td>Chrome PiPで常に最前面の浮かびウィンドウを表示（Chrome 116以上）</td></tr>
+          <tr><td>PowerToys（無料）</td><td>Win+Ctrl+T で任意のウィンドウを最前面固定。Chromeウィンドウ全体を固定したい場合に便利</td></tr>
         </table>
       </div>
 
+      <!-- データ更新 -->
       <div class="help-d-section">
-        <div class="help-d-section-title">⏰ データ更新</div>
+        <div class="help-d-section-title">⏰ データ更新スケジュール</div>
         <table class="help-d-table">
-          <tr><th>時間帯</th><th>状態</th></tr>
-          <tr><td>平日 9:00〜16:40 JST</td><td>20分ごとに自動更新</td></tr>
-          <tr><td>深夜〜8:59 JST</td><td>前日の最終データを表示</td></tr>
+          <tr><th style="width:200px">時間帯</th><th>状態</th></tr>
+          <tr><td>平日 9:00〜16:40 JST</td><td>GitHub Actions が20分ごとに自動更新</td></tr>
+          <tr><td>深夜〜8:59 JST</td><td>前日の最終データを表示（市場クローズ中）</td></tr>
         </table>
+        <div class="help-d-tip">🔄 ヘッダーの更新ボタンで最新データに手動リロードできます</div>
       </div>
 
       <div class="help-d-warning">
-        ⚠️ 本ツールは情報提供を目的とするものであり、投資の推奨・売買の勧誘を行うものではありません。投資判断はご自身の責任において行ってください。
+        ⚠️ 本ツールは情報提供を目的とするものであり、投資の推奨・売買の勧誘を行うものではありません。投資判断はご自身の責任において行ってください。データの正確性・完全性を保証するものではありません。
       </div>
 
     </div>
