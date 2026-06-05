@@ -318,6 +318,10 @@ function setupSlider(sliderId, valId, initial, unit, onChange) {
 function showLoading(v) { $('loading-overlay').style.display = v ? 'flex' : 'none'; }
 function setRefresh(v)  { $('refresh-btn').classList.toggle('spinning', v); }
 function setStatus(msg) { $('status-txt').textContent = msg; }
+// ── Help Modal ───────────────────────────────────────────────
+function openHelpDesktop()  { document.getElementById('help-modal-d')?.classList.add('open');    document.body.style.overflow='hidden'; }
+function closeHelpDesktop() { document.getElementById('help-modal-d')?.classList.remove('open'); document.body.style.overflow=''; }
+
 // ── Picture-in-Picture（常に最前面）────────────────────────────
 let pipWindow = null;
 

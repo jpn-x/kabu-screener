@@ -17,6 +17,7 @@
       <button onclick="exitPtsMode()" class="header-title-btn" title="TOPに戻る・リロード">
         📈 デイトレスクリーナー
       </button>
+      <button class="icon-btn" id="help-btn-d" title="使い方" onclick="openHelpDesktop()">📖</button>
       <button class="icon-btn" id="pip-btn" title="最前面表示（浮かびウィンドウ）" onclick="togglePip()">📌</button>
       <button class="icon-btn" id="refresh-btn" title="データ更新">🔄</button>
     </div>
@@ -139,6 +140,97 @@
 <div id="loading-overlay">
   <div class="spinner"></div>
   <div class="loading-txt">データ取得中...</div>
+</div>
+
+<!-- ── Help Modal (Desktop) ── -->
+<div id="help-modal-d" onclick="if(event.target===this)closeHelpDesktop()">
+  <div class="help-sheet-d">
+    <div class="help-d-header">
+      <span class="help-d-title">📖 デイトレスクリーナー 使い方</span>
+      <button class="help-d-close" onclick="closeHelpDesktop()">✕</button>
+    </div>
+    <div class="help-d-body">
+
+      <div class="help-d-section">
+        <div class="help-d-section-title">🔗 アクセス方法</div>
+        <table class="help-d-table">
+          <tr><th>バージョン</th><th>URL / 方法</th></tr>
+          <tr><td>📱 スマホ版</td><td><a href="https://jpn-x.github.io/kabu-screener/" target="_blank" style="color:var(--accent)">kabu-screener/</a></td></tr>
+          <tr><td>🖥️ WebPC版</td><td><a href="https://jpn-x.github.io/kabu-screener/desktop.html" target="_blank" style="color:var(--accent)">desktop.html</a></td></tr>
+          <tr><td>💻 PCソフト</td><td>デスクトップ「デイトレスクリーナー.exe」</td></tr>
+        </table>
+      </div>
+
+      <div class="help-d-section">
+        <div class="help-d-section-title">🔍 スクリーニング</div>
+        <table class="help-d-table">
+          <tr><th>項目</th><th>内容</th></tr>
+          <tr><td>データソース</td><td>複数選択可。売買代金・出来高・値上がり率・値下がり率・ストップ高安</td></tr>
+          <tr><td>市場フィルター</td><td>全市場 / プライム / スタンダード / グロース</td></tr>
+          <tr><td>日中ボラ(%)≥</td><td>選択期間の高値〜安値のレンジ幅</td></tr>
+          <tr><td>売買代金(億)≥</td><td>当日の売買代金フィルター</td></tr>
+          <tr><td>前日比 絶対値≥</td><td>上昇・下落どちらも対象</td></tr>
+        </table>
+        <div class="help-d-tip"><strong>基本設定例</strong>: 売買代金+値上がり率+値下がり率 / ボラ5%・売買代金2.5億・前日比5%</div>
+      </div>
+
+      <div class="help-d-section">
+        <div class="help-d-section-title">📐 ボラ計算期間</div>
+        <table class="help-d-table">
+          <tr><th>期間</th><th>意味</th></tr>
+          <tr><td>当日</td><td>今日1日の高安レンジ ÷ 前日終値</td></tr>
+          <tr><td>3日 / 5日</td><td>直近N日の最高〜最安 ÷ N日前終値</td></tr>
+          <tr><td>20日（1ヶ月）</td><td>1ヶ月の総レンジ（S高連続は大きな値）</td></tr>
+        </table>
+      </div>
+
+      <div class="help-d-section">
+        <div class="help-d-section-title">📊 表示列</div>
+        <table class="help-d-table">
+          <tr><th>列</th><th>内容</th></tr>
+          <tr><td>時価総額(億)</td><td>最新の時価総額</td></tr>
+          <tr><td>年パフォ</td><td>年初来パフォーマンス（1月第1営業日〜直近）</td></tr>
+          <tr><td>年初株価</td><td>大発会（1月第1営業日）の終値</td></tr>
+          <tr><td>ボラ(当日)</td><td>選択期間のボラティリティ</td></tr>
+          <tr><td>材料</td><td><span class="help-tag-d ir">IR</span>TDnet /<span class="help-tag-d dn">みんかぶ</span> / Google News</td></tr>
+        </table>
+        <div class="help-d-tip">💡 <strong>銘柄名クリック</strong>→株探ニュース / <strong>材料クリック</strong>→ソースページ / <strong>材料ホバー</strong>→全IR一覧</div>
+      </div>
+
+      <div class="help-d-section">
+        <div class="help-d-section-title">🔴🔵 PTSランキング</div>
+        <div class="help-d-tip">
+          <strong>🔴 PTS上昇 / 🔵 PTS下落</strong> ボタンで夜間取引ランキング（各最大100件）を表示。<br>
+          「⬆ TOPに戻る」で通常モードへ。<br>
+          翌朝ギャップアップの先行指標として活用できます。
+        </div>
+      </div>
+
+      <div class="help-d-section">
+        <div class="help-d-section-title">📌 最前面表示</div>
+        <table class="help-d-table">
+          <tr><th>方法</th><th>説明</th></tr>
+          <tr><td>📌 ボタン（Web）</td><td>Chrome PiPで浮かびウィンドウを表示（Chrome 116+）</td></tr>
+          <tr><td>最前面表示ボタン（PCソフト）</td><td>アプリウィンドウをOS最前面に固定</td></tr>
+          <tr><td>PowerToys (Win+Ctrl+T)</td><td>任意のウィンドウを最前面固定（無料）</td></tr>
+        </table>
+      </div>
+
+      <div class="help-d-section">
+        <div class="help-d-section-title">⏰ データ更新</div>
+        <table class="help-d-table">
+          <tr><th>時間帯</th><th>状態</th></tr>
+          <tr><td>平日 9:00〜16:40 JST</td><td>20分ごとに自動更新</td></tr>
+          <tr><td>深夜〜8:59 JST</td><td>前日の最終データを表示</td></tr>
+        </table>
+      </div>
+
+      <div class="help-d-warning">
+        ⚠️ 本ツールは情報提供を目的とするものであり、投資の推奨・売買の勧誘を行うものではありません。投資判断はご自身の責任において行ってください。
+      </div>
+
+    </div>
+  </div>
 </div>
 
 <script src="assets/app-desktop.js"></script>

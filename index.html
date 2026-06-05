@@ -21,6 +21,7 @@
 <header>
   <div class="header-title">📈 デイトレスクリーナー</div>
   <div class="header-right">
+    <button id="help-btn" onclick="openHelp()" title="使い方">📖</button>
     <button class="icon-btn" id="refresh-btn" title="更新">🔄</button>
   </div>
 </header>
@@ -124,6 +125,117 @@
     <div id="modal-items"></div>
     <button id="modal-open-btn" class="modal-open-btn">📄 TDnetで確認する ↗</button>
     <button id="modal-close-btn" style="width:100%;margin-top:8px;background:none;border:1px solid var(--border);border-radius:8px;padding:12px;color:var(--text2);font-size:14px;cursor:pointer;">閉じる</button>
+  </div>
+</div>
+
+<!-- ── Help Modal ── -->
+<div id="help-modal" onclick="if(event.target===this)closeHelp()">
+  <div class="help-sheet">
+    <div class="help-handle"></div>
+    <div class="help-header">
+      <span class="help-title">📖 デイトレスクリーナー 使い方</span>
+      <button class="help-close" onclick="closeHelp()">✕</button>
+    </div>
+    <div class="help-body">
+
+      <!-- アクセス -->
+      <div class="help-section">
+        <div class="help-section-title">🔗 アクセス方法</div>
+        <table class="help-table">
+          <tr><th>バージョン</th><th>アクセス先</th></tr>
+          <tr><td>📱 スマホ版</td><td><a class="help-link" href="https://jpn-x.github.io/kabu-screener/" target="_blank">このページ</a></td></tr>
+          <tr><td>🖥️ PC版（Web）</td><td><a class="help-link" href="https://jpn-x.github.io/kabu-screener/desktop.html" target="_blank">desktop.html</a></td></tr>
+          <tr><td>💻 PCソフト</td><td>デスクトップの「デイトレスクリーナー」</td></tr>
+        </table>
+        <div class="help-tip">💡 <strong>iPhoneホーム画面に追加</strong>：Safari で「共有」→「ホーム画面に追加」でアプリとして使えます</div>
+      </div>
+
+      <!-- スクリーニング -->
+      <div class="help-section">
+        <div class="help-section-title">🔍 スクリーニングの使い方</div>
+        <table class="help-table">
+          <tr><th>設定項目</th><th>内容</th></tr>
+          <tr><td>データソース</td><td>複数選択可。売買代金・出来高・値上がり率・値下がり率・ストップ高安</td></tr>
+          <tr><td>市場</td><td>全市場 / プライム / スタンダード / グロース</td></tr>
+          <tr><td>日中ボラ(%)≥</td><td>選択期間の高値〜安値のレンジ幅</td></tr>
+          <tr><td>売買代金(億)≥</td><td>当日の売買代金フィルター</td></tr>
+          <tr><td>前日比 絶対値≥</td><td>上昇・下落どちらも対象</td></tr>
+        </table>
+        <div class="help-tip">
+          <strong>デイトレ基本設定例</strong><br>
+          売買代金 + 値上がり率 + 値下がり率 を選択<br>
+          ボラ5%・売買代金2.5億・前日比5%
+        </div>
+      </div>
+
+      <!-- ボラ期間 -->
+      <div class="help-section">
+        <div class="help-section-title">📐 ボラ計算期間</div>
+        <table class="help-table">
+          <tr><th>期間</th><th>意味</th></tr>
+          <tr><td>当日</td><td>今日1日の高安レンジ</td></tr>
+          <tr><td>3日</td><td>直近3日間の最高値〜最安値 ÷ 起点終値</td></tr>
+          <tr><td>5日</td><td>1週間の値幅レンジ</td></tr>
+          <tr><td>20日</td><td>1ヶ月の高値〜安値の総レンジ</td></tr>
+        </table>
+        <div class="help-tip">💡 S高連続の銘柄は長期ボラが大きく出ます（例：2日でS高×2 = 80%超）</div>
+      </div>
+
+      <!-- 表示項目 -->
+      <div class="help-section">
+        <div class="help-section-title">📊 表示項目一覧</div>
+        <table class="help-table">
+          <tr><th>項目</th><th>内容</th></tr>
+          <tr><td>時価総額</td><td>最新の時価総額（億円）</td></tr>
+          <tr><td>年パフォ</td><td><span class="help-tag up">+%</span>年初来パフォーマンス（1月第1営業日〜直近）</td></tr>
+          <tr><td>年初株価</td><td>大発会（1月第1営業日）の終値</td></tr>
+          <tr><td>ボラ(当日)</td><td>選択期間の高安レンジ率</td></tr>
+          <tr><td>売買代金(億)</td><td>当日の売買代金</td></tr>
+          <tr><td>材料</td><td><span class="help-tag ir">IR</span>公式開示 / <span class="help-tag dn">みんかぶ</span> / Google News</td></tr>
+        </table>
+      </div>
+
+      <!-- PTS -->
+      <div class="help-section">
+        <div class="help-section-title">🔴🔵 PTSランキング</div>
+        <div class="help-tip">
+          <strong>🔴 PTS上昇</strong> / <strong>🔵 PTS下落</strong> ボタンで夜間取引ランキングを確認<br>
+          各最大100件（5ページ分）を取得<br>
+          「⬆ TOPに戻る」で通常スクリーニングに戻る
+        </div>
+        <div class="help-tip">💡 翌朝の値動き予測に活用：引け後にPTS上昇している銘柄は翌朝ギャップアップしやすい</div>
+      </div>
+
+      <!-- 材料 -->
+      <div class="help-section">
+        <div class="help-section-title">📰 材料の見方</div>
+        <table class="help-table">
+          <tr><th>バッジ</th><th>ソース</th></tr>
+          <tr><td><span class="help-tag ir">IR/本日</span></td><td>TDnet（東証適時開示）当日発表</td></tr>
+          <tr><td><span class="help-tag ir">IR/前日</span></td><td>TDnet（東証適時開示）前日発表 ※最も重要</td></tr>
+          <tr><td><span class="help-tag dn">みんかぶ</span></td><td>みんかぶニュース</td></tr>
+          <tr><td><span class="help-tag">ニュース</span></td><td>Google News RSS</td></tr>
+        </table>
+        <div class="help-tip">💡 材料をタップするとソースページが開きます。📋アイコンがある場合は全IR一覧を表示できます</div>
+      </div>
+
+      <!-- データ更新 -->
+      <div class="help-section">
+        <div class="help-section-title">⏰ データ更新</div>
+        <table class="help-table">
+          <tr><th>時間帯</th><th>状態</th></tr>
+          <tr><td>平日 9:00〜16:40 JST</td><td>20分ごとに自動更新</td></tr>
+          <tr><td>深夜〜8:59 JST</td><td>前日の最終データを表示</td></tr>
+        </table>
+        <div class="help-tip">🔄 ヘッダーの更新ボタンで最新データに手動リロードできます</div>
+      </div>
+
+      <!-- 免責 -->
+      <div class="help-warning">
+        ⚠️ 本ツールは情報提供を目的とするものであり、投資の推奨・売買の勧誘を行うものではありません。投資判断はご自身の責任において行ってください。データの正確性・完全性を保証するものではありません。
+      </div>
+
+    </div>
   </div>
 </div>
 

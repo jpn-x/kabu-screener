@@ -507,6 +507,10 @@ function showToast(msg) {
   toastTimer = setTimeout(() => el.classList.remove('show'), 3000);
 }
 
+// ── Help Modal ───────────────────────────────────────────────
+function openHelp()  { document.getElementById('help-modal')?.classList.add('open');    document.body.style.overflow='hidden'; }
+function closeHelp() { document.getElementById('help-modal')?.classList.remove('open'); document.body.style.overflow=''; }
+
 function escHtml(str) {
   return String(str)
     .replace(/&/g, '&amp;')
