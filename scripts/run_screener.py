@@ -82,8 +82,10 @@ def calc_vol_range(highs, lows, closes, n):
     return round((ph - pl) / base * 100, 2) if base and base > 0 else None
 
 
-def fetch_ytd_perf(codes: list[str]) -> dict[str, float]:
-    """年初来パフォーマンスを取得 (1/1 → 直近終値)"""
+def fetch_ytd_perf(codes: list[str]) -> dict[str, dict]:
+    """年初来パフォーマンスと年初株価を取得 (1/1 → 直近終値)
+    returns: {code: {"ytd_perf": float, "year_start_price": float}}
+    """
     result = {}
     tickers = [f"{c}.T" for c in codes]
     try:
@@ -103,7 +105,10 @@ def fetch_ytd_perf(codes: list[str]) -> dict[str, float]:
                 year_start = closes.iloc[0]
                 latest     = closes.iloc[-1]
                 if year_start and year_start > 0:
-                    result[code] = round((latest - year_start) / year_start * 100, 2)
+                    result[code] = {
+                        "ytd_perf":        round((latest - year_start) / year_start * 100, 2),
+                        "year_start_price": round(float(year_start), 1),
+                    }
             except Exception:
                 pass
     except Exception as e:
@@ -485,7 +490,8 @@ def main():
     print("年初来パフォーマンス取得中...")
     active_codes = merged["コード"].tolist()
     ytd_map = fetch_ytd_perf(active_codes)
-    merged["年パフォ(%)"] = merged["コード"].map(ytd_map)
+    merged["年パフォ(%)"]  = merged["コード"].map(lambda c: ytd_map.get(c, {}).get("ytd_perf"))
+    merged["年初株価"]     = merged["コード"].map(lambda c: ytd_map.get(c, {}).get("year_start_price"))
     print(f"  YTD取得: {len(ytd_map)}件")
 
     # 6. 活発な銘柄上位150件を素材として材料取得
@@ -511,7 +517,8 @@ def main():
             "market":        str(row.get("市場区分", "")),
             "close":         sf(row.get("終値")),
             "change_pct":    sf(row.get("前日比(%)")),
-            "ytd_perf":      sf(row.get("年パフォ(%)")),
+            "ytd_perf":         sf(row.get("年パフォ(%)")),
+            "year_start_price": sf(row.get("年初株価")),
             "intraday_vol":  sf(row.get("日中ボラ(%)")),
             "vol_3d":        sf(row.get("ボラ3日")),
             "vol_5d":        sf(row.get("ボラ5日")),

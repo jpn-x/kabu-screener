@@ -92,7 +92,7 @@ function applyAndRender() {
 
 function sortRows() {
   const vf = VOL_PERIODS[state.volPeriod] || 'intraday_vol';
-  const keyMap = { vol: vf, chg: 'change_pct', tv: 'trading_value', close: 'close', ytd: 'ytd_perf' };
+  const keyMap = { vol: vf, chg: 'change_pct', tv: 'trading_value', close: 'close', ytd: 'ytd_perf', ysp: 'year_start_price' };
   const key = keyMap[state.sortCol] || vf;
   const asc = state.sortAsc;
 
@@ -139,12 +139,15 @@ function renderTable() {
     const ytd = s.ytd_perf;
     const ytdStr = ytd != null ? `${ytd >= 0 ? '+' : ''}${ytd.toFixed(1)}%` : '-';
     const ytdCls = ytd != null ? (ytd >= 0 ? 'c-up' : 'c-down') : 'c-dim';
+    const ysp = s.year_start_price;
+    const yspStr = ysp != null ? `¥${ysp.toLocaleString()}` : '-';
 
     return `<tr class="${rowCls}" data-code="${s.code}">
       <td class="col-code c-dim">${s.code}</td>
       <td class="col-name" style="text-align:left;padding-left:8px;">${escHtml(s.name)}</td>
       <td class="col-market c-dim">${mktAbbr(s.market)}</td>
       <td class="col-ytd ${ytdCls}">${ytdStr}</td>
+      <td class="col-ysp c-dim">${yspStr}</td>
       <td class="col-close">¥${closeStr}</td>
       <td class="col-chg ${up?'c-up':'c-down'}">${chgStr}</td>
       <td class="col-vol c-acc">${volStr}</td>
