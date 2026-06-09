@@ -31,7 +31,7 @@ const state = {
   filters: {
     pages: [...PAGES],
     market: '全市場',
-    minVol: 5.0, minTv: 2.5, minChange: 5.0,
+    minVol: 5.0, minTv: 0.0, minChange: 5.0,
   },
 };
 
