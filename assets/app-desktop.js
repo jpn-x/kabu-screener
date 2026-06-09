@@ -85,7 +85,7 @@ function applyAndRender() {
       if (!ok) return false;
     }
     if (f.pages.length && !f.pages.includes(s.source)) return false;
-    if (f.minVol > 0 && (s[vf] == null || s[vf] < f.minVol)) return false;
+    if (f.minVol > 0 && s[vf] != null && s[vf] < f.minVol) return false;
     if (f.minTv > 0  && (s.trading_value == null || s.trading_value < f.minTv)) return false;
     if (f.minChange > 0 && (s.change_pct == null || Math.abs(s.change_pct) < f.minChange)) return false;
     return true;
