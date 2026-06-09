@@ -129,7 +129,7 @@ def fetch_and_screen(codes: list[str], chunk_size=500) -> pd.DataFrame:
         print(f"  yfinance取得中... chunk {i+1}/{len(chunks)} ({len(chunk)}銘柄)")
         try:
             data = yf.download(
-                tickers, period="ytd", interval="1d",   # ytdに変更: YTDも同時取得
+                tickers, period="1y", interval="1d",   # 1y: 150営業日分を確保
                 auto_adjust=True, progress=False, threads=True
             )
             if data.empty:
@@ -172,10 +172,14 @@ def fetch_and_screen(codes: list[str], chunk_size=500) -> pd.DataFrame:
                     if tv < 0.3:
                         continue
 
-                    # YTD（年初来）をメインデータから計算（追加リクエスト不要）
-                    year_start_price = round(float(closes.iloc[0]), 1) if len(closes) >= 1 else None
-                    ytd_perf = round((close - closes.iloc[0]) / closes.iloc[0] * 100, 2) \
-                               if year_start_price and closes.iloc[0] > 0 else None
+                    # YTD（年初来）: 今年1月以降の最初の終値を年初株価とする
+                    this_year = str(datetime.now().year)
+                    ytd_closes = closes[closes.index.astype(str) >= this_year + "-01-01"] if hasattr(closes.index, 'astype') else closes
+                    if len(ytd_closes) < 1:
+                        ytd_closes = closes
+                    year_start_price = round(float(ytd_closes.iloc[0]), 1)
+                    ytd_perf = round((close - ytd_closes.iloc[0]) / ytd_closes.iloc[0] * 100, 2) \
+                               if ytd_closes.iloc[0] > 0 else None
 
                     all_rows.append({
                         "コード":           code,
@@ -185,6 +189,14 @@ def fetch_and_screen(codes: list[str], chunk_size=500) -> pd.DataFrame:
                         "ボラ3日":          calc_vol_range(highs, lows, closes, 3),
                         "ボラ5日":          calc_vol_range(highs, lows, closes, 5),
                         "ボラ20日":         calc_vol_range(highs, lows, closes, 20),
+                        "ボラ30日":         calc_vol_range(highs, lows, closes, 30),
+                        "ボラ40日":         calc_vol_range(highs, lows, closes, 40),
+                        "ボラ50日":         calc_vol_range(highs, lows, closes, 50),
+                        "ボラ60日":         calc_vol_range(highs, lows, closes, 60),
+                        "ボラ80日":         calc_vol_range(highs, lows, closes, 80),
+                        "ボラ100日":        calc_vol_range(highs, lows, closes, 100),
+                        "ボラ120日":        calc_vol_range(highs, lows, closes, 120),
+                        "ボラ150日":        calc_vol_range(highs, lows, closes, 150),
                         "売買代金(億)":     tv,
                         "出来高":           int(volume),
                         "年パフォ(%)":      ytd_perf,
@@ -551,6 +563,14 @@ def main():
             "vol_3d":        sf(row.get("ボラ3日")),
             "vol_5d":        sf(row.get("ボラ5日")),
             "vol_20d":       sf(row.get("ボラ20日")),
+            "vol_30d":       sf(row.get("ボラ30日")),
+            "vol_40d":       sf(row.get("ボラ40日")),
+            "vol_50d":       sf(row.get("ボラ50日")),
+            "vol_60d":       sf(row.get("ボラ60日")),
+            "vol_80d":       sf(row.get("ボラ80日")),
+            "vol_100d":      sf(row.get("ボラ100日")),
+            "vol_120d":      sf(row.get("ボラ120日")),
+            "vol_150d":      sf(row.get("ボラ150日")),
             "trading_value": sf(row.get("売買代金(億)")),
             "source":        str(row.get("_source", "")),
             "material_text": mat.get("text", ""),

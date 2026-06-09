@@ -11,7 +11,11 @@ function mktAbbr(market) {
   return m.slice(0, 3);
 }
 
-const VOL_PERIODS = { '当日': 'intraday_vol', '3日': 'vol_3d', '5日': 'vol_5d', '20日': 'vol_20d' };
+const VOL_PERIODS = {
+  '当日': 'intraday_vol', '3日': 'vol_3d', '5日': 'vol_5d', '20日': 'vol_20d',
+  '30日': 'vol_30d', '40日': 'vol_40d', '50日': 'vol_50d', '60日': 'vol_60d',
+  '80日': 'vol_80d', '100日': 'vol_100d', '120日': 'vol_120d', '150日': 'vol_150d',
+};
 const PAGES = ['売買代金','出来高','値上がり率','値下がり率','ストップ高','ストップ安','高ボラ'];
 const MARKETS = ['全市場','プライム','スタンダード','グロース'];
 const SITES = {
