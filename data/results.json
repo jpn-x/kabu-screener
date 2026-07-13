@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-13T19:04:00+09:00",
-  "updated_at_display": "07/13 19:04",
+  "updated_at": "2026-07-13T19:22:00+09:00",
+  "updated_at_display": "07/13 19:22",
   "count": 2223,
   "stocks": [
     {
@@ -107,8 +107,8 @@
       "vol_150d": 101.53,
       "trading_value": 4.1,
       "source": "高ボラ",
-      "material_text": "[株探] ★本日の【サプライズ決算】速報 (07月13日)",
-      "material_url": "https://kabutan.jp/stock/news?code=3647&b=n202607130982",
+      "material_text": "[株探] ★本日の【イチオシ決算】 インターアク、コジマ、ブックオフＧ (7月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=3647&b=n202607131095",
       "material_all": ""
     },
     {
@@ -2753,8 +2753,8 @@
       "vol_150d": 69.55,
       "trading_value": 5.4,
       "source": "出来高",
-      "material_text": "[株探] ★本日の【サプライズ決算】速報 (07月13日)",
-      "material_url": "https://kabutan.jp/stock/news?code=135A&b=n202607130982",
+      "material_text": "[株探] ★本日の【イチオシ決算】 インターアク、コジマ、ブックオフＧ (7月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=135A&b=n202607131095",
       "material_all": ""
     },
     {
@@ -18396,7 +18396,7 @@
       "market": "プライム（内国株式）",
       "close": 2440.0,
       "change_pct": -0.97,
-      "market_cap": null,
+      "market_cap": 4321.0,
       "ytd_perf": 70.6,
       "year_start_price": 1430.3,
       "intraday_vol": 3.98,
@@ -32949,7 +32949,7 @@
       "market": "グロース（内国株式）",
       "close": 2677.0,
       "change_pct": 0.19,
-      "market_cap": null,
+      "market_cap": 426.0,
       "ytd_perf": -4.62,
       "year_start_price": 2806.6,
       "intraday_vol": 2.58,
@@ -37134,7 +37134,7 @@
       "market": "プライム（内国株式）",
       "close": 3820.0,
       "change_pct": -1.29,
-      "market_cap": null,
+      "market_cap": 304.0,
       "ytd_perf": 0.2,
       "year_start_price": 3812.4,
       "intraday_vol": 2.33,
@@ -39834,7 +39834,7 @@
       "market": "プライム（内国株式）",
       "close": 2753.0,
       "change_pct": -0.02,
-      "market_cap": null,
+      "market_cap": 19070.0,
       "ytd_perf": 55.76,
       "year_start_price": 1767.4,
       "intraday_vol": 2.18,
@@ -52659,7 +52659,7 @@
       "market": "プライム（内国株式）",
       "close": 4230.0,
       "change_pct": 0.95,
-      "market_cap": null,
+      "market_cap": 701.0,
       "ytd_perf": 5.24,
       "year_start_price": 4019.6,
       "intraday_vol": 1.43,
@@ -60031,8 +60031,8 @@
       "name": "昭和ＨＤ",
       "market": "東S",
       "close": 25.0,
-      "pts_price": 35.7,
-      "pts_change_pct": 42.8,
+      "pts_price": 35.0,
+      "pts_change_pct": 40.0,
       "source": "PTS上昇",
       "material_text": "[IR/本日] 当社が保有する子会社株式等についての処分禁止の仮処分命令の発令に関するお知らせ",
       "material_url": "https://www.release.tdnet.info/inbs/140120260713592472.pdf",
@@ -60055,8 +60055,8 @@
       "name": "ｍｏｎｏＡＩ",
       "market": "東G",
       "close": 230.0,
-      "pts_price": 287.5,
-      "pts_change_pct": 25.0,
+      "pts_price": 275.0,
+      "pts_change_pct": 19.57,
       "source": "PTS上昇",
       "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 139 銘柄　下抜け＝ 81 銘柄　(7月10日)",
       "material_url": "https://kabutan.jp/stock/news?code=5240&b=n202607100851",
@@ -60091,8 +60091,8 @@
       "name": "サインポスト",
       "market": "東S",
       "close": 198.0,
-      "pts_price": 222.0,
-      "pts_change_pct": 12.12,
+      "pts_price": 220.0,
+      "pts_change_pct": 11.11,
       "source": "PTS上昇",
       "material_text": "[IR/前日] 2027年2月期 第1四半期決算短信〔日本基準〕(非連結)",
       "material_url": "https://www.release.tdnet.info/inbs/140120260710591435.pdf",
@@ -60103,8 +60103,8 @@
       "name": "コジマ",
       "market": "東P",
       "close": 1277.0,
-      "pts_price": 1387.6,
-      "pts_change_pct": 8.66,
+      "pts_price": 1400.0,
+      "pts_change_pct": 9.63,
       "source": "PTS上昇",
       "material_text": "[IR/本日] 2026年８月期 第３四半期決算短信〔日本基準〕（非連結）",
       "material_url": "https://www.release.tdnet.info/inbs/140120260623577479.pdf",
@@ -60115,8 +60115,8 @@
       "name": "インターアク",
       "market": "東P",
       "close": 1779.0,
-      "pts_price": 1907.8,
-      "pts_change_pct": 7.24,
+      "pts_price": 1930.0,
+      "pts_change_pct": 8.49,
       "source": "PTS上昇",
       "material_text": "[IR/本日] 2026年5月期決算短信〔日本基準〕（連結）",
       "material_url": "https://www.release.tdnet.info/inbs/140120260710591481.pdf",
@@ -60135,24 +60135,36 @@
       "material_all": ""
     },
     {
-      "code": "3168",
-      "name": "ＭＥＲＦ",
-      "market": "東S",
-      "close": 1450.0,
-      "pts_price": 1520.0,
-      "pts_change_pct": 4.83,
+      "code": "2388",
+      "name": "ウェッジＨＤ",
+      "market": "東G",
+      "close": 38.0,
+      "pts_price": 40.5,
+      "pts_change_pct": 6.58,
       "source": "PTS上昇",
-      "material_text": "[IR/本日] 2026年8月期通期業績予想の修正に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120260618574058.pdf",
-      "material_all": "[本日] 2026年8月期通期業績予想の修正に関するお知らせ\n[本日] 2026年８月期 第３四半期決算短信〔日本基準〕（連結）"
+      "material_text": "[株探] ウェッジＨＤについて、株式会社日本橋本町菓子処は保有割合が5％を超えたと報告 [大量保有報告書]",
+      "material_url": "https://kabutan.jp/stock/news?code=2388&b=n202607080700",
+      "material_all": ""
+    },
+    {
+      "code": "7063",
+      "name": "バードマン",
+      "market": "東G",
+      "close": 90.0,
+      "pts_price": 95.0,
+      "pts_change_pct": 5.56,
+      "source": "PTS上昇",
+      "material_text": "[IR/前日] 調達資金の資金使途及び支出時期の変更に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260710591521.pdf",
+      "material_all": "[本日] 第９回新株予約権の一部譲渡承認に関するお知らせ\n[前日] 調達資金の資金使途及び支出時期の変更に関するお知らせ\n[前日] 固定資産(系統用蓄電池設備)の取得に関するお知らせ"
     },
     {
       "code": "6897",
       "name": "ツインバード",
       "market": "東S",
       "close": 681.0,
-      "pts_price": 713.0,
-      "pts_change_pct": 4.7,
+      "pts_price": 715.0,
+      "pts_change_pct": 4.99,
       "source": "PTS上昇",
       "material_text": "[株探] ツインバード、3-5月期(1Q)経常は黒字浮上・通期計画を超過",
       "material_url": "https://kabutan.jp/stock/news?code=6897&b=k202607130006",
@@ -60163,24 +60175,12 @@
       "name": "さくらネット",
       "market": "東P",
       "close": 2834.0,
-      "pts_price": 2960.0,
-      "pts_change_pct": 4.45,
+      "pts_price": 2959.0,
+      "pts_change_pct": 4.41,
       "source": "PTS上昇",
       "material_text": "[株探] 生成AI時代で急成長、「コンテナ型データセンター」関連株を総点検 ＜株探トップ特集＞",
       "material_url": "https://kabutan.jp/stock/news?code=3778&b=n202607091155",
       "material_all": ""
-    },
-    {
-      "code": "7063",
-      "name": "バードマン",
-      "market": "東G",
-      "close": 90.0,
-      "pts_price": 94.0,
-      "pts_change_pct": 4.44,
-      "source": "PTS上昇",
-      "material_text": "[IR/前日] 調達資金の資金使途及び支出時期の変更に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120260710591521.pdf",
-      "material_all": "[本日] 第９回新株予約権の一部譲渡承認に関するお知らせ\n[前日] 調達資金の資金使途及び支出時期の変更に関するお知らせ\n[前日] 固定資産(系統用蓄電池設備)の取得に関するお知らせ"
     },
     {
       "code": "7042",
@@ -60195,6 +60195,18 @@
       "material_all": "[本日] 株式会社学生情報センターとの業務提携に関するお知らせ\n[本日] 取締役等に対する譲渡制限付株式報酬としての新株式発行に関するお知らせ"
     },
     {
+      "code": "3168",
+      "name": "ＭＥＲＦ",
+      "market": "東S",
+      "close": 1450.0,
+      "pts_price": 1510.0,
+      "pts_change_pct": 4.14,
+      "source": "PTS上昇",
+      "material_text": "[IR/本日] 2026年8月期通期業績予想の修正に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260618574058.pdf",
+      "material_all": "[本日] 2026年8月期通期業績予想の修正に関するお知らせ\n[本日] 2026年８月期 第３四半期決算短信〔日本基準〕（連結）"
+    },
+    {
       "code": "3900",
       "name": "クラウドＷ",
       "market": "東G",
@@ -60205,30 +60217,6 @@
       "material_text": "[IR/本日] 2026年９月期通期連結業績予想の修正（上方修正）に関するお知らせ",
       "material_url": "https://www.release.tdnet.info/inbs/140120260708589551.pdf",
       "material_all": "[本日] 2026年９月期通期連結業績予想の修正（上方修正）に関するお知らせ"
-    },
-    {
-      "code": "6573",
-      "name": "ＣＲＡＶＩＡ",
-      "market": "東G",
-      "close": 28.0,
-      "pts_price": 29.0,
-      "pts_change_pct": 3.57,
-      "source": "PTS上昇",
-      "material_text": "[株探] 韓国人気雑貨ブランド「ARTBOX」日本フランチャイズ第1号店オープン予定日変更（延期）のお知らせ",
-      "material_url": "https://kabutan.jp/disclosures/pdf/20260713/140120260713592265/",
-      "material_all": ""
-    },
-    {
-      "code": "4381",
-      "name": "ビープラッツ",
-      "market": "東G",
-      "close": 551.0,
-      "pts_price": 570.0,
-      "pts_change_pct": 3.45,
-      "source": "PTS上昇",
-      "material_text": "[株探] 新興市場銘柄ダイジェスト:ビープラッツが大幅反発、ムービンが高値を更新",
-      "material_url": "https://kabutan.jp/stock/news?code=4381&b=n202607130825",
-      "material_all": ""
     },
     {
       "code": "4076",
@@ -60259,8 +60247,8 @@
       "name": "Ｓａｎｓａｎ",
       "market": "東P",
       "close": 1695.0,
-      "pts_price": 1745.0,
-      "pts_change_pct": 2.95,
+      "pts_price": 1746.0,
+      "pts_change_pct": 3.01,
       "source": "PTS上昇",
       "material_text": "[IR/本日] 当社グループ従業員等に対する株価条件付ストックオプション（新株予約権）の発行に関するお知らせ",
       "material_url": "https://www.release.tdnet.info/inbs/140120260713592181.pdf",
@@ -60277,6 +60265,18 @@
       "material_text": "[株探] 第22回定時株主総会資料（電子提供措置事項のうち法令及び定款に基づく書面交付請求による交付書面に記載しない事項）",
       "material_url": "https://kabutan.jp/disclosures/pdf/20260707/140120260706588239/",
       "material_all": ""
+    },
+    {
+      "code": "6522",
+      "name": "アスタリスク",
+      "market": "東G",
+      "close": 1980.0,
+      "pts_price": 2035.0,
+      "pts_change_pct": 2.78,
+      "source": "PTS上昇",
+      "material_text": "[IR/本日] 第三者割当による第９及び第10回新株予約権の発行価額の払込完了に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260630584733.pdf",
+      "material_all": "[本日] 第三者割当による第９及び第10回新株予約権の発行価額の払込完了に関するお知らせ"
     },
     {
       "code": "7603",
@@ -60303,6 +60303,18 @@
       "material_all": "[本日] (訂正)「取締役（監査等委員であるものを除く。）および監査等委員である取締役候補者ならびに補欠の監査等委員である取締役候\n[本日] 2026年５月期 決算短信〔日本基準〕（連結）\n[本日] 剰余金の配当(増配)に関するお知らせ\n[本日] 取締役（監査等委員であるものを除く。）および監査等委員である取締役候補者ならびに補欠の監査等委員である取締役候補者等の決"
     },
     {
+      "code": "3436",
+      "name": "ＳＵＭＣＯ",
+      "market": "東P",
+      "close": 5133.0,
+      "pts_price": 5270.0,
+      "pts_change_pct": 2.67,
+      "source": "PTS上昇",
+      "material_text": "[株探] 【杉村富生の短期相場観測】 ─夏相場のターゲットになる特選銘柄群！",
+      "material_url": "https://kabutan.jp/stock/news?code=3436&b=n202607120018",
+      "material_all": ""
+    },
+    {
       "code": "6962",
       "name": "大真空",
       "market": "東P",
@@ -60312,6 +60324,42 @@
       "source": "PTS上昇",
       "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 100 銘柄　下抜け＝ 102 銘柄　(7月9日)",
       "material_url": "https://kabutan.jp/stock/news?code=6962&b=n202607090853",
+      "material_all": ""
+    },
+    {
+      "code": "4424",
+      "name": "Ａｍａｚｉａ",
+      "market": "東G",
+      "close": 392.0,
+      "pts_price": 402.0,
+      "pts_change_pct": 2.55,
+      "source": "PTS上昇",
+      "material_text": "[株探] 人気復活なるか、国策テーマで覚醒間近「エンタメ株」の仕込み場到来 ＜株探トップ特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=4424&b=n202607110185",
+      "material_all": ""
+    },
+    {
+      "code": "3087",
+      "name": "ドトル日レス",
+      "market": "東P",
+      "close": 2800.0,
+      "pts_price": 2870.0,
+      "pts_change_pct": 2.5,
+      "source": "PTS上昇",
+      "material_text": "[IR/本日] 2027年2月期 第1四半期決算短信〔日本基準〕（連結）",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260629583875.pdf",
+      "material_all": "[本日] 2027年2月期 第1四半期決算短信〔日本基準〕（連結）"
+    },
+    {
+      "code": "3048",
+      "name": "ビックカメラ",
+      "market": "東P",
+      "close": 1629.5,
+      "pts_price": 1670.0,
+      "pts_change_pct": 2.49,
+      "source": "PTS上昇",
+      "material_text": "[株探] ★本日の【イチオシ決算】 インターアク、コジマ、ブックオフＧ (7月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=3048&b=n202607131095",
       "material_all": ""
     },
     {
@@ -60327,6 +60375,18 @@
       "material_all": ""
     },
     {
+      "code": "4381",
+      "name": "ビープラッツ",
+      "market": "東G",
+      "close": 551.0,
+      "pts_price": 564.5,
+      "pts_change_pct": 2.45,
+      "source": "PTS上昇",
+      "material_text": "[株探] 新興市場銘柄ダイジェスト:ビープラッツが大幅反発、ムービンが高値を更新",
+      "material_url": "https://kabutan.jp/stock/news?code=4381&b=n202607130825",
+      "material_all": ""
+    },
+    {
       "code": "6666",
       "name": "リバーエレク",
       "market": "東S",
@@ -60337,6 +60397,18 @@
       "material_text": "[株探] コーポレート・ガバナンスに関する報告書 2026/07/01",
       "material_url": "https://kabutan.jp/disclosures/pdf/20260701/140120260619574689/",
       "material_all": ""
+    },
+    {
+      "code": "7085",
+      "name": "カーブスＨＤ",
+      "market": "東P",
+      "close": 910.0,
+      "pts_price": 931.0,
+      "pts_change_pct": 2.31,
+      "source": "PTS上昇",
+      "material_text": "[IR/本日] 自己株式立会外買付取引（ToSTNeT-３）による自己株式の買付けに関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260713592350.pdf",
+      "material_all": "[本日] 自己株式立会外買付取引（ToSTNeT-３）による自己株式の買付けに関するお知らせ\n[本日] 2026年８月期第３四半期決算短信〔日本基準〕(連結)\n[本日] 2026年８月期第３四半期 決算補足説明資料\n[本日] 自己株式の取得に関するお知らせ"
     },
     {
       "code": "6495",
@@ -60351,39 +60423,15 @@
       "material_all": ""
     },
     {
-      "code": "7085",
-      "name": "カーブスＨＤ",
+      "code": "2395",
+      "name": "新日本科学",
       "market": "東P",
-      "close": 910.0,
-      "pts_price": 930.5,
-      "pts_change_pct": 2.25,
+      "close": 1293.0,
+      "pts_price": 1321.0,
+      "pts_change_pct": 2.17,
       "source": "PTS上昇",
-      "material_text": "[IR/本日] 自己株式立会外買付取引（ToSTNeT-３）による自己株式の買付けに関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120260713592350.pdf",
-      "material_all": "[本日] 自己株式立会外買付取引（ToSTNeT-３）による自己株式の買付けに関するお知らせ\n[本日] 2026年８月期第３四半期決算短信〔日本基準〕(連結)\n[本日] 2026年８月期第３四半期 決算補足説明資料\n[本日] 自己株式の取得に関するお知らせ"
-    },
-    {
-      "code": "6315",
-      "name": "ＴＯＷＡ",
-      "market": "東P",
-      "close": 3155.0,
-      "pts_price": 3225.0,
-      "pts_change_pct": 2.22,
-      "source": "PTS上昇",
-      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 103 銘柄　逆転＝ 47 銘柄　(7月13日)",
-      "material_url": "https://kabutan.jp/stock/news?code=6315&b=n202607130792",
-      "material_all": ""
-    },
-    {
-      "code": "6976",
-      "name": "太陽誘電",
-      "market": "東P",
-      "close": 11900.0,
-      "pts_price": 12150.0,
-      "pts_change_pct": 2.1,
-      "source": "PTS上昇",
-      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 85 銘柄　DC＝ 82 銘柄　(7月9日)",
-      "material_url": "https://kabutan.jp/stock/news?code=6976&b=n202607090859",
+      "material_text": "[株探] ESG投資指数「FTSE JPX Blossom Japan Index」および「FTSE JPX Blossom Ja",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20260706/140120260706588335/",
       "material_all": ""
     },
     {
@@ -60406,8 +60454,8 @@
       "pts_price": 2130.0,
       "pts_change_pct": 2.01,
       "source": "PTS上昇",
-      "material_text": "[株探] ★本日の【サプライズ決算】速報 (07月13日)",
-      "material_url": "https://kabutan.jp/stock/news?code=9278&b=n202607130982",
+      "material_text": "[株探] ★本日の【イチオシ決算】 インターアク、コジマ、ブックオフＧ (7月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=9278&b=n202607131095",
       "material_all": ""
     },
     {
@@ -60423,30 +60471,6 @@
       "material_all": ""
     },
     {
-      "code": "2395",
-      "name": "新日本科学",
-      "market": "東P",
-      "close": 1293.0,
-      "pts_price": 1318.2,
-      "pts_change_pct": 1.95,
-      "source": "PTS上昇",
-      "material_text": "[株探] ESG投資指数「FTSE JPX Blossom Japan Index」および「FTSE JPX Blossom Ja",
-      "material_url": "https://kabutan.jp/disclosures/pdf/20260706/140120260706588335/",
-      "material_all": ""
-    },
-    {
-      "code": "3436",
-      "name": "ＳＵＭＣＯ",
-      "market": "東P",
-      "close": 5133.0,
-      "pts_price": 5230.0,
-      "pts_change_pct": 1.89,
-      "source": "PTS上昇",
-      "material_text": "[株探] 【杉村富生の短期相場観測】 ─夏相場のターゲットになる特選銘柄群！",
-      "material_url": "https://kabutan.jp/stock/news?code=3436&b=n202607120018",
-      "material_all": ""
-    },
-    {
       "code": "3987",
       "name": "エコモット",
       "market": "東G",
@@ -60459,15 +60483,15 @@
       "material_all": "[本日] 2026年８月期 第３四半期決算短信〔日本基準〕（連結）\n[本日] 2026年8月期第3四半期決算説明資料\n[本日] 特別利益（負ののれん発生益）の計上及び繰延税金資産計上に関するお知らせ\n[本日] 株主優待制度の変更(拡充)に関するお知らせ"
     },
     {
-      "code": "2388",
-      "name": "ウェッジＨＤ",
-      "market": "東G",
-      "close": 38.0,
-      "pts_price": 38.7,
+      "code": "6976",
+      "name": "太陽誘電",
+      "market": "東P",
+      "close": 11900.0,
+      "pts_price": 12119.0,
       "pts_change_pct": 1.84,
       "source": "PTS上昇",
-      "material_text": "[株探] ウェッジＨＤについて、株式会社日本橋本町菓子処は保有割合が5％を超えたと報告 [大量保有報告書]",
-      "material_url": "https://kabutan.jp/stock/news?code=2388&b=n202607080700",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 85 銘柄　DC＝ 82 銘柄　(7月9日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6976&b=n202607090859",
       "material_all": ""
     },
     {
@@ -60480,6 +60504,18 @@
       "source": "PTS上昇",
       "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 167 銘柄　売り＝ 92 銘柄　(6月29日)",
       "material_url": "https://kabutan.jp/stock/news?code=2644&b=n202606290742",
+      "material_all": ""
+    },
+    {
+      "code": "6525",
+      "name": "コクサイエレ",
+      "market": "東P",
+      "close": 10620.0,
+      "pts_price": 10810.0,
+      "pts_change_pct": 1.79,
+      "source": "PTS上昇",
+      "material_text": "[株探] 【杉村富生の短期相場観測】 ─夏相場のターゲットになる特選銘柄群！",
+      "material_url": "https://kabutan.jp/stock/news?code=6525&b=n202607120018",
       "material_all": ""
     },
     {
@@ -60531,16 +60567,16 @@
       "material_all": ""
     },
     {
-      "code": "6522",
-      "name": "アスタリスク",
-      "market": "東G",
-      "close": 1980.0,
-      "pts_price": 2011.1,
-      "pts_change_pct": 1.57,
+      "code": "6323",
+      "name": "ローツェ",
+      "market": "東P",
+      "close": 4684.0,
+      "pts_price": 4758.0,
+      "pts_change_pct": 1.58,
       "source": "PTS上昇",
-      "material_text": "[IR/本日] 第三者割当による第９及び第10回新株予約権の発行価額の払込完了に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120260630584733.pdf",
-      "material_all": "[本日] 第三者割当による第９及び第10回新株予約権の発行価額の払込完了に関するお知らせ"
+      "material_text": "[株探] 【杉村富生の短期相場観測】 ─夏相場のターゲットになる特選銘柄群！",
+      "material_url": "https://kabutan.jp/stock/news?code=6323&b=n202607120018",
+      "material_all": ""
     },
     {
       "code": "3536",
@@ -60555,39 +60591,15 @@
       "material_all": ""
     },
     {
-      "code": "4424",
-      "name": "Ａｍａｚｉａ",
-      "market": "東G",
-      "close": 392.0,
-      "pts_price": 397.9,
-      "pts_change_pct": 1.51,
+      "code": "1579",
+      "name": "日経ブル２    東Ｅ",
+      "market": "",
+      "close": 785.0,
+      "pts_price": 797.0,
+      "pts_change_pct": 1.53,
       "source": "PTS上昇",
-      "material_text": "[株探] 人気復活なるか、国策テーマで覚醒間近「エンタメ株」の仕込み場到来 ＜株探トップ特集＞",
-      "material_url": "https://kabutan.jp/stock/news?code=4424&b=n202607110185",
-      "material_all": ""
-    },
-    {
-      "code": "6136",
-      "name": "ＯＳＧ",
-      "market": "東P",
-      "close": 4058.0,
-      "pts_price": 4117.0,
-      "pts_change_pct": 1.45,
-      "source": "PTS上昇",
-      "material_text": "[株探] 本日の注目個別銘柄：良品計画、古野電気、OSGなど",
-      "material_url": "https://kabutan.jp/stock/news?code=6136&b=n202607130875",
-      "material_all": ""
-    },
-    {
-      "code": "6525",
-      "name": "コクサイエレ",
-      "market": "東P",
-      "close": 10620.0,
-      "pts_price": 10770.0,
-      "pts_change_pct": 1.41,
-      "source": "PTS上昇",
-      "material_text": "[株探] 【杉村富生の短期相場観測】 ─夏相場のターゲットになる特選銘柄群！",
-      "material_url": "https://kabutan.jp/stock/news?code=6525&b=n202607120018",
+      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 139 銘柄　逆転＝ 36 銘柄　(7月10日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1579&b=n202607100850",
       "material_all": ""
     },
     {
@@ -60595,11 +60607,59 @@
       "name": "日東紡",
       "market": "東P",
       "close": 3400.0,
-      "pts_price": 3448.0,
-      "pts_change_pct": 1.41,
+      "pts_price": 3450.0,
+      "pts_change_pct": 1.47,
       "source": "PTS上昇",
       "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 139 銘柄　逆転＝ 36 銘柄　(7月10日)",
       "material_url": "https://kabutan.jp/stock/news?code=3110&b=n202607100850",
+      "material_all": ""
+    },
+    {
+      "code": "6573",
+      "name": "ＣＲＡＶＩＡ",
+      "market": "東G",
+      "close": 28.0,
+      "pts_price": 28.4,
+      "pts_change_pct": 1.43,
+      "source": "PTS上昇",
+      "material_text": "[株探] 韓国人気雑貨ブランド「ARTBOX」日本フランチャイズ第1号店オープン予定日変更（延期）のお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20260713/140120260713592265/",
+      "material_all": ""
+    },
+    {
+      "code": "6315",
+      "name": "ＴＯＷＡ",
+      "market": "東P",
+      "close": 3155.0,
+      "pts_price": 3200.0,
+      "pts_change_pct": 1.43,
+      "source": "PTS上昇",
+      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 103 銘柄　逆転＝ 47 銘柄　(7月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6315&b=n202607130792",
+      "material_all": ""
+    },
+    {
+      "code": "1365",
+      "name": "ｉＦ日経Ｗブ    東Ｅ",
+      "market": "",
+      "close": 4487.0,
+      "pts_price": 4550.0,
+      "pts_change_pct": 1.4,
+      "source": "PTS上昇",
+      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 139 銘柄　逆転＝ 36 銘柄　(7月10日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1365&b=n202607100850",
+      "material_all": ""
+    },
+    {
+      "code": "1458",
+      "name": "楽天Ｗブル    東Ｅ",
+      "market": "",
+      "close": 86790.0,
+      "pts_price": 88000.0,
+      "pts_change_pct": 1.39,
+      "source": "PTS上昇",
+      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 139 銘柄　逆転＝ 36 銘柄　(7月10日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1458&b=n202607100850",
       "material_all": ""
     },
     {
@@ -60615,15 +60675,15 @@
       "material_all": ""
     },
     {
-      "code": "1579",
-      "name": "日経ブル２    東Ｅ",
+      "code": "1570",
+      "name": "日経レバ    東Ｅ",
       "market": "",
-      "close": 785.0,
-      "pts_price": 795.8,
-      "pts_change_pct": 1.38,
+      "close": 72730.0,
+      "pts_price": 73730.0,
+      "pts_change_pct": 1.37,
       "source": "PTS上昇",
       "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 139 銘柄　逆転＝ 36 銘柄　(7月10日)",
-      "material_url": "https://kabutan.jp/stock/news?code=1579&b=n202607100850",
+      "material_url": "https://kabutan.jp/stock/news?code=1570&b=n202607100850",
       "material_all": ""
     },
     {
@@ -60639,18 +60699,6 @@
       "material_all": ""
     },
     {
-      "code": "6323",
-      "name": "ローツェ",
-      "market": "東P",
-      "close": 4684.0,
-      "pts_price": 4747.0,
-      "pts_change_pct": 1.34,
-      "source": "PTS上昇",
-      "material_text": "[株探] 【杉村富生の短期相場観測】 ─夏相場のターゲットになる特選銘柄群！",
-      "material_url": "https://kabutan.jp/stock/news?code=6323&b=n202607120018",
-      "material_all": ""
-    },
-    {
       "code": "7599",
       "name": "ＩＤＯＭ",
       "market": "東P",
@@ -60658,8 +60706,8 @@
       "pts_price": 1359.0,
       "pts_change_pct": 1.34,
       "source": "PTS上昇",
-      "material_text": "[株探] ★本日の【サプライズ決算】速報 (07月13日)",
-      "material_url": "https://kabutan.jp/stock/news?code=7599&b=n202607130982",
+      "material_text": "[株探] ★本日の【イチオシ決算】 インターアク、コジマ、ブックオフＧ (7月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=7599&b=n202607131095",
       "material_all": ""
     },
     {
@@ -60687,30 +60735,6 @@
       "material_all": ""
     },
     {
-      "code": "1570",
-      "name": "日経レバ    東Ｅ",
-      "market": "",
-      "close": 72730.0,
-      "pts_price": 73650.0,
-      "pts_change_pct": 1.26,
-      "source": "PTS上昇",
-      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 139 銘柄　逆転＝ 36 銘柄　(7月10日)",
-      "material_url": "https://kabutan.jp/stock/news?code=1570&b=n202607100850",
-      "material_all": ""
-    },
-    {
-      "code": "3048",
-      "name": "ビックカメラ",
-      "market": "東P",
-      "close": 1629.5,
-      "pts_price": 1650.0,
-      "pts_change_pct": 1.26,
-      "source": "PTS上昇",
-      "material_text": "[株探] 明日の株式相場に向けて＝「銀行株」は年後半相場の主役に浮上するか",
-      "material_url": "https://kabutan.jp/stock/news?code=3048&b=n202607131017",
-      "material_all": ""
-    },
-    {
       "code": "1783",
       "name": "ファンタジス",
       "market": "東S",
@@ -60720,18 +60744,6 @@
       "source": "PTS上昇",
       "material_text": "[株探] 子ども向けサプリメントブランド「ぞうさんのおみせ」の開始及び新製品発売に関するお知らせ",
       "material_url": "https://kabutan.jp/disclosures/pdf/20260713/140120260713592338/",
-      "material_all": ""
-    },
-    {
-      "code": "6871",
-      "name": "日本マイクロ",
-      "market": "東P",
-      "close": 16550.0,
-      "pts_price": 16750.0,
-      "pts_change_pct": 1.21,
-      "source": "PTS上昇",
-      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 85 銘柄　DC＝ 82 銘柄　(7月9日)",
-      "material_url": "https://kabutan.jp/stock/news?code=6871&b=n202607090859",
       "material_all": ""
     },
     {
@@ -60747,6 +60759,42 @@
       "material_all": "[本日] 2026年5月期　決算短信〔日本基準〕（連結）\n[本日] 剰余金の配当（増配）に関するお知らせ"
     },
     {
+      "code": "4062",
+      "name": "イビデン",
+      "market": "東P",
+      "close": 18690.0,
+      "pts_price": 18915.0,
+      "pts_change_pct": 1.2,
+      "source": "PTS上昇",
+      "material_text": "[株探] 明日の株式相場に向けて＝「銀行株」は年後半相場の主役に浮上するか",
+      "material_url": "https://kabutan.jp/stock/news?code=4062&b=n202607131017",
+      "material_all": ""
+    },
+    {
+      "code": "4980",
+      "name": "デクセリ",
+      "market": "東P",
+      "close": 3922.0,
+      "pts_price": 3969.0,
+      "pts_change_pct": 1.2,
+      "source": "PTS上昇",
+      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 100 銘柄　下抜け＝ 102 銘柄　(7月9日)",
+      "material_url": "https://kabutan.jp/stock/news?code=4980&b=n202607090853",
+      "material_all": ""
+    },
+    {
+      "code": "6920",
+      "name": "レーザーテク",
+      "market": "東P",
+      "close": 44770.0,
+      "pts_price": 45300.0,
+      "pts_change_pct": 1.18,
+      "source": "PTS上昇",
+      "material_text": "[株探] ＜動意株・８日＞（大引け）＝タツモ、セルシス、ＧＯなど",
+      "material_url": "https://kabutan.jp/stock/news?code=6920&b=n202607080803",
+      "material_all": ""
+    },
+    {
       "code": "6031",
       "name": "ＺＥＴＡ",
       "market": "東G",
@@ -60756,18 +60804,6 @@
       "source": "PTS上昇",
       "material_text": "[株探] ZETA---アクタスがEC商品検索・サイト内検索エンジン「ZETA SEARCH」を導入",
       "material_url": "https://kabutan.jp/stock/news?code=6031&b=n202607070295",
-      "material_all": ""
-    },
-    {
-      "code": "4062",
-      "name": "イビデン",
-      "market": "東P",
-      "close": 18690.0,
-      "pts_price": 18900.0,
-      "pts_change_pct": 1.12,
-      "source": "PTS上昇",
-      "material_text": "[株探] 明日の株式相場に向けて＝「銀行株」は年後半相場の主役に浮上するか",
-      "material_url": "https://kabutan.jp/stock/news?code=4062&b=n202607131017",
       "material_all": ""
     },
     {
@@ -60783,18 +60819,6 @@
       "material_all": ""
     },
     {
-      "code": "1458",
-      "name": "楽天Ｗブル    東Ｅ",
-      "market": "",
-      "close": 86790.0,
-      "pts_price": 87750.0,
-      "pts_change_pct": 1.11,
-      "source": "PTS上昇",
-      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 139 銘柄　逆転＝ 36 銘柄　(7月10日)",
-      "material_url": "https://kabutan.jp/stock/news?code=1458&b=n202607100850",
-      "material_all": ""
-    },
-    {
       "code": "6264",
       "name": "マルマエ",
       "market": "東P",
@@ -60804,6 +60828,18 @@
       "source": "PTS上昇",
       "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 85 銘柄　DC＝ 82 銘柄　(7月9日)",
       "material_url": "https://kabutan.jp/stock/news?code=6264&b=n202607090859",
+      "material_all": ""
+    },
+    {
+      "code": "9508",
+      "name": "九州電",
+      "market": "東P",
+      "close": 1692.0,
+      "pts_price": 1710.0,
+      "pts_change_pct": 1.06,
+      "source": "PTS上昇",
+      "material_text": "[株探] [Summary] Notice Concerning the Second Report on the Missing",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20260708/140120260708589666/",
       "material_all": ""
     },
     {
@@ -60831,6 +60867,18 @@
       "material_all": ""
     },
     {
+      "code": "5801",
+      "name": "古河電",
+      "market": "東P",
+      "close": 3589.0,
+      "pts_price": 3625.0,
+      "pts_change_pct": 1.0,
+      "source": "PTS上昇",
+      "material_text": "[株探] ＜みんかぶ・個人投資家の予想から＞＝「買い予想数上昇」５位に古河電",
+      "material_url": "https://kabutan.jp/stock/news?code=5801&b=n202607100593",
+      "material_all": ""
+    },
+    {
       "code": "6855",
       "name": "電子材料",
       "market": "東S",
@@ -60855,27 +60903,15 @@
       "material_all": ""
     },
     {
-      "code": "6920",
-      "name": "レーザーテク",
+      "code": "6963",
+      "name": "ローム",
       "market": "東P",
-      "close": 44770.0,
-      "pts_price": 45210.0,
-      "pts_change_pct": 0.98,
+      "close": 5243.0,
+      "pts_price": 5295.0,
+      "pts_change_pct": 0.99,
       "source": "PTS上昇",
-      "material_text": "[株探] ＜動意株・８日＞（大引け）＝タツモ、セルシス、ＧＯなど",
-      "material_url": "https://kabutan.jp/stock/news?code=6920&b=n202607080803",
-      "material_all": ""
-    },
-    {
-      "code": "3656",
-      "name": "ＫＬａｂ",
-      "market": "東P",
-      "close": 204.0,
-      "pts_price": 206.0,
-      "pts_change_pct": 0.98,
-      "source": "PTS上昇",
-      "material_text": "[株探] 【7/21(火) 17時～】株主・投資家向け 新規事業説明会の開催及び事前質問の募集につきまして",
-      "material_url": "https://kabutan.jp/disclosures/pdf/20260713/140120260713592326/",
+      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 104 銘柄　逆転＝ 37 銘柄　(7月9日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6963&b=n202607090852",
       "material_all": ""
     },
     {
@@ -60912,30 +60948,6 @@
       "source": "PTS上昇",
       "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 32 銘柄　売り＝ 147 銘柄　(7月13日)",
       "material_url": "https://kabutan.jp/stock/news?code=6268&b=n202607130795",
-      "material_all": ""
-    },
-    {
-      "code": "1365",
-      "name": "ｉＦ日経Ｗブ    東Ｅ",
-      "market": "",
-      "close": 4487.0,
-      "pts_price": 4530.0,
-      "pts_change_pct": 0.96,
-      "source": "PTS上昇",
-      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 139 銘柄　逆転＝ 36 銘柄　(7月10日)",
-      "material_url": "https://kabutan.jp/stock/news?code=1365&b=n202607100850",
-      "material_all": ""
-    },
-    {
-      "code": "9216",
-      "name": "ビーウィズ",
-      "market": "東P",
-      "close": 1585.0,
-      "pts_price": 1600.0,
-      "pts_change_pct": 0.95,
-      "source": "PTS上昇",
-      "material_text": "[株探] ★本日の【サプライズ決算】速報 (07月13日)",
-      "material_url": "https://kabutan.jp/stock/news?code=9216&b=n202607130982",
       "material_all": ""
     },
     {
@@ -61011,18 +61023,6 @@
       "material_all": ""
     },
     {
-      "code": "5801",
-      "name": "古河電",
-      "market": "東P",
-      "close": 3589.0,
-      "pts_price": 3620.0,
-      "pts_change_pct": 0.86,
-      "source": "PTS上昇",
-      "material_text": "[株探] ＜みんかぶ・個人投資家の予想から＞＝「買い予想数上昇」５位に古河電",
-      "material_url": "https://kabutan.jp/stock/news?code=5801&b=n202607100593",
-      "material_all": ""
-    },
-    {
       "code": "1980",
       "name": "ダイダン",
       "market": "東P",
@@ -61042,8 +61042,20 @@
       "pts_price": 961.0,
       "pts_change_pct": 0.84,
       "source": "PTS上昇",
-      "material_text": "[株探] ★本日の【サプライズ決算】速報 (07月13日)",
-      "material_url": "https://kabutan.jp/stock/news?code=5578&b=n202607130982",
+      "material_text": "[株探] ★本日の【イチオシ決算】 インターアク、コジマ、ブックオフＧ (7月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=5578&b=n202607131095",
+      "material_all": ""
+    },
+    {
+      "code": "3607",
+      "name": "クラウディア",
+      "market": "東S",
+      "close": 359.0,
+      "pts_price": 362.0,
+      "pts_change_pct": 0.84,
+      "source": "PTS上昇",
+      "material_text": "[株探] クラウディア、9-5月期(3Q累計)経常は60％増益・通期計画を超過",
+      "material_url": "https://kabutan.jp/stock/news?code=3607&b=k202606300002",
       "material_all": ""
     },
     {
@@ -61059,15 +61071,39 @@
       "material_all": ""
     },
     {
-      "code": "9508",
-      "name": "九州電",
-      "market": "東P",
-      "close": 1692.0,
-      "pts_price": 1706.0,
+      "code": "3444",
+      "name": "菊池製作",
+      "market": "東S",
+      "close": 967.0,
+      "pts_price": 975.0,
       "pts_change_pct": 0.83,
       "source": "PTS上昇",
-      "material_text": "[株探] [Summary] Notice Concerning the Second Report on the Missing",
-      "material_url": "https://kabutan.jp/disclosures/pdf/20260708/140120260708589666/",
+      "material_text": "[株探] モノづくり国家日本の生命線、「フィジカルAI」関連株が再評価へ ＜株探トップ特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=3444&b=n202607081090",
+      "material_all": ""
+    },
+    {
+      "code": "8306",
+      "name": "三菱ＵＦＪ",
+      "market": "東P",
+      "close": 3541.0,
+      "pts_price": 3570.1,
+      "pts_change_pct": 0.82,
+      "source": "PTS上昇",
+      "material_text": "[株探] 明日の株式相場に向けて＝「銀行株」は年後半相場の主役に浮上するか",
+      "material_url": "https://kabutan.jp/stock/news?code=8306&b=n202607131017",
+      "material_all": ""
+    },
+    {
+      "code": "6981",
+      "name": "村田製",
+      "market": "東P",
+      "close": 9066.0,
+      "pts_price": 9140.0,
+      "pts_change_pct": 0.82,
+      "source": "PTS上昇",
+      "material_text": "[株探] 明日の株式相場に向けて＝「銀行株」は年後半相場の主役に浮上するか",
+      "material_url": "https://kabutan.jp/stock/news?code=6981&b=n202607131017",
       "material_all": ""
     },
     {
@@ -61080,30 +61116,6 @@
       "source": "PTS上昇",
       "material_text": "[株探] 明日の株式相場に向けて＝「銀行株」は年後半相場の主役に浮上するか",
       "material_url": "https://kabutan.jp/stock/news?code=8316&b=n202607131017",
-      "material_all": ""
-    },
-    {
-      "code": "6526",
-      "name": "ソシオネクス",
-      "market": "東P",
-      "close": 2677.0,
-      "pts_price": 2698.0,
-      "pts_change_pct": 0.78,
-      "source": "PTS上昇",
-      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 32 銘柄　売り＝ 147 銘柄　(7月13日)",
-      "material_url": "https://kabutan.jp/stock/news?code=6526&b=n202607130795",
-      "material_all": ""
-    },
-    {
-      "code": "1723",
-      "name": "日本電技",
-      "market": "東S",
-      "close": 2150.0,
-      "pts_price": 2166.8,
-      "pts_change_pct": 0.78,
-      "source": "PTS上昇",
-      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 46 銘柄　売り＝ 71 銘柄　(7月10日)",
-      "material_url": "https://kabutan.jp/stock/news?code=1723&b=n202607100853",
       "material_all": ""
     },
     {
@@ -61171,8 +61183,8 @@
       "name": "リベルタ",
       "market": "東S",
       "close": 410.0,
-      "pts_price": 391.0,
-      "pts_change_pct": -4.63,
+      "pts_price": 391.3,
+      "pts_change_pct": -4.56,
       "source": "PTS下落",
       "material_text": "[IR/本日] 第７回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
       "material_url": "https://www.release.tdnet.info/inbs/140120260713592267.pdf",
@@ -61183,8 +61195,8 @@
       "name": "レボリュー",
       "market": "東S",
       "close": 28.0,
-      "pts_price": 26.8,
-      "pts_change_pct": -4.29,
+      "pts_price": 26.9,
+      "pts_change_pct": -3.93,
       "source": "PTS下落",
       "material_text": "[株探] 販売用不動産の売却に関するお知らせ",
       "material_url": "https://kabutan.jp/disclosures/pdf/20260701/140120260701585966/",
@@ -61215,6 +61227,18 @@
       "material_all": "[本日] 2026年12月期　第２四半期（中間期）決算短信〔日本基準〕（連結）\n[本日] 2026年12月期 第２四半期決算説明資料"
     },
     {
+      "code": "2736",
+      "name": "フェスタリア",
+      "market": "東S",
+      "close": 693.0,
+      "pts_price": 672.0,
+      "pts_change_pct": -3.03,
+      "source": "PTS下落",
+      "material_text": "[IR/本日] 2026年８月期　第3四半期決算短信〔日本基準〕(連結)",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260713592145.pdf",
+      "material_all": "[本日] 2026年８月期　第3四半期決算短信〔日本基準〕(連結)\n[本日] 過年度法人税等の計上に関するお知らせ\n[本日] 株主優待制度の拡充に関するお知らせ\n[本日] 【フェスタリアHD】国内事業月次売上速報（6月速報）"
+    },
+    {
       "code": "9340",
       "name": "アソインター",
       "market": "東S",
@@ -61224,18 +61248,6 @@
       "source": "PTS下落",
       "material_text": "[株探] アソインター、7-3月期(3Q累計)経常が20％増益で着地・1-3月期も24％増益",
       "material_url": "https://kabutan.jp/stock/news?code=9340&b=k202605130125",
-      "material_all": ""
-    },
-    {
-      "code": "7138",
-      "name": "ＴＯＲＩＣＯ",
-      "market": "東G",
-      "close": 147.0,
-      "pts_price": 143.0,
-      "pts_change_pct": -2.72,
-      "source": "PTS下落",
-      "material_text": "[株探] 第三者割当により発行された第11回新株予約権（行使価額修正条項及び行使停止条項付）の月間行使状況に関するお知らせ",
-      "material_url": "https://kabutan.jp/disclosures/pdf/20260701/140120260701585950/",
       "material_all": ""
     },
     {
@@ -61258,9 +61270,21 @@
       "pts_price": 132.4,
       "pts_change_pct": -2.65,
       "source": "PTS下落",
-      "material_text": "[株探] ★本日の【サプライズ決算】速報 (07月13日)",
-      "material_url": "https://kabutan.jp/stock/news?code=3647&b=n202607130982",
+      "material_text": "[株探] ★本日の【イチオシ決算】 インターアク、コジマ、ブックオフＧ (7月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=3647&b=n202607131095",
       "material_all": ""
+    },
+    {
+      "code": "9418",
+      "name": "ＵＮＥＸＴ",
+      "market": "東P",
+      "close": 1713.0,
+      "pts_price": 1670.0,
+      "pts_change_pct": -2.51,
+      "source": "PTS下落",
+      "material_text": "[IR/本日] 2026年８月期　第３四半期決算短信［日本基準］（連結）",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260713592044.pdf",
+      "material_all": "[本日] 2026年８月期　第３四半期決算短信［日本基準］（連結）\n[本日] 2026年８月期　第３四半期決算説明資料"
     },
     {
       "code": "2370",
@@ -61275,18 +61299,6 @@
       "material_all": "[本日] ＥＴＦの収益分配のお知らせ"
     },
     {
-      "code": "4833",
-      "name": "Ｄｅｆコン",
-      "market": "東G",
-      "close": 55.0,
-      "pts_price": 53.8,
-      "pts_change_pct": -2.18,
-      "source": "PTS下落",
-      "material_text": "[IR/前日] 第三者割当による発行される第９回新株予約権の払込完了に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120260708589380.pdf",
-      "material_all": "[前日] 第三者割当による発行される第９回新株予約権の払込完了に関するお知らせ"
-    },
-    {
       "code": "4176",
       "name": "ココナラ",
       "market": "東G",
@@ -61299,16 +61311,16 @@
       "material_all": "[前日] 2026年8月期 第3四半期決算短信〔日本基準〕（連結）\n[前日] 2026年8月期第3四半期決算説明資料"
     },
     {
-      "code": "9418",
-      "name": "ＵＮＥＸＴ",
-      "market": "東P",
-      "close": 1713.0,
-      "pts_price": 1678.5,
-      "pts_change_pct": -2.01,
+      "code": "4833",
+      "name": "Ｄｅｆコン",
+      "market": "東G",
+      "close": 55.0,
+      "pts_price": 53.9,
+      "pts_change_pct": -2.0,
       "source": "PTS下落",
-      "material_text": "[IR/本日] 2026年８月期　第３四半期決算短信［日本基準］（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120260713592044.pdf",
-      "material_all": "[本日] 2026年８月期　第３四半期決算短信［日本基準］（連結）\n[本日] 2026年８月期　第３四半期決算説明資料"
+      "material_text": "[IR/前日] 第三者割当による発行される第９回新株予約権の払込完了に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260708589380.pdf",
+      "material_all": "[前日] 第三者割当による発行される第９回新株予約権の払込完了に関するお知らせ"
     },
     {
       "code": "8836",
@@ -61419,6 +61431,30 @@
       "material_all": ""
     },
     {
+      "code": "1360",
+      "name": "日経ベア２    東Ｅ",
+      "market": "",
+      "close": 67.7,
+      "pts_price": 66.7,
+      "pts_change_pct": -1.48,
+      "source": "PTS下落",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 50 銘柄　DC＝ 155 銘柄　(7月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1360&b=n202607130797",
+      "material_all": ""
+    },
+    {
+      "code": "1357",
+      "name": "日経Ｄインバ    東Ｅ",
+      "market": "",
+      "close": 2756.0,
+      "pts_price": 2716.0,
+      "pts_change_pct": -1.45,
+      "source": "PTS下落",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 50 銘柄　DC＝ 155 銘柄　(7月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1357&b=n202607130797",
+      "material_all": ""
+    },
+    {
       "code": "1671",
       "name": "ＷＴＩ原油    東Ｅ",
       "market": "",
@@ -61443,39 +61479,15 @@
       "material_all": ""
     },
     {
-      "code": "3777",
-      "name": "環境フレンド",
+      "code": "7138",
+      "name": "ＴＯＲＩＣＯ",
       "market": "東G",
-      "close": 51.0,
-      "pts_price": 50.3,
-      "pts_change_pct": -1.37,
+      "close": 147.0,
+      "pts_price": 145.0,
+      "pts_change_pct": -1.36,
       "source": "PTS下落",
-      "material_text": "[株探] （開示事項の経過）古里蓄電所の本格稼働開始のお知らせ",
-      "material_url": "https://kabutan.jp/disclosures/pdf/20260708/140120260708589534/",
-      "material_all": ""
-    },
-    {
-      "code": "1459",
-      "name": "楽天Ｗベア    東Ｅ",
-      "market": "",
-      "close": 111.0,
-      "pts_price": 109.5,
-      "pts_change_pct": -1.35,
-      "source": "PTS下落",
-      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 50 銘柄　DC＝ 155 銘柄　(7月13日)",
-      "material_url": "https://kabutan.jp/stock/news?code=1459&b=n202607130797",
-      "material_all": ""
-    },
-    {
-      "code": "1357",
-      "name": "日経Ｄインバ    東Ｅ",
-      "market": "",
-      "close": 2756.0,
-      "pts_price": 2720.0,
-      "pts_change_pct": -1.31,
-      "source": "PTS下落",
-      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 50 銘柄　DC＝ 155 銘柄　(7月13日)",
-      "material_url": "https://kabutan.jp/stock/news?code=1357&b=n202607130797",
+      "material_text": "[株探] 第三者割当により発行された第11回新株予約権（行使価額修正条項及び行使停止条項付）の月間行使状況に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20260701/140120260701585950/",
       "material_all": ""
     },
     {
@@ -61503,6 +61515,18 @@
       "material_all": "[本日] 2026年８月期 第３四半期決算短信〔日本基準〕（連結）"
     },
     {
+      "code": "1459",
+      "name": "楽天Ｗベア    東Ｅ",
+      "market": "",
+      "close": 111.0,
+      "pts_price": 109.6,
+      "pts_change_pct": -1.26,
+      "source": "PTS下落",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 50 銘柄　DC＝ 155 銘柄　(7月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1459&b=n202607130797",
+      "material_all": ""
+    },
+    {
       "code": "1368",
       "name": "ｉＦＴＰＷベ    東Ｅ",
       "market": "",
@@ -61515,39 +61539,15 @@
       "material_all": ""
     },
     {
-      "code": "4446",
-      "name": "リンクユーＧ",
-      "market": "東S",
-      "close": 815.0,
-      "pts_price": 805.0,
-      "pts_change_pct": -1.23,
-      "source": "PTS下落",
-      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 32 銘柄　売り＝ 147 銘柄　(7月13日)",
-      "material_url": "https://kabutan.jp/stock/news?code=4446&b=n202607130795",
-      "material_all": ""
-    },
-    {
-      "code": "8783",
-      "name": "ａｂｃ",
-      "market": "東S",
-      "close": 82.0,
-      "pts_price": 81.0,
-      "pts_change_pct": -1.22,
-      "source": "PTS下落",
-      "material_text": "[株探] ａｂｃについて、Long Corridor Asset Management Limitedは保有割合が5％を超えたと報",
-      "material_url": "https://kabutan.jp/stock/news?code=8783&b=n202607100997",
-      "material_all": ""
-    },
-    {
-      "code": "1360",
-      "name": "日経ベア２    東Ｅ",
-      "market": "",
-      "close": 67.7,
-      "pts_price": 66.9,
+      "code": "3777",
+      "name": "環境フレンド",
+      "market": "東G",
+      "close": 51.0,
+      "pts_price": 50.4,
       "pts_change_pct": -1.18,
       "source": "PTS下落",
-      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 50 銘柄　DC＝ 155 銘柄　(7月13日)",
-      "material_url": "https://kabutan.jp/stock/news?code=1360&b=n202607130797",
+      "material_text": "[株探] （開示事項の経過）古里蓄電所の本格稼働開始のお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20260708/140120260708589534/",
       "material_all": ""
     },
     {
@@ -61615,8 +61615,8 @@
       "name": "コスモス薬品",
       "market": "東P",
       "close": 6369.0,
-      "pts_price": 6305.0,
-      "pts_change_pct": -1.0,
+      "pts_price": 6300.0,
+      "pts_change_pct": -1.08,
       "source": "PTS下落",
       "material_text": "[IR/本日] 2026年５月期　決算短信〔日本基準〕（連結）",
       "material_url": "https://www.release.tdnet.info/inbs/140120260625579741.pdf",
@@ -61647,15 +61647,15 @@
       "material_all": ""
     },
     {
-      "code": "3133",
-      "name": "海帆",
-      "market": "東G",
-      "close": 81.0,
-      "pts_price": 80.2,
-      "pts_change_pct": -0.99,
+      "code": "5721",
+      "name": "Ｓクリプトエ",
+      "market": "東S",
+      "close": 63.0,
+      "pts_price": 62.4,
+      "pts_change_pct": -0.95,
       "source": "PTS下落",
-      "material_text": "[株探] コーポレート・ガバナンスに関する報告書 2026/07/09",
-      "material_url": "https://kabutan.jp/disclosures/pdf/20260709/140120260709590663/",
+      "material_text": "[株探] 太洋物産について、Ｓクリプトエは保有割合が5％を超えたと報告 [大量保有報告書]",
+      "material_url": "https://kabutan.jp/stock/news?code=5721&b=n202607020540",
       "material_all": ""
     },
     {
@@ -61695,18 +61695,6 @@
       "material_all": ""
     },
     {
-      "code": "3315",
-      "name": "日本コークス",
-      "market": "東P",
-      "close": 95.0,
-      "pts_price": 94.2,
-      "pts_change_pct": -0.84,
-      "source": "PTS下落",
-      "material_text": "[株探] コーポレート・ガバナンスに関する報告書 2026/07/09",
-      "material_url": "https://kabutan.jp/disclosures/pdf/20260709/140120260618573755/",
-      "material_all": ""
-    },
-    {
       "code": "7776",
       "name": "セルシード",
       "market": "東G",
@@ -61731,15 +61719,15 @@
       "material_all": "[本日] 上場維持基準（純資産基準）への適合に向けた計画の進捗状況について（第１回）\n[本日] 営業外収益及び営業外費用の計上に関するお知らせ\n[本日] 2027年２月期第１四半期決算短信〔日本基準〕(連結)"
     },
     {
-      "code": "2315",
-      "name": "ＣＡＩＣＡＤ",
+      "code": "1491",
+      "name": "中外鉱",
       "market": "東S",
-      "close": 61.0,
-      "pts_price": 60.5,
-      "pts_change_pct": -0.82,
+      "close": 717.0,
+      "pts_price": 711.2,
+      "pts_change_pct": -0.81,
       "source": "PTS下落",
-      "material_text": "[株探] 法定事後開示書類（吸収分割）（株式会社CAICAテクノロジーズ）",
-      "material_url": "https://kabutan.jp/disclosures/pdf/20260702/140120260702586939/",
+      "material_text": "[株探] 第134回定時株主総会資料(電子提供措置事項のうち法令及び定款に基づく書面交付請求による交付書面に記載しない事項)",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20260605/140120260602560303/",
       "material_all": ""
     },
     {
@@ -61791,18 +61779,6 @@
       "material_all": ""
     },
     {
-      "code": "3070",
-      "name": "ジェリビンズ",
-      "market": "東G",
-      "close": 85.0,
-      "pts_price": 84.4,
-      "pts_change_pct": -0.71,
-      "source": "PTS下落",
-      "material_text": "[株探] 本日の【株主優待】情報 (9日引け後 発表分)",
-      "material_url": "https://kabutan.jp/stock/news?code=3070&b=n202607091164",
-      "material_all": ""
-    },
-    {
       "code": "8789",
       "name": "フィンテック",
       "market": "東S",
@@ -61812,6 +61788,18 @@
       "source": "PTS下落",
       "material_text": "[株探] 組織変更および執行役員人事に関するお知らせ",
       "material_url": "https://kabutan.jp/disclosures/pdf/20260619/140120260618573989/",
+      "material_all": ""
+    },
+    {
+      "code": "1571",
+      "name": "日経インバ    東Ｅ",
+      "market": "",
+      "close": 294.0,
+      "pts_price": 292.0,
+      "pts_change_pct": -0.68,
+      "source": "PTS下落",
+      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 104 銘柄　逆転＝ 37 銘柄　(7月9日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1571&b=n202607090852",
       "material_all": ""
     },
     {
@@ -61827,15 +61815,15 @@
       "material_all": ""
     },
     {
-      "code": "6227",
-      "name": "ＡＩメカ",
+      "code": "7746",
+      "name": "岡本硝子",
       "market": "東S",
-      "close": 7790.0,
-      "pts_price": 7741.0,
+      "close": 793.0,
+      "pts_price": 788.0,
       "pts_change_pct": -0.63,
       "source": "PTS下落",
-      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 114 銘柄　下抜け＝ 113 銘柄　(7月13日)",
-      "material_url": "https://kabutan.jp/stock/news?code=6227&b=n202607130793",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 77 銘柄　DC＝ 64 銘柄　(7月10日)",
+      "material_url": "https://kabutan.jp/stock/news?code=7746&b=n202607100857",
       "material_all": ""
     },
     {
@@ -61851,15 +61839,15 @@
       "material_all": ""
     },
     {
-      "code": "1571",
-      "name": "日経インバ    東Ｅ",
-      "market": "",
-      "close": 294.0,
-      "pts_price": 292.2,
+      "code": "4446",
+      "name": "リンクユーＧ",
+      "market": "東S",
+      "close": 815.0,
+      "pts_price": 810.0,
       "pts_change_pct": -0.61,
       "source": "PTS下落",
-      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 104 銘柄　逆転＝ 37 銘柄　(7月9日)",
-      "material_url": "https://kabutan.jp/stock/news?code=1571&b=n202607090852",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 32 銘柄　売り＝ 147 銘柄　(7月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=4446&b=n202607130795",
       "material_all": ""
     },
     {
@@ -61875,15 +61863,39 @@
       "material_all": "[本日] 業績予想の修正に関するお知らせ"
     },
     {
-      "code": "6993",
-      "name": "大黒屋",
+      "code": "8783",
+      "name": "ａｂｃ",
       "market": "東S",
+      "close": 82.0,
+      "pts_price": 81.5,
+      "pts_change_pct": -0.61,
+      "source": "PTS下落",
+      "material_text": "[株探] ａｂｃについて、Long Corridor Asset Management Limitedは保有割合が5％を超えたと報",
+      "material_url": "https://kabutan.jp/stock/news?code=8783&b=n202607100997",
+      "material_all": ""
+    },
+    {
+      "code": "4563",
+      "name": "アンジェス",
+      "market": "東G",
+      "close": 51.0,
+      "pts_price": 50.7,
+      "pts_change_pct": -0.59,
+      "source": "PTS下落",
+      "material_text": "[株探] Asia Pacific Cell & Gene Therapy Excellence Awards 2026における受",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20260701/140120260630585194/",
+      "material_all": ""
+    },
+    {
+      "code": "3070",
+      "name": "ジェリビンズ",
+      "market": "東G",
       "close": 85.0,
       "pts_price": 84.5,
       "pts_change_pct": -0.59,
       "source": "PTS下落",
-      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 33 銘柄　売り＝ 102 銘柄　(7月8日)",
-      "material_url": "https://kabutan.jp/stock/news?code=6993&b=n202607080806",
+      "material_text": "[株探] 本日の【株主優待】情報 (9日引け後 発表分)",
+      "material_url": "https://kabutan.jp/stock/news?code=3070&b=n202607091164",
       "material_all": ""
     },
     {
@@ -61932,6 +61944,54 @@
       "source": "PTS下落",
       "material_text": "[株探] 第38回 ものづくりワールド東京「スマートメンテナンス展」に出展 XGRIDS新製品「Lixel K2」と3DGSを活用",
       "material_url": "https://kabutan.jp/disclosures/pdf/20260702/140120260702586795/",
+      "material_all": ""
+    },
+    {
+      "code": "6659",
+      "name": "メディアＬ",
+      "market": "東S",
+      "close": 55.0,
+      "pts_price": 54.7,
+      "pts_change_pct": -0.55,
+      "source": "PTS下落",
+      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 78 銘柄　下抜け＝ 104 銘柄　(6月30日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6659&b=n202606300822",
+      "material_all": ""
+    },
+    {
+      "code": "6217",
+      "name": "津田駒",
+      "market": "東S",
+      "close": 740.0,
+      "pts_price": 736.0,
+      "pts_change_pct": -0.54,
+      "source": "PTS下落",
+      "material_text": "[株探] 津田駒は後場終盤に下げ幅急拡大、原料価格高騰が響き今期営業利益予想を引き下げ",
+      "material_url": "https://kabutan.jp/stock/news?code=6217&b=n202607130752",
+      "material_all": ""
+    },
+    {
+      "code": "3315",
+      "name": "日本コークス",
+      "market": "東P",
+      "close": 95.0,
+      "pts_price": 94.5,
+      "pts_change_pct": -0.53,
+      "source": "PTS下落",
+      "material_text": "[株探] コーポレート・ガバナンスに関する報告書 2026/07/09",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20260709/140120260618573755/",
+      "material_all": ""
+    },
+    {
+      "code": "6227",
+      "name": "ＡＩメカ",
+      "market": "東S",
+      "close": 7790.0,
+      "pts_price": 7749.0,
+      "pts_change_pct": -0.53,
+      "source": "PTS下落",
+      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 114 銘柄　下抜け＝ 113 銘柄　(7月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6227&b=n202607130793",
       "material_all": ""
     },
     {
@@ -61995,6 +62055,18 @@
       "material_all": ""
     },
     {
+      "code": "5076",
+      "name": "インフロニア",
+      "market": "東P",
+      "close": 2803.5,
+      "pts_price": 2789.4,
+      "pts_change_pct": -0.5,
+      "source": "PTS下落",
+      "material_text": "[株探] 芙蓉総合リース---「静岡市アリーナ整備・運営事業」における特定事業契約を締結",
+      "material_url": "https://kabutan.jp/stock/news?code=5076&b=n202607131015",
+      "material_all": ""
+    },
+    {
       "code": "9973",
       "name": "ＫＯＺＯＨＤ",
       "market": "東S",
@@ -62007,6 +62079,30 @@
       "material_all": ""
     },
     {
+      "code": "3825",
+      "name": "リミックス",
+      "market": "東S",
+      "close": 201.0,
+      "pts_price": 200.0,
+      "pts_change_pct": -0.5,
+      "source": "PTS下落",
+      "material_text": "[株探] ディープテック専門メディア『DEEPPOINT』を本日プレリリース 情報発信を起点に、技術・企業・投資家をつなぐプラット",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20260713/140120260713592103/",
+      "material_all": ""
+    },
+    {
+      "code": "3133",
+      "name": "海帆",
+      "market": "東G",
+      "close": 81.0,
+      "pts_price": 80.6,
+      "pts_change_pct": -0.49,
+      "source": "PTS下落",
+      "material_text": "[株探] コーポレート・ガバナンスに関する報告書 2026/07/09",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20260709/140120260709590663/",
+      "material_all": ""
+    },
+    {
       "code": "2695",
       "name": "くら寿司",
       "market": "東P",
@@ -62016,18 +62112,6 @@
       "source": "PTS下落",
       "material_text": "[株探] [KRUS] くら寿司USA　3Q増収営業赤字縮小　売上高16％増8592万ドル、営業赤字3.90万ドル、EPS0.03",
       "material_url": "https://kabutan.jp/stock/news?code=2695&b=n202607080044",
-      "material_all": ""
-    },
-    {
-      "code": "5721",
-      "name": "Ｓクリプトエ",
-      "market": "東S",
-      "close": 63.0,
-      "pts_price": 62.7,
-      "pts_change_pct": -0.48,
-      "source": "PTS下落",
-      "material_text": "[株探] 太洋物産について、Ｓクリプトエは保有割合が5％を超えたと報告 [大量保有報告書]",
-      "material_url": "https://kabutan.jp/stock/news?code=5721&b=n202607020540",
       "material_all": ""
     },
     {
@@ -62064,6 +62148,18 @@
       "source": "PTS下落",
       "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 199 銘柄　下抜け＝ 70 銘柄　(7月6日)",
       "material_url": "https://kabutan.jp/stock/news?code=6958&b=n202607060884",
+      "material_all": ""
+    },
+    {
+      "code": "3664",
+      "name": "ＷＩＺＥ",
+      "market": "東G",
+      "close": 22.0,
+      "pts_price": 21.9,
+      "pts_change_pct": -0.45,
+      "source": "PTS下落",
+      "material_text": "[株探] ソラナ（SOL）の取得状況に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20260708/140120260708589623/",
       "material_all": ""
     },
     {
@@ -62187,88 +62283,16 @@
       "material_all": ""
     },
     {
-      "code": "9832",
-      "name": "オートバクス",
-      "market": "東P",
-      "close": 1486.0,
-      "pts_price": 1481.0,
-      "pts_change_pct": -0.34,
+      "code": "2334",
+      "name": "イオレ",
+      "market": "東G",
+      "close": 551.0,
+      "pts_price": 549.0,
+      "pts_change_pct": -0.36,
       "source": "PTS下落",
-      "material_text": "[株探] オートバクスが４日続伸、６月既存店売上高が３カ月連続前年上回る",
-      "material_url": "https://kabutan.jp/stock/news?code=9832&b=n202607070677",
-      "material_all": ""
-    },
-    {
-      "code": "1605",
-      "name": "ＩＮＰＥＸ",
-      "market": "東P",
-      "close": 3391.0,
-      "pts_price": 3380.0,
-      "pts_change_pct": -0.32,
-      "source": "PTS下落",
-      "material_text": "[株探] ＩＮＰＥＸや石油資源が高い、ホルムズ海峡の再封鎖を警戒しＷＴＩ価格上昇",
-      "material_url": "https://kabutan.jp/stock/news?code=1605&b=n202607130288",
-      "material_all": ""
-    },
-    {
-      "code": "4042",
-      "name": "東ソー",
-      "market": "東P",
-      "close": 2690.5,
-      "pts_price": 2681.9,
-      "pts_change_pct": -0.32,
-      "source": "PTS下落",
-      "material_text": "[株探] Notice Concerning the Disposal of Treasury Stock as Restrict",
-      "material_url": "https://kabutan.jp/disclosures/pdf/20260710/140120260710591139/",
-      "material_all": ""
-    },
-    {
-      "code": "6779",
-      "name": "日電波",
-      "market": "東P",
-      "close": 3200.0,
-      "pts_price": 3190.0,
-      "pts_change_pct": -0.31,
-      "source": "PTS下落",
-      "material_text": "[株探] 定款 2026/06/29",
-      "material_url": "https://kabutan.jp/disclosures/pdf/20260702/140120260702587194/",
-      "material_all": ""
-    },
-    {
-      "code": "7762",
-      "name": "シチズン",
-      "market": "東P",
-      "close": 2225.0,
-      "pts_price": 2218.5,
-      "pts_change_pct": -0.29,
-      "source": "PTS下落",
-      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 129 銘柄　DC＝ 86 銘柄　(7月8日)",
-      "material_url": "https://kabutan.jp/stock/news?code=7762&b=n202607080808",
-      "material_all": ""
-    },
-    {
-      "code": "9107",
-      "name": "川崎汽",
-      "market": "東P",
-      "close": 2537.0,
-      "pts_price": 2530.0,
-      "pts_change_pct": -0.28,
-      "source": "PTS下落",
-      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 50 銘柄　DC＝ 155 銘柄　(7月13日)",
-      "material_url": "https://kabutan.jp/stock/news?code=9107&b=n202607130797",
-      "material_all": ""
-    },
-    {
-      "code": "9997",
-      "name": "ベルーナ",
-      "market": "東P",
-      "close": 1058.0,
-      "pts_price": 1055.1,
-      "pts_change_pct": -0.27,
-      "source": "PTS下落",
-      "material_text": "[株探] Notice of Settlement of Accounts of Unlisted Parent Company,",
-      "material_url": "https://kabutan.jp/disclosures/pdf/20260630/140120260630584620/",
-      "material_all": ""
+      "material_text": "[IR/本日] 募集新株予約権（有償ストック・オプション）の発行内容確定に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260713592002.pdf",
+      "material_all": "[本日] 募集新株予約権（有償ストック・オプション）の発行内容確定に関するお知らせ"
     }
   ]
 }
