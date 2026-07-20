@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T18:50:00+09:00",
-  "updated_at_display": "07/20 18:50",
+  "updated_at": "2026-07-20T18:56:00+09:00",
+  "updated_at_display": "07/20 18:56",
   "count": 2386,
   "stocks": [
     {
@@ -485,7 +485,7 @@
       "vol_150d": 90.65,
       "trading_value": 1.6,
       "source": "高ボラ",
-      "material_text": "[ニュース] ＲＳＣ【4664】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＲＳＣ【4664】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -1980,7 +1980,7 @@
       "market": "プライム（内国株式）",
       "close": 6966.0,
       "change_pct": -8.11,
-      "market_cap": 8341.0,
+      "market_cap": null,
       "ytd_perf": 47.48,
       "year_start_price": 4723.5,
       "intraday_vol": 10.16,
@@ -11295,7 +11295,7 @@
       "market": "プライム（内国株式）",
       "close": 813.0,
       "change_pct": -4.35,
-      "market_cap": 2032.0,
+      "market_cap": null,
       "ytd_perf": 50.58,
       "year_start_price": 539.9,
       "intraday_vol": 6.59,
@@ -27431,7 +27431,7 @@
       "vol_150d": 66.78,
       "trading_value": 369.7,
       "source": "売買代金",
-      "material_text": "[ニュース] 三菱商事(株)【8058】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 三菱商事(株)【8058】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -65863,7 +65863,7 @@
       "pts_price": 835.1,
       "pts_change_pct": -2.1,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＲＳＣ【4664】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＲＳＣ【4664】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
