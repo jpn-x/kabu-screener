@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T18:36:00+09:00",
-  "updated_at_display": "07/31 18:36",
+  "updated_at": "2026-07-31T18:45:00+09:00",
+  "updated_at_display": "07/31 18:45",
   "count": 2209,
   "stocks": [
     {
@@ -458,7 +458,7 @@
       "vol_150d": 78.68,
       "trading_value": 106.3,
       "source": "値上がり率",
-      "material_text": "[ニュース] 「営業利益3倍」の衝撃。第一工業製薬（4461）が100億円を投じる“AIサーバーの絶縁材”という金脈 - note.c",
+      "material_text": "[ニュース] 「営業利益3倍」の衝撃。第一工業製薬（4461）が100億円を投じる“AIサーバーの絶縁材”という金脈 - note",
       "material_url": "",
       "material_all": ""
     },
@@ -485,7 +485,7 @@
       "vol_150d": 62.4,
       "trading_value": 6.1,
       "source": "高ボラ",
-      "material_text": "[ニュース] fundnote株式会社が佐藤商事＜8065＞株式の大量保有報告書を提出 - topics.smt.docomo.ne.",
+      "material_text": "[ニュース] fundnote株式会社が佐藤商事＜8065＞株式の大量保有報告書を提出 - ｄメニューニュース",
       "material_url": "",
       "material_all": ""
     },
@@ -971,7 +971,7 @@
       "vol_150d": 89.98,
       "trading_value": 2.2,
       "source": "高ボラ",
-      "material_text": "[ニュース] ジャフコ グループ株式会社が株式会社JSH＜150A＞株式の変更報告書を提出（保有減少） - topics.smt.do",
+      "material_text": "[ニュース] ジャフコ グループ株式会社が株式会社JSH＜150A＞株式の変更報告書を提出（保有減少） - ｄメニューニュース",
       "material_url": "",
       "material_all": ""
     },
@@ -1025,7 +1025,7 @@
       "vol_150d": 105.17,
       "trading_value": 20.1,
       "source": "高ボラ",
-      "material_text": "[ニュース] 三十三フィナンシャルグループ[7322]：臨時報告書 決議結果報告 (有価証券報告書) ：日経会社情報DIGITAL -",
+      "material_text": "[ニュース] (株)三十三フィナンシャルグループ【7322】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -1295,7 +1295,7 @@
       "vol_150d": 367.04,
       "trading_value": 74.6,
       "source": "値上がり率",
-      "material_text": "[ニュース] 野村證券株式会社が日本ケミコン株式会社＜6997＞株式の変更報告書を提出（保有減少） - topics.smt.doco",
+      "material_text": "[ニュース] 野村證券株式会社が日本ケミコン株式会社＜6997＞株式の変更報告書を提出（保有減少） - ｄメニューニュース",
       "material_url": "",
       "material_all": ""
     },
@@ -1548,7 +1548,7 @@
       "market": "プライム（内国株式）",
       "close": 1967.5,
       "change_pct": -10.47,
-      "market_cap": 49328.0,
+      "market_cap": 49326.0,
       "ytd_perf": -8.12,
       "year_start_price": 2141.4,
       "intraday_vol": 11.4,
@@ -3006,7 +3006,7 @@
       "market": "プライム（内国株式）",
       "close": 780.0,
       "change_pct": -3.82,
-      "market_cap": 1043.0,
+      "market_cap": 1036.0,
       "ytd_perf": 0.09,
       "year_start_price": 779.3,
       "intraday_vol": 9.37,
@@ -4454,7 +4454,7 @@
       "vol_150d": 243.42,
       "trading_value": 1417.8,
       "source": "売買代金",
-      "material_text": "[ニュース] ＪＸ金属(株)【5016】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] $JX金属 (5016.JP)$ 三井金属とJX金属は繋がりがあります。三井金属は先に上がりそうです🀄️ - Moomo",
       "material_url": "",
       "material_all": ""
     },
@@ -4950,7 +4950,7 @@
       "market": "プライム（内国株式）",
       "close": 8040.0,
       "change_pct": 3.88,
-      "market_cap": null,
+      "market_cap": 1895.0,
       "ytd_perf": 34.29,
       "year_start_price": 5987.1,
       "intraday_vol": 7.88,
@@ -6192,7 +6192,7 @@
       "market": "グロース（内国株式）",
       "close": 1012.0,
       "change_pct": 5.97,
-      "market_cap": 1401.0,
+      "market_cap": 1435.0,
       "ytd_perf": 46.45,
       "year_start_price": 691.0,
       "intraday_vol": 7.23,
@@ -7154,7 +7154,7 @@
       "vol_150d": 128.51,
       "trading_value": 418.5,
       "source": "売買代金",
-      "material_text": "[ニュース] 住友金属鉱山(株)【5713】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 住友金属鉱山(株)【5713】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -7839,7 +7839,7 @@
       "market": "プライム（内国株式）",
       "close": 2862.5,
       "change_pct": 2.23,
-      "market_cap": 3213.0,
+      "market_cap": 3214.0,
       "ytd_perf": 12.9,
       "year_start_price": 2535.4,
       "intraday_vol": 6.71,
@@ -8622,7 +8622,7 @@
       "market": "グロース（内国株式）",
       "close": 602.0,
       "change_pct": 1.52,
-      "market_cap": null,
+      "market_cap": 1095.0,
       "ytd_perf": -10.34,
       "year_start_price": 671.4,
       "intraday_vol": 6.41,
@@ -9216,7 +9216,7 @@
       "market": "スタンダード（内国株式）",
       "close": 2797.0,
       "change_pct": -4.21,
-      "market_cap": null,
+      "market_cap": 61.0,
       "ytd_perf": -13.27,
       "year_start_price": 3225.0,
       "intraday_vol": 6.27,
@@ -10134,7 +10134,7 @@
       "market": "グロース（内国株式）",
       "close": 615.0,
       "change_pct": 5.85,
-      "market_cap": 163.0,
+      "market_cap": null,
       "ytd_perf": -9.02,
       "year_start_price": 676.0,
       "intraday_vol": 6.02,
@@ -21707,7 +21707,7 @@
       "vol_150d": 38.98,
       "trading_value": 1383.3,
       "source": "売買代金",
-      "material_text": "[ニュース] 任天堂(株)【7974】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 任天堂 TSE:7974 ハズブロ提携でフェアバリュー圏は変わるのか ほぼ適正価格に注目 - simplywall.st",
       "material_url": "",
       "material_all": ""
     },
@@ -24579,7 +24579,7 @@
       "market": "プライム（内国株式）",
       "close": 637.5999755859375,
       "change_pct": -9.15,
-      "market_cap": 2023.0,
+      "market_cap": 2022.0,
       "ytd_perf": -10.04,
       "year_start_price": 708.8,
       "intraday_vol": 3.68,
@@ -29115,7 +29115,7 @@
       "market": "プライム（内国株式）",
       "close": 1581.5,
       "change_pct": -2.98,
-      "market_cap": null,
+      "market_cap": 9437.0,
       "ytd_perf": 10.96,
       "year_start_price": 1425.3,
       "intraday_vol": 3.28,
@@ -29304,7 +29304,7 @@
       "market": "プライム（内国株式）",
       "close": 2012.5,
       "change_pct": -4.78,
-      "market_cap": 5630.0,
+      "market_cap": 5627.0,
       "ytd_perf": 6.5,
       "year_start_price": 1889.7,
       "intraday_vol": 3.26,
@@ -32922,7 +32922,7 @@
       "market": "プライム（内国株式）",
       "close": 5883.0,
       "change_pct": -4.37,
-      "market_cap": 2066.0,
+      "market_cap": 2068.0,
       "ytd_perf": -10.02,
       "year_start_price": 6538.1,
       "intraday_vol": 2.99,
@@ -33749,7 +33749,7 @@
       "vol_150d": 58.42,
       "trading_value": 1131.6,
       "source": "売買代金",
-      "material_text": "[ニュース] 柳井 正が株式会社ファーストリテイリング＜9983＞株式の変更報告書を提出（保有減少） - topics.smt.doc",
+      "material_text": "[ニュース] 柳井 正が株式会社ファーストリテイリング＜9983＞株式の変更報告書を提出（保有減少） - ｄメニューニュース",
       "material_url": "",
       "material_all": ""
     },
@@ -34245,7 +34245,7 @@
       "market": "プライム（内国株式）",
       "close": 5894.0,
       "change_pct": -0.66,
-      "market_cap": null,
+      "market_cap": 20253.0,
       "ytd_perf": 26.52,
       "year_start_price": 4658.4,
       "intraday_vol": 2.92,
@@ -35244,7 +35244,7 @@
       "market": "スタンダード（内国株式）",
       "close": 795.0,
       "change_pct": 2.85,
-      "market_cap": 201.0,
+      "market_cap": 199.0,
       "ytd_perf": 9.3,
       "year_start_price": 727.3,
       "intraday_vol": 2.85,
@@ -36054,7 +36054,7 @@
       "market": "プライム（内国株式）",
       "close": 2850.0,
       "change_pct": -0.4,
-      "market_cap": null,
+      "market_cap": 17262.0,
       "ytd_perf": 33.78,
       "year_start_price": 2130.3,
       "intraday_vol": 2.8,
@@ -38187,7 +38187,7 @@
       "market": "プライム（内国株式）",
       "close": 3596.0,
       "change_pct": -4.18,
-      "market_cap": null,
+      "market_cap": 5532.0,
       "ytd_perf": -10.52,
       "year_start_price": 4018.6,
       "intraday_vol": 2.66,
@@ -38214,7 +38214,7 @@
       "market": "プライム（内国株式）",
       "close": 5278.0,
       "change_pct": 0.11,
-      "market_cap": null,
+      "market_cap": 12741.0,
       "ytd_perf": 57.58,
       "year_start_price": 3349.5,
       "intraday_vol": 2.66,
@@ -38376,7 +38376,7 @@
       "market": "プライム（内国株式）",
       "close": 5970.0,
       "change_pct": -1.32,
-      "market_cap": null,
+      "market_cap": 2103.0,
       "ytd_perf": 34.47,
       "year_start_price": 4439.7,
       "intraday_vol": 2.64,
@@ -43830,7 +43830,7 @@
       "market": "プライム（内国株式）",
       "close": 6110.0,
       "change_pct": 0.15,
-      "market_cap": null,
+      "market_cap": 24657.0,
       "ytd_perf": 21.71,
       "year_start_price": 5020.1,
       "intraday_vol": 2.28,
@@ -46395,7 +46395,7 @@
       "market": "プライム（内国株式）",
       "close": 1303.0,
       "change_pct": -0.84,
-      "market_cap": 233.0,
+      "market_cap": 218.0,
       "ytd_perf": 13.65,
       "year_start_price": 1146.5,
       "intraday_vol": 2.13,
@@ -48393,7 +48393,7 @@
       "market": "プライム（内国株式）",
       "close": 921.0,
       "change_pct": -1.6,
-      "market_cap": null,
+      "market_cap": 1240.0,
       "ytd_perf": -6.62,
       "year_start_price": 986.3,
       "intraday_vol": 2.03,
@@ -49176,7 +49176,7 @@
       "market": "プライム（内国株式）",
       "close": 3050.0,
       "change_pct": 0.16,
-      "market_cap": 440.0,
+      "market_cap": 367.0,
       "ytd_perf": 17.28,
       "year_start_price": 2600.7,
       "intraday_vol": 1.97,
@@ -50229,7 +50229,7 @@
       "market": "プライム（内国株式）",
       "close": 2634.0,
       "change_pct": -0.85,
-      "market_cap": null,
+      "market_cap": 4276.0,
       "ytd_perf": 13.67,
       "year_start_price": 2317.2,
       "intraday_vol": 1.9,
@@ -52605,7 +52605,7 @@
       "market": "プライム（内国株式）",
       "close": 1485.0,
       "change_pct": -1.07,
-      "market_cap": null,
+      "market_cap": 1571.0,
       "ytd_perf": 5.68,
       "year_start_price": 1405.2,
       "intraday_vol": 1.73,
@@ -52632,7 +52632,7 @@
       "market": "グロース（内国株式）",
       "close": 402.0,
       "change_pct": -0.74,
-      "market_cap": null,
+      "market_cap": 96.0,
       "ytd_perf": -49.62,
       "year_start_price": 798.0,
       "intraday_vol": 1.73,
@@ -56358,7 +56358,7 @@
       "market": "グロース（内国株式）",
       "close": 2311.0,
       "change_pct": -0.99,
-      "market_cap": null,
+      "market_cap": 202.0,
       "ytd_perf": 2.71,
       "year_start_price": 2250.1,
       "intraday_vol": 1.41,
@@ -56493,7 +56493,7 @@
       "market": "プライム（内国株式）",
       "close": 1747.0,
       "change_pct": -3.77,
-      "market_cap": 9957.0,
+      "market_cap": 9911.0,
       "ytd_perf": -2.84,
       "year_start_price": 1798.1,
       "intraday_vol": 1.4,
@@ -56574,7 +56574,7 @@
       "market": "プライム（内国株式）",
       "close": 1311.0,
       "change_pct": 0.19,
-      "market_cap": 15774.0,
+      "market_cap": 15712.0,
       "ytd_perf": 12.45,
       "year_start_price": 1165.8,
       "intraday_vol": 1.38,
@@ -57303,7 +57303,7 @@
       "market": "プライム（内国株式）",
       "close": 2091.0,
       "change_pct": -0.24,
-      "market_cap": 282.0,
+      "market_cap": 283.0,
       "ytd_perf": -23.6,
       "year_start_price": 2736.8,
       "intraday_vol": 1.29,
@@ -58761,7 +58761,7 @@
       "market": "プライム（内国株式）",
       "close": 951.0,
       "change_pct": -0.21,
-      "market_cap": 101.0,
+      "market_cap": 202.0,
       "ytd_perf": -6.16,
       "year_start_price": 1013.4,
       "intraday_vol": 0.84,
@@ -59453,7 +59453,7 @@
       "vol_150d": 1114.53,
       "trading_value": 548.5,
       "source": "値上がり率",
-      "material_text": "[ニュース] $キオクシアホールディングス (285A.JP)$ - Moomoo",
+      "material_text": "[ニュース] キオクシア、非開示だった上期最終は36倍増で2期ぶり最高益更新へ - 株探",
       "material_url": "",
       "material_all": ""
     },
@@ -59653,8 +59653,8 @@
       "name": "トーメンデバ",
       "market": "東P",
       "close": 21150.0,
-      "pts_price": 25975.0,
-      "pts_change_pct": 22.81,
+      "pts_price": 25900.0,
+      "pts_change_pct": 22.46,
       "source": "PTS上昇",
       "material_text": "[ニュース] トーメンデバイス[2737]：業績予想および配当予想の修正（増配）に関するお知らせ 2026年7月30日(適時開示) ：",
       "material_url": "",
@@ -59665,8 +59665,8 @@
       "name": "カシオ",
       "market": "東P",
       "close": 1764.5,
-      "pts_price": 2064.9,
-      "pts_change_pct": 17.02,
+      "pts_price": 2050.0,
+      "pts_change_pct": 16.18,
       "source": "PTS上昇",
       "material_text": "[ニュース] カシオ計算機[6952]：譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ 2026年7月24日(適時",
       "material_url": "",
@@ -59733,18 +59733,6 @@
       "material_all": ""
     },
     {
-      "code": "4052",
-      "name": "フィーチャ",
-      "market": "東G",
-      "close": 342.0,
-      "pts_price": 370.0,
-      "pts_change_pct": 8.19,
-      "source": "PTS上昇",
-      "material_text": "[ニュース] 新興株31日：グロース250続伸、フィーチャがストップ高 幅広く買い先行 - BigGo ファイナンス",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
       "code": "2121",
       "name": "ＭＩＸＩ",
       "market": "東P",
@@ -59793,18 +59781,6 @@
       "material_all": "[本日] 2027年３月期 第１四半期決算短信〔日本基準〕（連結）\n[本日] 2027年3月期 第1四半期決算説明資料\n[本日] 通期連結業績予想及び配当予想の修正に関するお知らせ"
     },
     {
-      "code": "1879",
-      "name": "新日本建",
-      "market": "東P",
-      "close": 2112.0,
-      "pts_price": 2260.0,
-      "pts_change_pct": 7.01,
-      "source": "PTS上昇",
-      "material_text": "[IR/本日] 2027年３月期第１四半期決算短信〔日本基準〕(連結)",
-      "material_url": "https://www.release.tdnet.info/inbs/140120260729501927.pdf",
-      "material_all": "[本日] 2027年３月期第１四半期決算短信〔日本基準〕(連結)\n[本日] 2027年３月期第２四半期（中間期）連結業績予想の公表および中間配当予想の修正（増配）に関するお知らせ\n[本日] 株主優待制度の一部変更（拡充）に関するお知らせ"
-    },
-    {
       "code": "7510",
       "name": "たけびし",
       "market": "東P",
@@ -59813,6 +59789,18 @@
       "pts_change_pct": 6.85,
       "source": "PTS上昇",
       "material_text": "[ニュース] たけびし[7510]：取締役及び執行役員に対する譲渡制限付株式としての新株式発行の払込完了に関するお知らせ 2026年7",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "4052",
+      "name": "フィーチャ",
+      "market": "東G",
+      "close": 342.0,
+      "pts_price": 365.0,
+      "pts_change_pct": 6.73,
+      "source": "PTS上昇",
+      "material_text": "[ニュース] 新興株31日：グロース250続伸、フィーチャがストップ高 幅広く買い先行 - BigGo ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -59839,6 +59827,18 @@
       "material_text": "[ニュース] 東洋紡(株)【3101】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
+    },
+    {
+      "code": "1879",
+      "name": "新日本建",
+      "market": "東P",
+      "close": 2112.0,
+      "pts_price": 2250.0,
+      "pts_change_pct": 6.53,
+      "source": "PTS上昇",
+      "material_text": "[IR/本日] 2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260729501927.pdf",
+      "material_all": "[本日] 2027年３月期第１四半期決算短信〔日本基準〕(連結)\n[本日] 2027年３月期第２四半期（中間期）連結業績予想の公表および中間配当予想の修正（増配）に関するお知らせ\n[本日] 株主優待制度の一部変更（拡充）に関するお知らせ"
     },
     {
       "code": "8005",
@@ -59877,26 +59877,38 @@
       "material_all": "[本日] 特別利益（投資有価証券売却益）の計上ならびに第2四半期（中間期）および通期業績予想の修正に関するお知らせ"
     },
     {
-      "code": "7844",
-      "name": "マーベラス",
+      "code": "4784",
+      "name": "ＧＭＯインタ",
       "market": "東P",
-      "close": 468.0,
-      "pts_price": 495.0,
-      "pts_change_pct": 5.77,
+      "close": 560.0,
+      "pts_price": 594.0,
+      "pts_change_pct": 6.07,
       "source": "PTS上昇",
-      "material_text": "[IR/本日] 主要株主の異動に伴う資本業務提携の解消、一部プロジェクトの中止、社外取締役の辞任、主要株主及び主要株主である筆頭株主の異",
-      "material_url": "https://www.release.tdnet.info/inbs/140120260731505303.pdf",
-      "material_all": "[本日] 2027年３月期第１四半期決算短信〔日本基準〕(連結)\n[本日] 2027年３月期第１四半期決算説明資料\n[本日] 主要株主の異動に伴う資本業務提携の解消、一部プロジェクトの中止、社外取締役の辞任、主要株主及び主要株主である筆頭株主の異\n[本日] 自己株式の取得及び自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ\n[本日] 自己株式の消却に関するお知らせ"
+      "material_text": "[ニュース] ＧＭＯインターネット(株)【4784】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "6993",
       "name": "大黒屋",
       "market": "東S",
       "close": 90.0,
-      "pts_price": 94.9,
-      "pts_change_pct": 5.44,
+      "pts_price": 94.5,
+      "pts_change_pct": 5.0,
       "source": "PTS上昇",
       "material_text": "[ニュース] 大黒屋ホールディングス(株)【6993】：株価チャート - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "6508",
+      "name": "明電舎",
+      "market": "東P",
+      "close": 9620.0,
+      "pts_price": 10100.0,
+      "pts_change_pct": 4.99,
+      "source": "PTS上昇",
+      "material_text": "[ニュース] 明電舎[6508]：2027年３月期第１四半期決算補足資料 2026年7月31日(適時開示) ：日経会社情報DIGITA",
       "material_url": "",
       "material_all": ""
     },
@@ -59961,18 +59973,6 @@
       "material_all": ""
     },
     {
-      "code": "6508",
-      "name": "明電舎",
-      "market": "東P",
-      "close": 9620.0,
-      "pts_price": 10000.0,
-      "pts_change_pct": 3.95,
-      "source": "PTS上昇",
-      "material_text": "[ニュース] 明電舎[6508]：2027年３月期第１四半期決算補足資料 2026年7月31日(適時開示) ：日経会社情報DIGITA",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
       "code": "6969",
       "name": "松尾電",
       "market": "東S",
@@ -60004,7 +60004,7 @@
       "pts_price": 518.0,
       "pts_change_pct": 3.6,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 横田　大造がクリアル株式会社＜2998＞株式の変更報告書を提出（保有減少） - topics.smt.docomo.ne",
+      "material_text": "[ニュース] 横田　大造がクリアル株式会社＜2998＞株式の変更報告書を提出（保有減少） - ｄメニューニュース",
       "material_url": "",
       "material_all": ""
     },
@@ -60033,6 +60033,42 @@
       "material_all": ""
     },
     {
+      "code": "7844",
+      "name": "マーベラス",
+      "market": "東P",
+      "close": 468.0,
+      "pts_price": 483.7,
+      "pts_change_pct": 3.35,
+      "source": "PTS上昇",
+      "material_text": "[IR/本日] 主要株主の異動に伴う資本業務提携の解消、一部プロジェクトの中止、社外取締役の辞任、主要株主及び主要株主である筆頭株主の異",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260731505303.pdf",
+      "material_all": "[本日] 2027年３月期第１四半期決算短信〔日本基準〕(連結)\n[本日] 2027年３月期第１四半期決算説明資料\n[本日] 主要株主の異動に伴う資本業務提携の解消、一部プロジェクトの中止、社外取締役の辞任、主要株主及び主要株主である筆頭株主の異\n[本日] 自己株式の取得及び自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ\n[本日] 自己株式の消却に関するお知らせ"
+    },
+    {
+      "code": "2370",
+      "name": "メディネット",
+      "market": "東G",
+      "close": 25.0,
+      "pts_price": 25.8,
+      "pts_change_pct": 3.2,
+      "source": "PTS上昇",
+      "material_text": "[ニュース] (株)メディネット【2370】：掲示板 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "1514",
+      "name": "住石ＨＤ",
+      "market": "東S",
+      "close": 577.0,
+      "pts_price": 595.0,
+      "pts_change_pct": 3.12,
+      "source": "PTS上昇",
+      "material_text": "[IR/本日] 自己株式取得及び自己株式立会外買付取引(ToSTNeT-3)による自己株式の買付に係る事項の決定に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260730503554.pdf",
+      "material_all": "[本日] 自己株式取得及び自己株式立会外買付取引(ToSTNeT-3)による自己株式の買付に係る事項の決定に関するお知らせ"
+    },
+    {
       "code": "6988",
       "name": "日東電",
       "market": "東P",
@@ -60043,18 +60079,6 @@
       "material_text": "[ニュース] 日東電工(株)【6988】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
-    },
-    {
-      "code": "1514",
-      "name": "住石ＨＤ",
-      "market": "東S",
-      "close": 577.0,
-      "pts_price": 594.0,
-      "pts_change_pct": 2.95,
-      "source": "PTS上昇",
-      "material_text": "[IR/本日] 自己株式取得及び自己株式立会外買付取引(ToSTNeT-3)による自己株式の買付に係る事項の決定に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120260730503554.pdf",
-      "material_all": "[本日] 自己株式取得及び自己株式立会外買付取引(ToSTNeT-3)による自己株式の買付に係る事項の決定に関するお知らせ"
     },
     {
       "code": "7897",
@@ -60105,18 +60129,6 @@
       "material_all": "[本日] 自己株式の取得及び自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ"
     },
     {
-      "code": "8783",
-      "name": "ａｂｃ",
-      "market": "東S",
-      "close": 57.0,
-      "pts_price": 58.5,
-      "pts_change_pct": 2.63,
-      "source": "PTS上昇",
-      "material_text": "[ニュース] ＧＦＡ(株)【8783】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
       "code": "4583",
       "name": "カイオム",
       "market": "東G",
@@ -60141,6 +60153,30 @@
       "material_all": ""
     },
     {
+      "code": "6912",
+      "name": "菊水ＨＤ",
+      "market": "東S",
+      "close": 2264.0,
+      "pts_price": 2319.0,
+      "pts_change_pct": 2.43,
+      "source": "PTS上昇",
+      "material_text": "[IR/前日] 第２四半期（中間期）及び通期業績予想の修正に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260724599389.pdf",
+      "material_all": "[前日] 第２四半期（中間期）及び通期業績予想の修正に関するお知らせ\n[前日] 2027年３月期　第１四半期決算短信〔日本基準〕(連結)"
+    },
+    {
+      "code": "8783",
+      "name": "ａｂｃ",
+      "market": "東S",
+      "close": 57.0,
+      "pts_price": 58.3,
+      "pts_change_pct": 2.28,
+      "source": "PTS上昇",
+      "material_text": "[ニュース] ＧＦＡ(株)【8783】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
       "code": "6268",
       "name": "ナブテスコ",
       "market": "東P",
@@ -60151,18 +60187,6 @@
       "material_text": "[IR/本日] 2026年12月期 中間会計期間の業績予想値と実績値の差異並びに通期業績予想の修正に関するお知らせ",
       "material_url": "https://www.release.tdnet.info/inbs/140120260731505044.pdf",
       "material_all": "[本日] 2026年12月期 中間会計期間の業績予想値と実績値の差異並びに通期業績予想の修正に関するお知らせ\n[本日] 2026年12月期第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）\n[本日] 自己株式の取得枠の設定及び自己株式消却に関するお知らせ"
-    },
-    {
-      "code": "3133",
-      "name": "海帆",
-      "market": "東G",
-      "close": 90.0,
-      "pts_price": 92.0,
-      "pts_change_pct": 2.22,
-      "source": "PTS上昇",
-      "material_text": "[ニュース] (株)海帆【3133】：株価チャート - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
     },
     {
       "code": "1366",
@@ -60181,7 +60205,7 @@
       "name": "九州電",
       "market": "東P",
       "close": 1779.0,
-      "pts_price": 1817.0,
+      "pts_price": 1817.1,
       "pts_change_pct": 2.14,
       "source": "PTS上昇",
       "material_text": "[ニュース] 九州電力(株)【9508】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
@@ -60201,14 +60225,26 @@
       "material_all": "[本日] 台湾における子会社設立に関するお知らせ"
     },
     {
-      "code": "3070",
-      "name": "ジェリビンズ",
-      "market": "東G",
-      "close": 67.0,
-      "pts_price": 68.4,
+      "code": "1360",
+      "name": "日経ベア２    東Ｅ",
+      "market": "",
+      "close": 71.8,
+      "pts_price": 73.3,
       "pts_change_pct": 2.09,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ジェリービーンズグループ【3070】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 【決算速報】Sphere Entertainment Co.（SPHR）の第2四半期売上高は3億1360万ドル - Mo",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "2134",
+      "name": "北浜ＣＰ",
+      "market": "東S",
+      "close": 24.0,
+      "pts_price": 24.5,
+      "pts_change_pct": 2.08,
+      "source": "PTS上昇",
+      "material_text": "[ニュース] 北浜キャピタルパートナーズ(株)【2134】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60237,18 +60273,6 @@
       "material_all": "[本日] 2027年3月期 第1四半期決算短信〔日本基準〕(連結)\n[本日] 「2027年3月期第2四半期（累計）及び通期業績予想の上方修正」並びに「2027年3月期 配当予想の修正（増配）」に関す"
     },
     {
-      "code": "6135",
-      "name": "牧野フ",
-      "market": "東P",
-      "close": 13920.0,
-      "pts_price": 14200.0,
-      "pts_change_pct": 2.01,
-      "source": "PTS上昇",
-      "material_text": "[ニュース] (株)牧野フライス製作所【6135】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
       "code": "9130",
       "name": "共栄タ",
       "market": "東S",
@@ -60259,6 +60283,42 @@
       "material_text": "[ニュース] 共栄タンカー(株)【9130】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
+    },
+    {
+      "code": "4220",
+      "name": "リケンテクノ",
+      "market": "東P",
+      "close": 2216.0,
+      "pts_price": 2260.0,
+      "pts_change_pct": 1.99,
+      "source": "PTS上昇",
+      "material_text": "[ニュース] リケンテクノス[4220]：自己株式取得に係る事項の決定に関するお知らせ 2026年7月31日(適時開示) ：日経会社情",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "1357",
+      "name": "日経Ｄインバ    東Ｅ",
+      "market": "",
+      "close": 2926.0,
+      "pts_price": 2983.1,
+      "pts_change_pct": 1.95,
+      "source": "PTS上昇",
+      "material_text": "[ニュース] (NEXT FUNDS) 日経ダブルインバース上場投信【1357】：今の株価の理由は？値動きの背景をAIが解説 - Ya",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "1939",
+      "name": "四電工",
+      "market": "東P",
+      "close": 2007.0,
+      "pts_price": 2045.0,
+      "pts_change_pct": 1.89,
+      "source": "PTS上昇",
+      "material_text": "[IR/本日] 2027年３月期 第1四半期決算短信〔日本基準〕（連結）",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260731504361.pdf",
+      "material_all": "[本日] 2027年３月期 第1四半期決算短信〔日本基準〕（連結）"
     },
     {
       "code": "3069",
@@ -60285,18 +60345,6 @@
       "material_all": ""
     },
     {
-      "code": "1357",
-      "name": "日経Ｄインバ    東Ｅ",
-      "market": "",
-      "close": 2926.0,
-      "pts_price": 2980.0,
-      "pts_change_pct": 1.85,
-      "source": "PTS上昇",
-      "material_text": "[ニュース] (NEXT FUNDS) 日経ダブルインバース上場投信【1357】：今の株価の理由は？値動きの背景をAIが解説 - Ya",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
       "code": "5955",
       "name": "ワイズＨＤ",
       "market": "東S",
@@ -60309,26 +60357,14 @@
       "material_all": ""
     },
     {
-      "code": "1360",
-      "name": "日経ベア２    東Ｅ",
-      "market": "",
-      "close": 71.8,
-      "pts_price": 73.1,
-      "pts_change_pct": 1.81,
+      "code": "6135",
+      "name": "牧野フ",
+      "market": "東P",
+      "close": 13920.0,
+      "pts_price": 14150.0,
+      "pts_change_pct": 1.65,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 【決算速報】Sphere Entertainment Co.（SPHR）の第2四半期売上高は3億1360万ドル - Mo",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
-      "code": "2134",
-      "name": "北浜ＣＰ",
-      "market": "東S",
-      "close": 24.0,
-      "pts_price": 24.4,
-      "pts_change_pct": 1.67,
-      "source": "PTS上昇",
-      "material_text": "[ニュース] 北浜キャピタルパートナーズ(株)【2134】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)牧野フライス製作所【6135】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60357,18 +60393,6 @@
       "material_all": ""
     },
     {
-      "code": "8508",
-      "name": "Ｊトラスト",
-      "market": "東S",
-      "close": 817.0,
-      "pts_price": 830.0,
-      "pts_change_pct": 1.59,
-      "source": "PTS上昇",
-      "material_text": "[ニュース] Ｊトラスト(株)【8508】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
       "code": "6495",
       "name": "宮入バ",
       "market": "東S",
@@ -60376,7 +60400,7 @@
       "pts_price": 128.0,
       "pts_change_pct": 1.59,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)宮入バルブ製作所【6495】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)宮入バルブ製作所【6495】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60393,14 +60417,14 @@
       "material_all": "[本日] （開示事項の経過）当社フィリピン子会社による事業譲受完了に関するお知らせ"
     },
     {
-      "code": "6762",
-      "name": "ＴＤＫ",
-      "market": "東P",
-      "close": 3008.0,
-      "pts_price": 3055.0,
-      "pts_change_pct": 1.56,
+      "code": "3825",
+      "name": "リミックス",
+      "market": "東S",
+      "close": 196.0,
+      "pts_price": 199.0,
+      "pts_change_pct": 1.53,
       "source": "PTS上昇",
-      "material_text": "[ニュース] TDK（6762）、過去最高益更新 さらなる成長を見据え、AIデータセンターに関連する各種製品および技術へ積極的に投資 ",
+      "material_text": "[ニュース] (株)リミックスポイント【3825】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60412,7 +60436,19 @@
       "pts_price": 1324.9,
       "pts_change_pct": 1.52,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 重田　光時がアトムリビンテック株式会社＜3426＞株式の大量保有報告書を提出 - topics.smt.docomo.n",
+      "material_text": "[ニュース] 重田　光時がアトムリビンテック株式会社＜3426＞株式の大量保有報告書を提出 - ｄメニューニュース",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "9766",
+      "name": "コナミＧ",
+      "market": "東P",
+      "close": 20640.0,
+      "pts_price": 20950.0,
+      "pts_change_pct": 1.5,
+      "source": "PTS上昇",
+      "material_text": "[ニュース] コナミグループ(株)【9766】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60429,6 +60465,30 @@
       "material_all": ""
     },
     {
+      "code": "6762",
+      "name": "ＴＤＫ",
+      "market": "東P",
+      "close": 3008.0,
+      "pts_price": 3053.0,
+      "pts_change_pct": 1.5,
+      "source": "PTS上昇",
+      "material_text": "[ニュース] TDK（6762）、過去最高益更新 さらなる成長を見据え、AIデータセンターに関連する各種製品および技術へ積極的に投資 ",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "8508",
+      "name": "Ｊトラスト",
+      "market": "東S",
+      "close": 817.0,
+      "pts_price": 829.0,
+      "pts_change_pct": 1.47,
+      "source": "PTS上昇",
+      "material_text": "[ニュース] Ｊトラスト(株)【8508】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
       "code": "6391",
       "name": "加地テック",
       "market": "東S",
@@ -60441,18 +60501,6 @@
       "material_all": "[本日] 2027年3月期　第1四半期決算短信[日本基準](非連結)"
     },
     {
-      "code": "8015",
-      "name": "豊田通商",
-      "market": "東P",
-      "close": 6722.0,
-      "pts_price": 6820.0,
-      "pts_change_pct": 1.46,
-      "source": "PTS上昇",
-      "material_text": "[ニュース] 豊田通商(株)【8015】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
       "code": "5334",
       "name": "特殊陶",
       "market": "東P",
@@ -60463,6 +60511,18 @@
       "material_text": "[IR/本日] 株式分割及び株式分割に伴う定款の一部変更並びに期末配当予想の修正に関するお知らせ",
       "material_url": "https://www.release.tdnet.info/inbs/140120260730503705.pdf",
       "material_all": "[本日] 2027年３月期 第１四半期決算短信〔ＩＦＲＳ〕（連結）\n[本日] 株式分割及び株式分割に伴う定款の一部変更並びに期末配当予想の修正に関するお知らせ"
+    },
+    {
+      "code": "8015",
+      "name": "豊田通商",
+      "market": "東P",
+      "close": 6722.0,
+      "pts_price": 6817.0,
+      "pts_change_pct": 1.41,
+      "source": "PTS上昇",
+      "material_text": "[ニュース] 豊田通商(株)【8015】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "7442",
@@ -60501,42 +60561,6 @@
       "material_all": ""
     },
     {
-      "code": "4220",
-      "name": "リケンテクノ",
-      "market": "東P",
-      "close": 2216.0,
-      "pts_price": 2245.0,
-      "pts_change_pct": 1.31,
-      "source": "PTS上昇",
-      "material_text": "[ニュース] リケンテクノス[4220]：自己株式取得に係る事項の決定に関するお知らせ 2026年7月31日(適時開示) ：日経会社情",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
-      "code": "1459",
-      "name": "楽天Ｗベア    東Ｅ",
-      "market": "",
-      "close": 119.0,
-      "pts_price": 120.5,
-      "pts_change_pct": 1.26,
-      "source": "PTS上昇",
-      "material_text": "[ニュース] 楽天ＥＴＦ－日経ダブルインバース指数連動型【1459】株価掲示板｜投資家のコメント - Moomoo",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
-      "code": "2317",
-      "name": "システナ",
-      "market": "東P",
-      "close": 420.0,
-      "pts_price": 425.0,
-      "pts_change_pct": 1.19,
-      "source": "PTS上昇",
-      "material_text": "[IR/前日] 2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120260729502267.pdf",
-      "material_all": "[前日] 2027年３月期 第１四半期決算短信〔日本基準〕（連結）"
-    },
-    {
       "code": "3903",
       "name": "ｇｕｍｉ",
       "market": "東P",
@@ -60573,18 +60597,6 @@
       "material_all": ""
     },
     {
-      "code": "1939",
-      "name": "四電工",
-      "market": "東P",
-      "close": 2007.0,
-      "pts_price": 2030.1,
-      "pts_change_pct": 1.15,
-      "source": "PTS上昇",
-      "material_text": "[IR/本日] 2027年３月期 第1四半期決算短信〔日本基準〕（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120260731504361.pdf",
-      "material_all": "[本日] 2027年３月期 第1四半期決算短信〔日本基準〕（連結）"
-    },
-    {
       "code": "4680",
       "name": "ラウンドワン",
       "market": "東P",
@@ -60595,6 +60607,18 @@
       "material_text": "[ニュース] (株)ラウンドワン【4680】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
+    },
+    {
+      "code": "3382",
+      "name": "セブン＆アイ",
+      "market": "東P",
+      "close": 2109.0,
+      "pts_price": 2133.0,
+      "pts_change_pct": 1.14,
+      "source": "PTS上昇",
+      "material_text": "[IR/本日] 資本業務提携及び第三者割当による自己株式の処分に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260731505017.pdf",
+      "material_all": "[本日] 資本業務提携及び第三者割当による自己株式の処分に関するお知らせ\n[本日] 自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付け並びに第三者割当による第23回乃至第27回新株予約権の\n[本日] 自己株式の取得枠設定に関するお知らせ（会社法第165条第2項の規定による定款の定めに基づく自己株式の取得）"
     },
     {
       "code": "5698",
@@ -60657,16 +60681,16 @@
       "material_all": ""
     },
     {
-      "code": "6524",
-      "name": "湖北工業",
+      "code": "2329",
+      "name": "東北新社",
       "market": "東S",
-      "close": 4380.0,
-      "pts_price": 4424.0,
+      "close": 498.0,
+      "pts_price": 503.0,
       "pts_change_pct": 1.0,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 湖北工業(株)【6524】：掲示板 - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
+      "material_text": "[IR/本日] 2027年3月期配当予想に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260731505773.pdf",
+      "material_all": "[本日] 2027年3月期配当予想に関するお知らせ"
     },
     {
       "code": "4883",
@@ -60676,21 +60700,9 @@
       "pts_price": 30.3,
       "pts_change_pct": 1.0,
       "source": "PTS上昇",
-      "material_text": "[ニュース] エボ　ファンド(Evo Fund)が株式会社モダリス＜4883＞株式の変更報告書を提出（保有減少） - topics.s",
+      "material_text": "[ニュース] エボ　ファンド(Evo Fund)が株式会社モダリス＜4883＞株式の変更報告書を提出（保有減少） - ｄメニューニュー",
       "material_url": "",
       "material_all": ""
-    },
-    {
-      "code": "3382",
-      "name": "セブン＆アイ",
-      "market": "東P",
-      "close": 2109.0,
-      "pts_price": 2130.0,
-      "pts_change_pct": 1.0,
-      "source": "PTS上昇",
-      "material_text": "[IR/本日] 資本業務提携及び第三者割当による自己株式の処分に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120260731505017.pdf",
-      "material_all": "[本日] 資本業務提携及び第三者割当による自己株式の処分に関するお知らせ\n[本日] 自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付け並びに第三者割当による第23回乃至第27回新株予約権の\n[本日] 自己株式の取得枠設定に関するお知らせ（会社法第165条第2項の規定による定款の定めに基づく自己株式の取得）"
     },
     {
       "code": "1580",
@@ -60789,18 +60801,6 @@
       "material_all": ""
     },
     {
-      "code": "4563",
-      "name": "アンジェス",
-      "market": "東G",
-      "close": 47.0,
-      "pts_price": 47.4,
-      "pts_change_pct": 0.85,
-      "source": "PTS上昇",
-      "material_text": "[ニュース] アンジェス(株)【4563】：掲示板 - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
       "code": "5214",
       "name": "日電硝",
       "market": "東P",
@@ -60829,24 +60829,12 @@
       "name": "日進工具",
       "market": "東S",
       "close": 962.0,
-      "pts_price": 843.5,
-      "pts_change_pct": -12.32,
+      "pts_price": 845.0,
+      "pts_change_pct": -12.16,
       "source": "PTS下落",
       "material_text": "[IR/本日] 2027年３月期　第１四半期決算短信〔日本基準〕（連結）",
       "material_url": "https://www.release.tdnet.info/inbs/140120260731505231.pdf",
       "material_all": "[本日] 2027年３月期　第１四半期決算短信〔日本基準〕（連結）\n[本日] 業績予想及び配当予想に関するお知らせ\n[本日] 2027年３月期　第１四半期決算概要"
-    },
-    {
-      "code": "5332",
-      "name": "ＴＯＴＯ",
-      "market": "東P",
-      "close": 7010.0,
-      "pts_price": 6150.0,
-      "pts_change_pct": -12.27,
-      "source": "PTS下落",
-      "material_text": "[ニュース] ＴＯＴＯ(株)【5332】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
     },
     {
       "code": "6870",
@@ -60857,6 +60845,18 @@
       "pts_change_pct": -11.92,
       "source": "PTS下落",
       "material_text": "[ニュース] 【米国株】S&P500週間見通し：6600-6870予想、イラン停戦の行方と米CPIに注目 - ig.com",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "5332",
+      "name": "ＴＯＴＯ",
+      "market": "東P",
+      "close": 7010.0,
+      "pts_price": 6202.0,
+      "pts_change_pct": -11.53,
+      "source": "PTS下落",
+      "material_text": "[ニュース] ＴＯＴＯ(株)【5332】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60877,20 +60877,32 @@
       "name": "ＤＴＳ",
       "market": "東P",
       "close": 1158.0,
-      "pts_price": 1045.0,
-      "pts_change_pct": -9.76,
+      "pts_price": 1050.0,
+      "pts_change_pct": -9.33,
       "source": "PTS下落",
       "material_text": "[ニュース] (株)ＤＴＳ【9682】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
     {
+      "code": "7537",
+      "name": "丸文",
+      "market": "東P",
+      "close": 1695.0,
+      "pts_price": 1550.0,
+      "pts_change_pct": -8.55,
+      "source": "PTS下落",
+      "material_text": "[IR/本日] 2027年3月期第1四半期決算短信〔日本基準〕（連結）",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260717596025.pdf",
+      "material_all": "[本日] 2027年3月期第1四半期決算短信〔日本基準〕（連結）\n[本日] 2027年3月期第1四半期決算補足資料\n[本日] 社員持株会向け譲渡制限付株式インセンティブとしての自己株式の処分に関するお知らせ"
+    },
+    {
       "code": "3388",
       "name": "明治電機工業",
       "market": "東P",
       "close": 2202.0,
-      "pts_price": 2000.0,
-      "pts_change_pct": -9.17,
+      "pts_price": 2015.0,
+      "pts_change_pct": -8.49,
       "source": "PTS下落",
       "material_text": "[ニュース] 明治電機工業(株)【3388】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
@@ -60901,24 +60913,12 @@
       "name": "ＳＭＮ",
       "market": "東S",
       "close": 402.0,
-      "pts_price": 368.0,
-      "pts_change_pct": -8.46,
+      "pts_price": 370.0,
+      "pts_change_pct": -7.96,
       "source": "PTS下落",
       "material_text": "[ニュース] ＳＭＮ[6185]：取締役に対する譲渡制限付株式としての自己株式処分に関するお知らせ 2026年6月25日(適時開示) ",
       "material_url": "",
       "material_all": ""
-    },
-    {
-      "code": "7537",
-      "name": "丸文",
-      "market": "東P",
-      "close": 1695.0,
-      "pts_price": 1555.0,
-      "pts_change_pct": -8.26,
-      "source": "PTS下落",
-      "material_text": "[IR/本日] 2027年3月期第1四半期決算短信〔日本基準〕（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120260717596025.pdf",
-      "material_all": "[本日] 2027年3月期第1四半期決算短信〔日本基準〕（連結）\n[本日] 2027年3月期第1四半期決算補足資料\n[本日] 社員持株会向け譲渡制限付株式インセンティブとしての自己株式の処分に関するお知らせ"
     },
     {
       "code": "4395",
@@ -60969,24 +60969,12 @@
       "material_all": ""
     },
     {
-      "code": "3439",
-      "name": "三ツ知",
-      "market": "東S",
-      "close": 690.0,
-      "pts_price": 640.0,
-      "pts_change_pct": -7.25,
-      "source": "PTS下落",
-      "material_text": "[ニュース] (株)三ツ知【3439】：配当情報 - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
       "code": "3350",
       "name": "メタプラ",
       "market": "東S",
       "close": 245.0,
-      "pts_price": 228.0,
-      "pts_change_pct": -6.94,
+      "pts_price": 227.8,
+      "pts_change_pct": -7.02,
       "source": "PTS下落",
       "material_text": "[IR/前日] 臨時株主総会等招集のための基準日設定に関するお知らせ",
       "material_url": "https://www.release.tdnet.info/inbs/140120260730503543.pdf",
@@ -61036,7 +61024,7 @@
       "pts_price": 1426.0,
       "pts_change_pct": -5.5,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)さくらケーシーエス【4761】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)さくらケーシーエス【4761】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61049,6 +61037,18 @@
       "pts_change_pct": -5.25,
       "source": "PTS下落",
       "material_text": "[ニュース] ＺＯＺＯ[3092]：支配株主等に関する事項について 2026年6月29日(適時開示) ：日経会社情報DIGITAL -",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "3439",
+      "name": "三ツ知",
+      "market": "東S",
+      "close": 690.0,
+      "pts_price": 655.0,
+      "pts_change_pct": -5.07,
+      "source": "PTS下落",
+      "material_text": "[ニュース] (株)三ツ知【3439】：配当情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61125,18 +61125,6 @@
       "material_all": ""
     },
     {
-      "code": "5367",
-      "name": "ニッカトー",
-      "market": "東S",
-      "close": 1230.0,
-      "pts_price": 1182.0,
-      "pts_change_pct": -3.9,
-      "source": "PTS下落",
-      "material_text": "[ニュース] (株)ニッカトー【5367】：掲示板 - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
       "code": "6997",
       "name": "日ケミコン",
       "market": "東P",
@@ -61144,7 +61132,7 @@
       "pts_price": 3000.0,
       "pts_change_pct": -3.85,
       "source": "PTS下落",
-      "material_text": "[ニュース] 野村證券株式会社が日本ケミコン株式会社＜6997＞株式の変更報告書を提出（保有減少） - topics.smt.doco",
+      "material_text": "[ニュース] 野村證券株式会社が日本ケミコン株式会社＜6997＞株式の変更報告書を提出（保有減少） - ｄメニューニュース",
       "material_url": "",
       "material_all": ""
     },
@@ -61161,6 +61149,18 @@
       "material_all": ""
     },
     {
+      "code": "7220",
+      "name": "武蔵精密",
+      "market": "東P",
+      "close": 3225.0,
+      "pts_price": 3105.0,
+      "pts_change_pct": -3.72,
+      "source": "PTS下落",
+      "material_text": "[ニュース] 武蔵精密工業(株)【7220】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
       "code": "6503",
       "name": "三菱電",
       "market": "東P",
@@ -61169,30 +61169,6 @@
       "pts_change_pct": -3.59,
       "source": "PTS下落",
       "material_text": "[ニュース] 三菱電機 (TSE:6503) 株は2027年度見通しと協業発表後もやや割高なのか - simplywall.st",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
-      "code": "6996",
-      "name": "ニチコン",
-      "market": "東P",
-      "close": 2929.0,
-      "pts_price": 2825.0,
-      "pts_change_pct": -3.55,
-      "source": "PTS下落",
-      "material_text": "[ニュース] ニチコン(株)【6996】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
-      "code": "4047",
-      "name": "関電化",
-      "market": "東P",
-      "close": 2669.0,
-      "pts_price": 2575.0,
-      "pts_change_pct": -3.52,
-      "source": "PTS下落",
-      "material_text": "[ニュース] 関東電化工業[4047]：株主代表訴訟に関するお知らせ 2026年7月28日(適時開示) ：日経会社情報DIGITAL ",
       "material_url": "",
       "material_all": ""
     },
@@ -61221,18 +61197,6 @@
       "material_all": ""
     },
     {
-      "code": "6779",
-      "name": "日電波",
-      "market": "東P",
-      "close": 2566.0,
-      "pts_price": 2480.0,
-      "pts_change_pct": -3.35,
-      "source": "PTS下落",
-      "material_text": "[ニュース] 日本電波工業(株)【6779】：掲示板 - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
       "code": "9503",
       "name": "関西電",
       "market": "東P",
@@ -61245,14 +61209,26 @@
       "material_all": ""
     },
     {
-      "code": "3687",
-      "name": "Ｆスターズ",
-      "market": "東P",
-      "close": 2090.0,
-      "pts_price": 2021.2,
-      "pts_change_pct": -3.29,
+      "code": "5367",
+      "name": "ニッカトー",
+      "market": "東S",
+      "close": 1230.0,
+      "pts_price": 1189.6,
+      "pts_change_pct": -3.28,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)フィックスターズ【3687】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ニッカトー【5367】：掲示板 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "9504",
+      "name": "中国電",
+      "market": "東P",
+      "close": 940.6,
+      "pts_price": 910.0,
+      "pts_change_pct": -3.25,
+      "source": "PTS下落",
+      "material_text": "[ニュース] 中国電力(株)【9504】：株つぶやき - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61265,18 +61241,6 @@
       "pts_change_pct": -3.23,
       "source": "PTS下落",
       "material_text": "[ニュース] 三井金属 (5706) の株価・株式 - QUICK Money World",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
-      "code": "3664",
-      "name": "ＷＩＺＥ",
-      "market": "東G",
-      "close": 22.0,
-      "pts_price": 21.3,
-      "pts_change_pct": -3.18,
-      "source": "PTS下落",
-      "material_text": "[ニュース] (株)ＷＩＺＥ【3664】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61365,14 +61329,14 @@
       "material_all": ""
     },
     {
-      "code": "2492",
-      "name": "インフォＭＴ",
-      "market": "東P",
-      "close": 569.0,
-      "pts_price": 552.0,
-      "pts_change_pct": -2.99,
+      "code": "6890",
+      "name": "フェローテク",
+      "market": "東S",
+      "close": 8300.0,
+      "pts_price": 8051.0,
+      "pts_change_pct": -3.0,
       "source": "PTS下落",
-      "material_text": "[ニュース] オアシス　マネジメント　カンパニー　リミテッド(Oasis Management Company Ltd.)が株式会社イ",
+      "material_text": "[ニュース] (株)フェローテック【6890】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61389,16 +61353,40 @@
       "material_all": ""
     },
     {
-      "code": "9513",
-      "name": "Ｊパワー",
-      "market": "東P",
-      "close": 3800.0,
-      "pts_price": 3690.0,
-      "pts_change_pct": -2.89,
+      "code": "6227",
+      "name": "ＡＩメカ",
+      "market": "東S",
+      "close": 6640.0,
+      "pts_price": 6450.0,
+      "pts_change_pct": -2.86,
       "source": "PTS下落",
-      "material_text": "[IR/本日] 2027年３月期第１四半期決算短信〔日本基準〕(連結)",
-      "material_url": "https://www.release.tdnet.info/inbs/140120260730503477.pdf",
-      "material_all": "[本日] 2027年３月期第１四半期決算短信〔日本基準〕(連結)"
+      "material_text": "[ニュース] ＡＩメカテック(株)【6227】：掲示板 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "6525",
+      "name": "コクサイエレ",
+      "market": "東P",
+      "close": 7422.0,
+      "pts_price": 7210.0,
+      "pts_change_pct": -2.86,
+      "source": "PTS下落",
+      "material_text": "[ニュース] ＫＯＫＵＳＡＩ ＥＬＥＣＴＲＩＣ[6525]：自己株式の取得結果及び取得終了並びに消却株式数に関するお知らせ 2026年",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "3687",
+      "name": "Ｆスターズ",
+      "market": "東P",
+      "close": 2090.0,
+      "pts_price": 2030.5,
+      "pts_change_pct": -2.85,
+      "source": "PTS下落",
+      "material_text": "[ニュース] (株)フィックスターズ【3687】：掲示板 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "3624",
@@ -61461,6 +61449,54 @@
       "material_all": ""
     },
     {
+      "code": "3664",
+      "name": "ＷＩＺＥ",
+      "market": "東G",
+      "close": 22.0,
+      "pts_price": 21.4,
+      "pts_change_pct": -2.73,
+      "source": "PTS下落",
+      "material_text": "[ニュース] (株)ＷＩＺＥ【3664】：掲示板 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "6976",
+      "name": "太陽誘電",
+      "market": "東P",
+      "close": 10225.0,
+      "pts_price": 9950.0,
+      "pts_change_pct": -2.69,
+      "source": "PTS下落",
+      "material_text": "[ニュース] 太陽誘電(株)【6976】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "9513",
+      "name": "Ｊパワー",
+      "market": "東P",
+      "close": 3800.0,
+      "pts_price": 3700.0,
+      "pts_change_pct": -2.63,
+      "source": "PTS下落",
+      "material_text": "[IR/本日] 2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260730503477.pdf",
+      "material_all": "[本日] 2027年３月期第１四半期決算短信〔日本基準〕(連結)"
+    },
+    {
+      "code": "4047",
+      "name": "関電化",
+      "market": "東P",
+      "close": 2669.0,
+      "pts_price": 2599.0,
+      "pts_change_pct": -2.62,
+      "source": "PTS下落",
+      "material_text": "[ニュース] 関東電化工業[4047]：株主代表訴訟に関するお知らせ 2026年7月28日(適時開示) ：日経会社情報DIGITAL ",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
       "code": "2354",
       "name": "ＹＥデジタル",
       "market": "東S",
@@ -61485,6 +61521,18 @@
       "material_all": ""
     },
     {
+      "code": "6779",
+      "name": "日電波",
+      "market": "東P",
+      "close": 2566.0,
+      "pts_price": 2500.0,
+      "pts_change_pct": -2.57,
+      "source": "PTS下落",
+      "material_text": "[ニュース] 日本電波工業(株)【6779】：掲示板 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
       "code": "8585",
       "name": "オリコ",
       "market": "東P",
@@ -61493,6 +61541,18 @@
       "pts_change_pct": -2.55,
       "source": "PTS下落",
       "material_text": "[ニュース] (株)オリエントコーポレーション【8585】：掲示板 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "2492",
+      "name": "インフォＭＴ",
+      "market": "東P",
+      "close": 569.0,
+      "pts_price": 555.0,
+      "pts_change_pct": -2.46,
+      "source": "PTS下落",
+      "material_text": "[ニュース] オアシス　マネジメント　カンパニー　リミテッド(Oasis Management Company Ltd.)が株式会社イ",
       "material_url": "",
       "material_all": ""
     },
@@ -61509,18 +61569,6 @@
       "material_all": ""
     },
     {
-      "code": "6890",
-      "name": "フェローテク",
-      "market": "東S",
-      "close": 8300.0,
-      "pts_price": 8099.0,
-      "pts_change_pct": -2.42,
-      "source": "PTS下落",
-      "material_text": "[ニュース] (株)フェローテック【6890】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
       "code": "4417",
       "name": "Ｇセキュリ",
       "market": "東G",
@@ -61533,14 +61581,14 @@
       "material_all": "[本日] 株主優待制度の拡充（優待品目の変更及び追加）に関するお知らせ\n[本日] 2027年３月期　第１四半期決算説明資料\n[本日] 2027年３月期　第１四半期決算短信〔日本基準〕（連結）"
     },
     {
-      "code": "6976",
-      "name": "太陽誘電",
+      "code": "6996",
+      "name": "ニチコン",
       "market": "東P",
-      "close": 10225.0,
-      "pts_price": 9980.0,
-      "pts_change_pct": -2.4,
+      "close": 2929.0,
+      "pts_price": 2860.0,
+      "pts_change_pct": -2.36,
       "source": "PTS下落",
-      "material_text": "[ニュース] 太陽誘電(株)【6976】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ニチコン(株)【6996】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61553,18 +61601,6 @@
       "pts_change_pct": -2.35,
       "source": "PTS下落",
       "material_text": "[ニュース] GX 半導体関連-日本株式【2644】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
-      "code": "6954",
-      "name": "ファナック",
-      "market": "東P",
-      "close": 7135.0,
-      "pts_price": 6968.0,
-      "pts_change_pct": -2.34,
-      "source": "PTS下落",
-      "material_text": "[ニュース] ファナック(株)【6954】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61605,18 +61641,6 @@
       "material_all": ""
     },
     {
-      "code": "6740",
-      "name": "Ｊディスプレ",
-      "market": "東P",
-      "close": 48.0,
-      "pts_price": 46.9,
-      "pts_change_pct": -2.29,
-      "source": "PTS下落",
-      "material_text": "[ニュース] (株)ジャパンディスプレイ【6740】：掲示板 - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
       "code": "6324",
       "name": "ハーモニック",
       "market": "東P",
@@ -61629,14 +61653,14 @@
       "material_all": ""
     },
     {
-      "code": "4506",
-      "name": "住友ファーマ",
+      "code": "6752",
+      "name": "パナＨＤ",
       "market": "東P",
-      "close": 1248.0,
-      "pts_price": 1220.0,
+      "close": 4284.0,
+      "pts_price": 4188.0,
       "pts_change_pct": -2.24,
       "source": "PTS下落",
-      "material_text": "[ニュース] 住友ファーマ(株)【4506】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 話題株ピックアップ【昼刊】：パナＨＤ、キオクシア、富士電機(株探ニュース) - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61653,14 +61677,26 @@
       "material_all": ""
     },
     {
-      "code": "6315",
-      "name": "ＴＯＷＡ",
+      "code": "6954",
+      "name": "ファナック",
       "market": "東P",
-      "close": 2648.0,
-      "pts_price": 2590.0,
-      "pts_change_pct": -2.19,
+      "close": 7135.0,
+      "pts_price": 6980.0,
+      "pts_change_pct": -2.17,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＴＯＷＡ(株)【6315】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ファナック(株)【6954】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "4506",
+      "name": "住友ファーマ",
+      "market": "東P",
+      "close": 1248.0,
+      "pts_price": 1221.0,
+      "pts_change_pct": -2.16,
+      "source": "PTS下落",
+      "material_text": "[ニュース] 住友ファーマ(株)【4506】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61677,30 +61713,6 @@
       "material_all": ""
     },
     {
-      "code": "3436",
-      "name": "ＳＵＭＣＯ",
-      "market": "東P",
-      "close": 3357.0,
-      "pts_price": 3285.0,
-      "pts_change_pct": -2.14,
-      "source": "PTS下落",
-      "material_text": "[ニュース] 日経平均最高値から売買代金増 キオクシア首位、良品計画など株価健闘組も - 日経ヴェリタス - 日本経済新聞",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
-      "code": "5016",
-      "name": "ＪＸ金属",
-      "market": "東P",
-      "close": 3797.0,
-      "pts_price": 3716.0,
-      "pts_change_pct": -2.13,
-      "source": "PTS下落",
-      "material_text": "[ニュース] ＪＸ金属(株)【5016】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
       "code": "9831",
       "name": "ヤマダＨＤ",
       "market": "東P",
@@ -61713,14 +61725,14 @@
       "material_all": ""
     },
     {
-      "code": "4062",
-      "name": "イビデン",
+      "code": "6740",
+      "name": "Ｊディスプレ",
       "market": "東P",
-      "close": 16650.0,
-      "pts_price": 16300.0,
-      "pts_change_pct": -2.1,
+      "close": 48.0,
+      "pts_price": 47.0,
+      "pts_change_pct": -2.08,
       "source": "PTS下落",
-      "material_text": "[ニュース] イビデン(株)【4062】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ジャパンディスプレイ【6740】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61733,6 +61745,30 @@
       "pts_change_pct": -2.08,
       "source": "PTS下落",
       "material_text": "[ニュース] アルプスアル、自社株の買付と消却を発表(株探ニュース) - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "6871",
+      "name": "日本マイクロ",
+      "market": "東P",
+      "close": 13580.0,
+      "pts_price": 13300.0,
+      "pts_change_pct": -2.06,
+      "source": "PTS下落",
+      "material_text": "[ニュース] (株)日本マイクロニクス【6871】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "5016",
+      "name": "ＪＸ金属",
+      "market": "東P",
+      "close": 3797.0,
+      "pts_price": 3720.0,
+      "pts_change_pct": -2.03,
+      "source": "PTS下落",
+      "material_text": "[ニュース] $JX金属 (5016.JP)$ 三井金属とJX金属は繋がりがあります。三井金属は先に上がりそうです🀄️ - Moomo",
       "material_url": "",
       "material_all": ""
     },
@@ -61761,18 +61797,6 @@
       "material_all": ""
     },
     {
-      "code": "6522",
-      "name": "アスタリスク",
-      "market": "東G",
-      "close": 1591.0,
-      "pts_price": 1559.0,
-      "pts_change_pct": -2.01,
-      "source": "PTS下落",
-      "material_text": "[ニュース] (株)アスタリスク【6522】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
       "code": "9235",
       "name": "売れるＧ",
       "market": "東G",
@@ -61785,50 +61809,26 @@
       "material_all": "[本日] 役員の異動（取締役の辞任）に関するお知らせ"
     },
     {
-      "code": "6981",
-      "name": "村田製",
+      "code": "3436",
+      "name": "ＳＵＭＣＯ",
       "market": "東P",
-      "close": 7416.0,
-      "pts_price": 7268.0,
+      "close": 3357.0,
+      "pts_price": 3290.0,
       "pts_change_pct": -2.0,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)村田製作所【6981】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 日経平均最高値から売買代金増 キオクシア首位、良品計画など株価健闘組も - 日経ヴェリタス - 日本経済新聞",
       "material_url": "",
       "material_all": ""
     },
     {
-      "code": "6525",
-      "name": "コクサイエレ",
-      "market": "東P",
-      "close": 7422.0,
-      "pts_price": 7275.0,
-      "pts_change_pct": -1.98,
-      "source": "PTS下落",
-      "material_text": "[ニュース] ＫＯＫＵＳＡＩ ＥＬＥＣＴＲＩＣ[6525]：自己株式の取得結果及び取得終了並びに消却株式数に関するお知らせ 2026年",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
-      "code": "6752",
-      "name": "パナＨＤ",
-      "market": "東P",
-      "close": 4284.0,
-      "pts_price": 4200.0,
-      "pts_change_pct": -1.96,
-      "source": "PTS下落",
-      "material_text": "[ニュース] 話題株ピックアップ【昼刊】：パナＨＤ、キオクシア、富士電機(株探ニュース) - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
-      "code": "6613",
-      "name": "ＱＤレーザ",
+      "code": "6522",
+      "name": "アスタリスク",
       "market": "東G",
-      "close": 1537.0,
-      "pts_price": 1507.0,
+      "close": 1591.0,
+      "pts_price": 1560.0,
       "pts_change_pct": -1.95,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ＱＤレーザ【6613】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)アスタリスク【6522】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61845,26 +61845,14 @@
       "material_all": ""
     },
     {
-      "code": "3810",
-      "name": "ＣＳＨＤ",
-      "market": "東S",
-      "close": 154.0,
-      "pts_price": 151.1,
-      "pts_change_pct": -1.88,
-      "source": "PTS下落",
-      "material_text": "[ニュース] サイバーステップホールディングス(株)【3810】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナ",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
-      "code": "8101",
-      "name": "クレオス",
+      "code": "5801",
+      "name": "古河電",
       "market": "東P",
-      "close": 2660.0,
-      "pts_price": 2610.0,
-      "pts_change_pct": -1.88,
+      "close": 3145.0,
+      "pts_price": 3085.0,
+      "pts_change_pct": -1.91,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＧＳＩクレオス[8101]：譲渡制限付株式報酬としての自己株式処分の払込完了に関するお知らせ 2026年7月13日(適時",
+      "material_text": "[ニュース] 古河電気工業(株)【5801】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     }
