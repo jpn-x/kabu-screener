@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T14:20:00+09:00",
-  "updated_at_display": "08/11 14:20",
+  "updated_at": "2026-08-11T15:16:00+09:00",
+  "updated_at_display": "08/11 15:16",
   "count": 2273,
   "stocks": [
     {
@@ -296,7 +296,7 @@
       "vol_150d": 33.95,
       "trading_value": 0.3,
       "source": "高ボラ",
-      "material_text": "[ニュース] クロップス[9428]：役員人事に関するお知らせ 2026年6月19日(適時開示) ：日経会社情報DIGITAL - 日",
+      "material_text": "[ニュース] クロップス[9428]：役員人事に関するお知らせ 2026年6月19日(適時開示) ：日経会社情報DIGITAL - n",
       "material_url": "",
       "material_all": ""
     },
@@ -2807,7 +2807,7 @@
       "vol_150d": 40.38,
       "trading_value": 631.2,
       "source": "売買代金",
-      "material_text": "[ニュース] 横浜ゴム(株)【5101】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 三井住友DSアセットマネジメント株式会社が横浜ゴム株式会社＜5101＞株式の大量保有報告書を提出 - ｄメニューニュース",
       "material_url": "",
       "material_all": ""
     },
@@ -3455,7 +3455,7 @@
       "vol_150d": 72.77,
       "trading_value": 1.1,
       "source": "出来高",
-      "material_text": "[ニュース] (株)アイリッジ【3917】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)アイリッジ【3917】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -7974,7 +7974,7 @@
       "market": "プライム（内国株式）",
       "close": 552.0,
       "change_pct": 0.91,
-      "market_cap": 160.0,
+      "market_cap": null,
       "ytd_perf": -4.64,
       "year_start_price": 578.9,
       "intraday_vol": 5.85,
@@ -9314,7 +9314,7 @@
       "vol_150d": 93.63,
       "trading_value": 1055.9,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)ディスコ【6146】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ディスコ[6146]：譲渡制限付株式報酬としての新株式の発行の払込完了に関するお知らせ 2026年8月7日(適時開示) ",
       "material_url": "",
       "material_all": ""
     },
@@ -31535,7 +31535,7 @@
       "vol_150d": 111.48,
       "trading_value": 981.5,
       "source": "値上がり率",
-      "material_text": "[ニュース] (株)リクルートホールディングス【6098】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] リクルートホールディングス（東証：6098）が、HRテックの好調を背景に業績予想を上方修正したことで、株価が30.5％上",
       "material_url": "",
       "material_all": ""
     },
@@ -32490,7 +32490,7 @@
       "market": "プライム（内国株式）",
       "close": 1644.5,
       "change_pct": -1.53,
-      "market_cap": null,
+      "market_cap": 9265.0,
       "ytd_perf": -8.54,
       "year_start_price": 1798.1,
       "intraday_vol": 2.78,
@@ -61444,7 +61444,7 @@
       "pts_price": 4190.0,
       "pts_change_pct": 20.06,
       "source": "PTS上昇",
-      "material_text": "[ニュース] タツモ[6266]：2026年12月期第２四半期（中間期）連結業績予想の修正に関するお知らせ 2026年8月5日(適時開",
+      "material_text": "[ニュース] ノムラ　インターナショナル　ピーエルシー(NOMURA　INTERNATIONAL　PLC)がタツモ株式会社＜6266＞",
       "material_url": "",
       "material_all": ""
     },
@@ -61984,7 +61984,7 @@
       "pts_price": 16610.0,
       "pts_change_pct": 2.75,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)リクルートホールディングス【6098】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] リクルートホールディングス（東証：6098）が、HRテックの好調を背景に業績予想を上方修正したことで、株価が30.5％上",
       "material_url": "",
       "material_all": ""
     },
@@ -62068,7 +62068,7 @@
       "pts_price": 31.7,
       "pts_change_pct": 2.26,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)キムラタン【8107】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)キムラタン【8107】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -62272,7 +62272,7 @@
       "pts_price": 179.9,
       "pts_change_pct": 1.64,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ｊｉｇ．ｊｐ【5244】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ｊｉｇ．ｊｐ[5244]：譲渡制限付株式報酬としての自己株式の処分に関するお知らせ 2026年7月16日(適時開示) ：",
       "material_url": "",
       "material_all": ""
     },
@@ -62404,7 +62404,7 @@
       "pts_price": 2454.0,
       "pts_change_pct": 1.4,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 隠れた「包装」の巨人、ダイナパック(3947)徹底解剖。環境対応と海外M&Aで描く、紙器業界「第二の成長曲線」 - no",
+      "material_text": "[ニュース] ダイナパック 【3947】 : 株価・チャート・企業概要 - 投資情報のフィスコ",
       "material_url": "",
       "material_all": ""
     },
@@ -62596,7 +62596,7 @@
       "pts_price": 1416.0,
       "pts_change_pct": -16.61,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)トリドリ【9337】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] アセットマネジメントOne株式会社が(株)トリドリ＜9337＞株式の変更報告書を提出（保有減少） - ｄメニューニュース",
       "material_url": "",
       "material_all": ""
     },
@@ -62644,7 +62644,7 @@
       "pts_price": 742.0,
       "pts_change_pct": -9.84,
       "source": "PTS下落",
-      "material_text": "[ニュース] 大真空[6962]：2027年3月期第1四半期決算短信〔日本基準〕（連結） 2026年8月10日(適時開示) ：日経会社",
+      "material_text": "[ニュース] (株)大真空【6962】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -62752,7 +62752,7 @@
       "pts_price": 2584.0,
       "pts_change_pct": -7.25,
       "source": "PTS下落",
-      "material_text": "[ニュース] 関東電化工業(株)【4047】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 関電化(4047) 2027年３月期 第1四半期 決算補足説明資料 2026年08月10日[適時開示] - みんかぶ",
       "material_url": "",
       "material_all": ""
     },
@@ -63052,7 +63052,7 @@
       "pts_price": 67.5,
       "pts_change_pct": -3.57,
       "source": "PTS下落",
-      "material_text": "[ニュース] シンバイオ製薬(株)【4582】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] シンバイオ製薬(株)【4582】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -63160,7 +63160,7 @@
       "pts_price": 295.0,
       "pts_change_pct": -2.96,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＷＡＳＨハウス(株)【6537】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＷＡＳＨハウス(株)【6537】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -63184,7 +63184,7 @@
       "pts_price": 443.9,
       "pts_change_pct": -2.87,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)テイン【7217】：配当情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 【決算速報】テイン---27年3月期1Qは増益、経常利益は417.3％増(フィスコ) - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
