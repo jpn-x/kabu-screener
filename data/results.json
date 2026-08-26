@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-26T16:19:00+09:00",
-  "updated_at_display": "08/26 16:19",
+  "updated_at": "2026-08-26T16:44:00+09:00",
+  "updated_at_display": "08/26 16:44",
   "count": 2153,
   "stocks": [
     {
@@ -350,7 +350,7 @@
       "vol_150d": 613.74,
       "trading_value": 675.9,
       "source": "値上がり率",
-      "material_text": "[ニュース] Ｔｅｒｒａ Ｄｒｏｎｅ(株)【278A】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] Ｔｅｒｒａ Ｄｒｏｎｅ(株)【278A】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -2186,7 +2186,7 @@
       "vol_150d": 84.64,
       "trading_value": 3148.4,
       "source": "売買代金",
-      "material_text": "[ニュース] マーケット早耳情報＝主な後場寄り前成り行き注文状況（２）ＬＩＮＥヤフ、アドバンテス、みずほなど 速報 - kabushi",
+      "material_text": "[ニュース] 東京海上HD、株式15分割を発表 最低投資金額5万円程度に 基準日は9月末 - 日経CNBC online",
       "material_url": "",
       "material_all": ""
     },
@@ -23689,7 +23689,7 @@
       "close": 1447.0,
       "change_pct": -1.09,
       "market_cap": 334.0,
-      "ytd_perf": -13.45,
+      "ytd_perf": -13.44,
       "year_start_price": 1671.8,
       "intraday_vol": 2.12,
       "vol_3d": 4.33,
@@ -29078,7 +29078,7 @@
       "vol_150d": 38.63,
       "trading_value": 262.5,
       "source": "売買代金",
-      "material_text": "[ニュース] 三菱電機(株)【6503】：配当情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 三菱電機(株)【6503】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -49436,7 +49436,7 @@
       "vol_150d": 17.47,
       "trading_value": 291.3,
       "source": "売買代金",
-      "material_text": "[ニュース] ＮＴＴ(株)【9432】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 日本電信電話(株)【9432】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -58588,9 +58588,9 @@
       "pts_price": 1025.0,
       "pts_change_pct": 1.89,
       "source": "PTS上昇",
-      "material_text": "[IR/本日] 株式会社本田技術研究所とのダイヤモンドデバイス用材料の共同研究契約の締結予定時期変更に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120260825526017.pdf",
-      "material_all": "[本日] 株式会社本田技術研究所とのダイヤモンドデバイス用材料の共同研究契約の締結予定時期変更に関するお知らせ"
+      "material_text": "[IR/本日] 譲渡制限付株式報酬制度としての新株式発行に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260825526025.pdf",
+      "material_all": "[本日] 譲渡制限付株式報酬制度としての新株式発行に関するお知らせ\n[本日] 株式会社本田技術研究所とのダイヤモンドデバイス用材料の共同研究契約の締結予定時期変更に関するお知らせ"
     },
     {
       "code": "6347",
@@ -58792,7 +58792,7 @@
       "pts_price": 3105.0,
       "pts_change_pct": 1.24,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ｉＦｒｅｅＥＴＦ ＴＯＰＩＸレバレッジ（２倍）指数[1367]：2027年1月期 中間決算短信（2026年1月11日～2",
+      "material_text": "[ニュース] 五洋建設(株)【1893】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -58816,9 +58816,9 @@
       "pts_price": 1075.0,
       "pts_change_pct": 1.22,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)コシダカホールディングス【2157】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
+      "material_text": "[IR/本日] 第１回無担保転換社債型新株引受権付社債の転換完了に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260826526613.pdf",
+      "material_all": "[本日] 第１回無担保転換社債型新株引受権付社債の転換完了に関するお知らせ"
     },
     {
       "code": "1934",
@@ -59092,7 +59092,7 @@
       "pts_price": 313.0,
       "pts_change_pct": 0.97,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)さいか屋【8254】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)さいか屋【8254】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -59176,9 +59176,9 @@
       "pts_price": 774.0,
       "pts_change_pct": 0.91,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 岡本硝子(株)【7746】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
+      "material_text": "[IR/本日] 行使価額修正条項付新株予約権の大量行使、行使完了及び月間行使状況に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/inbs/140120260826526544.pdf",
+      "material_all": "[本日] 行使価額修正条項付新株予約権の大量行使、行使完了及び月間行使状況に関するお知らせ"
     },
     {
       "code": "3856",
@@ -59728,7 +59728,7 @@
       "pts_price": 3826.0,
       "pts_change_pct": -1.34,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＩＮＰＥＸ (1605) の株価・株式 - QUICK Money World",
+      "material_text": "[ニュース] インペックス（東証：1605）における自社株買い、配当増額、業績見通しの上方修正が、同社の投資ストーリーをどのように変え",
       "material_url": "",
       "material_all": ""
     },
@@ -59944,7 +59944,7 @@
       "pts_price": 470.0,
       "pts_change_pct": -1.05,
       "source": "PTS下落",
-      "material_text": "[ニュース] 日経平均株価 1400円余り下落し6万6819円 3日連続値下がりで6月12日以来の安値水準 中東情勢先行き不透明感も ",
+      "material_text": "[ニュース] 伊豆シャボテンリゾート(株)【6819】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60004,7 +60004,7 @@
       "pts_price": 29.7,
       "pts_change_pct": -1.0,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＣＲＡＶＩＡ(株)【6573】：企業情報（決算時期や平均年収、代表者名、IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＣＲＡＶＩＡ(株)【6573】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60280,7 +60280,7 @@
       "pts_price": 83.3,
       "pts_change_pct": -0.83,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)カイオム・バイオサイエンス【4583】：株価チャート - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)カイオム・バイオサイエンス【4583】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
