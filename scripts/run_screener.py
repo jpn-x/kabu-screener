@@ -20,7 +20,7 @@ HEADERS = {
     "Accept-Language": "ja,en-US;q=0.9",
 }
 
-JPX_LIST_URL = "https://www.jpx.co.jp/markets/statistics-equities/misc/tvdivq0000001vg2-att/data_j.xls"
+JPX_LIST_URL = "https://www.jpx.co.jp/markets/statistics-equities/misc/tvdivq0000001vg2-att/data_j.xlsx"
 CACHE_PATH   = os.path.join(os.path.dirname(__file__), "..", "data", "jpx_list_cache.pkl")
 
 
