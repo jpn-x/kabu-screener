@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T13:05:00+09:00",
-  "updated_at_display": "09/23 13:05",
+  "updated_at": "2026-09-23T18:20:00+09:00",
+  "updated_at_display": "09/23 18:20",
   "count": 2179,
   "stocks": [
     {
@@ -620,7 +620,7 @@
       "vol_150d": 648.9,
       "trading_value": 389.3,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)パワーエックス【485A】：企業情報（決算時期や平均年収、代表者名、IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)パワーエックス【485A】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -647,7 +647,7 @@
       "vol_150d": 101.96,
       "trading_value": 3.6,
       "source": "高ボラ",
-      "material_text": "[ニュース] ＴＨＥ ＷＨＹ ＨＯＷ ＤＯ ＣＯＭＰＡＮＹ(株)【3823】：今の株価の理由は？値動きの背景をAIが解説 - Yaho",
+      "material_text": "[ニュース] ＴＨＥ ＷＨＹ ＨＯＷ ＤＯ ＣＯＭＰＡＮＹ (3823) : 今後の予想・売買予想・AI株価診断 [TWHDC] - ",
       "material_url": "",
       "material_all": ""
     },
@@ -1862,7 +1862,7 @@
       "vol_150d": 169.26,
       "trading_value": 3.8,
       "source": "出来高",
-      "material_text": "[ニュース] 最新！「四季報プロ500」低PERランキングで浮かぶ穴場銘柄3選 小型＆好業績の半導体やディフェンシブに動意 - Yah",
+      "material_text": "[ニュース] マクニカホールディングス(株)【3132】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -5237,7 +5237,7 @@
       "vol_150d": 59.46,
       "trading_value": 1.1,
       "source": "出来高",
-      "material_text": "[ニュース] (株)テセック【6337】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)テセック【6337】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -15578,7 +15578,7 @@
       "vol_150d": 65.9,
       "trading_value": 309.5,
       "source": "売買代金",
-      "material_text": "[ニュース] 京セラ(株)【6971】：株主優待 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 京セラ(株)【6971】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60106,7 +60106,7 @@
       "pts_price": 40.9,
       "pts_change_pct": -2.62,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＴＨＥ ＷＨＹ ＨＯＷ ＤＯ ＣＯＭＰＡＮＹ(株)【3823】：今の株価の理由は？値動きの背景をAIが解説 - Yaho",
+      "material_text": "[ニュース] ＴＨＥ ＷＨＹ ＨＯＷ ＤＯ ＣＯＭＰＡＮＹ (3823) : 今後の予想・売買予想・AI株価診断 [TWHDC] - ",
       "material_url": "",
       "material_all": ""
     },
