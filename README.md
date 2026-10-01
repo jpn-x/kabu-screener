@@ -9,8 +9,8 @@
 
 | バージョン | URL / 起動方法 |
 |---|---|
-| **Webスマホ版** | https://jpn-x.github.io/kabu-screener/ |
-| **WebPC版** | https://jpn-x.github.io/kabu-screener/desktop.html |
+| **Webスマホ版** | https://kabu-screener.pages.dev/ |
+| **WebPC版** | https://kabu-screener.pages.dev/desktop |
 | **PCデスクトップソフト** | `dist/デイトレスクリーナー.exe` をダブルクリック |
 
 > **iPhoneホーム画面追加**: Safari で開いて「ホーム画面に追加」→ アプリとして起動できます
@@ -143,7 +143,7 @@ Chrome 116以上でのみ対応。別ウィンドウがOSの最前面に浮か�
 
 ## 📱 スマホ版の使い方
 
-1. Safariで `https://jpn-x.github.io/kabu-screener/` を開く
+1. Safariで `https://kabu-screener.pages.dev/` を開く
 2. 「ホーム画面に追加」でアプリとして保存
 3. **フィルター条件▼** をタップで条件展開
 4. **🔴 PTS上昇 / 🔵 PTS下落** でPTSランキング確認
@@ -153,8 +153,8 @@ Chrome 116以上でのみ対応。別ウィンドウがOSの最前面に浮か�
 
 ## 🔗 関連リンク
 
-- **スマホ版**: https://jpn-x.github.io/kabu-screener/
-- **PC版**: https://jpn-x.github.io/kabu-screener/desktop.html
+- **スマホ版**: https://kabu-screener.pages.dev/
+- **PC版**: https://kabu-screener.pages.dev/desktop
 - **GitHub**: https://github.com/jpn-x/kabu-screener
 - **PCソフト格納フォルダ**: `C:\Users\[username]\Documents\daytrade_screener\`
 

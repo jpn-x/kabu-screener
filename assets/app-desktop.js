@@ -1,6 +1,6 @@
 'use strict';
 
-const DATA_URL = 'https://jpn-x.github.io/kabu-screener/data/results.json';
+const DATA_URL = 'data/results.json';
 
 // 市場名を2文字略称に変換
 function mktAbbr(market) {
