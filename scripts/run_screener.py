@@ -116,6 +116,18 @@ def fetch_ytd_perf(codes: list[str]) -> dict[str, dict]:
     return result
 
 
+def _failed_tickers(data, tickers):
+    """終値が1件も取れなかった銘柄(Yahooのレート制限429などで丸ごと失敗)を返す。
+    ※正常時は 0 件(ログに 'Failed downloads' が出ない)。上場廃止銘柄は古い終値が残るので含まれない。"""
+    try:
+        cdf = data["Close"]
+        if not hasattr(cdf, "columns"):
+            return []
+        return [t for t in tickers if (t not in cdf.columns) or cdf[t].dropna().empty]
+    except Exception:
+        return []
+
+
 def fetch_and_screen(codes: list[str], chunk_size=500) -> pd.DataFrame:
     """
     yfinanceで全銘柄を chunk_size ずつ分割取得。
@@ -123,6 +135,7 @@ def fetch_and_screen(codes: list[str], chunk_size=500) -> pd.DataFrame:
     """
     all_rows = []
     stale_total = 0   # 最新の取引日にデータが無い(上場廃止・取引停止)ため除外した銘柄数
+    failed_total = 0  # 取り直してもYahooから取れなかった銘柄数(多すぎれば欠けたデータを公開しない)
     chunks = [codes[i:i+chunk_size] for i in range(0, len(codes), chunk_size)]
 
     for i, chunk in enumerate(chunks):
@@ -135,6 +148,31 @@ def fetch_and_screen(codes: list[str], chunk_size=500) -> pd.DataFrame:
             )
             if data.empty:
                 continue
+
+            # Yahoo のレート制限(429)などで丸ごと取れなかった銘柄は、間隔をあけて取り直す。
+            # (従来は取れなかった銘柄が黙って欠け、一覧の銘柄数が大きく減ったまま公開されていた)
+            failed = _failed_tickers(data, tickers)
+            for attempt in (1, 2, 3):
+                if len(failed) < 2:
+                    break
+                wait = 25 * attempt
+                print(f"    取得失敗 {len(failed)}銘柄 → {wait}秒待って再取得({attempt}/3)")
+                time.sleep(wait)
+                try:
+                    d2 = yf.download(failed, period="1y", interval="1d",
+                                     auto_adjust=True, progress=False, threads=False)
+                    c2 = d2["Close"]
+                    ok_t = [t for t in failed if hasattr(c2, "columns") and t in c2.columns
+                            and not c2[t].dropna().empty]
+                    if ok_t:
+                        keep = [col for col in data.columns if col[1] not in ok_t]
+                        new  = [col for col in d2.columns if col[1] in ok_t]
+                        data = pd.concat([data[keep], d2[new]], axis=1)
+                    failed = [t for t in failed if t not in ok_t]
+                    print(f"      回復 {len(ok_t)}銘柄 / 残り {len(failed)}銘柄")
+                except Exception as e:
+                    print(f"      再取得エラー: {e}")
+            failed_total += len(failed)
 
             # 最新の取引日(ref_date)= 半数以上の銘柄に終値がある最後の日。
             # 上場廃止・取引停止の銘柄は、最新日に終値が無いのに「最後の有効値」を使い続けてしまい、
@@ -234,6 +272,11 @@ def fetch_and_screen(codes: list[str], chunk_size=500) -> pd.DataFrame:
 
         if i < len(chunks) - 1:
             time.sleep(1)  # レート制限対策
+
+    # 取り直してもYahooから取れなかった銘柄が多いときは、欠けたデータを公開しない(前回の正常なデータを残す)。
+    if failed_total > max(20, int(len(codes) * 0.05)):
+        print(f"::error::Yahooから取得できなかった銘柄が多すぎる({failed_total}/{len(codes)}件)。欠けたデータを公開しないため更新を中止します(前回のデータを維持)")
+        sys.exit(1)
 
     df = pd.DataFrame(all_rows) if all_rows else pd.DataFrame()
     print(f"  yfinance: アクティブ銘柄 {len(df)}件(最新取引日にデータが無く除外: {stale_total}件)")
