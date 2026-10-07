@@ -7,6 +7,10 @@ on:
     - cron: '0,20,40 7 * * 1-5'  # 16:00〜16:40 JST (引け後)
   workflow_dispatch:  # 手動実行ボタン
 
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
