@@ -122,6 +122,7 @@ def fetch_and_screen(codes: list[str], chunk_size=500) -> pd.DataFrame:
     period="ytd" で年初来データも一括取得してYTD計算も同時に行う。
     """
     all_rows = []
+    stale_total = 0   # 最新の取引日にデータが無い(上場廃止・取引停止)ため除外した銘柄数
     chunks = [codes[i:i+chunk_size] for i in range(0, len(codes), chunk_size)]
 
     for i, chunk in enumerate(chunks):
@@ -135,7 +136,31 @@ def fetch_and_screen(codes: list[str], chunk_size=500) -> pd.DataFrame:
             if data.empty:
                 continue
 
+            # 最新の取引日(ref_date)= 半数以上の銘柄に終値がある最後の日。
+            # 上場廃止・取引停止の銘柄は、最新日に終値が無いのに「最後の有効値」を使い続けてしまい、
+            # 古いデータのまま一覧に残っていた(例: 2026-10 に上場廃止した 4316 ビーマップ)。それを除外する。
+            # 除外が多すぎる(3割超)ときは判定が不自然なので、従来どおり(除外しない)に戻す。
+            stale_codes = set()
+            try:
+                cdf = data["Close"]
+                if hasattr(cdf, "columns"):
+                    cnt = cdf.notna().sum(axis=1)
+                    ok = cnt[cnt >= max(1, int(len(cdf.columns) * 0.5))]
+                    if len(ok):
+                        ref_date = ok.index[-1]
+                        last_valid = cdf.apply(lambda s: s.last_valid_index()).dropna()
+                        stale = last_valid[last_valid < ref_date]
+                        if len(stale) > 0.3 * len(last_valid):
+                            print(f"  警告: 最新取引日({ref_date})にデータが無い銘柄が多すぎる({len(stale)}/{len(last_valid)})→除外せず従来動作")
+                        else:
+                            stale_codes = set(stale.index)
+                            stale_total += len(stale_codes)
+            except Exception as e:
+                print(f"  最新取引日の判定に失敗(従来動作): {e}")
+
             for ticker in tickers:
+                if ticker in stale_codes:
+                    continue
                 code = ticker.replace(".T", "")
                 try:
                     if len(tickers) == 1:
@@ -211,7 +236,7 @@ def fetch_and_screen(codes: list[str], chunk_size=500) -> pd.DataFrame:
             time.sleep(1)  # レート制限対策
 
     df = pd.DataFrame(all_rows) if all_rows else pd.DataFrame()
-    print(f"  yfinance: アクティブ銘柄 {len(df)}件")
+    print(f"  yfinance: アクティブ銘柄 {len(df)}件(最新取引日にデータが無く除外: {stale_total}件)")
     return df
 
 
