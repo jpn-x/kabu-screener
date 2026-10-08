@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T12:06:00+09:00",
-  "updated_at_display": "10/08 12:06",
+  "updated_at": "2026-10-08T12:27:00+09:00",
+  "updated_at_display": "10/08 12:27",
   "count": 1971,
   "stocks": [
     {
@@ -377,7 +377,7 @@
       "vol_150d": 56.03,
       "trading_value": 2.6,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)ハンモック【173A】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 光通信株式会社が株式会社ハンモック＜173A＞株式の変更報告書を提出 - ｄメニューニュース",
       "material_url": "",
       "material_all": ""
     },
@@ -485,7 +485,7 @@
       "vol_150d": 94.4,
       "trading_value": 93.6,
       "source": "値上がり率",
-      "material_text": "[ニュース] サイバーソリューションズ(436A)、｢増配｣を発表し、配当利回り3.5％に！ 年間配当は1年で18.7％増加、2027",
+      "material_text": "[ニュース] サイバーソリューションズ(株)【436A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -1241,7 +1241,7 @@
       "vol_150d": 30.58,
       "trading_value": 11.0,
       "source": "出来高",
-      "material_text": "[ニュース] サイバートラスト[4498]：SSL/TLSサーバー証明書発行サービスの代替措置によるサービス提供継続に関するお知らせ ",
+      "material_text": "[ニュース] サイバートラスト(株)【4498】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -15038,7 +15038,7 @@
       "vol_150d": 43.69,
       "trading_value": 121.6,
       "source": "売買代金",
-      "material_text": "[ニュース] 日本電産(株)【6594】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 【6594】ニデックの株価は割高？独自に理論株価を算出してみた Montreal Game Tonight (NVngm",
       "material_url": "",
       "material_all": ""
     },
@@ -16064,7 +16064,7 @@
       "vol_150d": 253.46,
       "trading_value": 207.5,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)ＳＵＭＣＯ【3436】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] SUMCO（3436）が前日比17.97％の急騰で「年初来高値」を更新。終値3,578円。5月12日の決算発表を控え期待",
       "material_url": "",
       "material_all": ""
     },
@@ -53458,7 +53458,7 @@
       "pts_price": 1040.0,
       "pts_change_pct": 3.9,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 明治海運(株)【9115】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 明海グループ(株)【9115】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -53566,7 +53566,7 @@
       "pts_price": 950.0,
       "pts_change_pct": 2.93,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ELEMENTS（5246）、通期業績予想を上方修正 「LIQUID eKYC」の好調とPMI進捗で、上期利益は黒字へ回",
+      "material_text": "[ニュース] (株)ＥＬＥＭＥＮＴＳ【5246】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -53794,7 +53794,7 @@
       "pts_price": 20.4,
       "pts_change_pct": 2.0,
       "source": "PTS上昇",
-      "material_text": "[ニュース] オンコセラピー・サイエンス(株)【4564】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] オンコセラピー・サイエンス(株)【4564】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -53902,7 +53902,7 @@
       "pts_price": 1285.0,
       "pts_change_pct": 1.66,
       "source": "PTS上昇",
-      "material_text": "[ニュース] サイバートラスト[4498]：SSL/TLSサーバー証明書発行サービスの代替措置によるサービス提供継続に関するお知らせ ",
+      "material_text": "[ニュース] サイバートラスト(株)【4498】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -54262,7 +54262,7 @@
       "pts_price": 2257.9,
       "pts_change_pct": -17.98,
       "source": "PTS下落",
-      "material_text": "[ニュース] フィデアホールディングス[8713]：譲渡制限付株式報酬としての自己株式の処分に関するお知らせ 2026年7月16日(適",
+      "material_text": "[ニュース] フィデアホールディングス[8713]：当社完全子会社である荘内銀行及び北都銀行の合併契約の締結に関するお知らせ 2026",
       "material_url": "",
       "material_all": ""
     },
@@ -54334,7 +54334,7 @@
       "pts_price": 2938.9,
       "pts_change_pct": -5.8,
       "source": "PTS下落",
-      "material_text": "[ニュース] ケイアイスター不動産(株)【3465】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ケイアイスター不動産[3465]：株主優待制度の拡充に関するお知らせ 2026年2月12日(適時開示) ：日経会社情報D",
       "material_url": "",
       "material_all": ""
     },
@@ -54514,7 +54514,7 @@
       "pts_price": 9440.0,
       "pts_change_pct": -3.77,
       "source": "PTS下落",
-      "material_text": "[ニュース] サン電子(株)【6736】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] サン電子(株)【6736】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
