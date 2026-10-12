@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T09:06:00+09:00",
-  "updated_at_display": "10/12 09:06",
+  "updated_at": "2026-10-12T09:28:00+09:00",
+  "updated_at_display": "10/12 09:28",
   "count": 2201,
   "stocks": [
     {
@@ -39889,7 +39889,7 @@
       "close": 4590.0,
       "change_pct": -0.24,
       "market_cap": 2161.0,
-      "ytd_perf": 10.18,
+      "ytd_perf": 10.17,
       "year_start_price": 4166.1,
       "intraday_vol": 1.85,
       "vol_3d": 2.24,
@@ -44927,7 +44927,7 @@
       "vol_150d": 35.79,
       "trading_value": 456.6,
       "source": "売買代金",
-      "material_text": "[ニュース] 三菱重工業(株)【7011】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 三菱重工業(株)【7011】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60916,7 +60916,7 @@
       "pts_price": 196.1,
       "pts_change_pct": -1.95,
       "source": "PTS下落",
-      "material_text": "[ニュース] ニューラルグループ(株)【4056】：決算説明会書き起こし - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ニューラルグループ(株)【4056】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61108,7 +61108,7 @@
       "pts_price": 1351.2,
       "pts_change_pct": -1.59,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)Ｇ－７ホールディングス【7508】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)Ｇ－７ホールディングス【7508】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61252,7 +61252,7 @@
       "pts_price": 1603.0,
       "pts_change_pct": -1.41,
       "source": "PTS下落",
-      "material_text": "[ニュース] なぜ石川製作所（6208）なのか？津田駒と同じ\"繊維機械×防衛\"を隠し持つ超穴場株｜日本個別株デューデリジェンスセンター",
+      "material_text": "[ニュース] (株)石川製作所【6208】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
