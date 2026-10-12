@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T12:26:00+09:00",
-  "updated_at_display": "10/12 12:26",
+  "updated_at": "2026-10-12T12:46:00+09:00",
+  "updated_at_display": "10/12 12:46",
   "count": 2201,
   "stocks": [
     {
@@ -269,7 +269,7 @@
       "vol_150d": 65.33,
       "trading_value": 35.7,
       "source": "高ボラ",
-      "material_text": "[ニュース] アップデートレポート：5599 S＆J - 四季報オンライン",
+      "material_text": "[ニュース] ZIPAIR、韓国ソウル1万5160円～、ホノルル3万5599円～など「THANKS SALE」（トラベル Watch）",
       "material_url": "",
       "material_all": ""
     },
@@ -647,7 +647,7 @@
       "vol_150d": 59.38,
       "trading_value": 2.1,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)アクリート【4395】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)アクリート【4395】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -674,7 +674,7 @@
       "vol_150d": 95.75,
       "trading_value": 68.1,
       "source": "高ボラ",
-      "material_text": "[ニュース] サイバーソリューションズ(436A)、｢増配｣を発表し、配当利回り3.5％に！ 年間配当は1年で18.7％増加、2027",
+      "material_text": "[ニュース] サイバーソリューションズ(株)【436A】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!フ",
       "material_url": "",
       "material_all": ""
     },
@@ -1106,7 +1106,7 @@
       "vol_150d": 52.44,
       "trading_value": 45.6,
       "source": "高ボラ",
-      "material_text": "[ニュース] シンフォニアテクノロジー(株)【6507】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] シンフォニアテクノロジー(株)【6507】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -1862,7 +1862,7 @@
       "vol_150d": 431.29,
       "trading_value": 2501.2,
       "source": "売買代金",
-      "material_text": "[ニュース] 太陽誘電(株)【6976】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 太陽誘電(株)【6976】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -30143,7 +30143,7 @@
       "change_pct": 0.68,
       "market_cap": 195330.0,
       "ytd_perf": 42.02,
-      "year_start_price": 56709.6,
+      "year_start_price": 56709.5,
       "intraday_vol": 2.43,
       "vol_3d": 5.33,
       "vol_5d": 5.41,
@@ -33614,7 +33614,7 @@
       "vol_150d": 176.54,
       "trading_value": 716.4,
       "source": "売買代金",
-      "material_text": "[ニュース] 株価が半年で「166％超」上昇…リクルートHD（6098）に買いが殺到している理由【注目の業種・銘柄一覧】 - トウシル",
+      "material_text": "[ニュース] (株)リクルートホールディングス【6098】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!",
       "material_url": "",
       "material_all": ""
     },
@@ -39889,7 +39889,7 @@
       "close": 4590.0,
       "change_pct": -0.24,
       "market_cap": 2161.0,
-      "ytd_perf": 10.18,
+      "ytd_perf": 10.17,
       "year_start_price": 4166.1,
       "intraday_vol": 1.85,
       "vol_3d": 2.24,
@@ -44927,7 +44927,7 @@
       "vol_150d": 35.79,
       "trading_value": 456.6,
       "source": "売買代金",
-      "material_text": "[ニュース] 三菱重工業(株)【7011】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 三菱重工業(株)【7011】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -59656,7 +59656,7 @@
       "pts_price": 1690.0,
       "pts_change_pct": 5.96,
       "source": "PTS上昇",
-      "material_text": "[ニュース] アップデートレポート：5599 S＆J - 四季報オンライン",
+      "material_text": "[ニュース] ZIPAIR、韓国ソウル1万5160円～、ホノルル3万5599円～など「THANKS SALE」（トラベル Watch）",
       "material_url": "",
       "material_all": ""
     },
@@ -59716,7 +59716,7 @@
       "pts_price": 2011.0,
       "pts_change_pct": 5.23,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 配当42円→60円の「4割増配」はまだ序章か？JBCCホールディングス（9889）、営業利益率11%到達で見えてきた\"最",
+      "material_text": "[ニュース] ＪＢＣＣホールディングス(株)【9889】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!フ",
       "material_url": "",
       "material_all": ""
     },
@@ -60160,7 +60160,7 @@
       "pts_price": 553.0,
       "pts_change_pct": 2.41,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 上新電機news｜売上高4366億円8.3％増/経常利益51億円46.５%増 - 流通スーパーニュース",
+      "material_text": "[ニュース] ダイトーケミックス(株)【4366】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60268,7 +60268,7 @@
       "pts_price": 835.0,
       "pts_change_pct": 1.95,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)アクリート【4395】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)アクリート【4395】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60352,7 +60352,7 @@
       "pts_price": 2907.0,
       "pts_change_pct": 1.79,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ＡＢＥＪＡ【5574】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ＡＢＥＪＡ【5574】：板気配 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60376,7 +60376,7 @@
       "pts_price": 3350.0,
       "pts_change_pct": 1.7,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)しまむら【8227】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)しまむら【8227】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60916,7 +60916,7 @@
       "pts_price": 196.1,
       "pts_change_pct": -1.95,
       "source": "PTS下落",
-      "material_text": "[ニュース] ニューラルグループ(株)【4056】：決算説明会書き起こし - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ニューラルグループ(株)【4056】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60964,7 +60964,7 @@
       "pts_price": 1427.2,
       "pts_change_pct": -1.84,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＳＲＳホールディングス[8163]：株主優待制度の変更(拡充)に関するお知らせ 2026年7月28日(適時開示) ：日経",
+      "material_text": "[ニュース] ＳＲＳホールディングス(株)【8163】：株主優待 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61012,7 +61012,7 @@
       "pts_price": 22.6,
       "pts_change_pct": -1.74,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＣＲＡＶＩＡ(株)【6573】：株価チャート - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＣＲＡＶＩＡ[6573]：株式会社ケイカンパニーとの取引基本契約締結に関するお知らせ 2026年7月29日(適時開示) ",
       "material_url": "",
       "material_all": ""
     },
@@ -61060,7 +61060,7 @@
       "pts_price": 88.5,
       "pts_change_pct": -1.67,
       "source": "PTS下落",
-      "material_text": "[ニュース] レカム[3323]：第三者割当による新株式及び第24回乃至第26回新株予約権の発行、並びにグロース・キャピタル株式会社と",
+      "material_text": "[ニュース] レカム(株)【3323】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61216,7 +61216,7 @@
       "pts_price": 341.0,
       "pts_change_pct": -1.45,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)シーラホールディングス【8887】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファ",
+      "material_text": "[ニュース] シーラホールディングス[8887]：収益用不動産の仕入れ決済完了に関するお知らせ 2026年9月30日(適時開示) ：日",
       "material_url": "",
       "material_all": ""
     },
@@ -61252,7 +61252,7 @@
       "pts_price": 1603.0,
       "pts_change_pct": -1.41,
       "source": "PTS下落",
-      "material_text": "[ニュース] なぜ石川製作所（6208）なのか？津田駒と同じ\"繊維機械×防衛\"を隠し持つ超穴場株｜日本個別株デューデリジェンスセンター",
+      "material_text": "[ニュース] (株)石川製作所【6208】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61300,7 +61300,7 @@
       "pts_price": 1070.0,
       "pts_change_pct": -1.29,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)菊池製作所【3444】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)菊池製作所【3444】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61480,7 +61480,7 @@
       "pts_price": 3082.0,
       "pts_change_pct": -1.22,
       "source": "PTS下落",
-      "material_text": "[ニュース] ｎｏｔｅ(株)【5243】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ｎｏｔｅ(株)【5243】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
