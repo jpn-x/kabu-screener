@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T15:47:00+09:00",
-  "updated_at_display": "10/12 15:47",
+  "updated_at": "2026-10-12T16:08:00+09:00",
+  "updated_at_display": "10/12 16:08",
   "count": 2201,
   "stocks": [
     {
@@ -323,7 +323,7 @@
       "vol_150d": 74.32,
       "trading_value": 59.1,
       "source": "値上がり率",
-      "material_text": "[ニュース] (株)レイヤード【634A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -755,7 +755,7 @@
       "vol_150d": 124.63,
       "trading_value": 8.1,
       "source": "高ボラ",
-      "material_text": "[ニュース] 辻・本郷ＩＴコンサルティング(株)【476A】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo",
+      "material_text": "[ニュース] Hongo　holdings株式会社が辻・本郷ITコンサルティング株式会社＜476A＞株式の変更報告書を提出（保有減少）",
       "material_url": "",
       "material_all": ""
     },
@@ -1376,7 +1376,7 @@
       "vol_150d": 81.18,
       "trading_value": 63.2,
       "source": "値上がり率",
-      "material_text": "[ニュース] サンバイオ(株)【4592】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] サンバイオ(株)【4592】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -1403,7 +1403,7 @@
       "vol_150d": 288.59,
       "trading_value": 4.4,
       "source": "高ボラ",
-      "material_text": "[ニュース] ＨＰＣシステムズ(株)【6597】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナン",
+      "material_text": "[ニュース] ＨＰＣシステムズ(株)【6597】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -3941,7 +3941,7 @@
       "vol_150d": 128.03,
       "trading_value": 77.8,
       "source": "出来高",
-      "material_text": "[ニュース] (株)マネーフォワード【3994】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナン",
+      "material_text": "[ニュース] マネーフォワード (3994) : 株主優待・優待利回り [Money Forward] - みんかぶ",
       "material_url": "",
       "material_all": ""
     },
@@ -23786,7 +23786,7 @@
       "vol_150d": 35.52,
       "trading_value": 421.7,
       "source": "売買代金",
-      "material_text": "[ニュース] 富士通(株)【6702】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 富士通(株)【6702】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -26837,7 +26837,7 @@
       "vol_150d": 106.03,
       "trading_value": 430.8,
       "source": "売買代金",
-      "material_text": "[ニュース] ルネサスエレクトロニクス(株)【6723】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!フ",
+      "material_text": "[ニュース] ルネサスエレクトロニクス(株)【6723】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -30170,7 +30170,7 @@
       "change_pct": 0.68,
       "market_cap": 195330.0,
       "ytd_perf": 42.02,
-      "year_start_price": 56709.5,
+      "year_start_price": 56709.6,
       "intraday_vol": 2.43,
       "vol_3d": 5.33,
       "vol_5d": 5.41,
@@ -59884,7 +59884,7 @@
       "pts_price": 6880.0,
       "pts_change_pct": 3.46,
       "source": "PTS上昇",
-      "material_text": "[ニュース] グローバルセキュリティエキスパート[4417]：大量保有報告書 提出者：グローバルセキュリティエキスパート株式会社：日経",
+      "material_text": "[ニュース] 取引先から「星」を求められる時代へ。SCS評価制度スタートで、グローバルセキュリティエキスパート（4417）に“サプライ",
       "material_url": "",
       "material_all": ""
     },
@@ -60040,7 +60040,7 @@
       "pts_price": 620.0,
       "pts_change_pct": 2.99,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)シグマクシス・ホールディングス【6088】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yaho",
+      "material_text": "[ニュース] (株)シグマクシス・ホールディングス【6088】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60076,7 +60076,7 @@
       "pts_price": 9620.0,
       "pts_change_pct": 2.78,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ＦＦＲＩセキュリティ【3692】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ＦＦＲＩセキュリティ【3692】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイ",
       "material_url": "",
       "material_all": ""
     },
@@ -60112,7 +60112,7 @@
       "pts_price": 1148.0,
       "pts_change_pct": 2.68,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)サイバーリンクス【3683】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナン",
+      "material_text": "[ニュース] サイバーリンクス (3683) : 今後の予想・売買予想・AI株価診断 [CYBERLINKS] - みんかぶ",
       "material_url": "",
       "material_all": ""
     },
@@ -60160,7 +60160,7 @@
       "pts_price": 553.0,
       "pts_change_pct": 2.41,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ダイトーケミックス(株)【4366】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナ",
+      "material_text": "[ニュース] ダイトーケミックス(株)【4366】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60340,7 +60340,7 @@
       "pts_price": 2151.0,
       "pts_change_pct": 1.85,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ＳＢＩインシュアランスグループ(株)【7326】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yaho",
+      "material_text": "[ニュース] ＳＢＩインシュアランスグループ(株)【7326】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60352,7 +60352,7 @@
       "pts_price": 2907.0,
       "pts_change_pct": 1.79,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ＡＢＥＪＡ【5574】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ＡＢＥＪＡ【5574】：板気配 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60544,7 +60544,7 @@
       "pts_price": 3550.0,
       "pts_change_pct": 1.43,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ＰＫＳＨＡ Ｔｅｃｈｎｏｌｏｇｙ【3993】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yah",
+      "material_text": "[ニュース] (株)ＰＫＳＨＡ Ｔｅｃｈｎｏｌｏｇｙ【3993】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナ",
       "material_url": "",
       "material_all": ""
     },
@@ -60556,7 +60556,7 @@
       "pts_price": 359.0,
       "pts_change_pct": 1.41,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 三菱自動車(株)【7211】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 三菱自動車(株)【7211】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60568,7 +60568,7 @@
       "pts_price": 240.0,
       "pts_change_pct": -13.98,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ランドビジネス【8944】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ランドビジネス【8944】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60748,7 +60748,7 @@
       "pts_price": 957.0,
       "pts_change_pct": -2.94,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ライドオンエクスプレスホールディングス【6082】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ライドオンエクスプレスホールディングス【6082】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - ",
       "material_url": "",
       "material_all": ""
     },
@@ -61228,7 +61228,7 @@
       "pts_price": 273.0,
       "pts_change_pct": -1.44,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ブロードバンドタワー【3776】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ブロードバンドタワー【3776】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイ",
       "material_url": "",
       "material_all": ""
     },
@@ -61240,7 +61240,7 @@
       "pts_price": 3189.0,
       "pts_change_pct": -1.42,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)愛媛銀行【8541】：株価・株式情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)愛媛銀行【8541】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61288,7 +61288,7 @@
       "pts_price": 379.0,
       "pts_change_pct": -1.3,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ハイパー【3054】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ハイパー【3054】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61336,7 +61336,7 @@
       "pts_price": 70.1,
       "pts_change_pct": -1.27,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)リボミック【4591】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)リボミック【4591】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61360,7 +61360,7 @@
       "pts_price": 4245.5,
       "pts_change_pct": -1.27,
       "source": "PTS下落",
-      "material_text": "[ニュース] 芝浦メカトロニクス(株)【6590】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナ",
+      "material_text": "[ニュース] 芝浦メカトロニクス(株)【6590】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
