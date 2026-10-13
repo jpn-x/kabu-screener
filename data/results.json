@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13T12:16:00+09:00",
-  "updated_at_display": "10/13 12:16",
+  "updated_at": "2026-10-13T12:33:00+09:00",
+  "updated_at_display": "10/13 12:33",
   "count": 1884,
   "stocks": [
     {
@@ -755,7 +755,7 @@
       "vol_150d": 205.71,
       "trading_value": 72.3,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)カウリス【153A】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)カウリス【153A】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -3752,7 +3752,7 @@
       "vol_150d": 73.62,
       "trading_value": 17.0,
       "source": "出来高",
-      "material_text": "[ニュース] ＰＨＣホールディングス(株)【6523】：株主優待 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＰＨＣホールディングス(株)【6523】：株価チャート - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -4994,7 +4994,7 @@
       "vol_150d": 445.5,
       "trading_value": 5393.6,
       "source": "売買代金",
-      "material_text": "[ニュース] キオクシアホールディングス(株)【285A】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!",
+      "material_text": "[ニュース] キオクシアホールディングス(株)【285A】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -5021,7 +5021,7 @@
       "vol_150d": 93.1,
       "trading_value": 1154.5,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)フジクラ【5803】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)フジクラ【5803】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -5804,7 +5804,7 @@
       "vol_150d": 116.69,
       "trading_value": 358.4,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)ＫＯＫＵＳＡＩ ＥＬＥＣＴＲＩＣ【6525】：株価チャート - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ＫＯＫＵＳＡＩ ＥＬＥＣＴＲＩＣ【6525】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yah",
       "material_url": "",
       "material_all": ""
     },
@@ -8342,7 +8342,7 @@
       "vol_150d": 85.36,
       "trading_value": 20.5,
       "source": "出来高",
-      "material_text": "[ニュース] 野村マイクロ・サイエンス(株)【6254】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!フ",
+      "material_text": "[ニュース] 野村マイクロ・サイエンス(株)【6254】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -24515,7 +24515,7 @@
       "vol_150d": 28.7,
       "trading_value": 196.9,
       "source": "売買代金",
-      "material_text": "[ニュース] ソニー（東証：6758）の業績見通しの上方修正に対し、投資家はどのように反応しているか - Simply Wall St",
+      "material_text": "[ニュース] ソニー(株)【6758】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -26756,7 +26756,7 @@
       "vol_150d": 42.54,
       "trading_value": 257.5,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)三井住友フィナンシャルグループ【8316】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)三井住友フィナンシャルグループ【8316】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -31115,7 +31115,7 @@
       "change_pct": -1.44,
       "market_cap": 192516.0,
       "ytd_perf": 39.98,
-      "year_start_price": 56709.6,
+      "year_start_price": 56709.5,
       "intraday_vol": 1.76,
       "vol_3d": 3.38,
       "vol_5d": 5.31,
@@ -47357,7 +47357,7 @@
       "vol_150d": 31.98,
       "trading_value": 137.8,
       "source": "売買代金",
-      "material_text": "[ニュース] ＪＴ【2914】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＪＴ【2914】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -50867,7 +50867,7 @@
       "vol_150d": 111.63,
       "trading_value": 3.0,
       "source": "値上がり率",
-      "material_text": "[ニュース] ショーケース (3909) : 今後の予想・売買予想・AI株価診断 [Showcase] - みんかぶ",
+      "material_text": "[ニュース] (株)ショーケース【3909】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     }
@@ -50977,7 +50977,7 @@
       "pts_price": 215.0,
       "pts_change_pct": 10.26,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)Ａｉｍｉｎｇ【3911】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] Ａｉｍｉｎｇ[3911]：（訂正）『ホロライブ麻雀-ホロじゃん-』タイトル発表及び事前登録開始のお知らせ 2026年10",
       "material_url": "",
       "material_all": ""
     },
@@ -51133,7 +51133,7 @@
       "pts_price": 410.0,
       "pts_change_pct": 5.4,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ショーケース (3909) : 今後の予想・売買予想・AI株価診断 [Showcase] - みんかぶ",
+      "material_text": "[ニュース] (株)ショーケース【3909】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -51661,7 +51661,7 @@
       "pts_price": 1167.0,
       "pts_change_pct": 2.1,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 三菱ケミカルグループ(株)【4188】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイ",
+      "material_text": "[ニュース] (株)三菱ケミカルホールディングス【4188】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52021,7 +52021,7 @@
       "pts_price": 1365.0,
       "pts_change_pct": -13.93,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＰＨＣホールディングス(株)【6523】：株主優待 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＰＨＣホールディングス(株)【6523】：株価チャート - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52441,7 +52441,7 @@
       "pts_price": 777.0,
       "pts_change_pct": -1.77,
       "source": "PTS下落",
-      "material_text": "[ニュース] ユナイテッド・スーパーマーケット・ホールディングス(株)【3222】：株主優待 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ユナイテッド・スーパーマーケット・ホールディングス(株)【3222】：板気配 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
