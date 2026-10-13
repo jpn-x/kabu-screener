@@ -215,7 +215,7 @@
       "vol_150d": 47.97,
       "trading_value": 3.4,
       "source": "高ボラ",
-      "material_text": "[ニュース] ウインテスト(株)【6721】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ウインテスト(株)【6721】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -6776,7 +6776,7 @@
       "vol_150d": 86.8,
       "trading_value": 565.4,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)レゾナック・ホールディングス【4004】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo",
+      "material_text": "[ニュース] キャピタル・リサーチ・アンド・マネージメント・カンパニー(Capital Research and Management",
       "material_url": "",
       "material_all": ""
     },
@@ -42399,7 +42399,7 @@
       "market": "プライム（内国株式）",
       "close": 10880.0,
       "change_pct": 2.06,
-      "market_cap": 1495.0,
+      "market_cap": null,
       "ytd_perf": -8.72,
       "year_start_price": 11918.9,
       "intraday_vol": 1.78,
@@ -61690,7 +61690,7 @@
       "pts_price": 61.1,
       "pts_change_pct": -1.45,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ＳＪＩ【2315】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ＣＡＩＣＡ ＤＩＧＩＴＡＬ【2315】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61834,7 +61834,7 @@
       "pts_price": 70.1,
       "pts_change_pct": -1.27,
       "source": "PTS下落",
-      "material_text": "[ニュース] ウインテスト(株)【6721】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ウインテスト(株)【6721】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
