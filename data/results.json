@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13T01:28:00+09:00",
-  "updated_at_display": "10/13 01:28",
+  "updated_at": "2026-10-13T09:09:00+09:00",
+  "updated_at_display": "10/13 09:09",
   "count": 2201,
   "stocks": [
     {
@@ -26,7 +26,7 @@
       "vol_150d": 80.0,
       "trading_value": 39.7,
       "source": "値上がり率",
-      "material_text": "[ニュース] (株)ショーケース【3909】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ショーケース (3909) : 今後の予想・売買予想・AI株価診断 [Showcase] - みんかぶ",
       "material_url": "",
       "material_all": ""
     },
@@ -80,7 +80,7 @@
       "vol_150d": 154.22,
       "trading_value": 92.9,
       "source": "高ボラ",
-      "material_text": "[ニュース] ブロードバンドセキュリティ[4398]：内部統制報告書－第27期(2026/09/17－2026/09/17) (有価証",
+      "material_text": "[ニュース] (株)ブロードバンドセキュリティ【4398】：株主優待 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -161,7 +161,7 @@
       "vol_150d": 154.2,
       "trading_value": 666.5,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)サイバーセキュリティクラウド【4493】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo",
+      "material_text": "[ニュース] (株)サイバーセキュリティクラウド【4493】：板気配 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -1079,7 +1079,7 @@
       "vol_150d": 53.46,
       "trading_value": 23.5,
       "source": "高ボラ",
-      "material_text": "[ニュース] ＢＡＳＥ(株)【4477】：株価チャート - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＢＡＳＥ(株)【4477】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -1187,9 +1187,9 @@
       "vol_150d": 29.18,
       "trading_value": 0.8,
       "source": "高ボラ",
-      "material_text": "[IR/前日] 当社及び当社取締役に対する訴訟の提起に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548854.pdf",
-      "material_all": "[前日] 当社及び当社取締役に対する訴訟の提起に関するお知らせ"
+      "material_text": "[ニュース] (株)トリプルアイズ【5026】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "3907",
@@ -1214,9 +1214,9 @@
       "vol_150d": 353.8,
       "trading_value": 9.9,
       "source": "高ボラ",
-      "material_text": "[IR/前日] （訂正）「2026年11月期 第３四半期決算補足説明資料」の一部訂正について",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261008548222.pdf",
-      "material_all": "[前日] （訂正）「2026年11月期 第３四半期決算補足説明資料」の一部訂正について"
+      "material_text": "[ニュース] シリコンスタジオ(株)【3907】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "4382",
@@ -1376,7 +1376,7 @@
       "vol_150d": 81.18,
       "trading_value": 63.2,
       "source": "値上がり率",
-      "material_text": "[ニュース] サンバイオ(株)【4592】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] サンバイオ(株)【4592】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -2159,7 +2159,7 @@
       "vol_150d": 101.14,
       "trading_value": 31.5,
       "source": "出来高",
-      "material_text": "[ニュース] ＨＥＮＮＧＥ(株)【4475】：株価チャート - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＨＥＮＮＧＥ(株)【4475】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -2969,9 +2969,9 @@
       "vol_150d": 101.71,
       "trading_value": 33.2,
       "source": "出来高",
-      "material_text": "[IR/前日] 2026年8月期 決算短信[日本基準](連結)",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548714.pdf",
-      "material_all": "[前日] 2026年8月期 決算短信[日本基準](連結)\n[前日] 2026年8月期決算 補足資料\n[前日] 2026年８月期配当予想の修正(増配)に関するお知らせ"
+      "material_text": "[ニュース] (株)マルマエ【6264】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "3374",
@@ -6911,9 +6911,9 @@
       "vol_150d": 47.08,
       "trading_value": 0.6,
       "source": "出来高",
-      "material_text": "[IR/前日] 主要株主及び主要株主である筆頭株主の異動に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548938.pdf",
-      "material_all": "[前日] 主要株主及び主要株主である筆頭株主の異動に関するお知らせ"
+      "material_text": "[ニュース] ＳＡＡＦホールディングス(株)【1447】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!フ",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "6769",
@@ -8703,7 +8703,7 @@
       "market": "プライム（内国株式）",
       "close": 2310.0,
       "change_pct": 4.19,
-      "market_cap": null,
+      "market_cap": 481.0,
       "ytd_perf": 19.83,
       "year_start_price": 1927.8,
       "intraday_vol": 5.28,
@@ -9810,7 +9810,7 @@
       "market": "プライム（内国株式）",
       "close": 1215.0,
       "change_pct": 3.32,
-      "market_cap": null,
+      "market_cap": 1357.0,
       "ytd_perf": -3.31,
       "year_start_price": 1256.6,
       "intraday_vol": 4.93,
@@ -11160,7 +11160,7 @@
       "market": "プライム（内国株式）",
       "close": 2744.0,
       "change_pct": 3.78,
-      "market_cap": null,
+      "market_cap": 409.0,
       "ytd_perf": 14.66,
       "year_start_price": 2393.2,
       "intraday_vol": 4.61,
@@ -11690,7 +11690,7 @@
       "vol_150d": 37.61,
       "trading_value": 373.2,
       "source": "売買代金",
-      "material_text": "[ニュース] テルモ(株)【4543】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] テルモ(株)【4543】：株主優待 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -14481,7 +14481,7 @@
       "market": "プライム（内国株式）",
       "close": 23120.0,
       "change_pct": 3.54,
-      "market_cap": null,
+      "market_cap": 31341.0,
       "ytd_perf": 7.74,
       "year_start_price": 21458.4,
       "intraday_vol": 4.08,
@@ -14859,7 +14859,7 @@
       "market": "プライム（内国株式）",
       "close": 3200.0,
       "change_pct": 3.23,
-      "market_cap": null,
+      "market_cap": 1918.0,
       "ytd_perf": 24.42,
       "year_start_price": 2572.0,
       "intraday_vol": 4.03,
@@ -18180,7 +18180,7 @@
       "market": "プライム（内国株式）",
       "close": 2461.0,
       "change_pct": 2.41,
-      "market_cap": null,
+      "market_cap": 282.0,
       "ytd_perf": 42.5,
       "year_start_price": 1727.0,
       "intraday_vol": 3.54,
@@ -20475,7 +20475,7 @@
       "market": "プライム（内国株式）",
       "close": 8050.0,
       "change_pct": 0.5,
-      "market_cap": null,
+      "market_cap": 1371.0,
       "ytd_perf": 49.53,
       "year_start_price": 5383.6,
       "intraday_vol": 3.25,
@@ -24228,7 +24228,7 @@
       "market": "プライム（内国株式）",
       "close": 1129.0,
       "change_pct": 3.39,
-      "market_cap": null,
+      "market_cap": 1754.0,
       "ytd_perf": -6.0,
       "year_start_price": 1201.1,
       "intraday_vol": 2.93,
@@ -26577,7 +26577,7 @@
       "market": "スタンダード（内国株式）",
       "close": 2034.0,
       "change_pct": 0.74,
-      "market_cap": null,
+      "market_cap": 556.0,
       "ytd_perf": 24.13,
       "year_start_price": 1638.6,
       "intraday_vol": 2.72,
@@ -27981,7 +27981,7 @@
       "market": "プライム（内国株式）",
       "close": 2561.0,
       "change_pct": -0.74,
-      "market_cap": null,
+      "market_cap": 359.0,
       "ytd_perf": -13.83,
       "year_start_price": 2972.1,
       "intraday_vol": 2.6,
@@ -34623,7 +34623,7 @@
       "market": "プライム（内国株式）",
       "close": 5552.0,
       "change_pct": 1.18,
-      "market_cap": null,
+      "market_cap": 5154.0,
       "ytd_perf": 28.88,
       "year_start_price": 4307.9,
       "intraday_vol": 2.13,
@@ -34650,7 +34650,7 @@
       "market": "プライム（内国株式）",
       "close": 3085.0,
       "change_pct": 1.31,
-      "market_cap": null,
+      "market_cap": 638.0,
       "ytd_perf": 0.71,
       "year_start_price": 3063.3,
       "intraday_vol": 2.13,
@@ -37215,7 +37215,7 @@
       "market": "プライム（内国株式）",
       "close": 3039.0,
       "change_pct": 2.27,
-      "market_cap": null,
+      "market_cap": 2289.0,
       "ytd_perf": -7.51,
       "year_start_price": 3285.9,
       "intraday_vol": 1.99,
@@ -37512,7 +37512,7 @@
       "market": "プライム（内国株式）",
       "close": 3530.0,
       "change_pct": -0.84,
-      "market_cap": null,
+      "market_cap": 1669.0,
       "ytd_perf": 7.53,
       "year_start_price": 3282.9,
       "intraday_vol": 1.97,
@@ -39916,7 +39916,7 @@
       "close": 4590.0,
       "change_pct": -0.24,
       "market_cap": 2161.0,
-      "ytd_perf": 10.18,
+      "ytd_perf": 10.17,
       "year_start_price": 4166.1,
       "intraday_vol": 1.85,
       "vol_3d": 2.24,
@@ -41778,7 +41778,7 @@
       "market": "プライム（内国株式）",
       "close": 2589.0,
       "change_pct": 2.13,
-      "market_cap": null,
+      "market_cap": 800.0,
       "ytd_perf": 5.4,
       "year_start_price": 2456.3,
       "intraday_vol": 1.78,
@@ -43587,7 +43587,7 @@
       "market": "プライム（内国株式）",
       "close": 2492.0,
       "change_pct": 0.69,
-      "market_cap": null,
+      "market_cap": 271.0,
       "ytd_perf": 8.13,
       "year_start_price": 2304.6,
       "intraday_vol": 1.7,
@@ -43614,7 +43614,7 @@
       "market": "スタンダード（内国株式）",
       "close": 3285.0,
       "change_pct": 1.55,
-      "market_cap": null,
+      "market_cap": 178.0,
       "ytd_perf": 3.44,
       "year_start_price": 3175.8,
       "intraday_vol": 1.7,
@@ -44829,7 +44829,7 @@
       "market": "プライム（内国株式）",
       "close": 3420.0,
       "change_pct": 1.79,
-      "market_cap": null,
+      "market_cap": 1282.0,
       "ytd_perf": -8.05,
       "year_start_price": 3719.2,
       "intraday_vol": 1.64,
@@ -45072,7 +45072,7 @@
       "market": "プライム（内国株式）",
       "close": 1185.0,
       "change_pct": 1.63,
-      "market_cap": null,
+      "market_cap": 1106.0,
       "ytd_perf": 5.93,
       "year_start_price": 1118.6,
       "intraday_vol": 1.63,
@@ -45504,7 +45504,7 @@
       "market": "プライム（内国株式）",
       "close": 4110.0,
       "change_pct": 1.61,
-      "market_cap": null,
+      "market_cap": 2014.0,
       "ytd_perf": 1.05,
       "year_start_price": 4067.4,
       "intraday_vol": 1.61,
@@ -52541,9 +52541,9 @@
       "vol_150d": 29.32,
       "trading_value": 299.5,
       "source": "売買代金",
-      "material_text": "[IR/前日] 子会社等の異動（株式譲渡）に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548466.pdf",
-      "material_all": "[前日] 子会社等の異動（株式譲渡）に関するお知らせ"
+      "material_text": "[ニュース] ＨＯＹＡ(株)【7741】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "9474",
@@ -52605,7 +52605,7 @@
       "market": "プライム（内国株式）",
       "close": 1390.0,
       "change_pct": 1.53,
-      "market_cap": null,
+      "market_cap": 635.0,
       "ytd_perf": -6.83,
       "year_start_price": 1491.9,
       "intraday_vol": 1.24,
@@ -55170,7 +55170,7 @@
       "market": "プライム（内国株式）",
       "close": 6368.0,
       "change_pct": 0.71,
-      "market_cap": null,
+      "market_cap": 25404.0,
       "ytd_perf": 17.1,
       "year_start_price": 5438.2,
       "intraday_vol": 1.11,
@@ -56142,7 +56142,7 @@
       "market": "プライム（内国株式）",
       "close": 2723.0,
       "change_pct": -0.04,
-      "market_cap": null,
+      "market_cap": 607.0,
       "ytd_perf": 0.45,
       "year_start_price": 2710.9,
       "intraday_vol": 1.06,
@@ -56574,7 +56574,7 @@
       "market": "プライム（内国株式）",
       "close": 3265.0,
       "change_pct": 0.65,
-      "market_cap": null,
+      "market_cap": 2521.0,
       "ytd_perf": -2.51,
       "year_start_price": 3349.1,
       "intraday_vol": 1.02,
@@ -59440,9 +59440,9 @@
       "pts_price": 382.0,
       "pts_change_pct": 26.49,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] セイコーエプソン株式会社との資本業務提携の締結、第三者割当による新株式の発行並びに主要株主及び主要株主である筆頭株主の異",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261008547929.pdf",
-      "material_all": "[前日] セイコーエプソン株式会社との資本業務提携の締結、第三者割当による新株式の発行並びに主要株主及び主要株主である筆頭株主の異"
+      "material_text": "[ニュース] クラスターテクノロジー(株)【4240】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "6393",
@@ -59464,9 +59464,9 @@
       "pts_price": 570.0,
       "pts_change_pct": 16.33,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] 連結業績予想の修正（上方修正）に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548416.pdf",
-      "material_all": "[前日] 連結業績予想の修正（上方修正）に関するお知らせ"
+      "material_text": "[ニュース] (株)サイバー・バズ【7069】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "3996",
@@ -59476,9 +59476,9 @@
       "pts_price": 254.0,
       "pts_change_pct": 15.98,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] 2027年2月期 第2四半期 (中間期) 決算短信〔日本基準〕(非連結)",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261008547881.pdf",
-      "material_all": "[前日] 2027年2月期 第2四半期 (中間期) 決算短信〔日本基準〕(非連結)\n[前日] 業績予想の修正及び配当予想の修正に関するお知らせ\n[前日] 中期経営計画「CRAFT2030」策定に関するお知らせ"
+      "material_text": "[ニュース] サインポスト(株)【3996】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "6668",
@@ -59488,9 +59488,9 @@
       "pts_price": 5625.0,
       "pts_change_pct": 14.21,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] 2026年8月期決算短信〔日本基準〕（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261005545984.pdf",
-      "material_all": "[前日] 2026年8月期決算短信〔日本基準〕（連結）"
+      "material_text": "[ニュース] (株)アドテック プラズマ テクノロジー【6668】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Ya",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "5246",
@@ -59560,9 +59560,9 @@
       "pts_price": 3990.0,
       "pts_change_pct": 8.72,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] 「中長期経営計画2026」策定に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261007546939.pdf",
-      "material_all": "[前日] 「中長期経営計画2026」策定に関するお知らせ\n[前日] 業績予想及び配当予想の修正に関するお知らせ"
+      "material_text": "[ニュース] (株)フジミインコーポレーテッド【5384】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "4498",
@@ -59584,7 +59584,7 @@
       "pts_price": 3990.0,
       "pts_change_pct": 7.84,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)サイバーセキュリティクラウド【4493】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo",
+      "material_text": "[ニュース] (株)サイバーセキュリティクラウド【4493】：板気配 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -59632,7 +59632,7 @@
       "pts_price": 2014.0,
       "pts_change_pct": 6.34,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ＨＥＮＮＧＥ(株)【4475】：株価チャート - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＨＥＮＮＧＥ(株)【4475】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -59644,9 +59644,9 @@
       "pts_price": 47.8,
       "pts_change_pct": 6.22,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] サイバーセキュリティ事業の検討開始および推進組織新設に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548812.pdf",
-      "material_all": "[前日] サイバーセキュリティ事業の検討開始および推進組織新設に関するお知らせ"
+      "material_text": "[ニュース] ａｂｃ(株)【8783】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "5599",
@@ -59692,7 +59692,7 @@
       "pts_price": 410.0,
       "pts_change_pct": 5.4,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ショーケース【3909】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ショーケース (3909) : 今後の予想・売買予想・AI株価診断 [Showcase] - みんかぶ",
       "material_url": "",
       "material_all": ""
     },
@@ -59704,7 +59704,7 @@
       "pts_price": 2970.0,
       "pts_change_pct": 5.24,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ブロードバンドセキュリティ[4398]：内部統制報告書－第27期(2026/09/17－2026/09/17) (有価証",
+      "material_text": "[ニュース] (株)ブロードバンドセキュリティ【4398】：株主優待 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -59728,9 +59728,9 @@
       "pts_price": 3840.0,
       "pts_change_pct": 5.12,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] 自己株式立会外買付取引（ToSTNeT-３）による自己株式の買付けに関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548893.pdf",
-      "material_all": "[前日] 自己株式立会外買付取引（ToSTNeT-３）による自己株式の買付けに関するお知らせ\n[前日] 2026年11月期第３四半期決算短信〔日本基準〕(連結)\n[前日] 業績予想及び配当予想の修正に関するお知らせ\n[前日] 自己株式の取得に係る事項の決定に関するお知らせ"
+      "material_text": "[ニュース] OSG(6136)、2期連続の｢増配｣を発表し、配当利回り3.5％にアップ！ 配当額は2年で2.1倍に急増、2026年1",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "4174",
@@ -59764,9 +59764,9 @@
       "pts_price": 2340.0,
       "pts_change_pct": 4.32,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] 2026年8月期 決算短信[日本基準](連結)",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548714.pdf",
-      "material_all": "[前日] 2026年8月期 決算短信[日本基準](連結)\n[前日] 2026年8月期決算 補足資料\n[前日] 2026年８月期配当予想の修正(増配)に関するお知らせ"
+      "material_text": "[ニュース] (株)マルマエ【6264】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "8953",
@@ -59848,9 +59848,9 @@
       "pts_price": 132.0,
       "pts_change_pct": 3.94,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] Snow Mountain AI Private Limited との資本業務提携及び合弁会社（子会社）設立に関するお知",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261008548083.pdf",
-      "material_all": "[前日] Snow Mountain AI Private Limited との資本業務提携及び合弁会社（子会社）設立に関するお知"
+      "material_text": "[ニュース] (株)グローバルウェイ【3936】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナン",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "9973",
@@ -59872,9 +59872,9 @@
       "pts_price": 887.0,
       "pts_change_pct": 3.74,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] 主要株主の異動に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548882.pdf",
-      "material_all": "[前日] 主要株主の異動に関するお知らせ"
+      "material_text": "[ニュース] 東邦亜鉛(株)【5707】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "4417",
@@ -59932,9 +59932,9 @@
       "pts_price": 280.0,
       "pts_change_pct": 3.32,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] 2026年11月期  第３四半期決算短信〔日本基準〕（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261008548174.pdf",
-      "material_all": "[前日] 2026年11月期  第３四半期決算短信〔日本基準〕（連結）\n[前日] （開示事項の経過）福井県内で発生した豪雨の影響および特別損失の計上、ならびに業績予想の修正に関するお知らせ"
+      "material_text": "[ニュース] アルテック(株)【9972】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "5341",
@@ -59944,9 +59944,9 @@
       "pts_price": 127.0,
       "pts_change_pct": 3.25,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] 第三者割当により発行された第12回新株予約権（行使価額修正条項付）の取得及び消却並びに資金使途の変更に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261007547309.pdf",
-      "material_all": "[前日] 第三者割当により発行された第12回新株予約権（行使価額修正条項付）の取得及び消却並びに資金使途の変更に関するお知らせ\n[前日] 2026年11月期第３四半期決算短信〔日本基準〕（連結）"
+      "material_text": "[ニュース] ＡＳＡＨＩ ＥＩＴＯホールディングス(株)【5341】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Y",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "2735",
@@ -59956,9 +59956,9 @@
       "pts_price": 735.0,
       "pts_change_pct": 3.23,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] 2026年８月期決算短信〔日本基準〕（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548328.pdf",
-      "material_all": "[前日] 2026年８月期決算短信〔日本基準〕（連結）\n[前日] 中期経営計画策定に関するお知らせ\n[前日] 自己株式の取得及び自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ\n[前日] 剰余金の配当(増配)に関するお知らせ\n[前日] 個別業績の前期実績値との差異に関するお知らせ"
+      "material_text": "[ニュース] (株)ワッツ【2735】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "9250",
@@ -59980,9 +59980,9 @@
       "pts_price": 4955.0,
       "pts_change_pct": 3.12,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] 2026年11月期 第３四半期決算短信[日本基準](連結)",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261005545955.pdf",
-      "material_all": "[前日] 2026年11月期 第３四半期決算短信[日本基準](連結)\n[前日] 2026年11月期 第３四半期 決算補足説明資料\n[前日] 業績予想及び配当予想の修正に関するお知らせ\n[前日] 固定資産の取得（新規設備建設）に関するお知らせの一部変更について"
+      "material_text": "[ニュース] 大阪有機化学工業(株)【4187】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナン",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "3672",
@@ -60004,9 +60004,9 @@
       "pts_price": 3800.0,
       "pts_change_pct": 3.06,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] 報道内容に関するその後の状況につきまして",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548864.pdf",
-      "material_all": "[前日] 報道内容に関するその後の状況につきまして"
+      "material_text": "[ニュース] 東邦ホールディングス(株)【8129】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイ",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "4923",
@@ -60124,9 +60124,9 @@
       "pts_price": 4911.0,
       "pts_change_pct": 2.68,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] 2027年2月期 第2四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548685.pdf",
-      "material_all": "[前日] 2027年2月期 第2四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）"
+      "material_text": "[ニュース] (株)安川電機【6506】：株価・株式情報 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "5255",
@@ -60184,9 +60184,9 @@
       "pts_price": 1290.0,
       "pts_change_pct": 2.22,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] 2026年11月期 第３四半期 決算説明資料",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548540.pdf",
-      "material_all": "[前日] 2026年11月期 第３四半期 決算説明資料\n[前日] 2026年11月期 第３四半期 決算短信〔日本基準〕（連結）"
+      "material_text": "[ニュース] ファーストブラザーズ(株)【3454】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイ",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "9270",
@@ -60196,9 +60196,9 @@
       "pts_price": 1891.0,
       "pts_change_pct": 2.16,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] 特別損失（減損損失）の計上に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261008548247.pdf",
-      "material_all": "[前日] 特別損失（減損損失）の計上に関するお知らせ\n[前日] 2026年8月期　決算短信〔日本基準〕（連結）\n[前日] 2026年8月期　決算説明資料"
+      "material_text": "[ニュース] バリュエンスホールディングス(株)【9270】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "7513",
@@ -60448,9 +60448,9 @@
       "pts_price": 1980.0,
       "pts_change_pct": 1.59,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] 剰余金の配当に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261008548170.pdf",
-      "material_all": "[前日] 剰余金の配当に関するお知らせ\n[前日] 2026年８月期　決算説明資料に関するお知らせ\n[前日] 2026年８月期　決算短信〔日本基準〕（連結）"
+      "material_text": "[ニュース] (株)技研製作所【6289】：株主優待 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "4564",
@@ -60496,9 +60496,9 @@
       "pts_price": 8051.0,
       "pts_change_pct": 1.53,
       "source": "PTS上昇",
-      "material_text": "[IR/前日] 連結業績予想及び配当予想の修正（増配）に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261008548021.pdf",
-      "material_all": "[前日] 連結業績予想及び配当予想の修正（増配）に関するお知らせ\n[前日] 2027年２月期 第２四半期（中間期）決算短信〔日本基準〕(連結)\n[前日] 2030年に向けた成長ストーリーおよび2031年2月期目標の設定について"
+      "material_text": "[ニュース] 古野電気(株)【6814】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "5240",
@@ -60580,9 +60580,9 @@
       "pts_price": 1365.0,
       "pts_change_pct": -13.93,
       "source": "PTS下落",
-      "material_text": "[IR/前日] 当社に関する一部報道に関するその後の状況について",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548779.pdf",
-      "material_all": "[前日] 当社に関する一部報道に関するその後の状況について"
+      "material_text": "[ニュース] ＰＨＣホールディングス(株)【6523】：株価チャート - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "3046",
@@ -60592,9 +60592,9 @@
       "pts_price": 5150.0,
       "pts_change_pct": -9.33,
       "source": "PTS下落",
-      "material_text": "[IR/前日] 2026年８月期決算短信〔日本基準〕(連結)",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548555.pdf",
-      "material_all": "[前日] 2026年８月期決算短信〔日本基準〕(連結)\n[前日] 2026年８月期通期連結業績予想と実績との差異及び配当予想の修正に関するお知らせ\n[前日] 投資単位の引下げに関する考え方及び方針について"
+      "material_text": "[ニュース] (株)ジンズホールディングス【3046】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファ",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "5129",
@@ -60604,7 +60604,7 @@
       "pts_price": 231.0,
       "pts_change_pct": -8.33,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ＦＩＸＥＲ【5129】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ＦＩＸＥＲ【5129】：板気配 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60628,9 +60628,9 @@
       "pts_price": 1064.0,
       "pts_change_pct": -4.92,
       "source": "PTS下落",
-      "material_text": "[IR/前日] 2027年２月期　第２四半期（中間期）決算短信〔日本基準〕（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548536.pdf",
-      "material_all": "[前日] 2027年２月期　第２四半期（中間期）決算短信〔日本基準〕（連結）\n[前日] 2027年２月期第２四半期決算説明資料"
+      "material_text": "[ニュース] (株)ジェイグループホールディングス【3063】：株主優待 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "4829",
@@ -60640,9 +60640,9 @@
       "pts_price": 100.5,
       "pts_change_pct": -4.29,
       "source": "PTS下落",
-      "material_text": "[IR/前日] 2027年５月期 第１四半期決算短信〔日本基準〕（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548565.pdf",
-      "material_all": "[前日] 2027年５月期 第１四半期決算短信〔日本基準〕（連結）"
+      "material_text": "[ニュース] 日本エンタープライズ(株)【4829】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "4443",
@@ -60652,9 +60652,9 @@
       "pts_price": 2128.9,
       "pts_change_pct": -4.06,
       "source": "PTS下落",
-      "material_text": "[IR/前日] 2027年5月期 第1四半期 決算短信〔日本基準〕（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261008548227.pdf",
-      "material_all": "[前日] 2027年5月期 第1四半期 決算短信〔日本基準〕（連結）\n[前日] 2027年5月期 第1四半期決算説明資料"
+      "material_text": "[ニュース] Ｓａｎｓａｎ(株)【4443】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "9119",
@@ -60688,9 +60688,9 @@
       "pts_price": 880.0,
       "pts_change_pct": -3.51,
       "source": "PTS下落",
-      "material_text": "[IR/前日] 為替予約評価益の減少並びに2027年3月期第2四半期（中間期）連結業績予想と実績との差異に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548879.pdf",
-      "material_all": "[前日] 為替予約評価益の減少並びに2027年3月期第2四半期（中間期）連結業績予想と実績との差異に関するお知らせ\n[前日] 剰余金の配当（中間配当）に関するお知らせ\n[前日] 2027年3月期第2四半期（中間期）決算短信〔日本基準〕（連結）"
+      "material_text": "[ニュース] (株)アドヴァングループ【7463】：決算情報 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "8185",
@@ -60700,9 +60700,9 @@
       "pts_price": 956.0,
       "pts_change_pct": -3.34,
       "source": "PTS下落",
-      "material_text": "[IR/前日] 2027年２月期　第２四半期（中間期）決算短信[日本基準]（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548813.pdf",
-      "material_all": "[前日] 2027年２月期　第２四半期（中間期）決算短信[日本基準]（連結）\n[前日] 特別損失（減損損失）の計上、第２四半期（中間期）業績予想（連結・個別）と実績値との差異及び通期業績予想（連結・個別）の修"
+      "material_text": "[ニュース] (株)チヨダ【8185】：株主優待 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "4381",
@@ -60772,9 +60772,9 @@
       "pts_price": 862.0,
       "pts_change_pct": -2.93,
       "source": "PTS下落",
-      "material_text": "[IR/前日] 2027年５月期第１四半期決算短信[日本基準]（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120260907532204.pdf",
-      "material_all": "[前日] 2027年５月期第１四半期決算短信[日本基準]（連結）"
+      "material_text": "[ニュース] 三光合成(株)【7888】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "3907",
@@ -60784,9 +60784,9 @@
       "pts_price": 1500.0,
       "pts_change_pct": -2.91,
       "source": "PTS下落",
-      "material_text": "[IR/前日] （訂正）「2026年11月期 第３四半期決算補足説明資料」の一部訂正について",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261008548222.pdf",
-      "material_all": "[前日] （訂正）「2026年11月期 第３四半期決算補足説明資料」の一部訂正について"
+      "material_text": "[ニュース] シリコンスタジオ(株)【3907】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "4016",
@@ -60820,9 +60820,9 @@
       "pts_price": 1900.0,
       "pts_change_pct": -2.66,
       "source": "PTS下落",
-      "material_text": "[IR/前日] 2026年11月期 第３四半期決算短信〔日本基準〕（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261008547930.pdf",
-      "material_all": "[前日] 2026年11月期 第３四半期決算短信〔日本基準〕（連結）\n[前日] 2026年11月期第３四半期 決算補足説明資料"
+      "material_text": "[ニュース] 北興化学工業(株)【4992】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "3839",
@@ -60844,9 +60844,9 @@
       "pts_price": 349.0,
       "pts_change_pct": -2.51,
       "source": "PTS下落",
-      "material_text": "[IR/前日] 当社連結子会社間の統合に向けた検討開始に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548548.pdf",
-      "material_all": "[前日] 当社連結子会社間の統合に向けた検討開始に関するお知らせ\n[前日] 2027年5月期 第1四半期決算短信〔日本基準〕（連結）"
+      "material_text": "[ニュース] (株)ＩＫホールディングス【2722】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイ",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "2698",
@@ -60856,9 +60856,9 @@
       "pts_price": 3135.0,
       "pts_change_pct": -2.49,
       "source": "PTS下落",
-      "material_text": "[IR/前日] 2027年２月期　第２四半期決算説明資料",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261008548182.pdf",
-      "material_all": "[前日] 2027年２月期　第２四半期決算説明資料\n[前日] 2027年２月期　第２四半期決算短信［日本基準］（連結）"
+      "material_text": "[ニュース] (株)キャンドゥ【2698】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "8570",
@@ -60868,9 +60868,9 @@
       "pts_price": 1425.0,
       "pts_change_pct": -2.43,
       "source": "PTS下落",
-      "material_text": "[IR/前日] 2027年２月期  第２四半期（中間期）決算短信〔日本基準〕（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261008548186.pdf",
-      "material_all": "[前日] 2027年２月期  第２四半期（中間期）決算短信〔日本基準〕（連結）"
+      "material_text": "[ニュース] イオンフィナンシャルサービス(株)【8570】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "3501",
@@ -60880,9 +60880,9 @@
       "pts_price": 1135.0,
       "pts_change_pct": -2.32,
       "source": "PTS下落",
-      "material_text": "[IR/前日] 2027年５月期 第１四半期決算短信〔日本基準〕（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548367.pdf",
-      "material_all": "[前日] 2027年５月期 第１四半期決算短信〔日本基準〕（連結）\n[前日] 「内部統制システム構築の基本方針」の一部改定に関するお知らせ"
+      "material_text": "[ニュース] ＳＵＭＩＮＯＥ(株)【3501】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "6837",
@@ -61000,9 +61000,9 @@
       "pts_price": 777.0,
       "pts_change_pct": -1.77,
       "source": "PTS下落",
-      "material_text": "[IR/前日] 2027年２月期　第２四半期（中間期）決算短信〔日本基準〕(連結)",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261008548049.pdf",
-      "material_all": "[前日] 2027年２月期　第２四半期（中間期）決算短信〔日本基準〕(連結)\n[前日] 2027年２月期　第２四半期（中間期）決算参考資料\n[前日] 通期連結業績予想の修正に関するお知らせ"
+      "material_text": "[ニュース] ユナイテッド・スーパーマーケット・ホールディングス(株)【3222】：株主優待 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "6573",
@@ -61036,9 +61036,9 @@
       "pts_price": 1800.0,
       "pts_change_pct": -1.69,
       "source": "PTS下落",
-      "material_text": "[IR/前日] 株式の売出しに関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548447.pdf",
-      "material_all": "[前日] 株式の売出しに関するお知らせ\n[前日] 自己株式取得に係る事項の決定に関するお知らせ"
+      "material_text": "[ニュース] 井関農機(株)【6310】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "7177",
@@ -61168,9 +61168,9 @@
       "pts_price": 3840.0,
       "pts_change_pct": -1.54,
       "source": "PTS下落",
-      "material_text": "[IR/前日] 2027年２月期 第２四半期（中間期）決算短信〔日本基準〕（非連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261008547906.pdf",
-      "material_all": "[前日] 2027年２月期 第２四半期（中間期）決算短信〔日本基準〕（非連結）\n[前日] 2027年２月期第２四半期（中間期）決算説明会資料"
+      "material_text": "[ニュース] カネ美食品(株)【2669】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "7567",
@@ -61264,9 +61264,9 @@
       "pts_price": 2525.0,
       "pts_change_pct": -1.41,
       "source": "PTS下落",
-      "material_text": "[IR/前日] 第２四半期(中間期)連結業績予想値と実績値との差異及び通期業績予想の修正に関するお知らせ",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548568.pdf",
-      "material_all": "[前日] 第２四半期(中間期)連結業績予想値と実績値との差異及び通期業績予想の修正に関するお知らせ\n[前日] 2027年２月期 第２四半期（中間期）決算短信〔日本基準〕（連結）"
+      "material_text": "[ニュース] ＣＳＰ【9740】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "3103",
@@ -61384,7 +61384,7 @@
       "pts_price": 1250.0,
       "pts_change_pct": -1.26,
       "source": "PTS下落",
-      "material_text": "[ニュース] 新報国製鉄(株)【5542】：株価・株式情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 新報国マテリアル(株)【5542】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナン",
       "material_url": "",
       "material_all": ""
     },
@@ -61408,9 +61408,9 @@
       "pts_price": 307.1,
       "pts_change_pct": -1.25,
       "source": "PTS下落",
-      "material_text": "[IR/前日] 2026年10月期9月度月次KPI速報",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548608.pdf",
-      "material_all": "[前日] 2026年10月期9月度月次KPI速報"
+      "material_text": "[ニュース] セルソース(株)【4880】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "4082",
@@ -61480,7 +61480,7 @@
       "pts_price": 3082.0,
       "pts_change_pct": -1.22,
       "source": "PTS下落",
-      "material_text": "[ニュース] ｎｏｔｅ(株)【5243】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ｎｏｔｅ(株)【5243】：株価チャート - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61516,9 +61516,9 @@
       "pts_price": 2110.0,
       "pts_change_pct": -1.17,
       "source": "PTS下落",
-      "material_text": "[IR/前日] 2027年2月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261009548443.pdf",
-      "material_all": "[前日] 2027年2月期 第2四半期（中間期）決算短信〔日本基準〕（連結）"
+      "material_text": "[ニュース] ４℃ホールディングス【8008】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "6240",
@@ -61528,7 +61528,7 @@
       "pts_price": 490.2,
       "pts_change_pct": -1.17,
       "source": "PTS下落",
-      "material_text": "[ニュース] ヤマシンフィルタ(株)【6240】：株主優待 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ヤマシンフィルタ(株)【6240】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナン",
       "material_url": "",
       "material_all": ""
     },
