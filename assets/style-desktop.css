@@ -26,7 +26,7 @@ html, body {
 /* ── Layout ── */
 #app {
   display: flex;
-  height: 100vh;
+  height: calc(100vh - 38px); /* 共通ナビの高さ分 */
 }
 
 /* ── Left Panel ── */

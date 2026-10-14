@@ -29,7 +29,7 @@ body {
 /* ── Header ── */
 header {
   position: sticky;
-  top: 0;
+  top: 38px; /* 共通ナビの高さ */
   z-index: 100;
   background: var(--surface);
   border-bottom: 1px solid var(--border);
