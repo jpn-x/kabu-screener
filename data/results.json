@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-15T12:15:00+09:00",
-  "updated_at_display": "10/15 12:15",
+  "updated_at": "2026-10-15T12:26:00+09:00",
+  "updated_at_display": "10/15 12:26",
   "count": 1974,
   "stocks": [
     {
@@ -53,7 +53,7 @@
       "vol_150d": 125.65,
       "trading_value": 17.6,
       "source": "値上がり率",
-      "material_text": "[ニュース] クラスターテクノロジー[4240]：セイコーエプソン株式会社との資本業務提携の締結、第三者割当による新株式の発行並びに主",
+      "material_text": "[ニュース] クラスターテクノロジー(株)【4240】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -134,7 +134,7 @@
       "vol_150d": 63.76,
       "trading_value": 1.8,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)コパ・コーポレーション【7689】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファ",
+      "material_text": "[ニュース] (株)コパ・コーポレーション【7689】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -3536,7 +3536,7 @@
       "vol_150d": 110.02,
       "trading_value": 18.0,
       "source": "出来高",
-      "material_text": "[ニュース] (株)マルマエ【6264】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] マルマエ[6264]：新株式発行及び自己株式の処分並びに株式の売出しに関するお知らせ 2026年5月8日(適時開示) ：",
       "material_url": "",
       "material_all": ""
     },
@@ -4076,7 +4076,7 @@
       "vol_150d": 114.32,
       "trading_value": 163.0,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)ＳＣＲＥＥＮホールディングス【7735】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ＳＣＲＥＥＮホールディングス【7735】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo",
       "material_url": "",
       "material_all": ""
     },
@@ -7910,7 +7910,7 @@
       "vol_150d": 61.66,
       "trading_value": 501.6,
       "source": "売買代金",
-      "material_text": "[ニュース] ディスコ[6146]：2027年3月期第1四半期業績予想値と実績値との差異ならびに第2四半期業績予想および配当予想に関す",
+      "material_text": "[ニュース] ディスコ (6146) の株価・株式 - QUICK Money World",
       "material_url": "",
       "material_all": ""
     },
@@ -53311,7 +53311,7 @@
       "pts_price": 700.0,
       "pts_change_pct": 51.52,
       "source": "PTS上昇",
-      "material_text": "[ニュース] クラスターテクノロジー[4240]：セイコーエプソン株式会社との資本業務提携の締結、第三者割当による新株式の発行並びに主",
+      "material_text": "[ニュース] クラスターテクノロジー(株)【4240】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -54115,7 +54115,7 @@
       "pts_price": 103.5,
       "pts_change_pct": 0.78,
       "source": "PTS上昇",
-      "material_text": "[ニュース] TOPIXベア2倍上場投信【1356】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] TOPIXベア2倍上場投信【1356】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -54235,7 +54235,7 @@
       "pts_price": 3777.0,
       "pts_change_pct": 0.69,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ＩＮＰＥＸ【1605】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＩＮＰＥＸ[1605]：剰余金の配当（中間配当）及び期末配当予想の修正に関するお知らせ 2026年8月7日(適時開示) ",
       "material_url": "",
       "material_all": ""
     },
@@ -54775,7 +54775,7 @@
       "pts_price": 8292.0,
       "pts_change_pct": -2.68,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ＦＦＲＩセキュリティ【3692】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイ",
+      "material_text": "[ニュース] GMOインターネットグループ株式会社が株式会社FFRIセキュリティ＜3692＞株式の変更報告書を提出（保有増加） - ｄ",
       "material_url": "",
       "material_all": ""
     },
