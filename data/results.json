@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T12:07:00+09:00",
-  "updated_at_display": "10/19 12:07",
+  "updated_at": "2026-10-19T12:28:00+09:00",
+  "updated_at_display": "10/19 12:28",
   "count": 1854,
   "stocks": [
     {
@@ -107,7 +107,7 @@
       "vol_150d": 46.04,
       "trading_value": 11.6,
       "source": "値上がり率",
-      "material_text": "[ニュース] (株)ハイブリッドテクノロジーズ【4260】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ハイブリッドテクノロジーズ【4260】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -350,7 +350,7 @@
       "vol_150d": 146.58,
       "trading_value": 7.6,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)フライトソリューションズ【3753】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)フライトソリューションズ【3753】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -1106,7 +1106,7 @@
       "vol_150d": 40.49,
       "trading_value": 4.3,
       "source": "高ボラ",
-      "material_text": "[ニュース] かっこ(株)【4166】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] かっこ(株)【4166】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -1187,7 +1187,7 @@
       "vol_150d": 217.2,
       "trading_value": 14.7,
       "source": "出来高",
-      "material_text": "[ニュース] (株)カウリス【153A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)カウリス【153A】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -1214,7 +1214,7 @@
       "vol_150d": 117.28,
       "trading_value": 0.6,
       "source": "出来高",
-      "material_text": "[ニュース] (株)ジィ・シィ企画【4073】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ジィ・シィ企画【4073】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -6479,7 +6479,7 @@
       "vol_150d": 86.74,
       "trading_value": 2896.1,
       "source": "売買代金",
-      "material_text": "[ニュース] 三菱UFJ信託銀行株式会社が株式会社アドバンテスト＜6857＞株式の変更報告書を提出（保有減少） - ｄメニューニュース",
+      "material_text": "[ニュース] (株)アドバンテスト【6857】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -36746,7 +36746,7 @@
       "vol_150d": 25.24,
       "trading_value": 132.4,
       "source": "売買代金",
-      "material_text": "[ニュース] ＮＴＴ(株)【9432】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＮＴＴ(株)【9432】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -40850,7 +40850,7 @@
       "vol_150d": 278.39,
       "trading_value": 4.3,
       "source": "値上がり率",
-      "material_text": "[ニュース] (株)セキュアヴェイル【3042】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)セキュアヴェイル【3042】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -41417,7 +41417,7 @@
       "vol_150d": 29.69,
       "trading_value": 225.3,
       "source": "売買代金",
-      "material_text": "[ニュース] ソニーグループ(株)【6758】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ソニーグループ(株)【6758】：株主優待 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -50107,7 +50107,7 @@
       "pts_price": 1100.0,
       "pts_change_pct": 15.79,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)セキュアヴェイル【3042】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)セキュアヴェイル【3042】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -50155,7 +50155,7 @@
       "pts_price": 1849.0,
       "pts_change_pct": 13.23,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ネオジャパン【3921】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ネオジャパン【3921】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -50239,7 +50239,7 @@
       "pts_price": 789.9,
       "pts_change_pct": 7.91,
       "source": "PTS上昇",
-      "material_text": "[ニュース] かっこ(株)【4166】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] かっこ(株)【4166】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -50311,7 +50311,7 @@
       "pts_price": 453.0,
       "pts_change_pct": 4.86,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)インタートレード【3747】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)インタートレード【3747】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -50347,7 +50347,7 @@
       "pts_price": 1012.0,
       "pts_change_pct": 4.44,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)イーディーピー【7794】：株価チャート - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)イーディーピー【7794】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -50695,7 +50695,7 @@
       "pts_price": 247.0,
       "pts_change_pct": 2.07,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ハイブリッドテクノロジーズ【4260】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ハイブリッドテクノロジーズ【4260】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -50803,7 +50803,7 @@
       "pts_price": 11481.0,
       "pts_change_pct": 1.69,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 大成建設(株)【1801】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 大成建設(株)【1801】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -50863,7 +50863,7 @@
       "pts_price": 786.0,
       "pts_change_pct": 1.55,
       "source": "PTS上昇",
-      "material_text": "[ニュース] インフォマート (2492) の株価・株式 - QUICK Money World",
+      "material_text": "[ニュース] (株)インフォマート【2492】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -50923,7 +50923,7 @@
       "pts_price": 111.5,
       "pts_change_pct": 1.36,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] 外国人投資家によるNet Sellはまだ終わらず、GOTOが3日連続でNet Sell上位を占める - IDNFinan",
       "material_url": "",
       "material_all": ""
     },
@@ -50983,7 +50983,7 @@
       "pts_price": 659.0,
       "pts_change_pct": 1.23,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)クラダシ【5884】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)クラダシ【5884】：板気配 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -51187,7 +51187,7 @@
       "pts_price": 3889.7,
       "pts_change_pct": 1.03,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ＯＳＧ【6136】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＯＳＧ【6136】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -51463,7 +51463,7 @@
       "pts_price": 3210.0,
       "pts_change_pct": -2.87,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)Ｒｉｄｇｅ－ｉ【5572】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)Ｒｉｄｇｅ－ｉ【5572】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -51475,7 +51475,7 @@
       "pts_price": 20.4,
       "pts_change_pct": -2.86,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＣＲＡＶＩＡ(株)【6573】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＣＲＡＶＩＡ(株)【6573】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -51607,7 +51607,7 @@
       "pts_price": 17600.0,
       "pts_change_pct": -2.44,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)東京精密【7729】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)東京精密【7729】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -51679,7 +51679,7 @@
       "pts_price": 2745.0,
       "pts_change_pct": -2.31,
       "source": "PTS下落",
-      "material_text": "[ニュース] かどや製油(株)【2612】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] かどや製油(株)【2612】：株主優待 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -51859,7 +51859,7 @@
       "pts_price": 33820.0,
       "pts_change_pct": -2.06,
       "source": "PTS下落",
-      "material_text": "[ニュース] 三菱UFJ信託銀行株式会社が株式会社アドバンテスト＜6857＞株式の変更報告書を提出（保有減少） - ｄメニューニュース",
+      "material_text": "[ニュース] (株)アドバンテスト【6857】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -51991,7 +51991,7 @@
       "pts_price": 475.0,
       "pts_change_pct": -1.86,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)コレックホールディングス【6578】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)コレックホールディングス【6578】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!フ",
       "material_url": "",
       "material_all": ""
     },
@@ -52027,7 +52027,7 @@
       "pts_price": 2718.1,
       "pts_change_pct": -1.84,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＡＢＥＪＡ[5574]：報告セグメントの名称変更に関するお知らせ 2026年4月14日(適時開示) ：日経会社情報DIG",
+      "material_text": "[ニュース] (株)ＡＢＥＪＡ【5574】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52147,7 +52147,7 @@
       "pts_price": 20988.0,
       "pts_change_pct": -1.67,
       "source": "PTS下落",
-      "material_text": "[ニュース] ダイキン工業(株)【6367】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ダイキン工業(株)【6367】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52207,7 +52207,7 @@
       "pts_price": 54.1,
       "pts_change_pct": -1.64,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ディー・エル・イー【3686】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナ",
+      "material_text": "[ニュース] (株)ディー・エル・イー【3686】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52219,7 +52219,7 @@
       "pts_price": 1625.0,
       "pts_change_pct": -1.63,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)誠建設工業【8995】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)誠建設工業【8995】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
