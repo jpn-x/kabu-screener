@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T16:27:00+09:00",
-  "updated_at_display": "10/23 16:27",
+  "updated_at": "2026-10-23T16:46:00+09:00",
+  "updated_at_display": "10/23 16:46",
   "count": 2356,
   "stocks": [
     {
@@ -458,7 +458,7 @@
       "vol_150d": 40.41,
       "trading_value": 10.4,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)フツパー【478A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)フツパー【478A】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -539,7 +539,7 @@
       "vol_150d": 103.45,
       "trading_value": 0.3,
       "source": "高ボラ",
-      "material_text": "[ニュース] アタリ　キャピタル　リミテッド(Atari Capital Limited)がビート・ホールディングス・リミテッド＜93",
+      "material_text": "[ニュース] レン・イー・ハンがビート・ホールディングス・リミテッド＜9399＞株式の変更報告書を提出（保有減少） - ｄメニューニュ",
       "material_url": "",
       "material_all": ""
     },
@@ -1376,7 +1376,7 @@
       "vol_150d": 443.21,
       "trading_value": 10945.2,
       "source": "売買代金",
-      "material_text": "[ニュース] キオクシアホールディングス(株)【285A】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] キオクシアホールディングス(株)【285A】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!",
       "material_url": "",
       "material_all": ""
     },
@@ -2456,7 +2456,7 @@
       "vol_150d": 48.07,
       "trading_value": 9.1,
       "source": "出来高",
-      "material_text": "[ニュース] グロービング(株)【277A】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] グロービング(株)【277A】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -3293,7 +3293,7 @@
       "vol_150d": 169.17,
       "trading_value": 135.5,
       "source": "売買代金",
-      "material_text": "[ニュース] 動いた株・出来た株（前場）part1：HENNGE、SHIFTなど16社(フィスコ) - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＨＥＮＮＧＥ[4475]：配当予想の修正(増配)に関するお知らせ 2026年10月2日(適時開示) ：日経会社情報DIG",
       "material_url": "",
       "material_all": ""
     },
@@ -4130,7 +4130,7 @@
       "vol_150d": 113.61,
       "trading_value": 1963.4,
       "source": "売買代金",
-      "material_text": "[ニュース] 東京エレクトロン(8035)の株価をどう評価する？AI需要と今後の利益成長を検証 - 日本投資機構株式会社",
+      "material_text": "[ニュース] 東京エレクトロン(株)【8035】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -5696,7 +5696,7 @@
       "vol_150d": 100.11,
       "trading_value": 1577.0,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)フジクラ【5803】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] フジクラ (5803) の株価・株式 - QUICK Money World",
       "material_url": "",
       "material_all": ""
     },
@@ -12311,7 +12311,7 @@
       "vol_150d": 78.08,
       "trading_value": 717.6,
       "source": "売買代金",
-      "material_text": "[ニュース] ＪＸ金属(株)【5016】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＪＸ金属(株)【5016】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -63697,7 +63697,7 @@
       "pts_price": 73.3,
       "pts_change_pct": 9.4,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)北紡【3409】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)北紡【3409】：株価チャート - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -64489,7 +64489,7 @@
       "pts_price": 1120.0,
       "pts_change_pct": 0.99,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)リファインバースグループ【7375】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)リファインバースグループ【7375】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!フ",
       "material_url": "",
       "material_all": ""
     },
@@ -64849,7 +64849,7 @@
       "pts_price": 3110.0,
       "pts_change_pct": -5.04,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)Ｆｕｓｉｃ【5256】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)Ｆｕｓｉｃ【5256】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -65029,7 +65029,7 @@
       "pts_price": 444.0,
       "pts_change_pct": -3.27,
       "source": "PTS下落",
-      "material_text": "[ニュース] ユナイテッド＆コレクティブ(株)【3557】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!",
+      "material_text": "[ニュース] ユナイテッド＆コレクティブ(株)【3557】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -65185,7 +65185,7 @@
       "pts_price": 8401.0,
       "pts_change_pct": -2.65,
       "source": "PTS下落",
-      "material_text": "[ニュース] 東洋合成工業(株)【4970】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 日経225先物：21日夜間取引寄り付き＝190円高、6万4970円 - 株探",
       "material_url": "",
       "material_all": ""
     },
@@ -65197,7 +65197,7 @@
       "pts_price": 3970.0,
       "pts_change_pct": -2.65,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)フジクラ【5803】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] フジクラ (5803) の株価・株式 - QUICK Money World",
       "material_url": "",
       "material_all": ""
     },
@@ -65221,7 +65221,7 @@
       "pts_price": 2830.4,
       "pts_change_pct": -2.62,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＫＤＤＩ(株)【9433】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] KDDI（9433）、25期連続の「増配」を発表し、配当利回り3.3％にアップ！ 配当額は25年で56倍に増加、2027",
       "material_url": "",
       "material_all": ""
     },
@@ -65389,7 +65389,7 @@
       "pts_price": 9220.1,
       "pts_change_pct": -2.43,
       "source": "PTS下落",
-      "material_text": "[ニュース] 東京エレクトロン(8035)の株価をどう評価する？AI需要と今後の利益成長を検証 - 日本投資機構株式会社",
+      "material_text": "[ニュース] 東京エレクトロン(株)【8035】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -65425,7 +65425,7 @@
       "pts_price": 86.0,
       "pts_change_pct": -2.27,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＡＩストーム(株)【3719】：株価チャート - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＡＩストーム(株)【3719】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -65509,7 +65509,7 @@
       "pts_price": 891.1,
       "pts_change_pct": -2.08,
       "source": "PTS下落",
-      "material_text": "[ニュース] 日本電線工業(株)【5817】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＪＭＡＣＳ(株)【5817】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -65629,7 +65629,7 @@
       "pts_price": 1016.0,
       "pts_change_pct": -1.93,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ＥＬＥＭＥＮＴＳ【5246】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナン",
+      "material_text": "[ニュース] ELEMENTS（5246）、通期業績予想を上方修正 「LIQUID eKYC」の好調とPMI進捗で、上期利益は黒字へ回",
       "material_url": "",
       "material_all": ""
     },
@@ -65653,7 +65653,7 @@
       "pts_price": 2224.0,
       "pts_change_pct": -1.85,
       "source": "PTS下落",
-      "material_text": "[ニュース] 動いた株・出来た株（前場）part1：HENNGE、SHIFTなど16社(フィスコ) - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＨＥＮＮＧＥ[4475]：配当予想の修正(増配)に関するお知らせ 2026年10月2日(適時開示) ：日経会社情報DIG",
       "material_url": "",
       "material_all": ""
     },
@@ -65713,7 +65713,7 @@
       "pts_price": 2864.0,
       "pts_change_pct": -1.82,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＪＸ金属(株)【5016】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＪＸ金属(株)【5016】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
