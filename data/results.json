@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T12:07:00+09:00",
-  "updated_at_display": "10/26 12:07",
+  "updated_at": "2026-10-26T12:26:00+09:00",
+  "updated_at_display": "10/26 12:26",
   "count": 1875,
   "stocks": [
     {
@@ -188,7 +188,7 @@
       "vol_150d": 75.19,
       "trading_value": 4.0,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)ハイブリッドテクノロジーズ【4260】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ハイブリッドテクノロジーズ【4260】：株主優待 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -215,7 +215,7 @@
       "vol_150d": 54.9,
       "trading_value": 10.9,
       "source": "値上がり率",
-      "material_text": "[ニュース] ソーシャルワイヤー(株)【3929】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ソーシャルワイヤー(株)【3929】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナ",
       "material_url": "",
       "material_all": ""
     },
@@ -809,7 +809,7 @@
       "vol_150d": 161.47,
       "trading_value": 69.0,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)サイバーセキュリティクラウド【4493】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)サイバーセキュリティクラウド【4493】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -1700,7 +1700,7 @@
       "vol_150d": 121.74,
       "trading_value": 28.6,
       "source": "出来高",
-      "material_text": "[ニュース] (株)ユビキタスＡＩ【3858】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ユビキタスＡＩ【3858】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -3401,7 +3401,7 @@
       "vol_150d": 447.0,
       "trading_value": 4514.5,
       "source": "売買代金",
-      "material_text": "[ニュース] キオクシアホールディングス(株)【285A】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] キオクシアホールディングス(株)【285A】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -7880,7 +7880,7 @@
       "vol_80d": 36.13,
       "vol_100d": 45.36,
       "vol_120d": 49.59,
-      "vol_150d": 64.15,
+      "vol_150d": 64.16,
       "trading_value": 11.0,
       "source": "出来高",
       "material_text": "",
@@ -11933,7 +11933,7 @@
       "vol_150d": 47.69,
       "trading_value": 242.0,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)三井住友フィナンシャルグループ【8316】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)三井住友フィナンシャルグループ【8316】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -12041,7 +12041,7 @@
       "vol_150d": 94.29,
       "trading_value": 2168.1,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)アドバンテスト【6857】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)アドバンテスト【6857】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -15740,7 +15740,7 @@
       "vol_150d": 97.79,
       "trading_value": 172.4,
       "source": "売買代金",
-      "material_text": "[ニュース] 東京海上ホールディングス(株)【8766】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 東京海上ホールディングス(株)【8766】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -16145,7 +16145,7 @@
       "vol_150d": 98.89,
       "trading_value": 114.8,
       "source": "売買代金",
-      "material_text": "[ニュース] パナソニック ホールディングス(株)【6752】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yaho",
+      "material_text": "[ニュース] パナソニック(株)【6752】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -18926,7 +18926,7 @@
       "vol_150d": 33.44,
       "trading_value": 241.5,
       "source": "売買代金",
-      "material_text": "[ニュース] 三菱商事(株)【8058】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 三菱商事(株)【8058】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -21410,7 +21410,7 @@
       "vol_150d": 36.82,
       "trading_value": 235.2,
       "source": "売買代金",
-      "material_text": "[ニュース] 任天堂(株)【7974】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 任天堂(株)【7974】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -30563,7 +30563,7 @@
       "vol_150d": 46.44,
       "trading_value": 109.0,
       "source": "売買代金",
-      "material_text": "[ニュース] 富士通(株)【6702】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 富士通(株)【6702】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -33059,7 +33059,7 @@
       "change_pct": 0.2,
       "market_cap": 190479.0,
       "ytd_perf": 38.5,
-      "year_start_price": 56709.6,
+      "year_start_price": 56709.5,
       "intraday_vol": 1.63,
       "vol_3d": 7.01,
       "vol_5d": 7.01,
@@ -33074,7 +33074,7 @@
       "vol_150d": 55.41,
       "trading_value": 180.6,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)キーエンス【6861】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)キーエンス【6861】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -50674,7 +50674,7 @@
       "pts_price": 355.2,
       "pts_change_pct": 17.23,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ソーシャルワイヤー(株)【3929】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ソーシャルワイヤー(株)【3929】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナ",
       "material_url": "",
       "material_all": ""
     },
@@ -50698,7 +50698,7 @@
       "pts_price": 1148.9,
       "pts_change_pct": 11.87,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ＭＥＲＦ【3168】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ＭＥＲＦ【3168】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -50854,7 +50854,7 @@
       "pts_price": 598.0,
       "pts_change_pct": 4.73,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ユビキタスＡＩ【3858】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ユビキタスＡＩ【3858】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -51082,7 +51082,7 @@
       "pts_price": 3540.0,
       "pts_change_pct": 2.61,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)サイバーセキュリティクラウド【4493】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)サイバーセキュリティクラウド【4493】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -51094,7 +51094,7 @@
       "pts_price": 8480.0,
       "pts_change_pct": 2.54,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ＦＦＲＩセキュリティ【3692】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイ",
+      "material_text": "[ニュース] (株)ＦＦＲＩセキュリティ【3692】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -51682,7 +51682,7 @@
       "pts_price": 310.0,
       "pts_change_pct": 0.98,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ハイブリッドテクノロジーズ【4260】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ハイブリッドテクノロジーズ【4260】：株主優待 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -51706,7 +51706,7 @@
       "pts_price": 1772.0,
       "pts_change_pct": 0.94,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ソシオネクスト【6526】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ソシオネクスト【6526】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -51766,7 +51766,7 @@
       "pts_price": 654.0,
       "pts_change_pct": 0.93,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 東洋証券(株)【8614】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 東洋証券 (8614) : 今後の予想・売買予想・AI株価診断 [TOYO SECURITIES CO.,] - みんか",
       "material_url": "",
       "material_all": ""
     },
@@ -52066,7 +52066,7 @@
       "pts_price": 1650.0,
       "pts_change_pct": -2.94,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ヴィッツ【4440】：株価チャート - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ヴィッツ【4440】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52294,7 +52294,7 @@
       "pts_price": 135.0,
       "pts_change_pct": -2.17,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ペルセウスプロテオミクス【4882】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ペルセウスプロテオミクス【4882】：適時開示情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52450,7 +52450,7 @@
       "pts_price": 892.3,
       "pts_change_pct": -1.95,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)オーバル【7727】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)オーバル【7727】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52498,7 +52498,7 @@
       "pts_price": 4778.5,
       "pts_change_pct": -1.88,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ＲＳ Ｔｅｃｈｎｏｌｏｇｉｅｓ【3445】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ＲＳ Ｔｅｃｈｎｏｌｏｇｉｅｓ【3445】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52582,7 +52582,7 @@
       "pts_price": 1763.0,
       "pts_change_pct": -1.78,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] ホンダ【7267】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52618,7 +52618,7 @@
       "pts_price": 100.2,
       "pts_change_pct": -1.76,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)宮入バルブ製作所【6495】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)宮入バルブ製作所【6495】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52690,7 +52690,7 @@
       "pts_price": 1123.7,
       "pts_change_pct": -1.69,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ニッカトー【5367】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ニッカトー【5367】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
