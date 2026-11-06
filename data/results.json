@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-06T16:26:00+09:00",
-  "updated_at_display": "11/06 16:26",
-  "count": 2662,
+  "updated_at": "2026-11-06T16:45:00+09:00",
+  "updated_at_display": "11/06 16:45",
+  "count": 2663,
   "stocks": [
     {
       "code": "4582",
@@ -944,7 +944,7 @@
       "vol_150d": 461.72,
       "trading_value": 3.8,
       "source": "高ボラ",
-      "material_text": "[ニュース] TOPIX先物：21日清算値＝27ポイント高、4052ポイント - 株探",
+      "material_text": "[ニュース] フィーチャ(株)【4052】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -1459,7 +1459,7 @@
       "source": "値上がり率",
       "material_text": "[IR/前日] 2026年9月期 通期決算説明資料",
       "material_url": "https://www.release.tdnet.info/inbs/140120261102562462.pdf",
-      "material_all": "[前日] 2026年9月期 通期決算説明資料\n[前日] 2026年9月期 決算短信〔日本基準〕(連結)\n[前日] 剰余金の配当に関するお知らせ"
+      "material_all": "[本日] 第三者割当増資における発行株式数の確定に関するお知らせ\n[前日] 2026年9月期 通期決算説明資料\n[前日] 2026年9月期 決算短信〔日本基準〕(連結)\n[前日] 剰余金の配当に関するお知らせ"
     },
     {
       "code": "6327",
@@ -2564,7 +2564,7 @@
       "vol_150d": 111.42,
       "trading_value": 2897.2,
       "source": "売買代金",
-      "material_text": "[ニュース] 東京エレクトロン(株)【8035】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 東京エレクトロン(株)【8035】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -9800,7 +9800,7 @@
       "vol_150d": 39.38,
       "trading_value": 760.2,
       "source": "売買代金",
-      "material_text": "[ニュース] ダイキン工業(株)【6367】：株価・株式情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ダイキン、通期営業益予想の引き上げと増配を好感(ウエルスアドバイザー) - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -55030,6 +55030,33 @@
       "material_all": ""
     },
     {
+      "code": "1801",
+      "name": "大成建設",
+      "market": "プライム（内国株式）",
+      "close": 10460.0,
+      "change_pct": -7.56,
+      "market_cap": 17051.0,
+      "ytd_perf": -29.84,
+      "year_start_price": 14907.8,
+      "intraday_vol": 2.78,
+      "vol_3d": 10.27,
+      "vol_5d": 9.96,
+      "vol_20d": 15.48,
+      "vol_30d": 19.09,
+      "vol_40d": 22.89,
+      "vol_50d": 23.51,
+      "vol_60d": 22.35,
+      "vol_80d": 27.57,
+      "vol_100d": 36.49,
+      "vol_120d": 39.96,
+      "vol_150d": 50.95,
+      "trading_value": 145.7,
+      "source": "売買代金",
+      "material_text": "",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
       "code": "3431",
       "name": "宮地エンジニアリンググループ",
       "market": "プライム（内国株式）",
@@ -58384,7 +58411,7 @@
       "close": 1667.0,
       "change_pct": -3.92,
       "market_cap": 320.0,
-      "ytd_perf": 6.94,
+      "ytd_perf": 6.93,
       "year_start_price": 1558.9,
       "intraday_vol": 2.54,
       "vol_3d": 5.68,
@@ -72057,7 +72084,7 @@
       "source": "PTS上昇",
       "material_text": "[IR/前日] 2026年9月期 通期決算説明資料",
       "material_url": "https://www.release.tdnet.info/inbs/140120261102562462.pdf",
-      "material_all": "[前日] 2026年9月期 通期決算説明資料\n[前日] 2026年9月期 決算短信〔日本基準〕(連結)\n[前日] 剰余金の配当に関するお知らせ"
+      "material_all": "[本日] 第三者割当増資における発行株式数の確定に関するお知らせ\n[前日] 2026年9月期 通期決算説明資料\n[前日] 2026年9月期 決算短信〔日本基準〕(連結)\n[前日] 剰余金の配当に関するお知らせ"
     },
     {
       "code": "6758",
@@ -72751,9 +72778,9 @@
       "pts_price": 553.6,
       "pts_change_pct": 1.21,
       "source": "PTS上昇",
-      "material_text": "[IR/本日] 2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261106564919.pdf",
-      "material_all": "[本日] 2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）"
+      "material_text": "[ニュース] ＵＬＳグループ[3798]：法定事前開示書類（株式交換）（ＵＬＳコンサルティング株式会社） 2026年7月30日(適時開",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "3133",
@@ -73003,7 +73030,7 @@
       "pts_price": 1179.0,
       "pts_change_pct": 0.94,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 3021 パシフィックネット - 株探",
+      "material_text": "[ニュース] (株)パシフィックネット【3021】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -73435,7 +73462,7 @@
       "pts_price": 8000.8,
       "pts_change_pct": -8.59,
       "source": "PTS下落",
-      "material_text": "[ニュース] 東京エレクトロン(株)【8035】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 東京エレクトロン(株)【8035】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -73471,7 +73498,7 @@
       "pts_price": 611.0,
       "pts_change_pct": -8.4,
       "source": "PTS下落",
-      "material_text": "[ニュース] TOPIX先物：21日清算値＝27ポイント高、4052ポイント - 株探",
+      "material_text": "[ニュース] フィーチャ(株)【4052】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
