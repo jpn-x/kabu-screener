@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T12:26:00+09:00",
-  "updated_at_display": "11/09 12:26",
+  "updated_at": "2026-11-09T12:44:00+09:00",
+  "updated_at_display": "11/09 12:44",
   "count": 1941,
   "stocks": [
     {
@@ -1079,7 +1079,7 @@
       "vol_150d": 95.4,
       "trading_value": 43.7,
       "source": "高ボラ",
-      "material_text": "[ニュース] ＡＩメカテック(株)【6227】：株価チャート - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＡＩメカテック(株)【6227】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -2672,7 +2672,7 @@
       "vol_150d": 95.33,
       "trading_value": 42.3,
       "source": "出来高",
-      "material_text": "[ニュース] 芝浦メカトロニクス(株)【6590】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 芝浦メカトロニクス(株)【6590】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -2807,7 +2807,7 @@
       "vol_150d": 148.1,
       "trading_value": 523.7,
       "source": "売買代金",
-      "material_text": "[ニュース] 古河電気工業(株)【5801】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 古河電気工業(株)【5801】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -5561,7 +5561,7 @@
       "vol_150d": 114.94,
       "trading_value": 1054.8,
       "source": "売買代金",
-      "material_text": "[ニュース] 東京エレクトロン(株)【8035】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 東京エレクトロン(株)【8035】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -7964,7 +7964,7 @@
       "vol_150d": 109.94,
       "trading_value": 142.3,
       "source": "売買代金",
-      "material_text": "[ニュース] ローム(株)【6963】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ローム(株)【6963】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -13607,7 +13607,7 @@
       "vol_150d": 133.7,
       "trading_value": 248.7,
       "source": "売買代金",
-      "material_text": "[ニュース] ルネサスエレクトロニクス(株)【6723】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!フ",
+      "material_text": "[ニュース] ルネサスエレクトロニクス(株)【6723】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -15983,7 +15983,7 @@
       "vol_150d": 145.19,
       "trading_value": 1272.7,
       "source": "売買代金",
-      "material_text": "[ニュース] ソフトバンクグループ(株)【9984】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ソフトバンクグループ(株)【9984】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -35477,7 +35477,7 @@
       "vol_150d": 32.13,
       "trading_value": 146.3,
       "source": "売買代金",
-      "material_text": "[ニュース] 日本製鉄(株)【5401】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 日本製鉄(株)【5401】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52648,7 +52648,7 @@
       "pts_price": 1158.0,
       "pts_change_pct": 8.22,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 長瀬産業(株)【8012】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 長瀬産業(株)【8012】：株主優待 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52924,7 +52924,7 @@
       "pts_price": 2070.1,
       "pts_change_pct": 5.62,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 古河電気工業(株)【5801】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 古河電気工業(株)【5801】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52948,7 +52948,7 @@
       "pts_price": 670.0,
       "pts_change_pct": 5.51,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)エクサウィザーズ【4259】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナン",
+      "material_text": "[ニュース] (株)エクサウィザーズ【4259】：株価チャート - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52984,7 +52984,7 @@
       "pts_price": 4240.0,
       "pts_change_pct": 5.34,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ＡＩメカテック(株)【6227】：株価チャート - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＡＩメカテック(株)【6227】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -53032,7 +53032,7 @@
       "pts_price": 8689.0,
       "pts_change_pct": 5.16,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 東京エレクトロン(株)【8035】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 東京エレクトロン(株)【8035】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -53092,7 +53092,7 @@
       "pts_price": 980.0,
       "pts_change_pct": 4.93,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ＥＬＥＭＥＮＴＳ【5246】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ＥＬＥＭＥＮＴＳ【5246】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -53356,7 +53356,7 @@
       "pts_price": 3706.8,
       "pts_change_pct": 4.45,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ソフトバンクグループ(株)【9984】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ソフトバンクグループ(株)【9984】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -53416,7 +53416,7 @@
       "pts_price": 2460.0,
       "pts_change_pct": 4.24,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 芝浦メカトロニクス(株)【6590】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 芝浦メカトロニクス(株)【6590】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -53500,7 +53500,7 @@
       "pts_price": 2874.0,
       "pts_change_pct": 4.17,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ローム(株)【6963】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ローム(株)【6963】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -53992,7 +53992,7 @@
       "pts_price": 1136.0,
       "pts_change_pct": -3.15,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)船井総研ホールディングス【9757】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)船井総研ホールディングス【9757】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -54052,7 +54052,7 @@
       "pts_price": 1500.0,
       "pts_change_pct": -2.85,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ヴィッツ【4440】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ヴィッツ【4440】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -54220,7 +54220,7 @@
       "pts_price": 1673.0,
       "pts_change_pct": -2.34,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ＡＯＫＩホールディングス【8214】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ＡＯＫＩホールディングス【8214】：株主優待 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -54364,7 +54364,7 @@
       "pts_price": 7284.0,
       "pts_change_pct": -1.96,
       "source": "PTS下落",
-      "material_text": "[ニュース] 霞ヶ関キャピタル(株)【3498】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 霞ヶ関キャピタル(株)【3498】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
