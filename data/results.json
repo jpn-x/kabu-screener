@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T16:24:00+09:00",
-  "updated_at_display": "11/10 16:24",
+  "updated_at": "2026-11-10T16:45:00+09:00",
+  "updated_at_display": "11/10 16:45",
   "count": 2291,
   "stocks": [
     {
@@ -863,7 +863,7 @@
       "vol_150d": 117.66,
       "trading_value": 2528.4,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)フジクラ【5803】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 【決算速報】フジクラ、今期経常を1％下方修正、配当は42円増額(株探ニュース) - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -2483,7 +2483,7 @@
       "vol_150d": 62.24,
       "trading_value": 0.5,
       "source": "出来高",
-      "material_text": "[ニュース] (株)モンスターラボ【5255】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)モンスターラボ【5255】：株価チャート - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -13391,7 +13391,7 @@
       "vol_150d": 28.62,
       "trading_value": 369.8,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)ＳＵＢＡＲＵ【7270】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 【決算速報】ＳＵＢＡＲＵ---27年3月期2Qは増益、経常利益は7.3％増(フィスコ) - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -62206,7 +62206,7 @@
       "pts_price": 3287.0,
       "pts_change_pct": 6.72,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)フジクラ【5803】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 【決算速報】フジクラ、今期経常を1％下方修正、配当は42円増額(株探ニュース) - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -62578,7 +62578,7 @@
       "pts_price": 57.9,
       "pts_change_pct": 5.27,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)モンスターラボ【5255】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)モンスターラボ【5255】：株価チャート - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -63262,7 +63262,7 @@
       "pts_price": 3239.0,
       "pts_change_pct": -3.31,
       "source": "PTS下落",
-      "material_text": "[ニュース] 富士フイルムホールディングス(株)【4901】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 富士フイルムホールディングス(株)【4901】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo",
       "material_url": "",
       "material_all": ""
     },
