@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T16:26:00+09:00",
-  "updated_at_display": "11/11 16:26",
+  "updated_at": "2026-11-11T16:45:00+09:00",
+  "updated_at_display": "11/11 16:45",
   "count": 2192,
   "stocks": [
     {
@@ -620,7 +620,7 @@
       "vol_150d": 99.93,
       "trading_value": 30.1,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)エンプラス【6961】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)エンプラス【6961】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -944,7 +944,7 @@
       "vol_150d": 126.22,
       "trading_value": 1.6,
       "source": "高ボラ",
-      "material_text": "[ニュース] ヒーハイスト精工(株)【6433】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナン",
+      "material_text": "[ニュース] ヒーハイスト[6433]：株主優待制度の内容変更に関するお知らせ 2025年11月12日(適時開示) ：日経会社情報DI",
       "material_url": "",
       "material_all": ""
     },
@@ -1079,9 +1079,9 @@
       "vol_150d": 259.52,
       "trading_value": 341.0,
       "source": "売買代金",
-      "material_text": "[IR/本日] 2026年12月期 第3四半期決算短信〔日本基準〕（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261109570066.pdf",
-      "material_all": "[本日] 2026年12月期 第3四半期決算短信〔日本基準〕（連結）\n[本日] 2026年12月期 第3四半期決算説明会資料\n[本日] 業績予想値と決算値との差異に関するお知らせ\n[本日] 配当予想の修正に関するお知らせ"
+      "material_text": "[ニュース] (株)ＳＵＭＣＯ【3436】：決算情報 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "4680",
@@ -16685,7 +16685,7 @@
       "vol_150d": 51.87,
       "trading_value": 851.7,
       "source": "売買代金",
-      "material_text": "[ニュース] 三菱重工業(株)【7011】：株価・株式情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 三菱重工業(株)【7011】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60649,7 +60649,7 @@
       "pts_price": 5940.0,
       "pts_change_pct": -4.29,
       "source": "PTS下落",
-      "material_text": "[ニュース] コーセーHLD（4922）の株価・業績・比較銘柄 - 四季報オンライン",
+      "material_text": "[ニュース] コーセーが３日ぶり反落、国内競争激化で２６年１２月期業績予想引き下げ(ウエルスアドバイザー) - Yahoo!ファイナン",
       "material_url": "",
       "material_all": ""
     },
@@ -60661,7 +60661,7 @@
       "pts_price": 3016.0,
       "pts_change_pct": -4.28,
       "source": "PTS下落",
-      "material_text": "[ニュース] 三菱重工業(株)【7011】：株価・株式情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 三菱重工業(株)【7011】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61321,9 +61321,9 @@
       "pts_price": 68.4,
       "pts_change_pct": -2.29,
       "source": "PTS下落",
-      "material_text": "[IR/本日] 2027年３月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261110572104.pdf",
-      "material_all": "[本日] 2027年３月期第２四半期（中間期）決算短信〔日本基準〕(連結)\n[本日] 2027年３月期第２四半期決算説明資料\n[本日] 営業外費用（デリバティブ評価損）の計上に関するお知らせ"
+      "material_text": "[ニュース] イントランス【3237】の株価チャート｜日足・分足・週足・月足・年足｜株探（かぶたん） - 株探",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "4493",
