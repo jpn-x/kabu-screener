@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-12T16:06:00+09:00",
-  "updated_at_display": "11/12 16:06",
-  "count": 2207,
+  "updated_at": "2026-11-12T16:26:00+09:00",
+  "updated_at_display": "11/12 16:26",
+  "count": 2208,
   "stocks": [
     {
       "code": "264A",
@@ -566,7 +566,7 @@
       "vol_150d": 23.37,
       "trading_value": 6.0,
       "source": "高ボラ",
-      "material_text": "[ニュース] ＡＤＷＧ(2982) エー・ディー・ワークス、千葉銀行の「ちばぎんリーダーズローンNEXT（環境設備型）」を活用し系統用",
+      "material_text": "[ニュース] ＡＤワークスグループ[2982]：株式会社日本ベル投資研究所による当社アナリストレポート更新のお知らせ 2026年9月2",
       "material_url": "",
       "material_all": ""
     },
@@ -647,7 +647,7 @@
       "vol_150d": 67.76,
       "trading_value": 4.8,
       "source": "高ボラ",
-      "material_text": "[ニュース] 6日寄り付き直後の日経平均は一時4100円超下落､AI懸念影響 - 四季報オンライン",
+      "material_text": "[ニュース] 日経平均の下げ幅が4100円を超える - 株探",
       "material_url": "",
       "material_all": ""
     },
@@ -13742,7 +13742,7 @@
       "vol_150d": 23.04,
       "trading_value": 4.3,
       "source": "出来高",
-      "material_text": "[ニュース] ＯＡＴアグリオ[4979]：株主優待制度の一部変更（拡充）に関するお知らせ 2025年12月8日(適時開示) ：日経会社",
+      "material_text": "[ニュース] ＯＡＴアグリオ(株)【4979】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -30730,6 +30730,33 @@
       "material_all": ""
     },
     {
+      "code": "2292",
+      "name": "Ｓ　Ｆｏｏｄｓ",
+      "market": "プライム（内国株式）",
+      "close": 2773.0,
+      "change_pct": 2.4,
+      "market_cap": 879.0,
+      "ytd_perf": 5.42,
+      "year_start_price": 2630.4,
+      "intraday_vol": 2.66,
+      "vol_3d": 2.68,
+      "vol_5d": 3.98,
+      "vol_20d": 10.52,
+      "vol_30d": 10.41,
+      "vol_40d": 10.15,
+      "vol_50d": 14.49,
+      "vol_60d": 15.64,
+      "vol_80d": 15.28,
+      "vol_100d": 17.77,
+      "vol_120d": 16.6,
+      "vol_150d": 19.67,
+      "trading_value": 2.5,
+      "source": "出来高",
+      "material_text": "",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
       "code": "7384",
       "name": "プロクレアホールディングス",
       "market": "プライム（内国株式）",
@@ -40175,7 +40202,7 @@
       "vol_150d": 58.24,
       "trading_value": 287.3,
       "source": "売買代金",
-      "material_text": "[ニュース] 本田技研工業（7267）の株主優待｜国内株式 - SBI証券",
+      "material_text": "[ニュース] ホンダ【7267】株価反発、赤字修正後の下げ「全戻し」 最新決算「最高益」「上方修正」の裏でくすぶる「中国不振」（Fin",
       "material_url": "",
       "material_all": ""
     },
@@ -59318,7 +59345,7 @@
       "vol_150d": 89.37,
       "trading_value": 20.2,
       "source": "出来高",
-      "material_text": "[ニュース] (株)加地テック【6391】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 株式会社三井E&Sが株式会社加地テック＜6391＞株式の変更報告書を提出（保有増加） - ｄメニューニュース",
       "material_url": "",
       "material_all": ""
     },
@@ -59638,7 +59665,7 @@
       "pts_price": 373.0,
       "pts_change_pct": 16.2,
       "source": "PTS上昇",
-      "material_text": "[ニュース] フジプレアム[4237]：非上場の親会社等の決算に関するお知らせ 2026年5月20日(適時開示) ：日経会社情報DIG",
+      "material_text": "[ニュース] フジプレアム(株)【4237】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -59734,7 +59761,7 @@
       "pts_price": 2015.0,
       "pts_change_pct": 11.26,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 6日寄り付き直後の日経平均は一時4100円超下落､AI懸念影響 - 四季報オンライン",
+      "material_text": "[ニュース] 日経平均の下げ幅が4100円を超える - 株探",
       "material_url": "",
       "material_all": ""
     },
@@ -59758,7 +59785,7 @@
       "pts_price": 7927.0,
       "pts_change_pct": 10.56,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)加地テック【6391】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 株式会社三井E&Sが株式会社加地テック＜6391＞株式の変更報告書を提出（保有増加） - ｄメニューニュース",
       "material_url": "",
       "material_all": ""
     },
@@ -59878,7 +59905,7 @@
       "pts_price": 3400.0,
       "pts_change_pct": 7.32,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)スクウェア・エニックス・ホールディングス【9684】：企業情報（決算時期・代表者名・大株主情報・IR動画など） -",
+      "material_text": "[ニュース] スクウェア・エニックス・ホールディングス[9684]の株価・株主優待など。 - 日本経済新聞",
       "material_url": "",
       "material_all": ""
     },
@@ -60190,7 +60217,7 @@
       "pts_price": 5291.0,
       "pts_change_pct": 4.54,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ダイフク(6383) 材料ニュース - 株探",
+      "material_text": "[ニュース] (株)ダイフク【6383】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60226,9 +60253,9 @@
       "pts_price": 1950.1,
       "pts_change_pct": 4.4,
       "source": "PTS上昇",
-      "material_text": "[IR/本日] 2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261030560882.pdf",
-      "material_all": "[本日] 2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）"
+      "material_text": "[ニュース] ジャパンマテリアル(株)【6055】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナ",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "3161",
@@ -60334,7 +60361,7 @@
       "pts_price": 308.0,
       "pts_change_pct": 3.7,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)グラッドキューブ【9561】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] グラッドキューブ（9561）2026年11月度 月次概況（速報）に関するお知らせ - 四季報オンライン",
       "material_url": "",
       "material_all": ""
     },
@@ -60562,9 +60589,9 @@
       "pts_price": 1029.0,
       "pts_change_pct": 3.0,
       "source": "PTS上昇",
-      "material_text": "[IR/本日] 2027年３月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261110571649.pdf",
-      "material_all": "[本日] 2027年３月期第２四半期（中間期）決算短信〔日本基準〕(連結)"
+      "material_text": "[ニュース] ＲＳＣ【4664】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "9147",
@@ -60874,7 +60901,7 @@
       "pts_price": 2670.0,
       "pts_change_pct": -8.22,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＯＡＴアグリオ[4979]：株主優待制度の一部変更（拡充）に関するお知らせ 2025年12月8日(適時開示) ：日経会社",
+      "material_text": "[ニュース] ＯＡＴアグリオ(株)【4979】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60934,7 +60961,7 @@
       "pts_price": 2056.0,
       "pts_change_pct": -6.59,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＳＲＥホールディングス[2980]：第12回定時株主総会資料 2026年6月3日(適時開示) ：日経会社情報DIGITA",
+      "material_text": "[ニュース] ＳＲＥＨＤ---大幅続落、7-9月期営業利益水準は大幅に低下(フィスコ) - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61186,7 +61213,7 @@
       "pts_price": 760.0,
       "pts_change_pct": -4.04,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)エプコ【2311】：株価・株式情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)エプコ【2311】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
