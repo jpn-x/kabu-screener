@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T12:06:00+09:00",
-  "updated_at_display": "11/13 12:06",
+  "updated_at": "2026-11-13T12:26:00+09:00",
+  "updated_at_display": "11/13 12:26",
   "count": 1805,
   "stocks": [
     {
@@ -215,7 +215,7 @@
       "vol_150d": 159.92,
       "trading_value": 8.8,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)ＺｅｎｍｕＴｅｃｈ【338A】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナ",
+      "material_text": "[ニュース] (株)ＺｅｎｍｕＴｅｃｈ【338A】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -539,7 +539,7 @@
       "vol_150d": 169.05,
       "trading_value": 31.8,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)ハピネット【7552】：ニュース・最新情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ハピネット[7552]の株価・株主優待など。 - 日本経済新聞",
       "material_url": "",
       "material_all": ""
     },
@@ -8990,7 +8990,7 @@
       "vol_150d": 147.64,
       "trading_value": 275.7,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)ＫＯＫＵＳＡＩ ＥＬＥＣＴＲＩＣ【6525】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -28862,7 +28862,7 @@
       "vol_150d": 40.93,
       "trading_value": 218.0,
       "source": "売買代金",
-      "material_text": "[ニュース] みずほフィナンシャルグループ[8411]：投資単位の引下げに関する考え方及び方針等について 2026年6月12日(適時開",
+      "material_text": "[ニュース] (株)みずほフィナンシャルグループ【8411】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo",
       "material_url": "",
       "material_all": ""
     },
@@ -30671,7 +30671,7 @@
       "vol_150d": 40.77,
       "trading_value": 131.3,
       "source": "売買代金",
-      "material_text": "[ニュース] 武田薬品工業(株)【4502】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 武田薬品工業(株)【4502】：株価チャート - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -36341,7 +36341,7 @@
       "vol_150d": 31.98,
       "trading_value": 198.0,
       "source": "売買代金",
-      "material_text": "[ニュース] 三菱商事(株)【8058】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 三菱商事 | 8058.T 株価動向とリアルタイム相場 - BigGo ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -48988,7 +48988,7 @@
       "pts_price": 490.0,
       "pts_change_pct": 7.93,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 日経225先物：27日正午＝870円高、6万3370円 - 株探",
+      "material_text": "[ニュース] フジタコーポ（3370）★月次売上速報更新いたしました - 四季報オンライン",
       "material_url": "",
       "material_all": ""
     },
@@ -50440,7 +50440,7 @@
       "pts_price": 527.0,
       "pts_change_pct": -4.53,
       "source": "PTS下落",
-      "material_text": "[ニュース] フロンティア・マネジメント[7038]：当社連結子会社であるフロンティア・キャピタル株式会社による株式会社ティ・エ・エス",
+      "material_text": "[ニュース] フロンティア・マネジメント(株)【7038】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!",
       "material_url": "",
       "material_all": ""
     },
@@ -50718,7 +50718,7 @@
       "source": "PTS下落",
       "material_text": "[IR/前日] 連結業績予想の修正に関するお知らせ",
       "material_url": "https://www.release.tdnet.info/inbs/140120261110571058.pdf",
-      "material_all": "[前日] 連結業績予想の修正に関するお知らせ"
+      "material_all": "[本日] 2027年３月期第２四半期（中間期）決算短信〔日本基準〕(連結)\n[前日] 連結業績予想の修正に関するお知らせ"
     },
     {
       "code": "3905",
