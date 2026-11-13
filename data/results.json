@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T16:06:00+09:00",
-  "updated_at_display": "11/13 16:06",
+  "updated_at": "2026-11-13T16:26:00+09:00",
+  "updated_at_display": "11/13 16:26",
   "count": 2221,
   "stocks": [
     {
@@ -80,7 +80,7 @@
       "vol_150d": 71.85,
       "trading_value": 49.3,
       "source": "高ボラ",
-      "material_text": "[ニュース] 日特エンジニアリング(株)【6145】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイ",
+      "material_text": "[ニュース] ＮＩＴＴＯＫＵ[6145]：剰余金の配当に関するお知らせ 2026年5月15日(適時開示) ：日経会社情報DIGITAL",
       "material_url": "",
       "material_all": ""
     },
@@ -1349,7 +1349,7 @@
       "vol_150d": 33.93,
       "trading_value": 1.5,
       "source": "高ボラ",
-      "material_text": "[ニュース] ナカノフドー建設[1827]：当社連結子会社による株式会社振興建設の株式の取得（子会社化）に関するお知らせ 2026年7",
+      "material_text": "[ニュース] (株)ナカノフドー建設【1827】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナン",
       "material_url": "",
       "material_all": ""
     },
@@ -6749,7 +6749,7 @@
       "vol_150d": 41.46,
       "trading_value": 408.4,
       "source": "売買代金",
-      "material_text": "[ニュース] 横浜ゴム(株)【5101】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 横浜ゴム（浜ゴム）【5101】の週間株価（週足）｜時系列データ｜株探（かぶたん） - 株探",
       "material_url": "",
       "material_all": ""
     },
@@ -11015,7 +11015,7 @@
       "vol_150d": 97.9,
       "trading_value": 6054.7,
       "source": "売買代金",
-      "material_text": "[ニュース] 後場に注目すべき3つのポイント～エヌビディア懸念の一服で半導体株に買い戻し(フィスコ) - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 日経平均は498円高、韓国株軟調で東京市場の株価の重しに(フィスコ) - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -20924,7 +20924,7 @@
       "vol_150d": 36.97,
       "trading_value": 810.2,
       "source": "売買代金",
-      "material_text": "[ニュース] 三井住友フィナンシャルグループ[8316]：（開示事項の変更）株式分割により増加する株式数の変更に関するお知らせ 202",
+      "material_text": "[ニュース] 三井住友ＦＧ - 日本経済新聞",
       "material_url": "",
       "material_all": ""
     },
@@ -38285,7 +38285,7 @@
       "vol_150d": 32.27,
       "trading_value": 301.3,
       "source": "売買代金",
-      "material_text": "[ニュース] 伊藤忠商事(株)【8001】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 伊藤忠商事(株)【8001】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -42416,9 +42416,9 @@
       "vol_150d": 39.78,
       "trading_value": 1036.2,
       "source": "売買代金",
-      "material_text": "[ニュース] 成長を生み出すMUFG＜8306＞のチカラ - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
+      "material_text": "[IR/本日] 2027年3月期 第2四半期（中間期）決算短信〔日本基準〕(連結)",
+      "material_url": "https://www.release.tdnet.info/inbs/140120261112577371.pdf",
+      "material_all": "[本日] 2027年3月期 第2四半期（中間期）決算短信〔日本基準〕(連結)\n[本日] 通期業績目標の修正および期末配当予想の修正について\n[本日] 自己株式取得に係る事項の決定に関するお知らせ"
     },
     {
       "code": "8725",
@@ -48491,7 +48491,7 @@
       "vol_150d": 31.98,
       "trading_value": 426.0,
       "source": "売買代金",
-      "material_text": "[ニュース] 三菱商事 | 8058.T 株価動向とリアルタイム相場 - BigGo ファイナンス",
+      "material_text": "[ニュース] 三菱商事(株)【8058】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -59992,7 +59992,7 @@
       "pts_price": 4175.0,
       "pts_change_pct": 20.14,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ＴＨＥＣＯＯ[4255]：2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（非連結） 2026年8月12日(",
+      "material_text": "[ニュース] ＴＨＥＣＯＯ(株)【4255】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60160,7 +60160,7 @@
       "pts_price": 1315.0,
       "pts_change_pct": 8.95,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 三菱製紙（三菱紙）【3864】の株価チャート｜日足・分足・週足・月足・年足｜株探（かぶたん） - 株探",
+      "material_text": "[ニュース] 三菱製紙[3864]：株主優待制度の導入に関するお知らせ 2026年2月13日(適時開示) ：日経会社情報DIGITAL",
       "material_url": "",
       "material_all": ""
     },
@@ -60256,7 +60256,7 @@
       "pts_price": 3770.0,
       "pts_change_pct": 6.95,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 日本曹達[4041]：自己株式取得に係る事項の決定に関するお知らせ 2026年11月12日(適時開示) ：日経会社情報D",
+      "material_text": "[ニュース] 日本曹達[4041]：法定事後開示書類（合併）（株式会社ニッソーグリーン） 2026年10月27日(適時開示) ：日経会",
       "material_url": "",
       "material_all": ""
     },
@@ -60450,7 +60450,7 @@
       "source": "PTS上昇",
       "material_text": "[IR/前日] 2027年6月期 第1四半期決算短信〔日本基準〕（連結）",
       "material_url": "https://www.release.tdnet.info/inbs/140120261112575580.pdf",
-      "material_all": "[前日] 2027年6月期 第1四半期決算短信〔日本基準〕（連結）\n[前日] 2027年6月期第1四半期決算説明資料"
+      "material_all": "[本日] 2027年6月期 第1四半期 決算説明会 事前質問の回答\n[前日] 2027年6月期 第1四半期決算短信〔日本基準〕（連結）\n[前日] 2027年6月期第1四半期決算説明資料"
     },
     {
       "code": "6905",
@@ -60652,7 +60652,7 @@
       "pts_price": 1214.0,
       "pts_change_pct": 3.41,
       "source": "PTS上昇",
-      "material_text": "[ニュース] アイティメディア(株)【2148】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] アイティメディア[2148]：剰余金の配当に関するお知らせ 2026年5月21日(適時開示) ：日経会社情報DIGITA",
       "material_url": "",
       "material_all": ""
     },
@@ -60904,7 +60904,7 @@
       "pts_price": 69.7,
       "pts_change_pct": 2.5,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ピクセラ【6731】：株価チャート - Yahoo!ファイナンス",
+      "material_text": "[ニュース] エボ　ファンド（Evo Fund）とエボリューション・キャピタル・マネジメント・エルエルシー（Evolution Cap",
       "material_url": "",
       "material_all": ""
     },
@@ -61012,7 +61012,7 @@
       "pts_price": 887.0,
       "pts_change_pct": 2.19,
       "source": "PTS上昇",
-      "material_text": "[ニュース] マイポックス(株)【5381】：株主優待 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] マイポックス[5381]：三光化学工業株式会社の株式の取得（子会社化）に関するお知らせ 2026年5月25日(適時開示)",
       "material_url": "",
       "material_all": ""
     },
@@ -61192,9 +61192,9 @@
       "pts_price": 2200.0,
       "pts_change_pct": -9.69,
       "source": "PTS下落",
-      "material_text": "[IR/本日] 2027年6月期 第1四半期 決算説明会 質疑応答（要旨）",
-      "material_url": "https://www.release.tdnet.info/inbs/140120261113579983.pdf",
-      "material_all": "[本日] 2027年6月期 第1四半期 決算説明会 質疑応答（要旨）"
+      "material_text": "[ニュース] (株)ｕｎｅｒｒｙ【5034】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_url": "",
+      "material_all": ""
     },
     {
       "code": "4629",
@@ -61276,7 +61276,7 @@
       "pts_price": 1689.9,
       "pts_change_pct": -8.36,
       "source": "PTS下落",
-      "material_text": "[ニュース] ジャパンマテリアル[6055]の株価・株主優待など。 - 日本経済新聞",
+      "material_text": "[ニュース] ジャパンマテリアル(株)【6055】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナ",
       "material_url": "",
       "material_all": ""
     },
@@ -61516,7 +61516,7 @@
       "pts_price": 216.0,
       "pts_change_pct": -5.68,
       "source": "PTS下落",
-      "material_text": "[ニュース] メタプラネット[3350]：第三者割当に係る株式譲渡報告書（新株式） 2026年7月6日(適時開示) ：日経会社情報DI",
+      "material_text": "[ニュース] メタプラネット[3350]：2026年12月期 第３四半期決算短信〔日本基準〕（連結） 2026年11月13日(適時開示",
       "material_url": "",
       "material_all": ""
     },
