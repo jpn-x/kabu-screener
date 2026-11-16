@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-16T16:25:00+09:00",
-  "updated_at_display": "11/16 16:25",
-  "count": 2348,
+  "updated_at": "2026-11-16T16:45:00+09:00",
+  "updated_at_display": "11/16 16:45",
+  "count": 2349,
   "stocks": [
     {
       "code": "3624",
@@ -512,7 +512,7 @@
       "vol_150d": 78.78,
       "trading_value": 5.7,
       "source": "値下がり率",
-      "material_text": "[ニュース] (株)トヨコー【341A】：株価チャート - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)トヨコー【341A】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -2105,7 +2105,7 @@
       "vol_150d": 94.76,
       "trading_value": 7160.7,
       "source": "売買代金",
-      "material_text": "[ニュース] 後場に注目すべき3つのポイント～半導体関連株安とGDPのマイナス成長が重荷(フィスコ) - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 〔東京株式〕軟調＝半導体株が大幅安（16日後場寄り付き）(時事通信) - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -2591,7 +2591,7 @@
       "vol_150d": 148.6,
       "trading_value": 19.5,
       "source": "高ボラ",
-      "material_text": "[ニュース] タツモ(株)【6266】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] タツモ(株)【6266】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -3752,7 +3752,7 @@
       "vol_150d": 415.31,
       "trading_value": 10051.9,
       "source": "売買代金",
-      "material_text": "[ニュース] [今週の分析銘柄](フィスコ) - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 信用残ランキング【売り残増加】 サンリオ、ＪＴ、キオクシア - 株探",
       "material_url": "",
       "material_all": ""
     },
@@ -4103,7 +4103,7 @@
       "vol_150d": 30.58,
       "trading_value": 2.0,
       "source": "値下がり率",
-      "material_text": "[ニュース] (株)ＵＮＩＣＯＮホールディングス【407A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ＵＮＩＣＯＮホールディングス【407A】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo",
       "material_url": "",
       "material_all": ""
     },
@@ -5831,7 +5831,7 @@
       "vol_150d": 113.15,
       "trading_value": 1719.8,
       "source": "売買代金",
-      "material_text": "[ニュース] 東京エレクトロン(株)【8035】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 〔東京株式〕値を消す＝半導体が重し（16日前場中盤）（時事通信） - Yahoo!ニュース",
       "material_url": "",
       "material_all": ""
     },
@@ -16955,7 +16955,7 @@
       "vol_150d": 92.17,
       "trading_value": 2.6,
       "source": "値下がり率",
-      "material_text": "[ニュース] (株)日本一ソフトウェア【3851】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)日本一ソフトウェア【3851】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -20017,7 +20017,7 @@
       "close": 3453.0,
       "change_pct": 1.98,
       "market_cap": 23670.0,
-      "ytd_perf": 7.14,
+      "ytd_perf": 7.15,
       "year_start_price": 3222.7,
       "intraday_vol": 4.34,
       "vol_3d": 13.71,
@@ -32075,7 +32075,7 @@
       "vol_150d": 30.17,
       "trading_value": 839.2,
       "source": "売買代金",
-      "material_text": "[ニュース] 任天堂(株)【7974】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 任天堂(株)【7974】：株主優待 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -32183,7 +32183,7 @@
       "vol_150d": 50.24,
       "trading_value": 332.0,
       "source": "売買代金",
-      "material_text": "[ニュース] ＮＥＣ【6701】：株価・株式情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＮＥＣ【6701】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -33506,7 +33506,7 @@
       "vol_150d": 42.97,
       "trading_value": 689.5,
       "source": "売買代金",
-      "material_text": "[ニュース] ソニーグループ(株)【6758】：株主優待 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ソニー(株)【6758】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -35612,7 +35612,7 @@
       "vol_150d": 39.76,
       "trading_value": 1436.7,
       "source": "売買代金",
-      "material_text": "[ニュース] 【売買代金9位】三菱UFJフィナンシャル・グループ（8306）11月16日の株価とXの反応｜morokoshi3 - H",
+      "material_text": "[ニュース] (株)三菱ＵＦＪフィナンシャル・グループ【8306】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -35854,6 +35854,33 @@
       "vol_120d": 18.34,
       "vol_150d": 18.16,
       "trading_value": 2.3,
+      "source": "出来高",
+      "material_text": "",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "2193",
+      "name": "クックパッド",
+      "market": "スタンダード（内国株式）",
+      "close": 113.0,
+      "change_pct": -1.74,
+      "market_cap": 81.0,
+      "ytd_perf": -22.6,
+      "year_start_price": 146.0,
+      "intraday_vol": 2.61,
+      "vol_3d": 3.48,
+      "vol_5d": 4.42,
+      "vol_20d": 14.4,
+      "vol_30d": 14.4,
+      "vol_40d": 15.62,
+      "vol_50d": 18.8,
+      "vol_60d": 21.05,
+      "vol_80d": 23.93,
+      "vol_100d": 23.93,
+      "vol_120d": 21.88,
+      "vol_150d": 20.59,
+      "trading_value": 0.3,
       "source": "出来高",
       "material_text": "",
       "material_url": "",
@@ -63565,7 +63592,7 @@
       "pts_price": 14.9,
       "pts_change_pct": 14.62,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ＷＩＺＥ【3664】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)ＷＩＺＥ【3664】：株価チャート - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -63637,7 +63664,7 @@
       "pts_price": 7400.0,
       "pts_change_pct": 12.98,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)福井銀行【8362】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)福井銀行【8362】：株主優待 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -63793,7 +63820,7 @@
       "pts_price": 1540.0,
       "pts_change_pct": 9.53,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)Ｃｏｍｉｎｉｘ【3173】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)Ｃｏｍｉｎｉｘ【3173】：株主優待 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -63805,7 +63832,7 @@
       "pts_price": 616.0,
       "pts_change_pct": 9.22,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)マイクロアド【9553】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)マイクロアド【9553】：株価チャート - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -63889,7 +63916,7 @@
       "pts_price": 1735.0,
       "pts_change_pct": 7.7,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ＡＶｉＣ【9554】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 【9554】株式会社AViC代表取締役社長 市原創吾氏「高付加価値化と効率化を掛け合わせマーケティングのデジタル格差を無",
       "material_url": "",
       "material_all": ""
     },
@@ -64465,7 +64492,7 @@
       "pts_price": 1230.0,
       "pts_change_pct": -24.35,
       "source": "PTS下落",
-      "material_text": "[ニュース] 飯野海運(株)【9119】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 飯野海運(株)【9119】：株主優待 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -64585,7 +64612,7 @@
       "pts_price": 960.2,
       "pts_change_pct": -14.65,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)日本一ソフトウェア【3851】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)日本一ソフトウェア【3851】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -64839,7 +64866,7 @@
       "source": "PTS下落",
       "material_text": "[IR/前日] 2027年３月期第２四半期（中間期）決算短信〔日本基準〕（連結）",
       "material_url": "https://www.release.tdnet.info/inbs/140120261113580128.pdf",
-      "material_all": "[前日] 2027年３月期第２四半期（中間期）決算短信〔日本基準〕（連結）\n[前日] 営業外費用及び特別利益並びに特別損失の計上に関するお知らせ\n[前日] 2027年３月期半期報告書に係る期中レビューの結論不表明に関するお知らせ\n[前日] （開示事項の訂正）「調達資金の資金使途及び支出時期の変更に関するお知らせ」の一部訂正に関するお知らせ"
+      "material_all": "[本日] （開示事項の訂正）「2027年３月期半期報告書に係る期中レビューの結論不表明に関するお知らせ」の一部訂正について\n[前日] 2027年３月期第２四半期（中間期）決算短信〔日本基準〕（連結）\n[前日] 営業外費用及び特別利益並びに特別損失の計上に関するお知らせ\n[前日] 2027年３月期半期報告書に係る期中レビューの結論不表明に関するお知らせ\n[前日] （開示事項の訂正）「調達資金の資金使途及び支出時期の変更に関するお知らせ」の一部訂正に関するお知らせ"
     },
     {
       "code": "6835",
@@ -65065,7 +65092,7 @@
       "pts_price": 2370.0,
       "pts_change_pct": -5.65,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＨＰＣシステムズ(株)【6597】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナン",
+      "material_text": "[ニュース] ＨＰＣシステムズ(株)【6597】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -65293,7 +65320,7 @@
       "pts_price": 412.0,
       "pts_change_pct": -4.41,
       "source": "PTS下落",
-      "material_text": "[ニュース] バルテス・ホールディングス(株)【4442】：株主優待 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] バルテス・ホールディングス(株)【4442】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -65389,7 +65416,7 @@
       "pts_price": 29350.0,
       "pts_change_pct": -4.12,
       "source": "PTS下落",
-      "material_text": "[ニュース] 後場に注目すべき3つのポイント～半導体関連株安とGDPのマイナス成長が重荷(フィスコ) - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 〔東京株式〕軟調＝半導体株が大幅安（16日後場寄り付き）(時事通信) - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
