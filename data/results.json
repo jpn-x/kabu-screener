@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T16:25:00+09:00",
-  "updated_at_display": "11/17 16:25",
+  "updated_at": "2026-11-17T16:45:00+09:00",
+  "updated_at_display": "11/17 16:45",
   "count": 2274,
   "stocks": [
     {
@@ -53,7 +53,7 @@
       "vol_150d": 90.0,
       "trading_value": 2.4,
       "source": "高ボラ",
-      "material_text": "",
+      "material_text": "[ニュース] (株)オルトプラスホールディングス【3672】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -107,7 +107,7 @@
       "vol_150d": 63.76,
       "trading_value": 9.3,
       "source": "高ボラ",
-      "material_text": "",
+      "material_text": "[ニュース] ロング　コリドー　アセット　マネジメント　リミテッド(Long Corridor Asset Management Li",
       "material_url": "",
       "material_all": ""
     },
@@ -188,7 +188,7 @@
       "vol_150d": 77.74,
       "trading_value": 1.0,
       "source": "高ボラ",
-      "material_text": "",
+      "material_text": "[ニュース] ｕｎｂａｎｋｅｄ(株)【8746】：株価チャート - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -215,7 +215,7 @@
       "vol_150d": 114.63,
       "trading_value": 15.0,
       "source": "値上がり率",
-      "material_text": "[ニュース] アクセルマーク(株)【3624】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -242,7 +242,7 @@
       "vol_150d": 91.88,
       "trading_value": 0.6,
       "source": "高ボラ",
-      "material_text": "",
+      "material_text": "[ニュース] (株)光彩工芸【7878】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -269,7 +269,7 @@
       "vol_150d": 64.81,
       "trading_value": 16.8,
       "source": "値上がり率",
-      "material_text": "",
+      "material_text": "[ニュース] シンバイオ製薬(株)【4582】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -296,7 +296,7 @@
       "vol_150d": 62.18,
       "trading_value": 0.8,
       "source": "高ボラ",
-      "material_text": "[ニュース] ＰＲＩＳＭ ＢｉｏＬａｂ[206A]：2026年９月期 決算説明会のお知らせ 2026年10月13日(適時開示) ：日経",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -350,7 +350,7 @@
       "vol_150d": 65.09,
       "trading_value": 0.3,
       "source": "高ボラ",
-      "material_text": "[ニュース] 【7689】株式会社コパ・コーポレーション 事業概要と成長戦略に関するIRインタビュー - invest-n.jp",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -404,7 +404,7 @@
       "vol_150d": 39.61,
       "trading_value": 4.9,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)アスカネット【2438】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -512,7 +512,7 @@
       "vol_150d": 50.3,
       "trading_value": 1.7,
       "source": "高ボラ",
-      "material_text": "",
+      "material_text": "[ニュース] リンクバル[6046]：報告セグメントの変更に関するお知らせ 2026年11月9日(適時開示) ：日経会社情報DIGIT",
       "material_url": "",
       "material_all": ""
     },
@@ -620,7 +620,7 @@
       "vol_150d": 554.67,
       "trading_value": 18.1,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)セキュアヴェイル【3042】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナン",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -647,7 +647,7 @@
       "vol_150d": 75.41,
       "trading_value": 0.3,
       "source": "高ボラ",
-      "material_text": "",
+      "material_text": "[ニュース] (株)セイファート【9213】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -674,7 +674,7 @@
       "vol_150d": 68.81,
       "trading_value": 15.9,
       "source": "高ボラ",
-      "material_text": "",
+      "material_text": "[ニュース] ＮＩＴＴＯＫＵ(株)【6145】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -701,7 +701,7 @@
       "vol_150d": 61.4,
       "trading_value": 0.5,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)ベクターホールディングス【2656】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!フ",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -836,7 +836,7 @@
       "vol_150d": 64.06,
       "trading_value": 2.8,
       "source": "値下がり率",
-      "material_text": "",
+      "material_text": "[ニュース] (株)ジェイ・イー・ティ【6228】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -863,7 +863,7 @@
       "vol_150d": 83.09,
       "trading_value": 32.5,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)ＪＤＳＣ【4418】：株主優待 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -890,7 +890,7 @@
       "vol_150d": 27.9,
       "trading_value": 4.3,
       "source": "高ボラ",
-      "material_text": "[ニュース] ピクスタ[3416]の株価・株主優待など。 - 日本経済新聞",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -917,7 +917,7 @@
       "vol_150d": 102.4,
       "trading_value": 0.5,
       "source": "高ボラ",
-      "material_text": "",
+      "material_text": "[ニュース] (株)シャノン【3976】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -998,7 +998,7 @@
       "vol_150d": 127.91,
       "trading_value": 2.0,
       "source": "高ボラ",
-      "material_text": "[ニュース] 辻・本郷ＩＴコンサルティング(株)【476A】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -1025,7 +1025,7 @@
       "vol_150d": 87.37,
       "trading_value": 1.6,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)ヌーラボ【5033】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -1052,7 +1052,7 @@
       "vol_150d": 175.86,
       "trading_value": 1.1,
       "source": "高ボラ",
-      "material_text": "",
+      "material_text": "[ニュース] (株)モルフォ【3653】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -1133,7 +1133,7 @@
       "vol_150d": 84.62,
       "trading_value": 5.7,
       "source": "高ボラ",
-      "material_text": "",
+      "material_text": "[ニュース] (株)トヨコー【341A】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -1187,7 +1187,7 @@
       "vol_150d": 139.64,
       "trading_value": 0.3,
       "source": "高ボラ",
-      "material_text": "[ニュース] 太洋物産(株)【9941】：株価チャート - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -1214,7 +1214,7 @@
       "vol_150d": 95.04,
       "trading_value": 5.6,
       "source": "高ボラ",
-      "material_text": "",
+      "material_text": "[ニュース] ＰＲＯＮＩ[479A]：株式会社商工組合中央金庫との資本業務提携に関するお知らせ 2026年11月13日(適時開示) ：",
       "material_url": "",
       "material_all": ""
     },
@@ -1241,7 +1241,7 @@
       "vol_150d": 70.09,
       "trading_value": 0.3,
       "source": "高ボラ",
-      "material_text": "[ニュース] ＡｐｐＢａｎｋ(株)【6177】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -1403,7 +1403,7 @@
       "vol_150d": 115.58,
       "trading_value": 27.2,
       "source": "高ボラ",
-      "material_text": "",
+      "material_text": "[ニュース] (株)技術承継機構【319A】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -2186,7 +2186,7 @@
       "vol_150d": 103.23,
       "trading_value": 563.3,
       "source": "売買代金",
-      "material_text": "[ニュース] フェローテック[6890]：配当予想の修正（増配）に関するお知らせ 2026年11月16日(適時開示) ：日経会社情報D",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -2402,7 +2402,7 @@
       "vol_150d": 139.76,
       "trading_value": 1.2,
       "source": "出来高",
-      "material_text": "",
+      "material_text": "[ニュース] リバーエレテック(株)【6666】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -2915,7 +2915,7 @@
       "vol_150d": 115.19,
       "trading_value": 26.4,
       "source": "出来高",
-      "material_text": "[ニュース] Ａｐｐｉｅｒ Ｇｒｏｕｐ(株)【4180】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -3239,7 +3239,7 @@
       "vol_150d": 39.31,
       "trading_value": 20.3,
       "source": "出来高",
-      "material_text": "",
+      "material_text": "[ニュース] (株)壱番屋【7630】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -3401,7 +3401,7 @@
       "vol_150d": 54.3,
       "trading_value": 1.0,
       "source": "出来高",
-      "material_text": "[ニュース] (株)サニックスホールディングス【4651】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -3482,7 +3482,7 @@
       "vol_150d": 26.8,
       "trading_value": 3.0,
       "source": "出来高",
-      "material_text": "",
+      "material_text": "[ニュース] (株)ルクレ【648A】：板気配 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -3536,7 +3536,7 @@
       "vol_150d": 395.29,
       "trading_value": 13902.3,
       "source": "売買代金",
-      "material_text": "[ニュース] $キオクシアホールディングス (285A.JP)$ めっちゃやられたから、せめて気晴らしさせて🙏 この機種わかるかな -",
+      "material_text": "[ニュース] キオクシアホールディングス(株)【285A】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -3806,7 +3806,7 @@
       "vol_150d": 96.94,
       "trading_value": 578.0,
       "source": "売買代金",
-      "material_text": "",
+      "material_text": "[ニュース] (株)レゾナック・ホールディングス【4004】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -4454,7 +4454,7 @@
       "vol_150d": 65.48,
       "trading_value": 3.6,
       "source": "出来高",
-      "material_text": "",
+      "material_text": "[ニュース] ククレブ・アドバイザーズ(株)【276A】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!フ",
       "material_url": "",
       "material_all": ""
     },
@@ -6047,7 +6047,7 @@
       "vol_150d": 429.61,
       "trading_value": 1177.0,
       "source": "売買代金",
-      "material_text": "",
+      "material_text": "[ニュース] 太陽誘電(株)【6976】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -6587,7 +6587,7 @@
       "vol_150d": 77.73,
       "trading_value": 1471.5,
       "source": "売買代金",
-      "material_text": "[ニュース] レーザーテック（レーザーテク）【6920】株価｜週次信用残時系列データ｜株探（かぶたん） - 株探",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -9368,7 +9368,7 @@
       "vol_150d": 39.13,
       "trading_value": 0.8,
       "source": "出来高",
-      "material_text": "[ニュース] 天昇電気工業[6776]：2026年3月期 決算短信〔日本基準〕（連結） 2026年5月14日(適時開示) ：日経会社情",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -10313,7 +10313,7 @@
       "vol_150d": 41.01,
       "trading_value": 707.4,
       "source": "売買代金",
-      "material_text": "",
+      "material_text": "[ニュース] (株)みずほフィナンシャルグループ【8411】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -16712,7 +16712,7 @@
       "vol_150d": 43.09,
       "trading_value": 540.1,
       "source": "売買代金",
-      "material_text": "",
+      "material_text": "[ニュース] ＪＴ【2914】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -16874,7 +16874,7 @@
       "vol_150d": 35.64,
       "trading_value": 257.8,
       "source": "売買代金",
-      "material_text": "",
+      "material_text": "[ニュース] 三井物産(株)【8031】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -17090,7 +17090,7 @@
       "vol_150d": 79.01,
       "trading_value": 415.8,
       "source": "売買代金",
-      "material_text": "[ニュース] パナソニック ホールディングス(株)【6752】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yaho",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -18089,7 +18089,7 @@
       "vol_150d": 115.1,
       "trading_value": 259.5,
       "source": "売買代金",
-      "material_text": "",
+      "material_text": "[ニュース] ＴＤＫ(株)【6762】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -19520,7 +19520,7 @@
       "vol_150d": 133.48,
       "trading_value": 299.2,
       "source": "売買代金",
-      "material_text": "",
+      "material_text": "[ニュース] ルネサスエレクトロニクス(株)【6723】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -21302,7 +21302,7 @@
       "vol_150d": 36.6,
       "trading_value": 1322.4,
       "source": "売買代金",
-      "material_text": "[ニュース] 日経平均は576円安、積極的な買いは見送りムード(フィスコ) - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -21410,7 +21410,7 @@
       "vol_150d": 60.04,
       "trading_value": 237.0,
       "source": "売買代金",
-      "material_text": "",
+      "material_text": "[ニュース] (株)ダイフク【6383】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -26162,7 +26162,7 @@
       "vol_150d": 46.27,
       "trading_value": 612.6,
       "source": "売買代金",
-      "material_text": "[ニュース] 三菱重工業(株)【7011】：株価・株式情報 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -29861,7 +29861,7 @@
       "vol_150d": 43.39,
       "trading_value": 640.5,
       "source": "売買代金",
-      "material_text": "[ニュース] ソニー(株)【6758】：株価・株式情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ソニー(6758)の株価はどこまで上がる？今後を左右する利益成長と決算の読み方 - 日本投資機構株式会社",
       "material_url": "",
       "material_all": ""
     },
@@ -31616,7 +31616,7 @@
       "vol_150d": 44.19,
       "trading_value": 266.1,
       "source": "売買代金",
-      "material_text": "",
+      "material_text": "[ニュース] 三菱電機(株)【6503】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -31643,7 +31643,7 @@
       "vol_150d": 50.68,
       "trading_value": 281.6,
       "source": "売買代金",
-      "material_text": "",
+      "material_text": "[ニュース] ＮＥＣ【6701】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -34181,7 +34181,7 @@
       "vol_150d": 27.94,
       "trading_value": 545.9,
       "source": "売買代金",
-      "material_text": "",
+      "material_text": "[ニュース] トヨタ自動車(株)【7203】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -36557,7 +36557,7 @@
       "vol_150d": 35.85,
       "trading_value": 457.2,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)日立製作所【6501】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -39338,7 +39338,7 @@
       "vol_150d": 52.64,
       "trading_value": 220.2,
       "source": "売買代金",
-      "material_text": "",
+      "material_text": "[ニュース] ＳＭＣ[6273]：訂正自己株券買付状況報告書（法２４条の６第１項に基づくもの） (有価証券報告書) ：日経会社情報DI",
       "material_url": "",
       "material_all": ""
     },
@@ -46925,7 +46925,7 @@
       "vol_150d": 66.11,
       "trading_value": 298.3,
       "source": "売買代金",
-      "material_text": "",
+      "material_text": "[ニュース] ファナック[6954]：自己株式取得に係る事項の決定に関するお知らせ 2026年10月23日(適時開示) ：日経会社情報",
       "material_url": "",
       "material_all": ""
     },
@@ -50408,7 +50408,7 @@
       "vol_150d": 42.58,
       "trading_value": 256.9,
       "source": "売買代金",
-      "material_text": "",
+      "material_text": "[ニュース] 武田薬品工業(株)【4502】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61316,7 +61316,7 @@
       "vol_150d": 85.19,
       "trading_value": 1.1,
       "source": "値下がり率",
-      "material_text": "",
+      "material_text": "[ニュース] 247A Ａｉロボティクス - 株探",
       "material_url": "",
       "material_all": ""
     },
@@ -61435,7 +61435,7 @@
       "pts_price": 69.5,
       "pts_change_pct": 13.93,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] アクセルマーク(株)【3624】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61459,7 +61459,7 @@
       "pts_price": 888.0,
       "pts_change_pct": 11.42,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] (株)ＡＶＩＬＥＮ【5591】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61495,7 +61495,7 @@
       "pts_price": 1244.1,
       "pts_change_pct": 8.94,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)スプリックス【7030】：板気配 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -61567,7 +61567,7 @@
       "pts_price": 17.0,
       "pts_change_pct": 6.25,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] ＣＲＡＶＩＡ(株)【6573】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61639,7 +61639,7 @@
       "pts_price": 298.0,
       "pts_change_pct": 5.67,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 日本精蝋[5010]：2026年12月期第3四半期決算短信〔日本基準〕（連結） 2026年11月16日(適時開示) ：日",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -61663,7 +61663,7 @@
       "pts_price": 1145.1,
       "pts_change_pct": 5.44,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] (株)ＪＤＳＣ【4418】：株主優待 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61711,7 +61711,7 @@
       "pts_price": 519.0,
       "pts_change_pct": 3.8,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] (株)京写【6837】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61759,7 +61759,7 @@
       "pts_price": 29.9,
       "pts_change_pct": 3.1,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 6740 - （株）ジャパンディスプレイ 株主の部屋の掲示板 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -61771,7 +61771,7 @@
       "pts_price": 1450.0,
       "pts_change_pct": 3.09,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 五洋建設(株)【1893】：株価・株式情報 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -61783,7 +61783,7 @@
       "pts_price": 13.4,
       "pts_change_pct": 3.08,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ＲＥＶＯＬＵＴＩＯＮ【8894】：株価チャート - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -61807,7 +61807,7 @@
       "pts_price": 1161.0,
       "pts_change_pct": 2.74,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 冨士ダイス(株)【6167】：配当情報 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -61855,7 +61855,7 @@
       "pts_price": 18750.0,
       "pts_change_pct": 2.66,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 【6856.T FY2026 Q3 決算説明会】堀場製作所、AI半導体需要でQ3売上高22%増の2816億円・営業利益5",
+      "material_text": "[ニュース] (株)堀場製作所【6856】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61903,7 +61903,7 @@
       "pts_price": 7372.0,
       "pts_change_pct": 2.53,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 古野電気[6814]の株価・株主優待など。 - 日本経済新聞",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -61915,7 +61915,7 @@
       "pts_price": 6600.0,
       "pts_change_pct": 2.48,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] 山一電機(株)【6941】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61939,7 +61939,7 @@
       "pts_price": 2850.0,
       "pts_change_pct": 2.33,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] (株)北川鉄工所【6317】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61951,7 +61951,7 @@
       "pts_price": 44.0,
       "pts_change_pct": 2.33,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ウイルコホールディングス【7831】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!フ",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -61975,7 +61975,7 @@
       "pts_price": 980.0,
       "pts_change_pct": 2.3,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] トライアイズ[4840]：アイコム株式会社との戦略的資本業務提携に基づく株式会社ＬＩＭＮＯの合弁会社化及び自己株式処分に",
       "material_url": "",
       "material_all": ""
     },
@@ -62035,7 +62035,7 @@
       "pts_price": 4963.0,
       "pts_change_pct": 2.18,
       "source": "PTS上昇",
-      "material_text": "[ニュース] クレディセゾン[8253]：自己株式取得に係る事項の決定及び自己株式消却に係る事項の決定に関するお知らせ 2026年11",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -62047,7 +62047,7 @@
       "pts_price": 23.5,
       "pts_change_pct": 2.17,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ＲＩＳＥ【8836】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -62071,7 +62071,7 @@
       "pts_price": 141.9,
       "pts_change_pct": 2.09,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ティムス【4891】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -62095,7 +62095,7 @@
       "pts_price": 251.0,
       "pts_change_pct": 2.03,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] 新日本理化(株)【4406】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -62119,7 +62119,7 @@
       "pts_price": 2765.0,
       "pts_change_pct": 1.99,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] 関西電力(株)【9503】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -62155,7 +62155,7 @@
       "pts_price": 905.0,
       "pts_change_pct": 1.91,
       "source": "PTS上昇",
-      "material_text": "[ニュース] セグエグループ(株)【3968】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -62215,7 +62215,7 @@
       "pts_price": 4695.0,
       "pts_change_pct": 1.76,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] 三菱電機(株)【6503】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -62227,7 +62227,7 @@
       "pts_price": 98.7,
       "pts_change_pct": 1.75,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] 日本通信(株)【9424】：株価チャート - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -62251,7 +62251,7 @@
       "pts_price": 1220.0,
       "pts_change_pct": 1.67,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)サンエー化研【4234】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -62299,7 +62299,7 @@
       "pts_price": 164.6,
       "pts_change_pct": 1.6,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)セルシード【7776】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -62347,7 +62347,7 @@
       "pts_price": 21910.0,
       "pts_change_pct": 1.46,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 純銀上場信託(現物国内保管型)【1542】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -62359,7 +62359,7 @@
       "pts_price": 55.8,
       "pts_change_pct": 1.45,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] (株)ピクセラ【6731】：株価チャート - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -62395,7 +62395,7 @@
       "pts_price": 3989.0,
       "pts_change_pct": 1.37,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] オークマ[6103]の株価・株主優待など。 - 日本経済新聞",
       "material_url": "",
       "material_all": ""
     },
@@ -62407,7 +62407,7 @@
       "pts_price": 1303.6,
       "pts_change_pct": 1.37,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] 【2264.T FY2027 Q2 決算説明会】森永乳業、中間営業益211億円で過去最高も純利益6.6%減、通期営業益を",
       "material_url": "",
       "material_all": ""
     },
@@ -62419,7 +62419,7 @@
       "pts_price": 371.0,
       "pts_change_pct": 1.37,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ｉｓｐａｃｅ【9348】：板気配 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -62431,7 +62431,7 @@
       "pts_price": 5456.5,
       "pts_change_pct": 1.37,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] (株)タカラトミー【7867】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -62443,7 +62443,7 @@
       "pts_price": 2348.0,
       "pts_change_pct": 1.27,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] (株)高島屋【8233】：配当情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -62467,7 +62467,7 @@
       "pts_price": 880.0,
       "pts_change_pct": 1.27,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] (株)京三製作所【6742】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -62479,7 +62479,7 @@
       "pts_price": 25.3,
       "pts_change_pct": 1.2,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] アンジェス(株)【4563】：板気配 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -62491,7 +62491,7 @@
       "pts_price": 510.0,
       "pts_change_pct": 1.19,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)大運【9363】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -62515,7 +62515,7 @@
       "pts_price": 1124.0,
       "pts_change_pct": -21.01,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ハニーズホールディングス【2792】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!フ",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -62647,7 +62647,7 @@
       "pts_price": 219.0,
       "pts_change_pct": -6.01,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)サニックスホールディングス【4651】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -62659,7 +62659,7 @@
       "pts_price": 189.2,
       "pts_change_pct": -5.87,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ラピーヌ【8143】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -62719,7 +62719,7 @@
       "pts_price": 229.0,
       "pts_change_pct": -4.98,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)アエリア【3758】：適時開示情報 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -62731,7 +62731,7 @@
       "pts_price": 1398.0,
       "pts_change_pct": -4.64,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] ライク(株)【2462】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -62743,7 +62743,7 @@
       "pts_price": 4066.5,
       "pts_change_pct": -4.32,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)精工技研【6834】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -62827,7 +62827,7 @@
       "pts_price": 7860.0,
       "pts_change_pct": -3.68,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] シンフォニアテクノロジー(株)【6507】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!フ",
       "material_url": "",
       "material_all": ""
     },
@@ -62839,7 +62839,7 @@
       "pts_price": 240.0,
       "pts_change_pct": -3.61,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＣＳ－Ｃ[9258]の株価・株主優待など。 - 日本経済新聞",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -62851,7 +62851,7 @@
       "pts_price": 406.0,
       "pts_change_pct": -3.56,
       "source": "PTS下落",
-      "material_text": "[ニュース] ユナイテッド＆コレクティブ(株)【3557】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -62875,7 +62875,7 @@
       "pts_price": 662.0,
       "pts_change_pct": -3.36,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] (株)セキュアヴェイル【3042】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナン",
       "material_url": "",
       "material_all": ""
     },
@@ -62887,7 +62887,7 @@
       "pts_price": 90.0,
       "pts_change_pct": -3.23,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ＨＯＤＬ１【2345】：株主優待 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -62935,7 +62935,7 @@
       "pts_price": 6905.0,
       "pts_change_pct": -2.95,
       "source": "PTS下落",
-      "material_text": "[ニュース] 東京応化工業[4186]の株価・株主優待など。 - 日本経済新聞",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -62983,7 +62983,7 @@
       "pts_price": 1492.0,
       "pts_change_pct": -2.93,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] サンコール(株)【5985】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -62995,7 +62995,7 @@
       "pts_price": 930.0,
       "pts_change_pct": -2.92,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] 日経225先物：28日夜間取引終値＝230円高、6万5250円 - 株探",
       "material_url": "",
       "material_all": ""
     },
@@ -63007,7 +63007,7 @@
       "pts_price": 1500.0,
       "pts_change_pct": -2.91,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] 日本ケミコン(株)【6997】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -63019,7 +63019,7 @@
       "pts_price": 300.0,
       "pts_change_pct": -2.91,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] ヤマトモビリティ＆Ｍｆｇ．[7886]：2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結） 2026年1",
       "material_url": "",
       "material_all": ""
     },
@@ -63067,7 +63067,7 @@
       "pts_price": 10270.0,
       "pts_change_pct": -2.75,
       "source": "PTS下落",
-      "material_text": "[ニュース] ユニオンツール(株)【6278】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -63079,7 +63079,7 @@
       "pts_price": 50.6,
       "pts_change_pct": -2.69,
       "source": "PTS下落",
-      "material_text": "[ニュース] アーキテクツ・スタジオ・ジャパン[6085]：第三者割当により発行された第５回新株予約権（行使価額修正条項付）の大量行使",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -63091,7 +63091,7 @@
       "pts_price": 2520.8,
       "pts_change_pct": -2.67,
       "source": "PTS下落",
-      "material_text": "[ニュース] シグマ光機(株)【7713】：株価・株式情報 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -63115,7 +63115,7 @@
       "pts_price": 814.7,
       "pts_change_pct": -2.55,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] (株)サクシード【9256】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -63127,7 +63127,7 @@
       "pts_price": 384.0,
       "pts_change_pct": -2.54,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] テスホールディングス(株)【5074】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -63163,7 +63163,7 @@
       "pts_price": 851.6,
       "pts_change_pct": -2.45,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] (株)指月電機製作所【6994】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -63211,7 +63211,7 @@
       "pts_price": 53.7,
       "pts_change_pct": -2.36,
       "source": "PTS下落",
-      "material_text": "[ニュース] 大黒屋ホールディングス(株)【6993】：株価チャート - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -63259,7 +63259,7 @@
       "pts_price": 2355.0,
       "pts_change_pct": -2.28,
       "source": "PTS下落",
-      "material_text": "[ニュース] タツモ(株)【6266】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -63295,7 +63295,7 @@
       "pts_price": 1123.9,
       "pts_change_pct": -2.27,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)石井表記【6336】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)石井表記【6336】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -63319,7 +63319,7 @@
       "pts_price": 130.0,
       "pts_change_pct": -2.26,
       "source": "PTS下落",
-      "material_text": "[ニュース] リベルタ[4935]：（開示事項の経過）新株予約権（第６回）の強制行使に関するお知らせ 2026年11月13日(適時開示",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -63331,7 +63331,7 @@
       "pts_price": 1568.0,
       "pts_change_pct": -2.24,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] 日経平均4日寄り付き＝284円高、6万4498円 - 株探",
       "material_url": "",
       "material_all": ""
     },
@@ -63343,7 +63343,7 @@
       "pts_price": 35.2,
       "pts_change_pct": -2.22,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)Ｄｅｆ ｃｏｎｓｕｌｔｉｎｇ【4833】：株つぶやき - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -63355,7 +63355,7 @@
       "pts_price": 79.2,
       "pts_change_pct": -2.22,
       "source": "PTS下落",
-      "material_text": "[ニュース] ノイルイミューン・バイオテック(株)【4893】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yaho",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -63379,7 +63379,7 @@
       "pts_price": 2750.0,
       "pts_change_pct": -2.17,
       "source": "PTS下落",
-      "material_text": "[ニュース] ミナトホールディングス(株)【6862】：適時開示情報 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -63391,7 +63391,7 @@
       "pts_price": 3620.0,
       "pts_change_pct": -2.16,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] GX 半導体【2243】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -63403,7 +63403,7 @@
       "pts_price": 568.5,
       "pts_change_pct": -2.15,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] (株)ＡＫＩＢＡホールディングス【6840】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -63439,7 +63439,7 @@
       "pts_price": 9530.0,
       "pts_change_pct": -2.14,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] (株)日本マイクロニクス【6871】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -63451,7 +63451,7 @@
       "pts_price": 4560.5,
       "pts_change_pct": -2.14,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＡＩメカテック(株)【6227】：板気配 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -63463,7 +63463,7 @@
       "pts_price": 2461.0,
       "pts_change_pct": -2.11,
       "source": "PTS下落",
-      "material_text": "[ニュース] 日東紡【3110】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -63487,7 +63487,7 @@
       "pts_price": 2033.0,
       "pts_change_pct": -2.07,
       "source": "PTS下落",
-      "material_text": "[ニュース] 武蔵精密工業(株)【7220】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
