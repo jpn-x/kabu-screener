@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T16:25:00+09:00",
-  "updated_at_display": "11/18 16:25",
+  "updated_at": "2026-11-18T16:45:00+09:00",
+  "updated_at_display": "11/18 16:45",
   "count": 2248,
   "stocks": [
     {
@@ -323,9 +323,9 @@
       "vol_150d": 112.96,
       "trading_value": 1.4,
       "source": "高ボラ",
-      "material_text": "[ニュース] モダリス[4883]：第三者割当により発行された第19回新株予約権（行使価額修正条項付）の行使停止指定に関するお知らせ ",
-      "material_url": "",
-      "material_all": ""
+      "material_text": "[IR/本日] 第三者割当により発行された第19回新株予約権（行使価額修正条項付）の大量行使、行使の完了及び月間行使状況に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/inbs/140120261118582919.pdf",
+      "material_all": "[本日] 第三者割当により発行された第19回新株予約権（行使価額修正条項付）の大量行使、行使の完了及び月間行使状況に関するお知らせ"
     },
     {
       "code": "4972",
@@ -24758,7 +24758,7 @@
       "vol_150d": 37.53,
       "trading_value": 251.0,
       "source": "売買代金",
-      "material_text": "[ニュース] 楽天グループ(株)【4755】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 楽天グループ(4755)の株価と今後の回復条件｜営業黒字でも残る最終赤字を検証 - 日本投資機構株式会社",
       "material_url": "",
       "material_all": ""
     },
@@ -32463,7 +32463,7 @@
       "market": "プライム（内国株式）",
       "close": 6750.0,
       "change_pct": -1.03,
-      "market_cap": 1406.0,
+      "market_cap": null,
       "ytd_perf": -8.42,
       "year_start_price": 7370.3,
       "intraday_vol": 2.79,
@@ -33219,7 +33219,7 @@
       "market": "プライム（内国株式）",
       "close": 2724.0,
       "change_pct": -2.12,
-      "market_cap": 1453.0,
+      "market_cap": null,
       "ytd_perf": 31.71,
       "year_start_price": 2068.2,
       "intraday_vol": 2.73,
@@ -35325,7 +35325,7 @@
       "market": "プライム（内国株式）",
       "close": 762.7000122070312,
       "change_pct": -3.05,
-      "market_cap": 4415.0,
+      "market_cap": null,
       "ytd_perf": -3.56,
       "year_start_price": 790.8,
       "intraday_vol": 2.55,
@@ -38339,7 +38339,7 @@
       "vol_150d": 26.73,
       "trading_value": 276.9,
       "source": "売買代金",
-      "material_text": "[ニュース] ＮＴＴ(株)【9432】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 日本電信電話(株)【9432】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -40428,7 +40428,7 @@
       "market": "プライム（内国株式）",
       "close": 1513.0,
       "change_pct": -0.56,
-      "market_cap": 7296.0,
+      "market_cap": null,
       "ytd_perf": 20.63,
       "year_start_price": 1254.3,
       "intraday_vol": 2.23,
@@ -44370,7 +44370,7 @@
       "market": "プライム（内国株式）",
       "close": 3318.0,
       "change_pct": -2.15,
-      "market_cap": 15102.0,
+      "market_cap": null,
       "ytd_perf": 10.56,
       "year_start_price": 3001.2,
       "intraday_vol": 1.98,
@@ -49230,7 +49230,7 @@
       "market": "プライム（内国株式）",
       "close": 1802.5,
       "change_pct": -1.85,
-      "market_cap": 6098.0,
+      "market_cap": null,
       "ytd_perf": 8.56,
       "year_start_price": 1660.4,
       "intraday_vol": 1.72,
@@ -50310,7 +50310,7 @@
       "market": "プライム（内国株式）",
       "close": 4054.0,
       "change_pct": -1.98,
-      "market_cap": 45764.0,
+      "market_cap": null,
       "ytd_perf": -0.15,
       "year_start_price": 4060.1,
       "intraday_vol": 1.67,
@@ -50408,7 +50408,7 @@
       "vol_150d": 35.51,
       "trading_value": 452.4,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)日立製作所【6501】：株価・株式情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)日立製作所【6501】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -60937,7 +60937,7 @@
       "pts_price": 1820.0,
       "pts_change_pct": 3.88,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)サイバーセキュリティクラウド【4493】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] JPモルガン証券株式会社とジェー・ピー・モルガン・セキュリティーズ・ピーエルシー (J.P. Morgan Securi",
       "material_url": "",
       "material_all": ""
     },
@@ -61549,7 +61549,7 @@
       "pts_price": 535.9,
       "pts_change_pct": 1.5,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)エクサウィザーズ【4259】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナン",
+      "material_text": "[ニュース] (株)エクサウィザーズ【4259】：株主優待 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -61705,9 +61705,9 @@
       "pts_price": 28.4,
       "pts_change_pct": 1.43,
       "source": "PTS上昇",
-      "material_text": "[ニュース] モダリス[4883]：第三者割当により発行された第19回新株予約権（行使価額修正条項付）の行使停止指定に関するお知らせ ",
-      "material_url": "",
-      "material_all": ""
+      "material_text": "[IR/本日] 第三者割当により発行された第19回新株予約権（行使価額修正条項付）の大量行使、行使の完了及び月間行使状況に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/inbs/140120261118582919.pdf",
+      "material_all": "[本日] 第三者割当により発行された第19回新株予約権（行使価額修正条項付）の大量行使、行使の完了及び月間行使状況に関するお知らせ"
     },
     {
       "code": "5599",
@@ -61885,7 +61885,7 @@
       "pts_price": 618.2,
       "pts_change_pct": -4.83,
       "source": "PTS下落",
-      "material_text": "[ニュース] 楽天グループ(株)【4755】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 楽天グループ(4755)の株価と今後の回復条件｜営業黒字でも残る最終赤字を検証 - 日本投資機構株式会社",
       "material_url": "",
       "material_all": ""
     },
@@ -62413,7 +62413,7 @@
       "pts_price": 3301.0,
       "pts_change_pct": -1.7,
       "source": "PTS下落",
-      "material_text": "[ニュース] ｉＦｒｅｅＥＴＦ 日経平均レバレッジ・インデックス[1365]：2027年1月期 中間決算短信（2026年1月11日～2",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -62677,9 +62677,9 @@
       "pts_price": 35.5,
       "pts_change_pct": -1.39,
       "source": "PTS下落",
-      "material_text": "[ニュース] ａｂｃ(株)【8783】：株価チャート - Yahoo!ファイナンス",
-      "material_url": "",
-      "material_all": ""
+      "material_text": "[IR/本日] 控訴の提起に関するお知らせ",
+      "material_url": "https://www.release.tdnet.info/inbs/140120261118582746.pdf",
+      "material_all": "[本日] 控訴の提起に関するお知らせ"
     },
     {
       "code": "8104",
@@ -62725,7 +62725,7 @@
       "pts_price": 4158.5,
       "pts_change_pct": -1.36,
       "source": "PTS下落",
-      "material_text": "[ニュース] サンドラッグ[9989]：株主優待内容の変更に関するお知らせ 2026年11月13日(適時開示) ：日経会社情報DIGI",
+      "material_text": "[ニュース] (株)サンドラッグ【9989】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -62761,7 +62761,7 @@
       "pts_price": 1385.0,
       "pts_change_pct": -1.35,
       "source": "PTS下落",
-      "material_text": "[ニュース] 静岡ガス[9543]：従業員持株会向け譲渡制限付株式インセンティブとしての自己株式の処分に関するお知らせ 2026年11",
+      "material_text": "[ニュース] 静岡ガス(株)【9543】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -62809,7 +62809,7 @@
       "pts_price": 304.0,
       "pts_change_pct": -1.3,
       "source": "PTS下落",
-      "material_text": "[ニュース] 外為：南アランド、9円4192銭前後と横ばい圏で推移(株探ニュース) - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 外為：南アランド、9円4192銭前後と横ばい圏で推移 - 株探",
       "material_url": "",
       "material_all": ""
     },
@@ -62821,7 +62821,7 @@
       "pts_price": 685.0,
       "pts_change_pct": -1.3,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] (株)ジェイ・イー・ティ【6228】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
