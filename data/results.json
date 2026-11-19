@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T12:26:00+09:00",
-  "updated_at_display": "11/19 12:26",
+  "updated_at": "2026-11-19T12:45:00+09:00",
+  "updated_at_display": "11/19 12:45",
   "count": 1884,
   "stocks": [
     {
@@ -1781,7 +1781,7 @@
       "vol_150d": 154.6,
       "trading_value": 2.3,
       "source": "出来高",
-      "material_text": "[ニュース] (株)ユビキタスＡＩ【3858】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 〔ロンドン金〕反落＝3858．79ドル（16日）(時事通信) - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -3104,7 +3104,7 @@
       "vol_150d": 324.59,
       "trading_value": 7081.9,
       "source": "売買代金",
-      "material_text": "[ニュース] キオクシアHD、HENNGE、関電工など／本日の注目個別銘柄(フィスコ) - Yahoo!ファイナンス",
+      "material_text": "[ニュース] キオクシアホールディングス(株)【285A】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -3671,7 +3671,7 @@
       "vol_150d": 128.75,
       "trading_value": 100.0,
       "source": "売買代金",
-      "material_text": "[ニュース] 三井金属(株)【5706】：配当情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 三井金属(株)【5706】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -4103,7 +4103,7 @@
       "vol_150d": 72.91,
       "trading_value": 1246.6,
       "source": "売買代金",
-      "material_text": "[ニュース] レーザーテック (6920) の株価・株式 - QUICK Money World",
+      "material_text": "[ニュース] レーザーテック(株)【6920】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -12770,7 +12770,7 @@
       "vol_150d": 33.79,
       "trading_value": 173.2,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)アシックス【7936】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)アシックス【7936】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -15605,7 +15605,7 @@
       "vol_150d": 32.89,
       "trading_value": 156.0,
       "source": "売買代金",
-      "material_text": "[ニュース] 三井物産(株)【8031】：株価・株式情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 三井物産(株)【8031】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -50881,7 +50881,7 @@
       "pts_price": 518.0,
       "pts_change_pct": 18.26,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] バリューNEXが買い気配､陸上自衛隊からの調査受注を囃す - 四季報オンライン",
       "material_url": "",
       "material_all": ""
     },
@@ -51049,7 +51049,7 @@
       "pts_price": 811.0,
       "pts_change_pct": 3.58,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] (株)セキュアヴェイル【3042】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -51073,7 +51073,7 @@
       "pts_price": 2868.0,
       "pts_change_pct": 3.35,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 株式会社シティインデックスイレブンスと野村絢がイリソ電子工業株式会社＜6908＞株式の大量保有報告書を提出 - ｄメニュ",
+      "material_text": "[ニュース] 株式会社シティインデックスイレブンスと野村絢がイリソ電子工業株式会社＜6908＞株式の大量保有報告書を提出 - M&A ",
       "material_url": "",
       "material_all": ""
     },
@@ -51337,7 +51337,7 @@
       "pts_price": 101.9,
       "pts_change_pct": 1.9,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] 曙ブレーキ工業(株)【7238】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -51397,7 +51397,7 @@
       "pts_price": 313.0,
       "pts_change_pct": 1.62,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)アトム【7412】：株価チャート - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -51421,7 +51421,7 @@
       "pts_price": 25.4,
       "pts_change_pct": 1.6,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] (株)キムラタン【8107】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -51517,7 +51517,7 @@
       "pts_price": 62.9,
       "pts_change_pct": 1.45,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)フィスコ【3807】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)フィスコ【3807】：株価チャート - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -51589,7 +51589,7 @@
       "pts_price": 904.0,
       "pts_change_pct": 1.35,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] YE DIGITAL(2354)、大幅な｢増配｣を発表して、配当利回りが3.9％に！ 年間配当額は1年で1.5倍に急増、",
       "material_url": "",
       "material_all": ""
     },
@@ -51781,7 +51781,7 @@
       "pts_price": 91.0,
       "pts_change_pct": 1.11,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] (株)ＮＦＫホールディングス【6494】：株価チャート - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -51877,7 +51877,7 @@
       "pts_price": 667.9,
       "pts_change_pct": 1.04,
       "source": "PTS上昇",
-      "material_text": "[ニュース] チップ輸出規制緩和の裏で…「トランプ大統領、エヌビディア株6200万ドル保有」（中央日報日本語版） - Yahoo!ニュ",
+      "material_text": "[ニュース] インソース[6200]：剰余金の配当に関するお知らせ 2026年11月16日(適時開示) ：日経会社情報DIGITAL ",
       "material_url": "",
       "material_all": ""
     },
@@ -51937,7 +51937,7 @@
       "pts_price": 604.0,
       "pts_change_pct": 1.0,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] ＪＵＫＩ(株)【6440】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52081,7 +52081,7 @@
       "pts_price": 241.0,
       "pts_change_pct": -4.74,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] (株)アスカネット【2438】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52309,7 +52309,7 @@
       "pts_price": 69.0,
       "pts_change_pct": -2.82,
       "source": "PTS下落",
-      "material_text": "[ニュース] シンバイオ製薬(株)【4582】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -52381,7 +52381,7 @@
       "pts_price": 284.0,
       "pts_change_pct": -2.74,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] ディスラプターズ[6538]の株価・株主優待など。 - 日本経済新聞",
       "material_url": "",
       "material_all": ""
     },
@@ -52441,7 +52441,7 @@
       "pts_price": 548.0,
       "pts_change_pct": -2.66,
       "source": "PTS下落",
-      "material_text": "[ニュース] 日本モーゲージサービス(株)【7192】：決算情報 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -52669,7 +52669,7 @@
       "pts_price": 981.5,
       "pts_change_pct": -2.34,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] (株)ＧＲＣＳ【9250】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52693,7 +52693,7 @@
       "pts_price": 12.7,
       "pts_change_pct": -2.31,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] ＷＩＺＥ[3664]：2026年12月期 第３四半期決算短信〔日本基準〕(連結) 2026年11月13日(適時開示) ：",
       "material_url": "",
       "material_all": ""
     },
@@ -52837,7 +52837,7 @@
       "pts_price": 921.0,
       "pts_change_pct": -2.13,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] (株)コンヴァノ【6574】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52861,7 +52861,7 @@
       "pts_price": 1325.5,
       "pts_change_pct": -2.1,
       "source": "PTS下落",
-      "material_text": "[ニュース] 三井金属(株)【5706】：配当情報 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 三井金属(株)【5706】：決算情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -52945,7 +52945,7 @@
       "pts_price": 34.3,
       "pts_change_pct": -2.0,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＴＨＥ ＷＨＹ ＨＯＷ ＤＯ ＣＯＭＰＡＮＹ(株)【3823】：株価・株式情報（夜間PTS含む） - Yahoo!ファイ",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -53053,7 +53053,7 @@
       "pts_price": 1890.0,
       "pts_change_pct": -1.84,
       "source": "PTS下落",
-      "material_text": "",
+      "material_text": "[ニュース] デクセリアルズ(株)【4980】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     }
