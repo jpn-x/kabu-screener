@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-23T10:26:00+09:00",
-  "updated_at_display": "11/23 10:26",
-  "count": 2448,
+  "updated_at": "2026-11-23T10:46:00+09:00",
+  "updated_at_display": "11/23 10:46",
+  "count": 2447,
   "stocks": [
     {
       "code": "3624",
@@ -134,7 +134,7 @@
       "vol_150d": 145.71,
       "trading_value": 6.2,
       "source": "高ボラ",
-      "material_text": "[ニュース] VALUENEX（4422）は22%高 ログリー（6579）は24% 安 13日の夜間PTS - QUICK Money",
+      "material_text": "[ニュース] ＶＡＬＵＥＮＥＸ(株)【4422】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -674,7 +674,7 @@
       "vol_150d": 97.41,
       "trading_value": 0.3,
       "source": "値下がり率",
-      "material_text": "[ニュース] (株)光・彩【7878】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] (株)光・彩【7878】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -6916,33 +6916,6 @@
       "material_all": ""
     },
     {
-      "code": "2315",
-      "name": "ＣＡＩＣＡ　ＤＩＧＩＴＡＬ",
-      "market": "スタンダード（内国株式）",
-      "close": 45.0,
-      "change_pct": -6.25,
-      "market_cap": 78.0,
-      "ytd_perf": -55.88,
-      "year_start_price": 102.0,
-      "intraday_vol": 6.25,
-      "vol_3d": 12.24,
-      "vol_5d": 13.73,
-      "vol_20d": 38.33,
-      "vol_30d": 34.85,
-      "vol_40d": 44.62,
-      "vol_50d": 40.85,
-      "vol_60d": 46.88,
-      "vol_80d": 48.39,
-      "vol_100d": 55.56,
-      "vol_120d": 45.45,
-      "vol_150d": 46.15,
-      "trading_value": 1.6,
-      "source": "出来高",
-      "material_text": "",
-      "material_url": "",
-      "material_all": ""
-    },
-    {
       "code": "4565",
       "name": "ネクセラファーマ",
       "market": "プライム（内国株式）",
@@ -9287,7 +9260,7 @@
       "vol_150d": 78.47,
       "trading_value": 534.8,
       "source": "売買代金",
-      "material_text": "[ニュース] パナソニック ホールディングス(株)【6752】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナン",
+      "material_text": "[ニュース] パナソニック ホールディングス(株)【6752】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -35558,7 +35531,7 @@
       "vol_150d": 32.19,
       "trading_value": 372.1,
       "source": "売買代金",
-      "material_text": "[ニュース] 三井物産(株)【8031】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] 三井物産(株)【8031】：決算説明会書き起こし - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -42605,7 +42578,7 @@
       "vol_150d": 73.37,
       "trading_value": 305.7,
       "source": "売買代金",
-      "material_text": "[ニュース] コナミグループ株(9766)の今後の見通し｜株価調整後の復活に向かうかを占うポイントとは - 日本投資機構株式会社",
+      "material_text": "[ニュース] コナミグループ(株)【9766】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -66229,7 +66202,7 @@
       "pts_price": 9995.0,
       "pts_change_pct": 6.86,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ｉＦｒｅｅＥＴＦ ＮＡＳＤＡＱ１００ダブルインバース[2870]の市場価格は「日経会社情報DIGITAL」。 - 日本経",
+      "material_text": "[ニュース] 株式放出後、ハシム氏の関連会社がWIFIの54.42%を再支配 - IDNFinancials",
       "material_url": "",
       "material_all": ""
     },
@@ -66493,7 +66466,7 @@
       "pts_price": 147.2,
       "pts_change_pct": 2.94,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 楽天ＥＴＦ－日経ダブルインバース指数連動型[1459]の市場価格は「日経会社情報DIGITAL」。 - 日本経済新聞",
+      "material_text": "[ニュース] 楽天ＥＴＦ－日経ダブルインバース指数連動型【1459】株価・チャート - Moomoo",
       "material_url": "",
       "material_all": ""
     },
@@ -66889,7 +66862,7 @@
       "pts_price": 2275.0,
       "pts_change_pct": 1.47,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] (株)クボタ【6326】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -66997,7 +66970,7 @@
       "pts_price": 4255.0,
       "pts_change_pct": 1.43,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 山洋電気(株)【6516】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -67021,7 +66994,7 @@
       "pts_price": 5162.0,
       "pts_change_pct": 1.41,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)網屋【4258】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -67165,7 +67138,7 @@
       "pts_price": 160.0,
       "pts_change_pct": -13.51,
       "source": "PTS下落",
-      "material_text": "[ニュース] アクセルマーク(株)【3624】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -67285,7 +67258,7 @@
       "pts_price": 2860.0,
       "pts_change_pct": -5.45,
       "source": "PTS下落",
-      "material_text": "[ニュース] ソフトバンクグループ(株)【9984】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -67441,7 +67414,7 @@
       "pts_price": 492.0,
       "pts_change_pct": -4.65,
       "source": "PTS下落",
-      "material_text": "[ニュース] VALUENEX（4422）は22%高 ログリー（6579）は24% 安 13日の夜間PTS - QUICK Money",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -67477,7 +67450,7 @@
       "pts_price": 2950.0,
       "pts_change_pct": -4.16,
       "source": "PTS下落",
-      "material_text": "[ニュース] ｉＦｒｅｅＥＴＦ 日経平均レバレッジ・インデックス[1365]の市場価格は「日経会社情報DIGITAL」。 - 日本経済",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -67549,7 +67522,7 @@
       "pts_price": 519.0,
       "pts_change_pct": -3.73,
       "source": "PTS下落",
-      "material_text": "[ニュース] 日経平均ブル2倍上場投信【1579】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -67633,7 +67606,7 @@
       "pts_price": 77.4,
       "pts_change_pct": -3.25,
       "source": "PTS下落",
-      "material_text": "[ニュース] みらい再生支援機構合同会社が株式会社アスリナ＜3647＞株式の変更報告書を提出 - ｄメニューニュース",
+      "material_text": "[ニュース] アスリナ[3647]：AIデータセンター事業への参入に向けたCHECKMATE JAPAN株式会社との戦略的業務提携契約",
       "material_url": "",
       "material_all": ""
     },
@@ -67681,7 +67654,7 @@
       "pts_price": 2602.3,
       "pts_change_pct": -3.15,
       "source": "PTS下落",
-      "material_text": "[ニュース] パナソニック ホールディングス(株)【6752】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナン",
+      "material_text": "[ニュース] パナソニック ホールディングス(株)【6752】：株価・株式情報 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -67729,7 +67702,7 @@
       "pts_price": 605.7,
       "pts_change_pct": -2.93,
       "source": "PTS下落",
-      "material_text": "[ニュース] 三桜工業(株)【6584】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -67861,7 +67834,7 @@
       "pts_price": 1900.0,
       "pts_change_pct": -2.56,
       "source": "PTS下落",
-      "material_text": "[ニュース] 野村マイクロ・サイエンス(株)【6254】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -68017,7 +67990,7 @@
       "pts_price": 5660.0,
       "pts_change_pct": -2.35,
       "source": "PTS下落",
-      "material_text": "[ニュース] WTI原油価格連動型上場投信【1671】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
