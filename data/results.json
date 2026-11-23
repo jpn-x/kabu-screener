@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-23T14:46:00+09:00",
-  "updated_at_display": "11/23 14:46",
-  "count": 2447,
+  "updated_at": "2026-11-23T15:06:00+09:00",
+  "updated_at_display": "11/23 15:06",
+  "count": 2448,
   "stocks": [
     {
       "code": "3624",
@@ -1052,7 +1052,7 @@
       "vol_150d": 70.48,
       "trading_value": 0.8,
       "source": "高ボラ",
-      "material_text": "",
+      "material_text": "[ニュース] エスクリプトエナジー(株)【5721】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -1106,7 +1106,7 @@
       "vol_150d": 77.25,
       "trading_value": 0.3,
       "source": "高ボラ",
-      "material_text": "",
+      "material_text": "[ニュース] (株)ＨＯＤＬ１【2345】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -1187,7 +1187,7 @@
       "vol_150d": 93.16,
       "trading_value": 0.3,
       "source": "高ボラ",
-      "material_text": "",
+      "material_text": "[ニュース] ＡＩストーム(株)【3719】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -1322,7 +1322,7 @@
       "vol_150d": 50.0,
       "trading_value": 0.8,
       "source": "高ボラ",
-      "material_text": "",
+      "material_text": "[ニュース] (株)ランドビジネス【8944】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -27053,7 +27053,7 @@
       "vol_150d": 64.55,
       "trading_value": 344.7,
       "source": "売買代金",
-      "material_text": "[ニュース] ファナック(株)【6954】：掲示板 - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ファナック(株)【6954】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -29671,6 +29671,33 @@
       "vol_120d": 28.5,
       "vol_150d": 26.77,
       "trading_value": 1.9,
+      "source": "出来高",
+      "material_text": "",
+      "material_url": "",
+      "material_all": ""
+    },
+    {
+      "code": "1434",
+      "name": "ＪＥＳＣＯホールディングス",
+      "market": "スタンダード（内国株式）",
+      "close": 1377.0,
+      "change_pct": -4.44,
+      "market_cap": 96.0,
+      "ytd_perf": -4.83,
+      "year_start_price": 1447.0,
+      "intraday_vol": 3.4,
+      "vol_3d": 10.37,
+      "vol_5d": 12.69,
+      "vol_20d": 17.99,
+      "vol_30d": 19.8,
+      "vol_40d": 19.7,
+      "vol_50d": 20.0,
+      "vol_60d": 19.79,
+      "vol_80d": 22.38,
+      "vol_100d": 29.85,
+      "vol_120d": 33.42,
+      "vol_150d": 66.75,
+      "trading_value": 1.3,
       "source": "出来高",
       "material_text": "",
       "material_url": "",
@@ -38474,7 +38501,7 @@
       "vol_150d": 23.19,
       "trading_value": 475.2,
       "source": "売買代金",
-      "material_text": "[ニュース] ＫＤＤＩ(株)【9433】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ＫＤＤＩ(株)【9433】：掲示板 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -47708,7 +47735,7 @@
       "vol_150d": 42.32,
       "trading_value": 950.4,
       "source": "売買代金",
-      "material_text": "[ニュース] ソニーグループ(株)【6758】：株価チャート - Yahoo!ファイナンス",
+      "material_text": "[ニュース] ソニー(株)【6758】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -66334,7 +66361,7 @@
       "pts_price": 92.0,
       "pts_change_pct": 3.37,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)宮入バルブ製作所【6495】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -66478,7 +66505,7 @@
       "pts_price": 676.0,
       "pts_change_pct": 2.89,
       "source": "PTS上昇",
-      "material_text": "[ニュース] アゼアス(株)【3161】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -66550,7 +66577,7 @@
       "pts_price": 2581.5,
       "pts_change_pct": 2.5,
       "source": "PTS上昇",
-      "material_text": "",
+      "material_text": "[ニュース] 関西電力(株)【9503】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "material_url": "",
       "material_all": ""
     },
@@ -66574,7 +66601,7 @@
       "pts_price": 820.0,
       "pts_change_pct": 2.24,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)セキュアヴェイル【3042】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -66682,7 +66709,7 @@
       "pts_price": 262.0,
       "pts_change_pct": 1.95,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)フォーシーズＨＤ【3726】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -66934,7 +66961,7 @@
       "pts_price": 3186.1,
       "pts_change_pct": 1.44,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)メルカリ【4385】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -67042,7 +67069,7 @@
       "pts_price": 878.0,
       "pts_change_pct": 1.39,
       "source": "PTS上昇",
-      "material_text": "[ニュース] スターシーズ(株)【3083】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -67174,7 +67201,7 @@
       "pts_price": 3333.0,
       "pts_change_pct": -11.0,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＡＩメカテック(株)【6227】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -67210,7 +67237,7 @@
       "pts_price": 11.1,
       "pts_change_pct": -7.5,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ウェッジホールディングス【2388】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!フ",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -68074,7 +68101,7 @@
       "pts_price": 2485.0,
       "pts_change_pct": -2.17,
       "source": "PTS下落",
-      "material_text": "[ニュース] 扶桑化学工業(株)【4368】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
@@ -68158,7 +68185,7 @@
       "pts_price": 2290.0,
       "pts_change_pct": -2.05,
       "source": "PTS下落",
-      "material_text": "[ニュース] 芝浦メカトロニクス(株)【6590】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "material_text": "",
       "material_url": "",
       "material_all": ""
     },
