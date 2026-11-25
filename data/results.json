@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-25T12:26:00+09:00",
-  "updated_at_display": "11/25 12:26",
+  "updated_at": "2026-11-25T12:44:00+09:00",
+  "updated_at_display": "11/25 12:44",
   "count": 1898,
   "stocks": [
     {
@@ -26,8 +26,8 @@
       "vol_150d": 106.67,
       "trading_value": 2.5,
       "source": "値上がり率",
-      "material_text": "[ニュース] (株)ウェッジホールディングス【2388】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!フ",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 82 銘柄　DC＝ 110 銘柄　(11月18日)",
+      "material_url": "https://kabutan.jp/stock/news?code=2388&b=n202611180940",
       "material_all": ""
     },
     {
@@ -53,8 +53,8 @@
       "vol_150d": 86.91,
       "trading_value": 9.0,
       "source": "値上がり率",
-      "material_text": "[ニュース] Ｄｅｌｔａ－Ｆｌｙ Ｐｈａｒｍａ(株)【4598】：株価チャート - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 新興市場銘柄ダイジェスト:DELTA－Pが急騰、リプロセルが大幅反発",
+      "material_url": "https://kabutan.jp/stock/news?code=4598&b=n202611191017",
       "material_all": ""
     },
     {
@@ -80,8 +80,8 @@
       "vol_150d": 133.0,
       "trading_value": 1.2,
       "source": "値上がり率",
-      "material_text": "[ニュース] ビープラッツ(株)【4381】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ビープラッツについて、グロースパートナーズは保有割合が減少したと報告 [変更報告書No.35]",
+      "material_url": "https://kabutan.jp/stock/news?code=4381&b=n202611240989",
       "material_all": ""
     },
     {
@@ -107,8 +107,8 @@
       "vol_150d": 263.86,
       "trading_value": 18.2,
       "source": "高ボラ",
-      "material_text": "[ニュース] アクセルマーク(株)【3624】：板気配 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 123 銘柄　逆転＝ 68 銘柄　(11月19日)",
+      "material_url": "https://kabutan.jp/stock/news?code=3624&b=n202611190968",
       "material_all": ""
     },
     {
@@ -134,8 +134,8 @@
       "vol_150d": 91.88,
       "trading_value": 3.2,
       "source": "高ボラ",
-      "material_text": "[ニュース] monoAI technology(株)持株 | 5240.T 株主構成と機関投資家持株 - BigGo ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 2026年12月期第３四半期決算説明資料",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261113/140120261113578459/",
       "material_all": ""
     },
     {
@@ -161,8 +161,8 @@
       "vol_150d": 121.07,
       "trading_value": 0.5,
       "source": "高ボラ",
-      "material_text": "[ニュース] 売れるネット広告社グループ(株)【9235】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] （訂正）「連結子会社における私募社債の発行及び当社による債務保証に関するお知らせ」の一部訂正について",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261120/140120261120584406/",
       "material_all": ""
     },
     {
@@ -188,8 +188,8 @@
       "vol_150d": 108.43,
       "trading_value": 30.6,
       "source": "高ボラ",
-      "material_text": "[ニュース] メドレックス[4586]：第三者割当により発行された第35回新株予約権(行使価額修正条項付)の行使完了及び月間行使状況に",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 74 銘柄　DC＝ 114 銘柄　(11月19日)",
+      "material_url": "https://kabutan.jp/stock/news?code=4586&b=n202611190973",
       "material_all": ""
     },
     {
@@ -215,8 +215,8 @@
       "vol_150d": 124.57,
       "trading_value": 0.5,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)キャスター【9331】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 30 銘柄　逆転＝ 70 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=9331&b=n202611240937",
       "material_all": ""
     },
     {
@@ -242,8 +242,8 @@
       "vol_150d": 74.55,
       "trading_value": 1.0,
       "source": "高ボラ",
-      "material_text": "[ニュース] ＣＲＡＶＩＡ(株)【6573】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 新興市場銘柄ダイジェスト:CRAVIAが急騰、データセクがストップ高",
+      "material_url": "https://kabutan.jp/stock/news?code=6573&b=n202611240957",
       "material_all": ""
     },
     {
@@ -269,8 +269,8 @@
       "vol_150d": 99.06,
       "trading_value": 0.5,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)マックハウス【7603】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 第三者割当による第13回新株予約権、第14回新株予約権（行使価額修正条項付）及び第３回無担保普通社債の発行並びに新株予約",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261119/140120261119583617/",
       "material_all": ""
     },
     {
@@ -296,8 +296,8 @@
       "vol_150d": 50.94,
       "trading_value": 0.4,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)ＲＶＨ【6786】：板気配 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 2027年３月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261113/140120261113578815/",
       "material_all": ""
     },
     {
@@ -350,8 +350,8 @@
       "vol_150d": 55.84,
       "trading_value": 0.4,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)ファンペップ【4881】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ファンペップ---皮膚潰瘍治療薬「SR-0379」の追加第3相試験で被験者登録が完了",
+      "material_url": "https://kabutan.jp/stock/news?code=4881&b=n202611170687",
       "material_all": ""
     },
     {
@@ -377,8 +377,8 @@
       "vol_150d": 89.72,
       "trading_value": 0.8,
       "source": "高ボラ",
-      "material_text": "[ニュース] ジェリービーンズグループ(3070) ニュース - 株探",
-      "material_url": "",
+      "material_text": "[株探] （変更）「系統蓄電所向けの蓄電池の受注契約締結に関するお知らせ」の一部変更に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261102/140120261102563151/",
       "material_all": ""
     },
     {
@@ -431,8 +431,8 @@
       "vol_150d": 56.47,
       "trading_value": 5.8,
       "source": "値上がり率",
-      "material_text": "[ニュース] (株)フェニックスバイオ【6190】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナ",
-      "material_url": "",
+      "material_text": "[株探] フェニクスＢが後場カイ気配スタート、新規増殖性ヒト肝細胞「ＳｉｒＨｅｐｓ」に関する研究成果発表",
+      "material_url": "https://kabutan.jp/stock/news?code=6190&b=n202611240656",
       "material_all": ""
     },
     {
@@ -458,8 +458,8 @@
       "vol_150d": 87.1,
       "trading_value": 0.9,
       "source": "高ボラ",
-      "material_text": "[ニュース] 北浜キャピタルパートナーズ(株)【2134】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] （開示事項の経過）連結子会社の持分の一部譲渡及び共同事業に係る手数料（PF）の支払い完了に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261120/140120261120584385/",
       "material_all": ""
     },
     {
@@ -485,8 +485,8 @@
       "vol_150d": 92.31,
       "trading_value": 0.3,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)オルトプラスホールディングス【3672】：株価チャート - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 資本金及び資本準備金の額の減少並びに剰余金の処分に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261119/140120261119583257/",
       "material_all": ""
     },
     {
@@ -512,8 +512,8 @@
       "vol_150d": 311.03,
       "trading_value": 0.3,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)ジーネクスト【4179】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 2027年３月期第2四半期 決算説明資料",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261113/140120261113578537/",
       "material_all": ""
     },
     {
@@ -539,8 +539,8 @@
       "vol_150d": 44.61,
       "trading_value": 0.4,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)デリバリーコンサルティング【9240】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 23 銘柄　DC＝ 169 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=9240&b=n202611240942",
       "material_all": ""
     },
     {
@@ -566,8 +566,8 @@
       "vol_150d": 61.17,
       "trading_value": 0.5,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)Ｒｅｂａｓｅ【5138】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 今週の【話題株ダイジェスト】 ＶＮＸ、スプリックス、ＪＤＳＣ (11月16日～20日)",
+      "material_url": "https://kabutan.jp/stock/news?code=5138&b=n202611210200",
       "material_all": ""
     },
     {
@@ -620,8 +620,8 @@
       "vol_150d": 132.73,
       "trading_value": 0.7,
       "source": "値下がり率",
-      "material_text": "[ニュース] 松尾電機(株)【6969】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 松尾電、上期経常が54％増益で着地・7-9月期も2.9倍増益",
+      "material_url": "https://kabutan.jp/stock/news?code=6969&b=k202611110080",
       "material_all": ""
     },
     {
@@ -647,8 +647,8 @@
       "vol_150d": 50.0,
       "trading_value": 5.6,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)ランド【8918】：株価チャート - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ランドについて、Long Corridor Asset Management Limitedは保有割合が5％未満に減少し",
+      "material_url": "https://kabutan.jp/stock/news?code=8918&b=n202611061478",
       "material_all": ""
     },
     {
@@ -674,8 +674,8 @@
       "vol_150d": 25.61,
       "trading_value": 0.3,
       "source": "高ボラ",
-      "material_text": "[ニュース] ランサーズ(株)【4484】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 2027年３月期 第２四半期決算説明会レポート（書き起こし）",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261116/140120261116581081/",
       "material_all": ""
     },
     {
@@ -701,8 +701,8 @@
       "vol_150d": 37.91,
       "trading_value": 1.0,
       "source": "高ボラ",
-      "material_text": "[ニュース] 田岡化学工業(株)【4113】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 田岡化、今期経常を57％上方修正",
+      "material_url": "https://kabutan.jp/stock/news?code=4113&b=k202610290058",
       "material_all": ""
     },
     {
@@ -755,8 +755,8 @@
       "vol_150d": 48.11,
       "trading_value": 1.2,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)セキュア【4264】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] セキュア---セキュリティソリューションの累計導入企業数が15,000社を突破",
+      "material_url": "https://kabutan.jp/stock/news?code=4264&b=n202611200441",
       "material_all": ""
     },
     {
@@ -809,8 +809,8 @@
       "vol_150d": 52.59,
       "trading_value": 0.5,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)イクヨ【7273】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] イクヨ、上期経常は一転赤字転落で下振れ着地",
+      "material_url": "https://kabutan.jp/stock/news?code=7273&b=k202611160060",
       "material_all": ""
     },
     {
@@ -836,8 +836,8 @@
       "vol_150d": 88.13,
       "trading_value": 0.3,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)ＦＵＮＤＩＮＮＯ【462A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ファンディノ、前期最終を赤字拡大に下方修正",
+      "material_url": "https://kabutan.jp/stock/news?code=462A&b=k202611130272",
       "material_all": ""
     },
     {
@@ -863,8 +863,8 @@
       "vol_150d": 70.43,
       "trading_value": 6.6,
       "source": "高ボラ",
-      "material_text": "[ニュース] ステラファーマ[4888]：営業外収益（補助金収入）の計上に関するお知らせ 2026年11月13日(適時開示) ：日経会",
-      "material_url": "",
+      "material_text": "[株探] 中国・海南省におけるBNCT事業の進展について　～第2回日中中性子捕捉療法学術年次大会 および鵬博（海南）BNCTセンタ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261125/140120261124585396/",
       "material_all": ""
     },
     {
@@ -890,8 +890,8 @@
       "vol_150d": 108.73,
       "trading_value": 7.3,
       "source": "値下がり率",
-      "material_text": "[ニュース] ２０日の動意株＞プレイド(ウエルスアドバイザー) - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 今週の【話題株ダイジェスト】 ＶＮＸ、スプリックス、ＪＤＳＣ (11月16日～20日)",
+      "material_url": "https://kabutan.jp/stock/news?code=4165&b=n202611210200",
       "material_all": ""
     },
     {
@@ -917,8 +917,8 @@
       "vol_150d": 192.88,
       "trading_value": 0.3,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)誠建設工業【8995】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 2027年３月期　第２四半期（中間期）決算短信[日本基準]（連結）",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261113/140120261113577609/",
       "material_all": ""
     },
     {
@@ -944,8 +944,8 @@
       "vol_150d": 98.14,
       "trading_value": 28.6,
       "source": "高ボラ",
-      "material_text": "[ニュース] Ｈｅａｒｔｓｅｅｄ(株)【219A】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 74 銘柄　DC＝ 114 銘柄　(11月19日)",
+      "material_url": "https://kabutan.jp/stock/news?code=219A&b=n202611190973",
       "material_all": ""
     },
     {
@@ -971,8 +971,8 @@
       "vol_150d": 163.43,
       "trading_value": 19.9,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)ＺｅｎｍｕＴｅｃｈ【338A】：板気配 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 「話しかけるだけ」で専門知識がなくても秘密計算を使える研究データ基盤を開発",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261125/140120261125585567/",
       "material_all": ""
     },
     {
@@ -998,8 +998,8 @@
       "vol_150d": 66.44,
       "trading_value": 1.0,
       "source": "高ボラ",
-      "material_text": "[ニュース] ノイルイミューン・バイオテック(株)【4893】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ノイルについて、岡三証券は保有割合が減少したと報告 [変更報告書No.3]",
+      "material_url": "https://kabutan.jp/stock/news?code=4893&b=n202611180296",
       "material_all": ""
     },
     {
@@ -1025,8 +1025,8 @@
       "vol_150d": 118.33,
       "trading_value": 0.3,
       "source": "高ボラ",
-      "material_text": "[ニュース] ヒーハイスト精工(株)【6433】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ヒーハイスト---新中期経営計画「Hephaist Vision 2030」を策定、30年3月期に売上高27億円",
+      "material_url": "https://kabutan.jp/stock/news?code=6433&b=n202611130866",
       "material_all": ""
     },
     {
@@ -1052,8 +1052,8 @@
       "vol_150d": 98.81,
       "trading_value": 0.8,
       "source": "高ボラ",
-      "material_text": "[ニュース] (株)アイビー化粧品【4918】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 創立50周年記念製品発売に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261120/140120261120584333/",
       "material_all": ""
     },
     {
@@ -1079,8 +1079,8 @@
       "vol_150d": 64.91,
       "trading_value": 8.5,
       "source": "出来高",
-      "material_text": "[ニュース] 日本アビオニクス(株)【6946】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナン",
-      "material_url": "",
+      "material_text": "[株探] 川重や三菱重が大幅安、防衛費「５年で５０兆円台の基準提示」と伝わり防衛関連株に失望売り",
+      "material_url": "https://kabutan.jp/stock/news?code=6946&b=n202611131075",
       "material_all": ""
     },
     {
@@ -1106,8 +1106,8 @@
       "vol_150d": 83.03,
       "trading_value": 0.6,
       "source": "出来高",
-      "material_text": "[ニュース] ＲＳＣ【4664】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 非上場の親会社等の決算情報に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261117/140120261117582179/",
       "material_all": ""
     },
     {
@@ -1133,8 +1133,8 @@
       "vol_150d": 63.12,
       "trading_value": 4.2,
       "source": "出来高",
-      "material_text": "[ニュース] ＮＩＴＴＯＫＵ（ＮＩＴＴＯＫ）【6145】のバリュエーション推移・日次データ｜株探（かぶたん） - 株探",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 123 銘柄　逆転＝ 68 銘柄　(11月19日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6145&b=n202611190968",
       "material_all": ""
     },
     {
@@ -1160,8 +1160,8 @@
       "vol_150d": 114.87,
       "trading_value": 0.4,
       "source": "出来高",
-      "material_text": "[ニュース] (株)アズジェント【4288】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] アズジェント、上期経常が赤字転落で着地・7-9月期は86％減益",
+      "material_url": "https://kabutan.jp/stock/news?code=4288&b=k202611130502",
       "material_all": ""
     },
     {
@@ -1187,8 +1187,8 @@
       "vol_150d": 68.75,
       "trading_value": 0.6,
       "source": "出来高",
-      "material_text": "[ニュース] (株)ジーニー【6562】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ジーニー---中間期は12.4%増収、調整後営業利益は7.7%増、デジタルPR事業が伸長",
+      "material_url": "https://kabutan.jp/stock/news?code=6562&b=n202611161157",
       "material_all": ""
     },
     {
@@ -1241,8 +1241,8 @@
       "vol_150d": 98.11,
       "trading_value": 17.6,
       "source": "値下がり率",
-      "material_text": "[ニュース] ｓａｎｔｅｃ Ｈｏｌｄｉｎｇｓ（ｓａｎｔｅｃ）【6777】の大株主と資本異動情報｜株探（かぶたん） - 株探",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 74 銘柄　DC＝ 114 銘柄　(11月19日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6777&b=n202611190973",
       "material_all": ""
     },
     {
@@ -1268,8 +1268,8 @@
       "vol_150d": 189.84,
       "trading_value": 4.3,
       "source": "出来高",
-      "material_text": "[ニュース] ミナトホールディングス(株)【6862】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ミナトホールディングスグループのブレイン「第9回［名古屋］スマート工場 EXPO」に出展～世界シェアNo.1のZebra",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261120/140120261120583919/",
       "material_all": ""
     },
     {
@@ -1295,8 +1295,8 @@
       "vol_150d": 35.23,
       "trading_value": 0.5,
       "source": "出来高",
-      "material_text": "[ニュース] (株)ドリーム・アーツ【4811】：株価チャート - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 2026年12月期 配当予想の修正（創立30周年記念配当）に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261113/140120261113578503/",
       "material_all": ""
     },
     {
@@ -1322,8 +1322,8 @@
       "vol_150d": 93.24,
       "trading_value": 14.6,
       "source": "出来高",
-      "material_text": "[ニュース] (株)技術承継機構【319A】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 技術承継機構は反落、武田精機をグループ化も買い向かう姿勢限定的",
+      "material_url": "https://kabutan.jp/stock/news?code=319A&b=n202611250292",
       "material_all": ""
     },
     {
@@ -1349,8 +1349,8 @@
       "vol_150d": 68.55,
       "trading_value": 1.1,
       "source": "出来高",
-      "material_text": "[ニュース] 大黒屋ホールディングス(株)【6993】：株価チャート - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 「2027年３月期第2四半期決算説明資料」の策定のお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261110/140120261110572078/",
       "material_all": ""
     },
     {
@@ -1619,8 +1619,8 @@
       "vol_150d": 64.76,
       "trading_value": 1.0,
       "source": "値下がり率",
-      "material_text": "[ニュース] (株)モンスターラボ【5255】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] モンスター・チャンネル、店舗の開業・運営を支援する事業者向け「紹介パートナープログラム」の募集を開始",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261118/140120261118582524/",
       "material_all": ""
     },
     {
@@ -1646,8 +1646,8 @@
       "vol_150d": 129.85,
       "trading_value": 104.2,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)メイコー【6787】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 443 銘柄　売り＝ 25 銘柄　(11月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6787&b=n202611131134",
       "material_all": ""
     },
     {
@@ -1781,8 +1781,8 @@
       "vol_150d": 86.49,
       "trading_value": 40.2,
       "source": "値下がり率",
-      "material_text": "[ニュース] ＡＩメカテック(株)【6227】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ＡＩメカはＳ安ウリ気配、半導体市況の見通しへの不安が拡大",
+      "material_url": "https://kabutan.jp/stock/news?code=6227&b=n202611201068",
       "material_all": ""
     },
     {
@@ -1808,8 +1808,8 @@
       "vol_150d": 76.11,
       "trading_value": 25.5,
       "source": "値下がり率",
-      "material_text": "[ニュース] (株)精工技研【6834】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 精工技研について、野村証は保有割合が減少したと報告 [変更報告書No.4]",
+      "material_url": "https://kabutan.jp/stock/news?code=6834&b=n202611190500",
       "material_all": ""
     },
     {
@@ -1835,8 +1835,8 @@
       "vol_150d": 170.87,
       "trading_value": 4.6,
       "source": "値下がり率",
-      "material_text": "[ニュース] アドテック プラズマ テクノロジー(6668) 週足四本値 - 株探",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 124 銘柄　下抜け＝ 143 銘柄　(11月16日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6668&b=n202611160947",
       "material_all": ""
     },
     {
@@ -1889,8 +1889,8 @@
       "vol_150d": 170.55,
       "trading_value": 1415.4,
       "source": "値下がり率",
-      "material_text": "[ニュース] ソフトバンクGが反落､6月最高値から｢半値八掛け二割引き｣に - 四季報オンライン",
-      "material_url": "",
+      "material_text": "[株探] ソフトバンクＧが急反落、米アンソロピック公開価格割れでオープンＡＩ上場実現巡る不透明感を意識",
+      "material_url": "https://kabutan.jp/stock/news?code=9984&b=n202611250356",
       "material_all": ""
     },
     {
@@ -1916,8 +1916,8 @@
       "vol_150d": 261.8,
       "trading_value": 1.0,
       "source": "出来高",
-      "material_text": "[ニュース] (株)テクニスコ【2962】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 譲渡制限付株式報酬としての新株式の発行の払込完了に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261120/140120261119583339/",
       "material_all": ""
     },
     {
@@ -1943,8 +1943,8 @@
       "vol_150d": 111.93,
       "trading_value": 248.1,
       "source": "値下がり率",
-      "material_text": "[ニュース] (株)ＫＯＫＵＳＡＩ ＥＬＥＣＴＲＩＣ【6525】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yah",
-      "material_url": "",
+      "material_text": "[株探] コクサイエレについて、米キャピタル・リサーチは保有割合が減少したと報告 [変更報告書No.27]",
+      "material_url": "https://kabutan.jp/stock/news?code=6525&b=n202611200478",
       "material_all": ""
     },
     {
@@ -2240,8 +2240,8 @@
       "vol_150d": 208.39,
       "trading_value": 734.6,
       "source": "値下がり率",
-      "material_text": "[ニュース] (株)村田製作所【6981】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 「ゴルディロックス」な円安、日本の輸出株に好環境 ＜伊賀大記のクロマなマクロ展望＞",
+      "material_url": "https://kabutan.jp/stock/news?code=6981&b=n202611230008",
       "material_all": ""
     },
     {
@@ -2267,8 +2267,8 @@
       "vol_150d": 197.54,
       "trading_value": 14.0,
       "source": "出来高",
-      "material_text": "[ニュース] (株)ＱＤレーザ【6613】：板気配 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 124 銘柄　下抜け＝ 143 銘柄　(11月16日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6613&b=n202611160947",
       "material_all": ""
     },
     {
@@ -3050,8 +3050,8 @@
       "vol_150d": 128.8,
       "trading_value": 5.5,
       "source": "出来高",
-      "material_text": "[ニュース] (株)ブイ・テクノロジー【7717】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] Ｖテクについて、米ゴールドマン・サックスは保有割合が5％を超えたと報告 [大量保有報告書]",
+      "material_url": "https://kabutan.jp/stock/news?code=7717&b=n202611201128",
       "material_all": ""
     },
     {
@@ -3212,8 +3212,8 @@
       "vol_150d": 373.82,
       "trading_value": 651.7,
       "source": "売買代金",
-      "material_text": "[ニュース] 太陽誘電(株)【6976】：株主優待 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 73 銘柄　売り＝ 129 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6976&b=n202611240940",
       "material_all": ""
     },
     {
@@ -3401,8 +3401,8 @@
       "vol_150d": 99.12,
       "trading_value": 7.8,
       "source": "出来高",
-      "material_text": "[ニュース] (株)Ｓｙｎｓｐｅｃｔｉｖｅ【290A】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] Announcement of the Launch Schedule for Synspective’s 14th S",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261120/140120261120583803/",
       "material_all": ""
     },
     {
@@ -3725,8 +3725,8 @@
       "vol_150d": 198.68,
       "trading_value": 826.5,
       "source": "値下がり率",
-      "material_text": "[ニュース] イビデン (4062) の株価・株式 - QUICK Money World",
-      "material_url": "",
+      "material_text": "[株探] イビデンが一時１７％安、前日Ｓ高比例配分もＡＩ・半導体株は一転売り直しの流れに",
+      "material_url": "https://kabutan.jp/stock/news?code=4062&b=n202611250351",
       "material_all": ""
     },
     {
@@ -3914,8 +3914,8 @@
       "vol_150d": 78.46,
       "trading_value": 6.2,
       "source": "出来高",
-      "material_text": "[ニュース] (株)エンプラス【6961】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 443 銘柄　売り＝ 25 銘柄　(11月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6961&b=n202611131134",
       "material_all": ""
     },
     {
@@ -4022,8 +4022,8 @@
       "vol_150d": 229.09,
       "trading_value": 8.5,
       "source": "出来高",
-      "material_text": "[ニュース] 日電波(6779) [Summary]Consolidated Financial Results for the Se",
-      "material_url": "",
+      "material_text": "[株探] 本日の注目個別銘柄：森永乳、リンテック、アイスタイルなど",
+      "material_url": "https://kabutan.jp/stock/news?code=6779&b=n202611101166",
       "material_all": ""
     },
     {
@@ -4049,8 +4049,8 @@
       "vol_150d": 74.63,
       "trading_value": 22.4,
       "source": "出来高",
-      "material_text": "[ニュース] エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー(Effissimo Capital Mana",
-      "material_url": "",
+      "material_text": "[株探] 電子材料について、エフィッシモは保有割合が増加したと報告 [変更報告書No.4]",
+      "material_url": "https://kabutan.jp/stock/news?code=6855&b=n202611241014",
       "material_all": ""
     },
     {
@@ -4643,8 +4643,8 @@
       "vol_150d": 88.95,
       "trading_value": 238.4,
       "source": "売買代金",
-      "material_text": "[ニュース] ＪＸ金属(株)【5016】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の注目個別銘柄：JX金属、トレンド、ミズノなど",
+      "material_url": "https://kabutan.jp/stock/news?code=5016&b=n202611191051",
       "material_all": ""
     },
     {
@@ -4724,8 +4724,8 @@
       "vol_150d": 129.51,
       "trading_value": 130.3,
       "source": "売買代金",
-      "material_text": "[ニュース] 三井金属(株)【5706】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 三井金属が寄り付き直後に９％高、エヌビディアＣＥＯ復帰で不安後退",
+      "material_url": "https://kabutan.jp/stock/news?code=5706&b=n202611240346",
       "material_all": ""
     },
     {
@@ -4832,8 +4832,8 @@
       "vol_150d": 136.08,
       "trading_value": 5.0,
       "source": "出来高",
-      "material_text": "[ニュース] タツモ【6266】の株価チャート｜日足・分足・週足・月足・年足｜株探（かぶたん） - 株探",
-      "material_url": "",
+      "material_text": "[株探] タツモについて、三井住友トラスト・アセットマネジメントは保有割合が減少したと報告 [変更報告書No.6]",
+      "material_url": "https://kabutan.jp/stock/news?code=6266&b=n202611200448",
       "material_all": ""
     },
     {
@@ -4859,8 +4859,8 @@
       "vol_150d": 166.18,
       "trading_value": 3.2,
       "source": "出来高",
-      "material_text": "[ニュース] ニッポン高度紙工業(株)【3891】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナ",
-      "material_url": "",
+      "material_text": "[株探] 利益成長【青天井】銘柄リスト〔第1弾〕 37社選出 ＜成長株特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=3891&b=n202611080061",
       "material_all": ""
     },
     {
@@ -4886,8 +4886,8 @@
       "vol_150d": 123.02,
       "trading_value": 3.9,
       "source": "出来高",
-      "material_text": "[ニュース] サムコ(株)【6387】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] コーポレート・ガバナンスに関する報告書 2026/11/16",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261116/140120261112575604/",
       "material_all": ""
     },
     {
@@ -4913,8 +4913,8 @@
       "vol_150d": 295.51,
       "trading_value": 5031.1,
       "source": "値下がり率",
-      "material_text": "[ニュース] 特別気配＞ キオクシア、ＳＢＧ、フジクラが売り気配(株探ニュース) - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] キオクシア---大幅反落、SOX指数急反落でAI・半導体関連に売り",
+      "material_url": "https://kabutan.jp/stock/news?code=285A&b=n202611250452",
       "material_all": ""
     },
     {
@@ -5021,8 +5021,8 @@
       "vol_150d": 96.54,
       "trading_value": 120.6,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)フェローテック【6890】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 明日の株式相場に向けて＝激動するエヌビディア主導相場の勝ち筋",
+      "material_url": "https://kabutan.jp/stock/news?code=6890&b=n202611241145",
       "material_all": ""
     },
     {
@@ -5291,8 +5291,8 @@
       "vol_150d": 91.12,
       "trading_value": 3.2,
       "source": "出来高",
-      "material_text": "[ニュース] (株)テラプローブ【6627】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 利益成長【青天井】銘柄リスト〔第3弾〕33社選出 ＜成長株特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=6627&b=n202611191253",
       "material_all": ""
     },
     {
@@ -5642,8 +5642,8 @@
       "vol_150d": 69.31,
       "trading_value": 45.8,
       "source": "出来高",
-      "material_text": "[ニュース] ローツェ(株)【6323】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 73 銘柄　売り＝ 129 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6323&b=n202611240940",
       "material_all": ""
     },
     {
@@ -5858,8 +5858,8 @@
       "vol_150d": 103.59,
       "trading_value": 249.7,
       "source": "売買代金",
-      "material_text": "[ニュース] 古河電気工業(株)【5801】：板気配 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 26年7-9月期【利益倍増】企業はこれだ！〔第1弾〕 33社選出 ＜成長株特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=5801&b=n202611230037",
       "material_all": ""
     },
     {
@@ -6857,8 +6857,8 @@
       "vol_150d": 44.14,
       "trading_value": 285.6,
       "source": "売買代金",
-      "material_text": "[ニュース] JT(2914)、ロシア事業の損失計上で｢減配｣を発表、配当利回り3.4％に！ 年間配当は前回予想から25％減、2026",
-      "material_url": "",
+      "material_text": "[株探] 【杉村富生の短期相場観測】 ─ここは阿呆になって買う厳選7銘柄！",
+      "material_url": "https://kabutan.jp/stock/news?code=2914&b=n202611220026",
       "material_all": ""
     },
     {
@@ -8153,8 +8153,8 @@
       "vol_150d": 35.08,
       "trading_value": 717.0,
       "source": "売買代金",
-      "material_text": "[ニュース] 【株式】任天堂が3日ぶりに反発 東海東京証券は目標株価を1万800円から1万970円に引き上げ(gamebiz) - Y",
-      "material_url": "",
+      "material_text": "[株探] 「ゴルディロックス」な円安、日本の輸出株に好環境 ＜伊賀大記のクロマなマクロ展望＞",
+      "material_url": "https://kabutan.jp/stock/news?code=7974&b=n202611230008",
       "material_all": ""
     },
     {
@@ -8180,8 +8180,8 @@
       "vol_150d": 102.38,
       "trading_value": 906.3,
       "source": "売買代金",
-      "material_text": "[ニュース] 東京エレクトロン[8035]：株式分割及び株式分割に伴う定款の一部変更に関するお知らせ 2026年5月29日(適時開示)",
-      "material_url": "",
+      "material_text": "[株探] キオクシアなどＡＩ・半導体関連が軒並み急落、米アンソロピック上場もＳＯＸ２％超安",
+      "material_url": "https://kabutan.jp/stock/news?code=8035&b=n202611200383",
       "material_all": ""
     },
     {
@@ -8423,8 +8423,8 @@
       "vol_150d": 199.94,
       "trading_value": 101.5,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)ＳＵＭＣＯ【3436】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] Consolidated Financial Results for the Nine Months Ended Sep",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261112/140120261111574354/",
       "material_all": ""
     },
     {
@@ -8585,8 +8585,8 @@
       "vol_150d": 189.49,
       "trading_value": 167.4,
       "source": "売買代金",
-      "material_text": "[ニュース] ベイカレント【6532】の株価チャート｜日足・分足・週足・月足・年足｜株探（かぶたん） - 株探",
-      "material_url": "",
+      "material_text": "[株探] 今週の【上場来高値銘柄】山パン、ベイカレント、朝日インテクなど51銘柄",
+      "material_url": "https://kabutan.jp/stock/news?code=6532&b=n202611210205",
       "material_all": ""
     },
     {
@@ -9611,8 +9611,8 @@
       "vol_150d": 79.71,
       "trading_value": 192.6,
       "source": "売買代金",
-      "material_text": "[ニュース] パナソニック ホールディングス(株)【6752】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 26年7-9月期【利益倍増】企業はこれだ！〔第1弾〕 33社選出 ＜成長株特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=6752&b=n202611230037",
       "material_all": ""
     },
     {
@@ -9692,8 +9692,8 @@
       "vol_150d": 46.3,
       "trading_value": 460.5,
       "source": "売買代金",
-      "material_text": "[ニュース] 三菱重工業(株)【7011】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 官民投資＆法整備で加速！夢のエネルギー「核融合発電」関連総ざらい ＜株探トップ特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=7011&b=n202611181221",
       "material_all": ""
     },
     {
@@ -9881,8 +9881,8 @@
       "vol_150d": 102.25,
       "trading_value": 115.8,
       "source": "売買代金",
-      "material_text": "[ニュース] バンダイナムコホールディングス[7832]：（株）バンダイナムコホールディングスがPOPS（株）の株式を取得 2026年",
-      "material_url": "",
+      "material_text": "[株探] 今週の【上場来高値銘柄】山パン、ベイカレント、朝日インテクなど51銘柄",
+      "material_url": "https://kabutan.jp/stock/news?code=7832&b=n202611210205",
       "material_all": ""
     },
     {
@@ -9908,8 +9908,8 @@
       "vol_150d": 86.74,
       "trading_value": 57.0,
       "source": "出来高",
-      "material_text": "[ニュース] (株)日本マイクロニクス【6871】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 利益成長【青天井】銘柄リスト〔第3弾〕33社選出 ＜成長株特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=6871&b=n202611191253",
       "material_all": ""
     },
     {
@@ -9935,8 +9935,8 @@
       "vol_150d": 75.31,
       "trading_value": 2682.4,
       "source": "売買代金",
-      "material_text": "[ニュース] レーティング＞アドバンテ(6857)に格上げ観測(フィスコ) - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] イビデンが一時１７％安、前日Ｓ高比例配分もＡＩ・半導体株は一転売り直しの流れに",
+      "material_url": "https://kabutan.jp/stock/news?code=6857&b=n202611250351",
       "material_all": ""
     },
     {
@@ -10691,8 +10691,8 @@
       "vol_150d": 32.72,
       "trading_value": 214.7,
       "source": "売買代金",
-      "material_text": "[ニュース] 三菱商事(株)【8058】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 23 銘柄　DC＝ 169 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=8058&b=n202611240942",
       "material_all": ""
     },
     {
@@ -11231,8 +11231,8 @@
       "vol_150d": 88.72,
       "trading_value": 12.5,
       "source": "出来高",
-      "material_text": "[ニュース] 芝浦メカトロニクス（芝浦）【6590】の株価チャート｜日足・分足・週足・月足・年足｜株探（かぶたん） - 株探",
-      "material_url": "",
+      "material_text": "[株探] 芝浦について、Fidelity Management & Research Company LLCは保有割合が5％を超え",
+      "material_url": "https://kabutan.jp/stock/news?code=6590&b=n202611200711",
       "material_all": ""
     },
     {
@@ -11285,8 +11285,8 @@
       "vol_150d": 59.93,
       "trading_value": 132.8,
       "source": "売買代金",
-      "material_text": "[ニュース] 川崎重工業 (7012) の株価・株式 - QUICK Money World",
-      "material_url": "",
+      "material_text": "[株探] Kawasaki Sustainability Report 2026",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261121/140120261120584310/",
       "material_all": ""
     },
     {
@@ -11312,8 +11312,8 @@
       "vol_150d": 38.39,
       "trading_value": 593.7,
       "source": "売買代金",
-      "material_text": "[ニュース] 三菱ＵＦＪフィナンシャル・グループ[8306]：自己株式取得に係る事項の決定に関するお知らせ 2026年11月13日(適",
-      "material_url": "",
+      "material_text": "[株探] みずほＦＧなど銀行株が上昇、ＡＩ投資継続で金利上昇の可能性に期待",
+      "material_url": "https://kabutan.jp/stock/news?code=8306&b=n202611240640",
       "material_all": ""
     },
     {
@@ -11366,8 +11366,8 @@
       "vol_150d": 41.72,
       "trading_value": 297.4,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)キーエンス【6861】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 定款 2026/11/21",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261124/140120261118582750/",
       "material_all": ""
     },
     {
@@ -11393,8 +11393,8 @@
       "vol_150d": 41.25,
       "trading_value": 152.2,
       "source": "売買代金",
-      "material_text": "[ニュース] ＭＳ＆ＡＤインシュアランスグループホールディングス(株)【8725】：今の株価の理由は？値動きの背景をAIが解説 - Y",
-      "material_url": "",
+      "material_text": "[株探] 今週の【上場来高値銘柄】山パン、ベイカレント、朝日インテクなど51銘柄",
+      "material_url": "https://kabutan.jp/stock/news?code=8725&b=n202611210205",
       "material_all": ""
     },
     {
@@ -11933,8 +11933,8 @@
       "vol_150d": 102.71,
       "trading_value": 601.2,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)フジクラ【5803】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] フジクラ---大幅反落、国内証券では来期営業減益を予想し投資判断格下げ",
+      "material_url": "https://kabutan.jp/stock/news?code=5803&b=n202611250488",
       "material_all": ""
     },
     {
@@ -12365,8 +12365,8 @@
       "vol_150d": 30.81,
       "trading_value": 145.8,
       "source": "売買代金",
-      "material_text": "[ニュース] ダイキン工業(株)【6367】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] [Updated] Brief Report on the Settlement of Accounts (Consol",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261116/140120261116581213/",
       "material_all": ""
     },
     {
@@ -13823,8 +13823,8 @@
       "vol_150d": 39.43,
       "trading_value": 347.6,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)みずほフィナンシャルグループ【8411】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] みずほＦＧなど銀行株が上昇、ＡＩ投資継続で金利上昇の可能性に期待",
+      "material_url": "https://kabutan.jp/stock/news?code=8411&b=n202611240640",
       "material_all": ""
     },
     {
@@ -13958,8 +13958,8 @@
       "vol_150d": 45.56,
       "trading_value": 171.9,
       "source": "売買代金",
-      "material_text": "[ニュース] SMC Corporation株価予想：今日、明日、来週 (6273/JPY) - Traders Union",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 73 銘柄　売り＝ 129 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6273&b=n202611240940",
       "material_all": ""
     },
     {
@@ -14471,8 +14471,8 @@
       "vol_150d": 40.15,
       "trading_value": 207.7,
       "source": "売買代金",
-      "material_text": "[ニュース] 信越化学工業(株)【4063】：掲示板 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 信越化がしっかり、１０００万株を上限とする自社株買いを実施へ",
+      "material_url": "https://kabutan.jp/stock/news?code=4063&b=n202611160306",
       "material_all": ""
     },
     {
@@ -15362,8 +15362,8 @@
       "vol_150d": 30.05,
       "trading_value": 112.8,
       "source": "売買代金",
-      "material_text": "[ニュース] 三井物産(株)【8031】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 14 銘柄　逆転＝ 148 銘柄　(11月20日)",
+      "material_url": "https://kabutan.jp/stock/news?code=8031&b=n202611201134",
       "material_all": ""
     },
     {
@@ -16874,8 +16874,8 @@
       "vol_150d": 71.22,
       "trading_value": 771.4,
       "source": "売買代金",
-      "material_text": "[ニュース] レーザーテック (6920) の株価・株式 - QUICK Money World",
-      "material_url": "",
+      "material_text": "[株探] イビデンやアドテストが軟調、エヌビディアＣＥＯへの調査開始が半導体関連の重荷に",
+      "material_url": "https://kabutan.jp/stock/news?code=6920&b=n202611090234",
       "material_all": ""
     },
     {
@@ -17441,8 +17441,8 @@
       "vol_150d": 61.55,
       "trading_value": 130.7,
       "source": "売買代金",
-      "material_text": "[ニュース] ファナック(株)【6954】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ファナック---25日、13週線辺りを目先的なターゲットとして意識",
+      "material_url": "https://kabutan.jp/stock/news?code=6954&b=n202611240663",
       "material_all": ""
     },
     {
@@ -18467,8 +18467,8 @@
       "vol_150d": 120.74,
       "trading_value": 142.2,
       "source": "売買代金",
-      "material_text": "[ニュース] ルネサスエレクトロニクス(株)【6723】：掲示板 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ルネサス---75日線、200日線辺りを目先のターゲットとしたリバウンド狙い",
+      "material_url": "https://kabutan.jp/stock/news?code=6723&b=n202611130416",
       "material_all": ""
     },
     {
@@ -18521,8 +18521,8 @@
       "vol_150d": 35.72,
       "trading_value": 330.0,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)三井住友フィナンシャルグループ【8316】：株価チャート - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] みずほＦＧなど銀行株が上昇、ＡＩ投資継続で金利上昇の可能性に期待",
+      "material_url": "https://kabutan.jp/stock/news?code=8316&b=n202611240640",
       "material_all": ""
     },
     {
@@ -20222,8 +20222,8 @@
       "vol_150d": 27.33,
       "trading_value": 266.9,
       "source": "売買代金",
-      "material_text": "[ニュース] トヨタ自動車(株)【7203】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 「ゴルディロックス」な円安、日本の輸出株に好環境 ＜伊賀大記のクロマなマクロ展望＞",
+      "material_url": "https://kabutan.jp/stock/news?code=7203&b=n202611230008",
       "material_all": ""
     },
     {
@@ -20843,8 +20843,8 @@
       "vol_150d": 120.28,
       "trading_value": 122.2,
       "source": "売買代金",
-      "material_text": "[ニュース] ＳＣＲＥＥＮホールディングス (7735) の株価・株式 - QUICK Money World",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 117 銘柄　売り＝ 55 銘柄　(11月17日)",
+      "material_url": "https://kabutan.jp/stock/news?code=7735&b=n202611171038",
       "material_all": ""
     },
     {
@@ -22166,8 +22166,8 @@
       "vol_150d": 37.52,
       "trading_value": 124.5,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)ＩＨＩ【7013】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] Notice Regarding the Transfer of Non-current Assets and the ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261120/140120261120583788/",
       "material_all": ""
     },
     {
@@ -23354,8 +23354,8 @@
       "vol_150d": 44.52,
       "trading_value": 519.4,
       "source": "売買代金",
-      "material_text": "[ニュース] ソニー(株)【6758】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 73 銘柄　売り＝ 129 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6758&b=n202611240940",
       "material_all": ""
     },
     {
@@ -25703,8 +25703,8 @@
       "vol_150d": 102.63,
       "trading_value": 140.8,
       "source": "売買代金",
-      "material_text": "[ニュース] ＴＤＫ(株)【6762】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 117 銘柄　売り＝ 55 銘柄　(11月17日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6762&b=n202611171038",
       "material_all": ""
     },
     {
@@ -25811,8 +25811,8 @@
       "vol_150d": 100.01,
       "trading_value": 194.2,
       "source": "売買代金",
-      "material_text": "[ニュース] 住友電気工業(株)【5802】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 443 銘柄　売り＝ 25 銘柄　(11月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=5802&b=n202611131134",
       "material_all": ""
     },
     {
@@ -25865,8 +25865,8 @@
       "vol_150d": 40.28,
       "trading_value": 116.1,
       "source": "売買代金",
-      "material_text": "[ニュース] 三菱電機(株)【6503】：板気配 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 2027年有望テーマ「LED照明」急増へ、蛍光灯禁止で要注目の6銘柄 ＜株探トップ特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=6503&b=n202611191251",
       "material_all": ""
     },
     {
@@ -26486,8 +26486,8 @@
       "vol_150d": 49.45,
       "trading_value": 257.3,
       "source": "売買代金",
-      "material_text": "[ニュース] 武田薬品工業(株)【4502】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 26年7-9月期【利益倍増】企業はこれだ！〔第1弾〕 33社選出 ＜成長株特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=4502&b=n202611230037",
       "material_all": ""
     },
     {
@@ -27755,8 +27755,8 @@
       "vol_150d": 36.11,
       "trading_value": 252.5,
       "source": "売買代金",
-      "material_text": "[ニュース] 日経平均が全面安の日に、なぜ東京海上（8766）は大商いで急反発したのか？発行済み9.6%の自社株買い、バフェット提携、",
-      "material_url": "",
+      "material_text": "[株探] 【杉村富生の短期相場観測】 ─ここは阿呆になって買う厳選7銘柄！",
+      "material_url": "https://kabutan.jp/stock/news?code=8766&b=n202611220026",
       "material_all": ""
     },
     {
@@ -27809,8 +27809,8 @@
       "vol_150d": 30.91,
       "trading_value": 610.0,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)ファーストリテイリング【9983】：掲示板 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ＜動意株・１６日＞（大引け）＝カウリス、日基技、北川鉄など",
+      "material_url": "https://kabutan.jp/stock/news?code=9983&b=n202611160932",
       "material_all": ""
     },
     {
@@ -29429,8 +29429,8 @@
       "vol_150d": 52.37,
       "trading_value": 150.8,
       "source": "売買代金",
-      "material_text": "[ニュース] ＮＥＣ【6701】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] Notice Regarding Commencement of Tender Offer for Shares of ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261112/140120261110572398/",
       "material_all": ""
     },
     {
@@ -29780,8 +29780,8 @@
       "vol_150d": 180.32,
       "trading_value": 523.2,
       "source": "売買代金",
-      "material_text": "[ニュース] 株価が半年で「166％超」上昇…リクルートHD（6098）に買いが殺到している理由【注目の業種・銘柄一覧】 - トウシル",
-      "material_url": "",
+      "material_text": "[株探] リクルートについて、米キャピタル・リサーチは保有割合が5％未満に減少したと報告 [変更報告書No.1]",
+      "material_url": "https://kabutan.jp/stock/news?code=6098&b=n202611200443",
       "material_all": ""
     },
     {
@@ -33695,8 +33695,8 @@
       "vol_150d": 80.66,
       "trading_value": 344.2,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)ディスコ【6146】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ＜みんかぶ・個人投資家の予想から＞＝「売り予想数上昇」３位にディスコ",
+      "material_url": "https://kabutan.jp/stock/news?code=6146&b=n202611240664",
       "material_all": ""
     },
     {
@@ -39473,8 +39473,8 @@
       "vol_150d": 34.9,
       "trading_value": 161.4,
       "source": "売買代金",
-      "material_text": "[ニュース] (株)日立製作所【6501】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 「ゴルディロックス」な円安、日本の輸出株に好環境 ＜伊賀大記のクロマなマクロ展望＞",
+      "material_url": "https://kabutan.jp/stock/news?code=6501&b=n202611230008",
       "material_all": ""
     },
     {
@@ -49949,8 +49949,8 @@
       "vol_150d": 27.23,
       "trading_value": 152.3,
       "source": "売買代金",
-      "material_text": "[ニュース] ＮＴＴ (9432) の株価・株式 - QUICK Money World",
-      "material_url": "",
+      "material_text": "[株探] ジェイフロに買い先行、ＮＴＴ西日本の自動運転ＥＶバスの実証実験に参画",
+      "material_url": "https://kabutan.jp/stock/news?code=9432&b=n202611190310",
       "material_all": ""
     },
     {
@@ -51259,8 +51259,8 @@
       "pts_price": 915.0,
       "pts_change_pct": 19.61,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ワコム【6727】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の注目個別銘柄：イビデン、ミタチ、平田機工など",
+      "material_url": "https://kabutan.jp/stock/news?code=6727&b=n202611240984",
       "material_all": ""
     },
     {
@@ -51271,8 +51271,8 @@
       "pts_price": 1300.0,
       "pts_change_pct": 16.91,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)セキュア【4264】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] セキュア---セキュリティソリューションの累計導入企業数が15,000社を突破",
+      "material_url": "https://kabutan.jp/stock/news?code=4264&b=n202611200441",
       "material_all": ""
     },
     {
@@ -51283,8 +51283,8 @@
       "pts_price": 716.0,
       "pts_change_pct": 16.23,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ＶＡＬＵＥＮＥＸ(株)【4422】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 69 銘柄　下抜け＝ 61 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=4422&b=n202611240938",
       "material_all": ""
     },
     {
@@ -51295,8 +51295,8 @@
       "pts_price": 772.0,
       "pts_change_pct": 14.88,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)キャスター【9331】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 30 銘柄　逆転＝ 70 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=9331&b=n202611240937",
       "material_all": ""
     },
     {
@@ -51307,8 +51307,8 @@
       "pts_price": 7.9,
       "pts_change_pct": 12.86,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ランド【8918】：株価チャート - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ランドについて、Long Corridor Asset Management Limitedは保有割合が5％未満に減少し",
+      "material_url": "https://kabutan.jp/stock/news?code=8918&b=n202611061478",
       "material_all": ""
     },
     {
@@ -51319,8 +51319,8 @@
       "pts_price": 4400.0,
       "pts_change_pct": 8.91,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 稲畑産業(株)【8098】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] Integrated Report 2026(3/3)",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261120/140120261119583766/",
       "material_all": ""
     },
     {
@@ -51331,8 +51331,8 @@
       "pts_price": 26.9,
       "pts_change_pct": 7.6,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ＣＲＡＶＩＡ(株)【6573】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 新興市場銘柄ダイジェスト:CRAVIAが急騰、データセクがストップ高",
+      "material_url": "https://kabutan.jp/stock/news?code=6573&b=n202611240957",
       "material_all": ""
     },
     {
@@ -51367,8 +51367,8 @@
       "pts_price": 138.7,
       "pts_change_pct": 5.88,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 楽天ＥＴＦ－日経ダブルインバース指数連動型[1459]の市場価格は「日経会社情報DIGITAL」。 - 日本経済新聞",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 42 銘柄　逆転＝ 157 銘柄　(11月4日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1459&b=n202611041048",
       "material_all": ""
     },
     {
@@ -51379,8 +51379,8 @@
       "pts_price": 84.4,
       "pts_change_pct": 5.5,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 日経平均ベア2倍上場投信【1360】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 86 銘柄　売り＝ 92 銘柄　(11月19日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1360&b=n202611190971",
       "material_all": ""
     },
     {
@@ -51391,8 +51391,8 @@
       "pts_price": 255.0,
       "pts_change_pct": 4.94,
       "source": "PTS上昇",
-      "material_text": "",
-      "material_url": "",
+      "material_text": "[株探] 2027年３月期 第２四半期決算説明会レポート（書き起こし）",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261116/140120261116581081/",
       "material_all": ""
     },
     {
@@ -51403,8 +51403,8 @@
       "pts_price": 103.4,
       "pts_change_pct": 4.44,
       "source": "PTS上昇",
-      "material_text": "[ニュース] メドレックス[4586]：第三者割当により発行された第35回新株予約権(行使価額修正条項付)の行使完了及び月間行使状況に",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 74 銘柄　DC＝ 114 銘柄　(11月19日)",
+      "material_url": "https://kabutan.jp/stock/news?code=4586&b=n202611190973",
       "material_all": ""
     },
     {
@@ -51415,8 +51415,8 @@
       "pts_price": 49.0,
       "pts_change_pct": 4.26,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 窪田製薬ホールディングス(株)【4596】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 第三者割当により発行された第41回新株予約権（行使価額修正条項付）の 大量行使に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261120/140120261120584322/",
       "material_all": ""
     },
     {
@@ -51427,8 +51427,8 @@
       "pts_price": 3388.0,
       "pts_change_pct": 3.96,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (NEXT FUNDS) 日経ダブルインバース上場投信【1357】：株価・株式情報（夜間PTS含む） - Yahoo!フ",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 86 銘柄　売り＝ 92 銘柄　(11月19日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1357&b=n202611190971",
       "material_all": ""
     },
     {
@@ -51439,8 +51439,8 @@
       "pts_price": 2770.0,
       "pts_change_pct": 3.61,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ロート製薬[4527]：半期報告書－第91期(2026/04/01－2027/03/31) (有価証券報告書) ：日経会",
-      "material_url": "",
+      "material_text": "[株探] ＜動意株・２５日＞（前引け）＝フリュー、マニー、ロート",
+      "material_url": "https://kabutan.jp/stock/news?code=4527&b=n202611250526",
       "material_all": ""
     },
     {
@@ -51463,8 +51463,8 @@
       "pts_price": 890.0,
       "pts_change_pct": 3.0,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 日経平均ベア上場投信【1580】株価・チャート - Moomoo",
-      "material_url": "",
+      "material_text": "[株探] 2027年2月期　中間決算短信（2026年2月21日～2026年8月20日）",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20260928/140120260928541142/",
       "material_all": ""
     },
     {
@@ -51475,8 +51475,8 @@
       "pts_price": 1390.0,
       "pts_change_pct": 2.81,
       "source": "PTS上昇",
-      "material_text": "",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 14 銘柄　逆転＝ 148 銘柄　(11月20日)",
+      "material_url": "https://kabutan.jp/stock/news?code=7740&b=n202611201134",
       "material_all": ""
     },
     {
@@ -51487,8 +51487,8 @@
       "pts_price": 306.8,
       "pts_change_pct": 2.61,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)フェニックスバイオ【6190】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナ",
-      "material_url": "",
+      "material_text": "[株探] フェニクスＢが後場カイ気配スタート、新規増殖性ヒト肝細胞「ＳｉｒＨｅｐｓ」に関する研究成果発表",
+      "material_url": "https://kabutan.jp/stock/news?code=6190&b=n202611240656",
       "material_all": ""
     },
     {
@@ -51499,8 +51499,8 @@
       "pts_price": 335.0,
       "pts_change_pct": 2.45,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (NEXT FUNDS)日経平均インバース上場投信【1571】：株価チャート - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 51 銘柄　DC＝ 188 銘柄　(9月3日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1571&b=n202609030811",
       "material_all": ""
     },
     {
@@ -51511,8 +51511,8 @@
       "pts_price": 8445.0,
       "pts_change_pct": 2.41,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 日経平均、906円67銭高の6万1366円25銭で始まる＝東京株式後場(時事通信) - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 88 銘柄　下抜け＝ 140 銘柄　(10月29日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1366&b=n202610291008",
       "material_all": ""
     },
     {
@@ -51523,8 +51523,8 @@
       "pts_price": 303.0,
       "pts_change_pct": 2.36,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ユーグレナ【2931】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ★本日の【サプライズ決算】続報 (11月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=2931&b=n202611131394",
       "material_all": ""
     },
     {
@@ -51535,8 +51535,8 @@
       "pts_price": 17.4,
       "pts_change_pct": 2.35,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ｅｎｉｓｈ【3667】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 2026年12月期第３四半期決算説明資料",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261113/140120261112576223/",
       "material_all": ""
     },
     {
@@ -51547,8 +51547,8 @@
       "pts_price": 48.0,
       "pts_change_pct": 2.13,
       "source": "PTS上昇",
-      "material_text": "[ニュース] アーキテクツ・スタジオ・ジャパン(株)【6085】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 第三者割当により発行された第５回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261112/140120261112576886/",
       "material_all": ""
     },
     {
@@ -51559,8 +51559,8 @@
       "pts_price": 795.0,
       "pts_change_pct": 2.05,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)エラン【6099】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] エランが続伸、「ＣＳセット」利用申し込み堅調で２６年１２月期営業利益予想を上方修正",
+      "material_url": "https://kabutan.jp/stock/news?code=6099&b=n202611240322",
       "material_all": ""
     },
     {
@@ -51571,8 +51571,8 @@
       "pts_price": 1412.0,
       "pts_change_pct": 2.02,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ビザの最高リスク責任者ファバラ氏、約58万9680ドル相当の自社株を売却 - Investing.com - FX | ",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 83 銘柄　逆転＝ 37 銘柄　(8月26日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1456&b=n202608260800",
       "material_all": ""
     },
     {
@@ -51595,8 +51595,8 @@
       "pts_price": 300.1,
       "pts_change_pct": 1.73,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 4714 リソー教育グループ - 株探",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 25 銘柄　DC＝ 221 銘柄　(11月20日)",
+      "material_url": "https://kabutan.jp/stock/news?code=4714&b=n202611201139",
       "material_all": ""
     },
     {
@@ -51607,8 +51607,8 @@
       "pts_price": 1416.0,
       "pts_change_pct": 1.72,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ＡＬＳＯＫ(株)【2331】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] セコムとＡＬＳＯＫがそろって新高値、顧客資産情報の流出で警備サービス需要拡大の思惑続く",
+      "material_url": "https://kabutan.jp/stock/news?code=2331&b=n202611250478",
       "material_all": ""
     },
     {
@@ -51631,8 +51631,8 @@
       "pts_price": 420.0,
       "pts_change_pct": 1.69,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ブシロード【7803】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ブシロード---大幅反発、SBI証券が目標株価を900円に引き上げ、投資判断「買い」継続",
+      "material_url": "https://kabutan.jp/stock/news?code=7803&b=n202611250391",
       "material_all": ""
     },
     {
@@ -51643,8 +51643,8 @@
       "pts_price": 12.2,
       "pts_change_pct": 1.67,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ウェッジホールディングス【2388】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!フ",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 82 銘柄　DC＝ 110 銘柄　(11月18日)",
+      "material_url": "https://kabutan.jp/stock/news?code=2388&b=n202611180940",
       "material_all": ""
     },
     {
@@ -51667,8 +51667,8 @@
       "pts_price": 673.5,
       "pts_change_pct": 1.51,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (NEXT FUNDS)NOMURA原油インデックス上場【1699】：株価・株式情報（夜間PTS含む） - Yahoo!",
-      "material_url": "",
+      "material_text": "[株探] 野村原油やＷＴＩ原油が堅調、米イラン間の攻撃応酬を警戒し原油価格上昇",
+      "material_url": "https://kabutan.jp/stock/news?code=1699&b=n202611180541",
       "material_all": ""
     },
     {
@@ -51679,8 +51679,8 @@
       "pts_price": 6035.0,
       "pts_change_pct": 1.43,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 純プラチナ上場信託(現物国内保管型)【1541】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 99 銘柄　売り＝ 29 銘柄　(11月9日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1541&b=n202611090985",
       "material_all": ""
     },
     {
@@ -51703,8 +51703,8 @@
       "pts_price": 22.3,
       "pts_change_pct": 1.36,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ＲＩＳＥ【8836】：ニュース・最新情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ＲＩＳＥ、上期経常が赤字転落で着地・7-9月期は95％減益",
+      "material_url": "https://kabutan.jp/stock/news?code=8836&b=k202611130274",
       "material_all": ""
     },
     {
@@ -51715,8 +51715,8 @@
       "pts_price": 748.6,
       "pts_change_pct": 1.3,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ＭＥＲＦ【3168】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] Notice Concerning Disposal of Treasury Shares as Restricted ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261119/140120261119583478/",
       "material_all": ""
     },
     {
@@ -51727,8 +51727,8 @@
       "pts_price": 82.0,
       "pts_change_pct": 1.23,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ソースネクスト[4344]：連結子会社であるポケトーク株式会社による据え置き型AI同時翻訳機新製品「ポケトーク X」の販",
-      "material_url": "",
+      "material_text": "[株探] デジタル製品の自社ブランド「DIGI+」 直近1年間の国内売上高が前年同期比2.7倍に",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261125/140120261124585422/",
       "material_all": ""
     },
     {
@@ -51739,8 +51739,8 @@
       "pts_price": 4375.0,
       "pts_change_pct": 1.23,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ソニー(株)【6758】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 73 銘柄　売り＝ 129 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6758&b=n202611240940",
       "material_all": ""
     },
     {
@@ -51751,8 +51751,8 @@
       "pts_price": 83.0,
       "pts_change_pct": 1.22,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (NEXT FUNDS)JPX日経400ダブルインバース【1472】：株価・株式情報（夜間PTS含む） - Yahoo!",
-      "material_url": "",
+      "material_text": "[株探] NEXT FUNDS JPX日経400ダブルインバース・インデックス連動型上場投信 中間決算短信",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261118/140120261118582460/",
       "material_all": ""
     },
     {
@@ -51763,8 +51763,8 @@
       "pts_price": 505.0,
       "pts_change_pct": 1.2,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ヤーマン(株)【6630】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ＜みんかぶ・個人投資家の予想から＞＝「売り予想数上昇」３位にヤーマン",
+      "material_url": "https://kabutan.jp/stock/news?code=6630&b=n202611180539",
       "material_all": ""
     },
     {
@@ -51775,8 +51775,8 @@
       "pts_price": 1450.0,
       "pts_change_pct": 1.19,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ラウンドワン【4680】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 利益成長【青天井】銘柄リスト〔第3弾〕33社選出 ＜成長株特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=4680&b=n202611191253",
       "material_all": ""
     },
     {
@@ -51787,8 +51787,8 @@
       "pts_price": 690.0,
       "pts_change_pct": 1.17,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ケイファーマ【4896】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] Notice Regarding Release of Video Presentation of Financial ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261117/140120261116581562/",
       "material_all": ""
     },
     {
@@ -51799,8 +51799,8 @@
       "pts_price": 69.8,
       "pts_change_pct": 1.16,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 焼肉坂井ホールディングス (2694) : 株主優待・優待利回り [YSH] - みんかぶ",
-      "material_url": "",
+      "material_text": "[株探] 2027年３月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261113/140120261106568009/",
       "material_all": ""
     },
     {
@@ -51811,8 +51811,8 @@
       "pts_price": 36.4,
       "pts_change_pct": 1.11,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)フルッタフルッタ【2586】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナン",
-      "material_url": "",
+      "material_text": "[株探] 営業外費用（貸倒引当金繰入額）の計上に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261113/140120261113579598/",
       "material_all": ""
     },
     {
@@ -51823,8 +51823,8 @@
       "pts_price": 461.0,
       "pts_change_pct": 1.1,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ＵＬＳグループ(株)【3798】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ULSコンサルティング、エンタープライズ向け「AI駆動開発プロセス変革サービス」を本格提供開始に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261124/140120261120584396/",
       "material_all": ""
     },
     {
@@ -51835,8 +51835,8 @@
       "pts_price": 6379.0,
       "pts_change_pct": 1.09,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ＭＴＧ[7806]：投資単位の引下げに関する考え方及び方針等について 2026年11月11日(適時開示) ：日経会社情報",
-      "material_url": "",
+      "material_text": "[株探] ＭＴＧについて、松下剛氏は保有割合が減少したと報告 [変更報告書No.20]",
+      "material_url": "https://kabutan.jp/stock/news?code=7806&b=n202611200369",
       "material_all": ""
     },
     {
@@ -51847,8 +51847,8 @@
       "pts_price": 6710.0,
       "pts_change_pct": 1.05,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ハピネット【7552】：株主優待 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 2026年クリスマス・年末年始商戦を読み解く3つのキーワード「オールターゲット玩具」「親子コミュニケーション」「大人のご",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261124/140120261124585110/",
       "material_all": ""
     },
     {
@@ -51859,8 +51859,8 @@
       "pts_price": 210.0,
       "pts_change_pct": 0.96,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ベースフード(株)【2936】：株価チャート - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ベースフード、上期経常が赤字拡大で着地・6-8月期は赤字転落",
+      "material_url": "https://kabutan.jp/stock/news?code=2936&b=k202610150064",
       "material_all": ""
     },
     {
@@ -51871,8 +51871,8 @@
       "pts_price": 94.9,
       "pts_change_pct": 0.96,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 曙ブレーキ工業（ブレーキ）【7238】の株価チャート｜日足・分足・週足・月足・年足｜株探（かぶたん） - 株探",
-      "material_url": "",
+      "material_text": "[株探] [Delayed] Consolidated Financial Results FY2026 First Half (",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261113/140120261113580228/",
       "material_all": ""
     },
     {
@@ -51883,8 +51883,8 @@
       "pts_price": 869.0,
       "pts_change_pct": 0.93,
       "source": "PTS上昇",
-      "material_text": "[ニュース] YE DIGITAL(2354)、大幅な｢増配｣を発表して、配当利回りが3.9％に！ 年間配当額は1年で1.5倍に急増、",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 47 銘柄　下抜け＝ 252 銘柄　(10月2日)",
+      "material_url": "https://kabutan.jp/stock/news?code=2354&b=n202610020835",
       "material_all": ""
     },
     {
@@ -51895,8 +51895,8 @@
       "pts_price": 220.0,
       "pts_change_pct": 0.92,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ヘリオス【4593】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ヘリオス---3Q累計、ARDS治療薬の承認申請へ準備継続、培養上清の出荷も開始",
+      "material_url": "https://kabutan.jp/stock/news?code=4593&b=n202611160607",
       "material_all": ""
     },
     {
@@ -51907,8 +51907,8 @@
       "pts_price": 997.0,
       "pts_change_pct": 0.91,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)きちりホールディングス【3082】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 来週の買い需要：朝日ラバー＜5162＞など",
+      "material_url": "https://kabutan.jp/stock/news?code=3082&b=n202611131328",
       "material_all": ""
     },
     {
@@ -51919,8 +51919,8 @@
       "pts_price": 11.1,
       "pts_change_pct": 0.91,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 北浜キャピタルパートナーズ(株)【2134】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] （開示事項の経過）連結子会社の持分の一部譲渡及び共同事業に係る手数料（PF）の支払い完了に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261120/140120261120584385/",
       "material_all": ""
     },
     {
@@ -51931,8 +51931,8 @@
       "pts_price": 4350.0,
       "pts_change_pct": 0.9,
       "source": "PTS上昇",
-      "material_text": "",
-      "material_url": "",
+      "material_text": "[株探] マテリアルグループ、カプコン◆今日のフィスコ注目銘柄◆",
+      "material_url": "https://kabutan.jp/stock/news?code=9697&b=n202611250223",
       "material_all": ""
     },
     {
@@ -51943,8 +51943,8 @@
       "pts_price": 1015.0,
       "pts_change_pct": 0.89,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ベルーナ【9997】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ベルーナについて、三井住友DSアセットマネジメントは保有割合が5％未満に減少したと報告 [変更報告書No.2]",
+      "material_url": "https://kabutan.jp/stock/news?code=9997&b=n202611201120",
       "material_all": ""
     },
     {
@@ -51955,8 +51955,8 @@
       "pts_price": 234.0,
       "pts_change_pct": 0.86,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ＥＮＥＣＨＡＮＧＥ(株)【4169】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 22 銘柄　下抜け＝ 122 銘柄　(11月18日)",
+      "material_url": "https://kabutan.jp/stock/news?code=4169&b=n202611180936",
       "material_all": ""
     },
     {
@@ -51967,8 +51967,8 @@
       "pts_price": 1506.1,
       "pts_change_pct": 0.84,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 【アナリスト予想】アズビル、27年3月期経常予想。対前週1.4%上昇。(アイフィス株予報) - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 11 銘柄　下抜け＝ 239 銘柄　(11月20日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6845&b=n202611201135",
       "material_all": ""
     },
     {
@@ -51991,8 +51991,8 @@
       "pts_price": 1102.0,
       "pts_change_pct": 0.82,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 住友林業(株)【1911】：株主優待 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 14 銘柄　逆転＝ 148 銘柄　(11月20日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1911&b=n202611201134",
       "material_all": ""
     },
     {
@@ -52003,8 +52003,8 @@
       "pts_price": 1845.0,
       "pts_change_pct": 0.82,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 大日本住友製薬(株)【4506】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 25 銘柄　DC＝ 221 銘柄　(11月20日)",
+      "material_url": "https://kabutan.jp/stock/news?code=4506&b=n202611201139",
       "material_all": ""
     },
     {
@@ -52015,8 +52015,8 @@
       "pts_price": 743.0,
       "pts_change_pct": 0.81,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ブランジスタ【6176】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 2026年定時株主総会招集通知 交付書面非記載事項",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261125/140120261124585506/",
       "material_all": ""
     },
     {
@@ -52027,8 +52027,8 @@
       "pts_price": 972.6,
       "pts_change_pct": 0.79,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 旭ダイヤモンド工業（6140）の株主優待｜国内株式 - SBI証券",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 14 銘柄　逆転＝ 148 銘柄　(11月20日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6140&b=n202611201134",
       "material_all": ""
     },
     {
@@ -52039,8 +52039,8 @@
       "pts_price": 922.2,
       "pts_change_pct": 0.79,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)三社電機製作所【6882】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 【訃報】弊社名誉会長 四方 邦夫 逝去のお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261120/140120261119583670/",
       "material_all": ""
     },
     {
@@ -52051,8 +52051,8 @@
       "pts_price": 1300.0,
       "pts_change_pct": 0.78,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ビーロット【3452】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ビーロットが続伸、次世代住宅「Ｌｉｖｉｎｇ Ｈｏｍｅ」のＭＷと包括的業務提携契約締結",
+      "material_url": "https://kabutan.jp/stock/news?code=3452&b=n202611250387",
       "material_all": ""
     },
     {
@@ -52063,8 +52063,8 @@
       "pts_price": 3870.6,
       "pts_change_pct": 0.77,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ワコールホールディングス【3591】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 124 銘柄　下抜け＝ 143 銘柄　(11月16日)",
+      "material_url": "https://kabutan.jp/stock/news?code=3591&b=n202611160947",
       "material_all": ""
     },
     {
@@ -52075,8 +52075,8 @@
       "pts_price": 3270.0,
       "pts_change_pct": 0.77,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 内外テック(株)【3374】：株価チャート - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ★本日の【サプライズ決算】続報 (11月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=3374&b=n202611131394",
       "material_all": ""
     },
     {
@@ -52087,8 +52087,8 @@
       "pts_price": 13.1,
       "pts_change_pct": 0.77,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ＲＥＶＯＬＵＴＩＯＮ【8894】：株価チャート - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 改善計画の策定方針の実施スケジュールの再変更に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261112/140120261112574703/",
       "material_all": ""
     },
     {
@@ -52099,8 +52099,8 @@
       "pts_price": 5260.0,
       "pts_change_pct": 0.77,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 日本冶金工業(5480)、｢増配｣を発表して、配当利回り5.2％にアップ！ 配当額は1年で1.2倍に増加、2027年3月",
-      "material_url": "",
+      "material_text": "[株探] 冶金工は４日ぶり大幅反発、半導体関連需要拡大で通期業績・配当予想を上方修正",
+      "material_url": "https://kabutan.jp/stock/news?code=5480&b=n202611020355",
       "material_all": ""
     },
     {
@@ -52123,8 +52123,8 @@
       "pts_price": 8720.0,
       "pts_change_pct": 0.74,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 【株式】任天堂が3日ぶりに反発 東海東京証券は目標株価を1万800円から1万970円に引き上げ(gamebiz) - Y",
-      "material_url": "",
+      "material_text": "[株探] 「ゴルディロックス」な円安、日本の輸出株に好環境 ＜伊賀大記のクロマなマクロ展望＞",
+      "material_url": "https://kabutan.jp/stock/news?code=7974&b=n202611230008",
       "material_all": ""
     },
     {
@@ -52135,8 +52135,8 @@
       "pts_price": 6180.0,
       "pts_change_pct": 0.73,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 【日本株】来期も好業績が期待できる｢受注残が増えた株｣2銘柄！ 金融機関のDX需要が追い風の｢野村総合研究所｣、今期の業",
-      "material_url": "",
+      "material_text": "[株探] Notice Concerning Results and Completion of Acquisition of T",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261120/140120261119583112/",
       "material_all": ""
     },
     {
@@ -52147,8 +52147,8 @@
       "pts_price": 4171.3,
       "pts_change_pct": 0.73,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 不二製油 (2607) の株価・株式 - QUICK Money World",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 11 銘柄　下抜け＝ 239 銘柄　(11月20日)",
+      "material_url": "https://kabutan.jp/stock/news?code=2607&b=n202611201135",
       "material_all": ""
     },
     {
@@ -52159,8 +52159,8 @@
       "pts_price": 19300.0,
       "pts_change_pct": 0.73,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 純銀上場信託(現物国内保管型)【1542】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 99 銘柄　売り＝ 29 銘柄　(11月9日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1542&b=n202611090985",
       "material_all": ""
     },
     {
@@ -52171,8 +52171,8 @@
       "pts_price": 140.0,
       "pts_change_pct": 0.72,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)出前館【2484】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 22 銘柄　下抜け＝ 122 銘柄　(11月18日)",
+      "material_url": "https://kabutan.jp/stock/news?code=2484&b=n202611180936",
       "material_all": ""
     },
     {
@@ -52183,8 +52183,8 @@
       "pts_price": 3120.0,
       "pts_change_pct": 0.71,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 日本新薬(株)【4516】：板気配 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 14 銘柄　逆転＝ 148 銘柄　(11月20日)",
+      "material_url": "https://kabutan.jp/stock/news?code=4516&b=n202611201134",
       "material_all": ""
     },
     {
@@ -52195,8 +52195,8 @@
       "pts_price": 3274.5,
       "pts_change_pct": 0.69,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)メイテックグループホールディングス【9744】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表｜3役好転／逆転】引け　好転＝ 14 銘柄　逆転＝ 148 銘柄　(11月20日)",
+      "material_url": "https://kabutan.jp/stock/news?code=9744&b=n202611201134",
       "material_all": ""
     },
     {
@@ -52207,8 +52207,8 @@
       "pts_price": 3720.0,
       "pts_change_pct": 0.68,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 理研ビタミン(株)【4526】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 今週の【上場来高値銘柄】山パン、ベイカレント、朝日インテクなど51銘柄",
+      "material_url": "https://kabutan.jp/stock/news?code=4526&b=n202611210205",
       "material_all": ""
     },
     {
@@ -52219,8 +52219,8 @@
       "pts_price": 885.9,
       "pts_change_pct": 0.67,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ラックランド【9612】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ラックランドが３日ぶり反発、ウィル・フィールド・キャピタルが７．０３％保有判明で思惑",
+      "material_url": "https://kabutan.jp/stock/news?code=9612&b=n202611250443",
       "material_all": ""
     },
     {
@@ -52231,8 +52231,8 @@
       "pts_price": 1923.5,
       "pts_change_pct": 0.65,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 7220 武蔵精密工業 - 株探",
-      "material_url": "",
+      "material_text": "[株探] Announcement of New Orders",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261110/140120261110571416/",
       "material_all": ""
     },
     {
@@ -52243,8 +52243,8 @@
       "pts_price": 740.8,
       "pts_change_pct": 0.65,
       "source": "PTS上昇",
-      "material_text": "[ニュース] アイ・ケイ・ケイホールディングス(株)【2198】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] アイケイケイ、11-7月期(3Q累計)経常が52％増益で着地・5-7月期も30％増益",
+      "material_url": "https://kabutan.jp/stock/news?code=2198&b=k202609100010",
       "material_all": ""
     },
     {
@@ -52267,8 +52267,8 @@
       "pts_price": 480.1,
       "pts_change_pct": 0.65,
       "source": "PTS上昇",
-      "material_text": "[ニュース] グリーHD(3632)、2期連続の「増配」を発表して、配当利回り5.8％に！ 年間配当は2年で1.9倍に増加、2027年",
-      "material_url": "",
+      "material_text": "[株探] グリーＨＤについて、田中良和氏は保有割合が増加したと報告 [変更報告書No.25]",
+      "material_url": "https://kabutan.jp/stock/news?code=3632&b=n202611130646",
       "material_all": ""
     },
     {
@@ -52279,8 +52279,8 @@
       "pts_price": 2487.4,
       "pts_change_pct": 0.64,
       "source": "PTS上昇",
-      "material_text": "[ニュース] ニフコ[7988]：連結子会社からの配当金受領に関するお知らせ 2026年11月11日(適時開示) ：日経会社情報DIG",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 23 銘柄　DC＝ 169 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=7988&b=n202611240942",
       "material_all": ""
     },
     {
@@ -52291,8 +52291,8 @@
       "pts_price": 2554.8,
       "pts_change_pct": 0.64,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 東京センチュリー(株)【8439】：株主優待 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 11 銘柄　下抜け＝ 239 銘柄　(11月20日)",
+      "material_url": "https://kabutan.jp/stock/news?code=8439&b=n202611201135",
       "material_all": ""
     },
     {
@@ -52303,8 +52303,8 @@
       "pts_price": 2445.6,
       "pts_change_pct": 0.64,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)ツルハホールディングス【3391】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファ",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 73 銘柄　売り＝ 129 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=3391&b=n202611240940",
       "material_all": ""
     },
     {
@@ -52315,8 +52315,8 @@
       "pts_price": 7105.0,
       "pts_change_pct": 0.64,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 武田薬品工業(株)【4502】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 26年7-9月期【利益倍増】企業はこれだ！〔第1弾〕 33社選出 ＜成長株特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=4502&b=n202611230037",
       "material_all": ""
     },
     {
@@ -52327,8 +52327,8 @@
       "pts_price": 99.6,
       "pts_change_pct": 0.61,
       "source": "PTS上昇",
-      "material_text": "[ニュース] 日本エンタープライズ(株)【4829】：株価チャート - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 人事異動に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261120/140120261120584305/",
       "material_all": ""
     },
     {
@@ -52351,8 +52351,8 @@
       "pts_price": 1766.1,
       "pts_change_pct": 0.6,
       "source": "PTS上昇",
-      "material_text": "[ニュース] シカゴ日本株先物概況・23日 日経平均先物は3405円高の5万7960円 - 日本経済新聞",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 25 銘柄　DC＝ 221 銘柄　(11月20日)",
+      "material_url": "https://kabutan.jp/stock/news?code=3405&b=n202611201139",
       "material_all": ""
     },
     {
@@ -52363,8 +52363,8 @@
       "pts_price": 334.0,
       "pts_change_pct": 0.6,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)トレードワークス【3997】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 組織変更および人事異動に関するお知らせ ～AI・オンチェーンに続く第三の戦略室「サイバーセキュリティ戦略室」の新設～",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261119/140120261119583499/",
       "material_all": ""
     },
     {
@@ -52375,8 +52375,8 @@
       "pts_price": 919.5,
       "pts_change_pct": 0.6,
       "source": "PTS上昇",
-      "material_text": "[ニュース] (株)グルメ杵屋【9850】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] Notice Regarding Revisions to Consolidated Earnings Forecast",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261111/140120261111573975/",
       "material_all": ""
     },
     {
@@ -52387,8 +52387,8 @@
       "pts_price": 9470.0,
       "pts_change_pct": -9.72,
       "source": "PTS下落",
-      "material_text": "[ニュース] ｉＦｒｅｅＥＴＦ Ｓ＆Ｐ５００ダブルインバース[2249]の市場価格は「日経会社情報DIGITAL」。 - 日本経済新聞",
-      "material_url": "",
+      "material_text": "[株探] 2026年9月期（2026年3月11日～2026年9月10日）決算短信",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261023/140120261023555114/",
       "material_all": ""
     },
     {
@@ -52411,8 +52411,8 @@
       "pts_price": 25100.0,
       "pts_change_pct": -7.97,
       "source": "PTS下落",
-      "material_text": "[ニュース] レーティング＞アドバンテ(6857)に格上げ観測(フィスコ) - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] イビデンが一時１７％安、前日Ｓ高比例配分もＡＩ・半導体株は一転売り直しの流れに",
+      "material_url": "https://kabutan.jp/stock/news?code=6857&b=n202611250351",
       "material_all": ""
     },
     {
@@ -52435,8 +52435,8 @@
       "pts_price": 4980.0,
       "pts_change_pct": -7.3,
       "source": "PTS下落",
-      "material_text": "[ニュース] イビデン (4062) の株価・株式 - QUICK Money World",
-      "material_url": "",
+      "material_text": "[株探] イビデンが一時１７％安、前日Ｓ高比例配分もＡＩ・半導体株は一転売り直しの流れに",
+      "material_url": "https://kabutan.jp/stock/news?code=4062&b=n202611250351",
       "material_all": ""
     },
     {
@@ -52447,8 +52447,8 @@
       "pts_price": 2248.0,
       "pts_change_pct": -7.03,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)フジクラ【5803】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] フジクラ---大幅反落、国内証券では来期営業減益を予想し投資判断格下げ",
+      "material_url": "https://kabutan.jp/stock/news?code=5803&b=n202611250488",
       "material_all": ""
     },
     {
@@ -52471,8 +52471,8 @@
       "pts_price": 1230.0,
       "pts_change_pct": -6.07,
       "source": "PTS下落",
-      "material_text": "[ニュース] 住友電気工業(株)【5802】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 443 銘柄　売り＝ 25 銘柄　(11月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=5802&b=n202611131134",
       "material_all": ""
     },
     {
@@ -52483,8 +52483,8 @@
       "pts_price": 1011.0,
       "pts_change_pct": -5.69,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)日本エスコン【8892】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] (Progress of Disclosed Matters) Notice of Completion of Acqu",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261030/140120261030561402/",
       "material_all": ""
     },
     {
@@ -52495,8 +52495,8 @@
       "pts_price": 2987.0,
       "pts_change_pct": -5.65,
       "source": "PTS下落",
-      "material_text": "[ニュース] ソフトバンクGが反落､6月最高値から｢半値八掛け二割引き｣に - 四季報オンライン",
-      "material_url": "",
+      "material_text": "[株探] ソフトバンクＧが急反落、米アンソロピック公開価格割れでオープンＡＩ上場実現巡る不透明感を意識",
+      "material_url": "https://kabutan.jp/stock/news?code=9984&b=n202611250356",
       "material_all": ""
     },
     {
@@ -52507,8 +52507,8 @@
       "pts_price": 3400.0,
       "pts_change_pct": -5.56,
       "source": "PTS下落",
-      "material_text": "[ニュース] GX 半導体【2243】：株価・株式情報（夜間PTS含む） - Yahoo! JAPAN",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 443 銘柄　売り＝ 25 銘柄　(11月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=2243&b=n202611131134",
       "material_all": ""
     },
     {
@@ -52519,8 +52519,8 @@
       "pts_price": 272.0,
       "pts_change_pct": -5.56,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)オーイズミ【6428】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] [Summary] Financial Results for the Six Months Ended Septemb",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261113/140120261113578933/",
       "material_all": ""
     },
     {
@@ -52531,8 +52531,8 @@
       "pts_price": 1050.0,
       "pts_change_pct": -5.49,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)テクニスコ【2962】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 譲渡制限付株式報酬としての新株式の発行の払込完了に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261120/140120261119583339/",
       "material_all": ""
     },
     {
@@ -52543,8 +52543,8 @@
       "pts_price": 2270.0,
       "pts_change_pct": -5.36,
       "source": "PTS下落",
-      "material_text": "[ニュース] 日東紡(株)【3110】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 219 銘柄　売り＝ 33 銘柄　(11月16日)",
+      "material_url": "https://kabutan.jp/stock/news?code=3110&b=n202611160949",
       "material_all": ""
     },
     {
@@ -52555,8 +52555,8 @@
       "pts_price": 14.2,
       "pts_change_pct": -5.33,
       "source": "PTS下落",
-      "material_text": "[ニュース] オンコセラピー・サイエンス(株)【4564】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 臨時株主総会招集のための基準日設定及び臨時株主総会招集ならびに資本金の額の減少に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261120/140120261120584364/",
       "material_all": ""
     },
     {
@@ -52567,8 +52567,8 @@
       "pts_price": 1644.4,
       "pts_change_pct": -5.25,
       "source": "PTS下落",
-      "material_text": "[ニュース] マブチモーター(株)【6592】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 25 銘柄　DC＝ 221 銘柄　(11月20日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6592&b=n202611201139",
       "material_all": ""
     },
     {
@@ -52579,8 +52579,8 @@
       "pts_price": 60550.0,
       "pts_change_pct": -5.24,
       "source": "PTS下落",
-      "material_text": "[ニュース] 楽天ＥＴＦ－日経レバレッジ指数連動型【1458】株価・チャート - Moomoo",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 86 銘柄　売り＝ 92 銘柄　(11月19日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1458&b=n202611190971",
       "material_all": ""
     },
     {
@@ -52591,8 +52591,8 @@
       "pts_price": 548.0,
       "pts_change_pct": -5.14,
       "source": "PTS下落",
-      "material_text": "[ニュース] 日経平均ブル2倍上場投信【1579】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 86 銘柄　売り＝ 92 銘柄　(11月19日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1579&b=n202611190971",
       "material_all": ""
     },
     {
@@ -52603,8 +52603,8 @@
       "pts_price": 5311.0,
       "pts_change_pct": -5.11,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ＫＯＫＵＳＡＩ ＥＬＥＣＴＲＩＣ【6525】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yah",
-      "material_url": "",
+      "material_text": "[株探] コクサイエレについて、米キャピタル・リサーチは保有割合が減少したと報告 [変更報告書No.27]",
+      "material_url": "https://kabutan.jp/stock/news?code=6525&b=n202611200478",
       "material_all": ""
     },
     {
@@ -52615,8 +52615,8 @@
       "pts_price": 6544.0,
       "pts_change_pct": -5.02,
       "source": "PTS下落",
-      "material_text": "[ニュース] 山一電機(株)【6941】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 山一電機について、エフィッシモは保有割合が増加したと報告 [変更報告書No.2]",
+      "material_url": "https://kabutan.jp/stock/news?code=6941&b=n202611241017",
       "material_all": ""
     },
     {
@@ -52627,8 +52627,8 @@
       "pts_price": 1595.0,
       "pts_change_pct": -5.0,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ＱＤレーザ【6613】：板気配 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 124 銘柄　下抜け＝ 143 銘柄　(11月16日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6613&b=n202611160947",
       "material_all": ""
     },
     {
@@ -52639,8 +52639,8 @@
       "pts_price": 8501.0,
       "pts_change_pct": -4.97,
       "source": "PTS下落",
-      "material_text": "[ニュース] 東京エレクトロン[8035]：株式分割及び株式分割に伴う定款の一部変更に関するお知らせ 2026年5月29日(適時開示)",
-      "material_url": "",
+      "material_text": "[株探] キオクシアなどＡＩ・半導体関連が軒並み急落、米アンソロピック上場もＳＯＸ２％超安",
+      "material_url": "https://kabutan.jp/stock/news?code=8035&b=n202611200383",
       "material_all": ""
     },
     {
@@ -52651,8 +52651,8 @@
       "pts_price": 3521.0,
       "pts_change_pct": -4.97,
       "source": "PTS下落",
-      "material_text": "[ニュース] アドテック プラズマ テクノロジー(6668) 週足四本値 - 株探",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 124 銘柄　下抜け＝ 143 銘柄　(11月16日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6668&b=n202611160947",
       "material_all": ""
     },
     {
@@ -52663,8 +52663,8 @@
       "pts_price": 3457.0,
       "pts_change_pct": -4.9,
       "source": "PTS下落",
-      "material_text": "[ニュース] 伊勢化学工業(株)【4107】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 11 銘柄　下抜け＝ 239 銘柄　(11月20日)",
+      "material_url": "https://kabutan.jp/stock/news?code=4107&b=n202611201135",
       "material_all": ""
     },
     {
@@ -52675,8 +52675,8 @@
       "pts_price": 390.0,
       "pts_change_pct": -4.88,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)デリバリーコンサルティング【9240】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 23 銘柄　DC＝ 169 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=9240&b=n202611240942",
       "material_all": ""
     },
     {
@@ -52687,8 +52687,8 @@
       "pts_price": 50900.0,
       "pts_change_pct": -4.86,
       "source": "PTS下落",
-      "material_text": "[ニュース] (NEXT FUNDS)日経平均レバレッジ上場投信【1570】：株価・株式情報（夜間PTS含む） - Yahoo!ファイ",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 86 銘柄　売り＝ 92 銘柄　(11月19日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1570&b=n202611190971",
       "material_all": ""
     },
     {
@@ -52699,8 +52699,8 @@
       "pts_price": 1243.0,
       "pts_change_pct": -4.82,
       "source": "PTS下落",
-      "material_text": "[ニュース] 日本トムソン(株)【6480】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 73 銘柄　売り＝ 129 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6480&b=n202611240940",
       "material_all": ""
     },
     {
@@ -52711,8 +52711,8 @@
       "pts_price": 299.0,
       "pts_change_pct": -4.78,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)セルム【7367】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 2027年3月期第2四半期決算説明動画の公開のお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261113/140120261113577927/",
       "material_all": ""
     },
     {
@@ -52723,8 +52723,8 @@
       "pts_price": 1266.0,
       "pts_change_pct": -4.67,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)テラプローブ【6627】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 利益成長【青天井】銘柄リスト〔第3弾〕33社選出 ＜成長株特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=6627&b=n202611191253",
       "material_all": ""
     },
     {
@@ -52735,8 +52735,8 @@
       "pts_price": 4021.0,
       "pts_change_pct": -4.63,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ハーモニック・ドライブ・システムズ【6324】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイ",
-      "material_url": "",
+      "material_text": "[株探] 26年7-9月期【利益倍増】企業はこれだ！〔第1弾〕 33社選出 ＜成長株特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=6324&b=n202611230037",
       "material_all": ""
     },
     {
@@ -52747,8 +52747,8 @@
       "pts_price": 370.2,
       "pts_change_pct": -4.59,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)テリロジーホールディングス【5133】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 69 銘柄　下抜け＝ 61 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=5133&b=n202611240938",
       "material_all": ""
     },
     {
@@ -52759,8 +52759,8 @@
       "pts_price": 3731.1,
       "pts_change_pct": -4.58,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＣＫＤ[6407]：株式の売出しに関するお知らせ 2026年10月7日(適時開示) ：日経会社情報DIGITAL - 日",
-      "material_url": "",
+      "material_text": "[株探] 利益成長【青天井】銘柄リスト〔第3弾〕33社選出 ＜成長株特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=6407&b=n202611191253",
       "material_all": ""
     },
     {
@@ -52771,8 +52771,8 @@
       "pts_price": 2755.2,
       "pts_change_pct": -4.5,
       "source": "PTS下落",
-      "material_text": "[ニュース] GX 半導体関連-日本株式【2644】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 73 銘柄　売り＝ 129 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=2644&b=n202611240940",
       "material_all": ""
     },
     {
@@ -52783,8 +52783,8 @@
       "pts_price": 2877.0,
       "pts_change_pct": -4.48,
       "source": "PTS下落",
-      "material_text": "[ニュース] マクニカホールディングス(株)【3132】：株主優待 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 73 銘柄　売り＝ 129 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=3132&b=n202611240940",
       "material_all": ""
     },
     {
@@ -52795,8 +52795,8 @@
       "pts_price": 3640.0,
       "pts_change_pct": -4.46,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)精工技研【6834】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 精工技研について、野村証は保有割合が減少したと報告 [変更報告書No.4]",
+      "material_url": "https://kabutan.jp/stock/news?code=6834&b=n202611190500",
       "material_all": ""
     },
     {
@@ -52807,8 +52807,8 @@
       "pts_price": 65.0,
       "pts_change_pct": -4.41,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)千趣会【8165】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 海外連結子会社の解散及び清算に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261113/140120261113577688/",
       "material_all": ""
     },
     {
@@ -52819,8 +52819,8 @@
       "pts_price": 2951.0,
       "pts_change_pct": -4.37,
       "source": "PTS下落",
-      "material_text": "[ニュース] ローツェ(株)【6323】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 73 銘柄　売り＝ 129 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6323&b=n202611240940",
       "material_all": ""
     },
     {
@@ -52831,8 +52831,8 @@
       "pts_price": 42700.0,
       "pts_change_pct": -4.37,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ディスコ【6146】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ＜みんかぶ・個人投資家の予想から＞＝「売り予想数上昇」３位にディスコ",
+      "material_url": "https://kabutan.jp/stock/news?code=6146&b=n202611240664",
       "material_all": ""
     },
     {
@@ -52843,8 +52843,8 @@
       "pts_price": 2900.0,
       "pts_change_pct": -4.32,
       "source": "PTS下落",
-      "material_text": "[ニュース] 三菱ガス化学(株)【4182】：板気配 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 菱ガス化について、野村証は保有割合が5％未満に減少したと報告 [変更報告書No.8]",
+      "material_url": "https://kabutan.jp/stock/news?code=4182&b=n202611190618",
       "material_all": ""
     },
     {
@@ -52855,8 +52855,8 @@
       "pts_price": 2237.0,
       "pts_change_pct": -4.32,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＴＯＷＡ(株)【6315】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ＴＯＷＡについて、エフィッシモは保有割合が5％を超えたと報告 [大量保有報告書]",
+      "material_url": "https://kabutan.jp/stock/news?code=6315&b=n202611131266",
       "material_all": ""
     },
     {
@@ -52867,8 +52867,8 @@
       "pts_price": 2438.0,
       "pts_change_pct": -4.32,
       "source": "PTS下落",
-      "material_text": "[ニュース] 芝浦メカトロニクス（芝浦）【6590】の株価チャート｜日足・分足・週足・月足・年足｜株探（かぶたん） - 株探",
-      "material_url": "",
+      "material_text": "[株探] 芝浦について、Fidelity Management & Research Company LLCは保有割合が5％を超え",
+      "material_url": "https://kabutan.jp/stock/news?code=6590&b=n202611200711",
       "material_all": ""
     },
     {
@@ -52879,8 +52879,8 @@
       "pts_price": 1910.0,
       "pts_change_pct": -4.31,
       "source": "PTS下落",
-      "material_text": "[ニュース] 丸文(株)【7537】：決算説明会書き起こし - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 明日の株式相場に向けて＝激動するエヌビディア主導相場の勝ち筋",
+      "material_url": "https://kabutan.jp/stock/news?code=7537&b=n202611241145",
       "material_all": ""
     },
     {
@@ -52891,8 +52891,8 @@
       "pts_price": 5560.0,
       "pts_change_pct": -4.3,
       "source": "PTS下落",
-      "material_text": "[ニュース] エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー(Effissimo Capital Mana",
-      "material_url": "",
+      "material_text": "[株探] 電子材料について、エフィッシモは保有割合が増加したと報告 [変更報告書No.4]",
+      "material_url": "https://kabutan.jp/stock/news?code=6855&b=n202611241014",
       "material_all": ""
     },
     {
@@ -52903,8 +52903,8 @@
       "pts_price": 1559.1,
       "pts_change_pct": -4.29,
       "source": "PTS下落",
-      "material_text": "[ニュース] 日電波(6779) [Summary]Consolidated Financial Results for the Se",
-      "material_url": "",
+      "material_text": "[株探] 本日の注目個別銘柄：森永乳、リンテック、アイスタイルなど",
+      "material_url": "https://kabutan.jp/stock/news?code=6779&b=n202611101166",
       "material_all": ""
     },
     {
@@ -52915,8 +52915,8 @@
       "pts_price": 1850.0,
       "pts_change_pct": -4.24,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＪＸ金属(株)【5016】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の注目個別銘柄：JX金属、トレンド、ミズノなど",
+      "material_url": "https://kabutan.jp/stock/news?code=5016&b=n202611191051",
       "material_all": ""
     },
     {
@@ -52927,8 +52927,8 @@
       "pts_price": 1000.0,
       "pts_change_pct": -4.21,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ジェイテックコーポレーション【3446】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 官民投資＆法整備で加速！夢のエネルギー「核融合発電」関連総ざらい ＜株探トップ特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=3446&b=n202611181221",
       "material_all": ""
     },
     {
@@ -52939,8 +52939,8 @@
       "pts_price": 4033.0,
       "pts_change_pct": -4.2,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＡＩメカテック(株)【6227】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ＡＩメカはＳ安ウリ気配、半導体市況の見通しへの不安が拡大",
+      "material_url": "https://kabutan.jp/stock/news?code=6227&b=n202611201068",
       "material_all": ""
     },
     {
@@ -52951,8 +52951,8 @@
       "pts_price": 1500.0,
       "pts_change_pct": -4.18,
       "source": "PTS下落",
-      "material_text": "[ニュース] 川崎重工業 (7012) の株価・株式 - QUICK Money World",
-      "material_url": "",
+      "material_text": "[株探] Kawasaki Sustainability Report 2026",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261121/140120261120584310/",
       "material_all": ""
     },
     {
@@ -52963,8 +52963,8 @@
       "pts_price": 4330.0,
       "pts_change_pct": -4.14,
       "source": "PTS下落",
-      "material_text": "[ニュース] THK【6481】株価快走、年初来8割高 PBR「1倍割れ」から「3倍」に AI・半導体の追い風と構造改革で躍進、好調は",
-      "material_url": "",
+      "material_text": "[株探] ＴＨＫは急反落、国内大手証券は投資判断「３」へ２段階引き下げ",
+      "material_url": "https://kabutan.jp/stock/news?code=6481&b=n202611250486",
       "material_all": ""
     },
     {
@@ -52975,8 +52975,8 @@
       "pts_price": 5178.0,
       "pts_change_pct": -4.11,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)村田製作所【6981】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 「ゴルディロックス」な円安、日本の輸出株に好環境 ＜伊賀大記のクロマなマクロ展望＞",
+      "material_url": "https://kabutan.jp/stock/news?code=6981&b=n202611230008",
       "material_all": ""
     },
     {
@@ -52987,8 +52987,8 @@
       "pts_price": 1950.0,
       "pts_change_pct": -4.01,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ＳＵＭＣＯ【3436】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] Consolidated Financial Results for the Nine Months Ended Sep",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261112/140120261111574354/",
       "material_all": ""
     },
     {
@@ -53011,8 +53011,8 @@
       "pts_price": 1839.9,
       "pts_change_pct": -3.92,
       "source": "PTS下落",
-      "material_text": "",
-      "material_url": "",
+      "material_text": "[株探] [Updated]Consolidated Financial Results for the Six Months E",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261110/140120261110570485/",
       "material_all": ""
     },
     {
@@ -53023,8 +53023,8 @@
       "pts_price": 1384.0,
       "pts_change_pct": -3.89,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ヴィッツ【4440】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 株式会社ROBOTMANの「CES 2027 Japanパビリオン」出展に参画",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261119/140120261117582287/",
       "material_all": ""
     },
     {
@@ -53035,8 +53035,8 @@
       "pts_price": 3170.0,
       "pts_change_pct": -3.85,
       "source": "PTS下落",
-      "material_text": "[ニュース] HOYA、中間連結純利益27．3％増 1365億円(時事通信) - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 86 銘柄　売り＝ 92 銘柄　(11月19日)",
+      "material_url": "https://kabutan.jp/stock/news?code=1365&b=n202611190971",
       "material_all": ""
     },
     {
@@ -53047,8 +53047,8 @@
       "pts_price": 1738.9,
       "pts_change_pct": -3.77,
       "source": "PTS下落",
-      "material_text": "[ニュース] 古河電気工業(株)【5801】：板気配 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 26年7-9月期【利益倍増】企業はこれだ！〔第1弾〕 33社選出 ＜成長株特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=5801&b=n202611230037",
       "material_all": ""
     },
     {
@@ -53059,8 +53059,8 @@
       "pts_price": 7403.0,
       "pts_change_pct": -3.73,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)フルヤ金属【7826】：板気配 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 利益成長【青天井】銘柄リスト〔第2弾〕 34社選出 ＜成長株特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=7826&b=n202611150080",
       "material_all": ""
     },
     {
@@ -53071,8 +53071,8 @@
       "pts_price": 2260.0,
       "pts_change_pct": -3.71,
       "source": "PTS下落",
-      "material_text": "[ニュース] ｉＦｒｅｅＥＴＦ ＮＡＳＤＡＱ１００レバレッジ[2869]の市場価格は「日経会社情報DIGITAL」。 - 日本経済新聞",
-      "material_url": "",
+      "material_text": "[株探] 本日の【均衡表 《雲》｜上抜け／下抜け】引け　上抜け＝ 82 銘柄　下抜け＝ 174 銘柄　(10月23日)",
+      "material_url": "https://kabutan.jp/stock/news?code=2869&b=n202610230876",
       "material_all": ""
     },
     {
@@ -53083,8 +53083,8 @@
       "pts_price": 942.0,
       "pts_change_pct": -3.68,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ＥＲＴＨ Ｇｒｏｕｐ【6072】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイ",
-      "material_url": "",
+      "material_text": "[株探] YouTubeチャンネル「1UP投資部屋」出演のお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261124/140120261124585075/",
       "material_all": ""
     },
     {
@@ -53095,8 +53095,8 @@
       "pts_price": 9200.0,
       "pts_change_pct": -3.63,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)日本マイクロニクス【6871】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 利益成長【青天井】銘柄リスト〔第3弾〕33社選出 ＜成長株特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=6871&b=n202611191253",
       "material_all": ""
     },
     {
@@ -53107,8 +53107,8 @@
       "pts_price": 2530.1,
       "pts_change_pct": -3.62,
       "source": "PTS下落",
-      "material_text": "[ニュース] ルネサスエレクトロニクス(株)【6723】：掲示板 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ルネサス---75日線、200日線辺りを目先のターゲットとしたリバウンド狙い",
+      "material_url": "https://kabutan.jp/stock/news?code=6723&b=n202611130416",
       "material_all": ""
     },
     {
@@ -53119,8 +53119,8 @@
       "pts_price": 32000.0,
       "pts_change_pct": -3.61,
       "source": "PTS下落",
-      "material_text": "[ニュース] レーザーテック (6920) の株価・株式 - QUICK Money World",
-      "material_url": "",
+      "material_text": "[株探] イビデンやアドテストが軟調、エヌビディアＣＥＯへの調査開始が半導体関連の重荷に",
+      "material_url": "https://kabutan.jp/stock/news?code=6920&b=n202611090234",
       "material_all": ""
     },
     {
@@ -53131,8 +53131,8 @@
       "pts_price": 6414.0,
       "pts_change_pct": -3.59,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)フェローテック【6890】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 明日の株式相場に向けて＝激動するエヌビディア主導相場の勝ち筋",
+      "material_url": "https://kabutan.jp/stock/news?code=6890&b=n202611241145",
       "material_all": ""
     },
     {
@@ -53143,8 +53143,8 @@
       "pts_price": 1558.0,
       "pts_change_pct": -3.56,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)ソシオネクスト【6526】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 74 銘柄　DC＝ 114 銘柄　(11月19日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6526&b=n202611190973",
       "material_all": ""
     },
     {
@@ -53155,8 +53155,8 @@
       "pts_price": 8420.0,
       "pts_change_pct": -3.55,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)メイコー【6787】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 443 銘柄　売り＝ 25 銘柄　(11月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6787&b=n202611131134",
       "material_all": ""
     },
     {
@@ -53167,8 +53167,8 @@
       "pts_price": 2044.0,
       "pts_change_pct": -3.54,
       "source": "PTS下落",
-      "material_text": "[ニュース] 北川精機(株)【6327】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 北川精機が４日ぶり急反発、プリント基板関連プレス装置好調で７～9月期最終益２．２倍",
+      "material_url": "https://kabutan.jp/stock/news?code=6327&b=n202611090367",
       "material_all": ""
     },
     {
@@ -53179,8 +53179,8 @@
       "pts_price": 16750.0,
       "pts_change_pct": -3.51,
       "source": "PTS下落",
-      "material_text": "[ニュース] ｓａｎｔｅｃ Ｈｏｌｄｉｎｇｓ（ｓａｎｔｅｃ）【6777】の大株主と資本異動情報｜株探（かぶたん） - 株探",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ゴールデンクロス／デッドクロス】引け　GC＝ 74 銘柄　DC＝ 114 銘柄　(11月19日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6777&b=n202611190973",
       "material_all": ""
     },
     {
@@ -53191,8 +53191,8 @@
       "pts_price": 7345.0,
       "pts_change_pct": -3.46,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＳＣＲＥＥＮホールディングス (7735) の株価・株式 - QUICK Money World",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 117 銘柄　売り＝ 55 銘柄　(11月17日)",
+      "material_url": "https://kabutan.jp/stock/news?code=7735&b=n202611171038",
       "material_all": ""
     },
     {
@@ -53203,8 +53203,8 @@
       "pts_price": 2104.8,
       "pts_change_pct": -3.45,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＨＰＣシステムズ(株)【6597】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] （開示事項の経過）特別当座貸越契約の締結に関するお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261119/140120261119583518/",
       "material_all": ""
     },
     {
@@ -53215,8 +53215,8 @@
       "pts_price": 415.3,
       "pts_change_pct": -3.42,
       "source": "PTS下落",
-      "material_text": "[ニュース] イオレ【2334】の日々株価（日足）｜時系列データ｜株探（かぶたん） - 株探",
-      "material_url": "",
+      "material_text": "[株探] 〔お知らせ〕個人投資家向けオンライン決算説明会「IRTV Live」動画公開のお知らせ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261124/140120261124584663/",
       "material_all": ""
     },
     {
@@ -53227,8 +53227,8 @@
       "pts_price": 1032.5,
       "pts_change_pct": -3.41,
       "source": "PTS下落",
-      "material_text": "[ニュース] 木村化工機(株)【6378】：決算情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 官民投資＆法整備で加速！夢のエネルギー「核融合発電」関連総ざらい ＜株探トップ特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=6378&b=n202611181221",
       "material_all": ""
     },
     {
@@ -53251,8 +53251,8 @@
       "pts_price": 568.1,
       "pts_change_pct": -3.38,
       "source": "PTS下落",
-      "material_text": "[ニュース] 6522 アスタリスク - 株探",
-      "material_url": "",
+      "material_text": "[株探] 2026年定時株主総会招集通知　その他の電子提供措置事項（交付書面省略事項）",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261105/140120260930543365/",
       "material_all": ""
     },
     {
@@ -53263,8 +53263,8 @@
       "pts_price": 2392.5,
       "pts_change_pct": -3.37,
       "source": "PTS下落",
-      "material_text": "[ニュース] 日機装【6376】の週間株価（週足）｜時系列データ｜株探（かぶたん） - 株探",
-      "material_url": "",
+      "material_text": "[株探] (Disclosure Update)Supreme Court Decision Not to Accept the ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261120/140120261120584456/",
       "material_all": ""
     },
     {
@@ -53275,8 +53275,8 @@
       "pts_price": 86.0,
       "pts_change_pct": -3.37,
       "source": "PTS下落",
-      "material_text": "[ニュース] クオンタムソリューションズ(株)【2338】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] クオンタムＳが４日ぶり反発、ＡＩＤＣ事業に係るデータセンターサービス基本契約を締結",
+      "material_url": "https://kabutan.jp/stock/news?code=2338&b=n202611170522",
       "material_all": ""
     },
     {
@@ -53287,8 +53287,8 @@
       "pts_price": 3050.1,
       "pts_change_pct": -3.36,
       "source": "PTS下落",
-      "material_text": "[ニュース] 三菱ＵＦＪフィナンシャル・グループ[8306]：自己株式取得に係る事項の決定に関するお知らせ 2026年11月13日(適",
-      "material_url": "",
+      "material_text": "[株探] みずほＦＧなど銀行株が上昇、ＡＩ投資継続で金利上昇の可能性に期待",
+      "material_url": "https://kabutan.jp/stock/news?code=8306&b=n202611240640",
       "material_all": ""
     },
     {
@@ -53299,8 +53299,8 @@
       "pts_price": 6372.0,
       "pts_change_pct": -3.32,
       "source": "PTS下落",
-      "material_text": "[ニュース] 住友ベークライト(株)【4203】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナン",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 119 銘柄　売り＝ 80 銘柄　(11月18日)",
+      "material_url": "https://kabutan.jp/stock/news?code=4203&b=n202611180938",
       "material_all": ""
     },
     {
@@ -53311,8 +53311,8 @@
       "pts_price": 3520.0,
       "pts_change_pct": -3.3,
       "source": "PTS下落",
-      "material_text": "",
-      "material_url": "",
+      "material_text": "[株探] 26年7-9月期【利益倍増】企業はこれだ！〔第1弾〕 33社選出 ＜成長株特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=5711&b=n202611230037",
       "material_all": ""
     },
     {
@@ -53323,8 +53323,8 @@
       "pts_price": 1501.0,
       "pts_change_pct": -3.29,
       "source": "PTS下落",
-      "material_text": "[ニュース] ジャパンマテリアル(株)【6055】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナ",
-      "material_url": "",
+      "material_text": "[株探] Ｊマテリアルについて、田中久男氏は保有割合が増加したと報告 [変更報告書No.11]",
+      "material_url": "https://kabutan.jp/stock/news?code=6055&b=n202611190707",
       "material_all": ""
     },
     {
@@ -53335,8 +53335,8 @@
       "pts_price": 6650.0,
       "pts_change_pct": -3.26,
       "source": "PTS下落",
-      "material_text": "[ニュース] 太陽誘電(株)【6976】：株主優待 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 73 銘柄　売り＝ 129 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6976&b=n202611240940",
       "material_all": ""
     },
     {
@@ -53347,8 +53347,8 @@
       "pts_price": 505.1,
       "pts_change_pct": -3.24,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)アドテック【6840】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] ★本日の【サプライズ決算】続報 (11月13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6840&b=n202611131394",
       "material_all": ""
     },
     {
@@ -53359,8 +53359,8 @@
       "pts_price": 4270.0,
       "pts_change_pct": -3.2,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＮＧＫ(株)【5333】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] Notice Regarding Disposal of Treasury Stock as Employee Shar",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261120/140120261119583754/",
       "material_all": ""
     },
     {
@@ -53371,8 +53371,8 @@
       "pts_price": 365.0,
       "pts_change_pct": -3.18,
       "source": "PTS下落",
-      "material_text": "[ニュース] (株)オプティム【3694】：適時開示情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] MDM・PC管理サービス「OPTiM Biz」、富士キメラ総研発刊の調査レポートにおいて、12年連続国内モバイルセキュリ",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261124/140120261124584638/",
       "material_all": ""
     },
     {
@@ -53383,8 +53383,8 @@
       "pts_price": 520.0,
       "pts_change_pct": -3.17,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＦＩＧ（4392）の株主優待｜国内株式 - SBI証券",
-      "material_url": "",
+      "material_text": "[株探] 「空フェスおおいた2026 Day２」で空飛ぶクルマの顔認証チェックインとリアルタイム映像伝送の研究開発のデモを実施しま",
+      "material_url": "https://kabutan.jp/disclosures/pdf/20261119/140120261118582969/",
       "material_all": ""
     },
     {
@@ -53395,8 +53395,8 @@
       "pts_price": 1817.0,
       "pts_change_pct": -3.14,
       "source": "PTS下落",
-      "material_text": "[ニュース] 6469 放電精密加工研究所 - 株探",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 118 銘柄　売り＝ 72 銘柄　(10月9日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6469&b=n202610090798",
       "material_all": ""
     },
     {
@@ -53407,8 +53407,8 @@
       "pts_price": 4490.0,
       "pts_change_pct": -3.11,
       "source": "PTS下落",
-      "material_text": "[ニュース] ＦＵＪＩ【6134】の日々株価（日足）｜時系列データ｜株探（かぶたん） - 株探",
-      "material_url": "",
+      "material_text": "[株探] 26年7-9月期【利益倍増】企業はこれだ！〔第1弾〕 33社選出 ＜成長株特集＞",
+      "material_url": "https://kabutan.jp/stock/news?code=6134&b=n202611230037",
       "material_all": ""
     },
     {
@@ -53419,8 +53419,8 @@
       "pts_price": 2130.0,
       "pts_change_pct": -3.09,
       "source": "PTS下落",
-      "material_text": "[ニュース] 野村マイクロ・サイエンス(株)【6254】：株価・株式情報 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] 本日の【ＭＡＣＤ｜買い／売りサイン】引け　買い＝ 73 銘柄　売り＝ 129 銘柄　(11月24日)",
+      "material_url": "https://kabutan.jp/stock/news?code=6254&b=n202611240940",
       "material_all": ""
     },
     {
@@ -53443,8 +53443,8 @@
       "pts_price": 3014.5,
       "pts_change_pct": -3.07,
       "source": "PTS下落",
-      "material_text": "[ニュース] イノテック【9880】の週間株価（週足）｜時系列データ｜株探（かぶたん） - 株探",
-      "material_url": "",
+      "material_text": "[株探] 今週の【話題株ダイジェスト】 シンデンハイ、アイビー、フォスター (11月9日～13日)",
+      "material_url": "https://kabutan.jp/stock/news?code=9880&b=n202611140237",
       "material_all": ""
     },
     {
@@ -53455,8 +53455,8 @@
       "pts_price": 1520.0,
       "pts_change_pct": -3.06,
       "source": "PTS下落",
-      "material_text": "[ニュース] サンコール(株)【5985】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] サンコールについて、三井住友DSアセットマネジメントは保有割合が増加したと報告 [変更報告書No.1]",
+      "material_url": "https://kabutan.jp/stock/news?code=5985&b=n202611201056",
       "material_all": ""
     },
     {
@@ -53467,8 +53467,8 @@
       "pts_price": 1110.0,
       "pts_change_pct": -3.06,
       "source": "PTS下落",
-      "material_text": "[ニュース] コーセル(株)【6905】：企業情報（決算時期・代表者名・大株主情報・IR動画など） - Yahoo!ファイナンス",
-      "material_url": "",
+      "material_text": "[株探] コーセルについて、飴久晴氏は保有割合が減少したと報告 [変更報告書No.3]",
+      "material_url": "https://kabutan.jp/stock/news?code=6905&b=n202611131232",
       "material_all": ""
     }
   ]
